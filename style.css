@@ -1,0 +1,87 @@
+:root {
+  --main-colour: rgb(43, 38, 38);
+}
+
+/* * {
+  border: 1px solid red;
+}
+ */
+body {
+  font-family: arial;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+}
+
+nav p {
+  padding-left: 20px;
+  width: 10%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0 20px;
+  width: 80%;
+}
+
+nav ul li {
+  padding: 0 5px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li:hover {
+  text-decoration: none;
+  background-color: var(--main-colour);
+}
+
+.hero {
+  border: 1px solid red;
+  width: 100%;
+  height: 350px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(43, 38, 38);
+  color: white;
+}
+
+.heto-btn-container button {
+  border: none;
+  padding: 5px 10px;
+  margin-left: 20px;
+}
+
+.main {
+  width: 100%;
+  height: 500px;
+  background-color: rgb(199, 199, 199);
+}
+
+.main h2 {
+  width: 100%;
+  text-align: center;
+}
+
+.div-front {
+  display: flex;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  background-color: var(--main-colour);
+  color: white;
+  padding: 0 10px;
+}
