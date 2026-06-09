@@ -16,13 +16,13 @@ body {
 nav {
   display: flex;
   width: 100vw;
-  
   background-color: white;
 }
 
 nav p {
   padding-left: 20px;
   width: 10%;
+  
 }
 
 nav ul {
@@ -31,6 +31,7 @@ nav ul {
   list-style-type: none;
   padding: 0 20px;
   width: 80%;
+  margin: 0;
 }
 
 nav ul li {
@@ -39,11 +40,13 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   color: black;
+  padding: 20px;
+  display: block;
 }
 
 nav ul li:hover {
   text-decoration: none;
-  background-color: var(--main-colour);
+  background-color: green;
 }
 
 .hero {
@@ -85,15 +88,27 @@ nav ul li:hover {
   align-items: center;
 }
 
-footer {
+footer{
   background-color: var(--main-colour);
   color: white;
+  margin-top: auto;
   
-  text-align: center;
+}
+
+.tophalf-footer {
+  
+}
+
+.copyright-footer {
+  
+  
   margin: 0;
-  width: 100%;
   padding: 20px;
   height: 50px;
-  bottom: 0;
-  margin-top:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  margin-bottom: 0;
 }
+
