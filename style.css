@@ -1,16 +1,16 @@
 :root {
-  --main-colour: rgb(43, 38, 38);
+  --main-colour: rgb(27, 37, 52);
 }
 
-/* * {
-  border: 1px solid red;
-}
- */
+
 body {
   font-family: arial;
   width: 100vw;
   overflow-x: hidden;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 nav {
@@ -57,6 +57,7 @@ nav ul li:hover {
   align-items: center;
   background-color: rgb(43, 38, 38);
   color: white;
+  overflow: hidden;
 }
 
 .heto-btn-container button {
@@ -87,14 +88,12 @@ nav ul li:hover {
 footer {
   background-color: var(--main-colour);
   color: white;
-  padding: 0 10px;
+  
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  padding: 20px;
+  height: 50px;
+  bottom: 0;
+  margin-top:auto;
 }
-footer{
-            text-align:center;
-            background-color: #ffbb33;
-            color:white;
-            padding:10px;
-            border-radius: 0px 0px 10px 10px;
-            
-
-        }
