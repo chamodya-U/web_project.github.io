@@ -33,7 +33,6 @@ nav {
 .logo {
   width: 3%;
   padding: 0 20px;
-  overflow: hidden;
 }
 
 nav ul {
@@ -100,7 +99,9 @@ footer{
 }
 
 .tophalf-footer {
+  padding-top: 20px;
   display: flex;
+  justify-content: center;
   
 }
 .tophalf-footer ul {
@@ -130,25 +131,28 @@ footer{
 }
 
 .foot1{
-  width: 20%;
+  width: 15%;
   padding: 20px;
 }
 
+.foot1 img{
+  filter:opacity(90%);
+}
 .div-front {
   background-color: white;
   display: flex;
   height: 10%;
   justify-content: center;
-  align-items: center;
+  padding: 20px;
+  
 }
+
 
 .foot2{
   display:flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   width: 25%;
-  padding: 20px;
 }
 
 .foot2 img{
@@ -156,4 +160,9 @@ footer{
   background-color: rgb(211, 211, 211);
   border: 5px solid rgb(210, 210, 210);
   border-radius: 50px;
+}
+
+footer hr{
+  width: 80%;
+  border-color:rgba(204, 204, 204, 0.455);
 }
