@@ -2,6 +2,9 @@
   --main-colour: rgb(27, 37, 52);
 }
 
+html{
+  background-color: var(--main-colour);
+}
 
 body {
   font-family: arial;
@@ -13,16 +16,24 @@ body {
   min-height: 100vh;
 }
 
+#navigate{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  
+}
+
 nav {
   display: flex;
   width: 100vw;
   background-color: white;
 }
-
-nav p {
-  padding-left: 20px;
-  width: 10%;
-  
+.logo {
+  width: 3%;
+  padding: 0 20px;
+  overflow: hidden;
 }
 
 nav ul {
@@ -34,9 +45,7 @@ nav ul {
   margin: 0;
 }
 
-nav ul li {
-  padding: 0 5px;
-}
+
 nav ul li a {
   text-decoration: none;
   color: black;
@@ -44,13 +53,13 @@ nav ul li a {
   display: block;
 }
 
-nav ul li:hover {
+nav ul li a:hover {
   text-decoration: none;
   background-color: green;
+  color: white;
 }
 
 .hero {
-  border: 1px solid red;
   width: 100%;
   height: 350px;
   padding: 25px;
@@ -81,12 +90,7 @@ nav ul li:hover {
   text-align: center;
 }
 
-.div-front {
-  display: flex;
-  height: 150px;
-  justify-content: center;
-  align-items: center;
-}
+
 
 footer{
   background-color: var(--main-colour);
@@ -96,19 +100,60 @@ footer{
 }
 
 .tophalf-footer {
+  display: flex;
   
+}
+.tophalf-footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.tophalf-footer ul li {
+
+  padding: 10px 0 0 0;
+}
+.tophalf-footer ul a {
+  text-decoration: none;
+  color: gray;
+  
+
 }
 
 .copyright-footer {
   
   
   margin: 0;
-  padding: 20px;
-  height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
-  
   margin-bottom: 0;
 }
 
+.foot1{
+  width: 20%;
+  padding: 20px;
+}
+
+.div-front {
+  background-color: white;
+  display: flex;
+  height: 10%;
+  justify-content: center;
+  align-items: center;
+}
+
+.foot2{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  padding: 20px;
+}
+
+.foot2 img{
+  width: 10%;
+  background-color: rgb(211, 211, 211);
+  border: 5px solid rgb(210, 210, 210);
+  border-radius: 50px;
+}
