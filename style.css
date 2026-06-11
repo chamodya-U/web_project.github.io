@@ -2,7 +2,7 @@
   --main-colour: rgb(27, 37, 52);
 }
 
-html{
+html {
   background-color: var(--main-colour);
 }
 
@@ -13,16 +13,16 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
+  background-color: white;
   min-height: 100vh;
 }
 
-#navigate{
+#navigate {
   background-color: white;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 0;
-  
 }
 
 nav {
@@ -43,7 +43,6 @@ nav ul {
   width: 80%;
   margin: 0;
 }
-
 
 nav ul li a {
   text-decoration: none;
@@ -89,20 +88,16 @@ nav ul li a:hover {
   text-align: center;
 }
 
-
-
-footer{
+footer {
   background-color: var(--main-colour);
   color: white;
   margin-top: auto;
-  
 }
 
 .tophalf-footer {
   padding-top: 20px;
   display: flex;
   justify-content: center;
-  
 }
 .tophalf-footer ul {
   list-style-type: none;
@@ -110,19 +105,14 @@ footer{
   padding: 0;
 }
 .tophalf-footer ul li {
-
   padding: 10px 0 0 0;
 }
 .tophalf-footer ul a {
   text-decoration: none;
   color: gray;
-  
-
 }
 
 .copyright-footer {
-  
-  
   margin: 0;
   display: flex;
   justify-content: center;
@@ -130,13 +120,13 @@ footer{
   margin-bottom: 0;
 }
 
-.foot1{
+.foot1 {
   width: 15%;
   padding: 20px;
 }
 
-.foot1 img{
-  filter:opacity(90%);
+.foot1 img {
+  filter: opacity(90%);
 }
 .div-front {
   background-color: white;
@@ -144,25 +134,23 @@ footer{
   height: 10%;
   justify-content: center;
   padding: 20px;
-  
 }
 
-
-.foot2{
-  display:flex;
+.foot2 {
+  display: flex;
   flex-direction: column;
   align-items: center;
   width: 25%;
 }
 
-.foot2 img{
+.foot2 img {
   width: 10%;
   background-color: rgb(211, 211, 211);
   border: 5px solid rgb(210, 210, 210);
   border-radius: 50px;
 }
 
-footer hr{
+footer hr {
   width: 80%;
-  border-color:rgba(204, 204, 204, 0.455);
+  border-color: rgba(204, 204, 204, 0.455);
 }
