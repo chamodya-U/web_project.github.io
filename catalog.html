@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>catalog</title>
+</head>
+<body>
+  <div id="navigate">
+      <img class="logo" src="src/open-book.png" alt="Digital Library Logo"/>
+      <p>DigitalLibrary</p>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="catalog.html">Catalog</a></li>
+            <li><a href="resouse.html">Resourse</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+    </div>
+    <div class="top-container">
+      <div class="searchbar">
+        <h1 style="color:white;">Search for books</h1>
+        <div style="margin-bottom:20px;z-index:1;">
+        <input type="text" name="bookname" id="search" placeholder="enter the name of the book">
+        <button id="search-btn" onclick="search()">Search</button><br>
+        </div>
+        <div id="search_result"></div>
+      </div>
+      <div id="result"></div>
+    </div>
+    <footer>
+      <hr>
+      <div class="tophalf-footer">
+        <div class="foot1">Digital Library<br><br><small style="color:gray">Empowering minds through universal access to knowledge and information since 2026</small></div>
+        <div class="foot1">Quick Link<br>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="catalog.html">Catalog</a></li>
+            <li><a href="resouse.html">Resourse</a></li>
+          </ul>
+        </div>
+        <div class="foot1">Support<br>
+          <ul>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div class="foot1"><img src="src/bookshelf_white2.png" alt="Library Logo" style="width:100%; height:100%; object-fit: cover;"></div>
+      </div>
+      <hr style="width:80%">
+      <div class="copyright-footer">
+      <p>
+        <small><small>&copy; 2026 Library System. All rights reserved.</small></small>
+      </p>
+      </div>
+    </footer>
+
+  <script src="script.js"></script>
+  <script>
+    function search() {
+      var bookname = document.getElementById("search").value;
+      var res_cont = document.getElementById("result");
+      res_cont.innerHTML = "";
+      if(bookname.length==0){return;}
+      imgs.forEach(function(item) {
+        if (item.bookName.toLowerCase().includes(bookname.toLowerCase())) {
+           let ndiv=document.createElement('div');
+           ndiv.className = "res_book";
+           ndiv.innerHTML = `<img src='${item.address}' alt='${item.bookName}'><br>${item.bookName}`;
+           res_cont.appendChild(ndiv);
+           
+        }
+      });
+    }
+  </script>
+</body>
+</html>
