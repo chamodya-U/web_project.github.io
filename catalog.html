@@ -66,7 +66,7 @@
       res_cont.innerHTML = "";
       if(bookname.length==0){return;}
       imgs.forEach(function(item) {
-        if (item.bookName.toLowerCase().includes(bookname.toLowerCase())) {
+        if (item.name.toLowerCase().includes(bookname.toLowerCase())) {
            let ndiv=document.createElement('div');
            ndiv.className = "res_book";
            ndiv.innerHTML = `<a href='book.html?id=${item.id}'><img src='${item.address}' alt='${item.bookName}'><br>${item.bookName}</a>`;
