@@ -258,11 +258,13 @@ footer hr{
   z-index: -1;
   filter: blur(5px);
 }
+/*Loging block*/
 .log{
   display:flex;
   justify-content:center;
   align-items:center;
   height: 100vh;
+  
 
 }
 .login-block{
@@ -270,6 +272,7 @@ footer hr{
   width: 350px;
   padding: 60px;
   border-radius: 30px;
+  backdrop-filter: blur(20px);
 }
 
 .login{
@@ -297,19 +300,54 @@ footer hr{
 }
 .form-input{
   display:flex;
-  height: 30px;
+  height: 35px;
   width: 80%;
   border-radius: 10px;
   margin-bottom: 30px;
 } 
+#password{
+  margin-bottom: 5px;
+  
+}
 
+/*forgot password div*/
+.forgot-password{
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+
+/*check box and remember me*/
+.remember input{
+  margin-bottom: 20px;
+  margin-left: 0;
+}
+.remember{
+  display: flex;
+  justify-content: left;
+}
+
+/*Forgot password*/
+.remember p{
+  color: white;
+  font-size: small;
+  margin-top: 3px;
+}
+.forgot-password a, .forgot-password a:visited, .forgot-password a:link{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: small;
+  margin-right: 0;
+}
+/*login button*/
 button.login-submit{
   border: none;
   height: 40px;
-  width: 80%;
+  width: 81%;
   background-color: rgb(173, 103, 230);
   color: white;
-  border-radius: 10px;
+  border-radius: 40px;
   margin-top: 10px;
 }
 
@@ -317,17 +355,9 @@ button.login-submit:hover{
   background-color: rgb(12, 2, 20);
   transform: translateY(-2px);
 }
-
-.forgot-password{
-  color: rgb(0, 89, 255);
+/*Sign up part*/
+.signup-link,.signup-link a{
   text-decoration: none;
-  margin-top: 10px;
-}
-a.forgot-password:visited, a.forgot-password:link{
-  color: rgb(0, 0, 255);
-  text-decoration: none;
-}
-.signup-link{
   color: white;
   margin-top: 20px;
 }
