@@ -249,3 +249,85 @@ footer hr{
     transform: scale(1);
   }
 }
+
+.background-pg{
+  background: url("src/library.png") center/cover no-repeat;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  z-index: -1;
+  filter: blur(5px);
+}
+.log{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height: 100vh;
+
+}
+.login-block{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 350px;
+  padding: 60px;
+  border-radius: 30px;
+}
+
+.login{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color: white;
+  margin-top: 0;
+}
+.login-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-label{
+  display:flex;
+  justify-content:flex-start;
+  width: 80%;
+  color: aliceblue;
+  font-size: small;
+  font-weight: bold;
+  
+}
+.form-input{
+  display:flex;
+  height: 30px;
+  width: 80%;
+  border-radius: 10px;
+  margin-bottom: 30px;
+} 
+
+button.login-submit{
+  border: none;
+  height: 40px;
+  width: 80%;
+  background-color: rgb(173, 103, 230);
+  color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+button.login-submit:hover{
+  background-color: rgb(12, 2, 20);
+  transform: translateY(-2px);
+}
+
+.forgot-password{
+  color: rgb(0, 89, 255);
+  text-decoration: none;
+  margin-top: 10px;
+}
+a.forgot-password:visited, a.forgot-password:link{
+  color: rgb(0, 0, 255);
+  text-decoration: none;
+}
+.signup-link{
+  color: white;
+  margin-top: 20px;
+}
