@@ -306,7 +306,7 @@ footer hr{
   margin-bottom: 30px;
 } 
 #password{
-  margin-bottom: 5px;
+  margin-bottom: 4px;
   
 }
 
@@ -314,25 +314,32 @@ footer hr{
 .forgot-password{
   display: flex;
   justify-content: space-between;
+  align-items: center;
   width: 80%;
+  margin: 0;
 }
 
 
 /*check box and remember me*/
-.remember input{
-  margin-bottom: 20px;
-  margin-left: 0;
-}
 .remember{
   display: flex;
-  justify-content: left;
+  align-items: center;
+  padding: 0;
+  
+}
+.remember input{
+  margin: 0;
+  
 }
 
+*{border:2px solid red;}
 /*Forgot password*/
 .remember p{
   color: white;
   font-size: small;
-  margin-top: 3px;
+  margin: 0;
+  margin-left: 3px;
+  
 }
 .forgot-password a, .forgot-password a:visited, .forgot-password a:link{
   color: rgb(255, 255, 255);
@@ -348,7 +355,7 @@ button.login-submit{
   background-color: rgb(173, 103, 230);
   color: white;
   border-radius: 40px;
-  margin-top: 10px;
+  margin-top: 25px;
 }
 
 button.login-submit:hover{
