@@ -22,7 +22,9 @@ body {
   justify-content: center;
   align-items: center;
   padding: 0;
-  
+  box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 nav {
@@ -30,6 +32,7 @@ nav {
   width: 100vw;
   background-color: white;
 }
+
 .logo {
   width: 3%;
   padding: 0 20px;
@@ -70,10 +73,11 @@ nav ul li a:hover {
   overflow: hidden;
 }
 
-.heto-btn-container button {
+.hero-btn-container button {
   border: none;
-  padding: 5px 10px;
+  padding:5px 10px;
   margin-left: 20px;
+  border-radius:10px;
 }
 
 .main {
@@ -177,17 +181,19 @@ footer hr{
 }
 
 .searchbar input{
+  width:300px;
   text-align:center;
-  margin-right:10px;
   border:none;
-  border-radius:50px;
+  border-radius:20px 0px 0px 20px;
   padding:10px;
 }
 
 .searchbar button{
   border:none;
-  border-radius:10px;
-  padding:5px;
+  border-radius:0px 20px 20px 0px;
+  padding:10px;
+  color:white;
+  background-color:rgb(131, 131, 131);
 }
 
 #result{
@@ -203,9 +209,18 @@ footer hr{
   flex-direction:column;
   align-items:center;
   padding:10px;
-  background-color:gray;
+  background-color:rgb(193, 193, 193);
   border-radius:10px;
   margin:10px;
+  box-shadow:
+    0 4px 8px 0 rgba(209, 209, 209, 0.2),
+    0 6px 20px 0 rgba(255, 255, 255, 0.19);
+  animation:popup 1s;
+}
+
+.res_book a{
+  text-decoration:none;
+  color:black;
 }
 
 .res_book img{
@@ -219,4 +234,18 @@ footer hr{
   width:200px;
   height:100px;
   display:hidden;
+}
+
+#corousel_container{
+  border:1px solid red;
+  margin:5px 20px;
+}
+
+@keyframes popup {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
 }

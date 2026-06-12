@@ -24,7 +24,7 @@
       <div class="searchbar">
         <h1 style="color:white;">Search for books</h1>
         <div style="margin-bottom:20px;z-index:1;">
-        <input type="text" name="bookname" id="search" placeholder="enter the name of the book">
+        <input type="text" name="bookname" id="search" placeholder="enter the name of the book" onkeydown="if(event.key==='Enter') search();">
         <button id="search-btn" onclick="search()">Search</button><br>
         </div>
         <div id="search_result"></div>
@@ -69,12 +69,13 @@
         if (item.bookName.toLowerCase().includes(bookname.toLowerCase())) {
            let ndiv=document.createElement('div');
            ndiv.className = "res_book";
-           ndiv.innerHTML = `<img src='${item.address}' alt='${item.bookName}'><br>${item.bookName}`;
+           ndiv.innerHTML = `<a href='book.html?id=${item.id}'><img src='${item.address}' alt='${item.bookName}'><br>${item.bookName}</a>`;
            res_cont.appendChild(ndiv);
            
         }
-      });
     }
+    );
+  }
   </script>
 </body>
 </html>
