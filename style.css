@@ -258,21 +258,28 @@ footer hr{
   z-index: -1;
   filter: blur(5px);
 }
-/*Loging block*/
+/*Loging block big div*/
 .log{
   display:flex;
   justify-content:center;
   align-items:center;
   height: 100vh;
-  
-
 }
+/*Loging block big div*/
+.register{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height: 100vh;
+}
+/*Loging block*/
 .login-block{
   background-color: rgba(0, 0, 0, 0.5);
   width: 350px;
   padding: 60px;
   border-radius: 30px;
   backdrop-filter: blur(20px);
+  
 }
 
 .login{
@@ -296,6 +303,9 @@ footer hr{
   color: aliceblue;
   font-size: small;
   font-weight: bold;
+  margin:0;
+  padding-left: 3px;
+  padding-bottom: 4px;
   
 }
 .form-input{
@@ -304,9 +314,11 @@ footer hr{
   width: 80%;
   border-radius: 10px;
   margin-bottom: 30px;
+  padding-left: 10px;
 } 
 #password{
   margin-bottom: 4px;
+  padding-left: 10px;
   
 }
 
@@ -316,7 +328,7 @@ footer hr{
   justify-content: space-between;
   align-items: center;
   width: 80%;
-  margin: 0;
+  margin-top: 8px;
 }
 
 
@@ -332,7 +344,7 @@ footer hr{
   
 }
 
-*{border:2px solid red;}
+
 /*Forgot password*/
 .remember p{
   color: white;
@@ -352,19 +364,153 @@ button.login-submit{
   border: none;
   height: 40px;
   width: 81%;
-  background-color: rgb(173, 103, 230);
+  background: #2563EB;
   color: white;
   border-radius: 40px;
   margin-top: 25px;
 }
 
 button.login-submit:hover{
-  background-color: rgb(12, 2, 20);
-  transform: translateY(-2px);
+  background: #1D4ED8;
+  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.4);
 }
 /*Sign up part*/
-.signup-link,.signup-link a{
+.signup-link,.signup-link a, .login-link, .login-link a{
   text-decoration: none;
   color: white;
   margin-top: 20px;
 }
+/*label and input boxes edited*/
+.login-form label{
+  font-size: 14px;
+  font-weight: 600;
+}
+.login-form input{
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+}
+ .login-form input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/*Registering part / sign up*/
+/*jspart should come here*/
+.register-block{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 400px;
+  padding: 60px;
+  border-radius: 30px;
+  backdrop-filter: blur(20px);
+  display: none;
+}
+
+.regist{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color: white;
+  margin-top: 0;
+}
+.register-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  flex-direction: column;
+  
+}
+/*Name*/
+.name{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.fname{
+  
+}
+.lname{
+  
+}
+/*fname+lname input box*/
+.name input{
+  margin: 0;
+  width: 90%;
+  padding-left: 10px;
+}
+.name label{
+  margin:0;
+  padding-left: 4px;
+  padding-bottom: 4px;
+}
+
+/*Emaill and department part*/
+.ed{
+  width: 90%;
+}
+.ed input{
+  width:96%;
+}
+
+.ed label{
+  padding-left: 4px;
+  padding-bottom: 4px;
+}
+
+/*Index and Contact number part*/
+.intel{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-bottom: 10px;
+}
+.intel input{
+  margin: 0;
+  width: 90%;
+  padding-left: 10px;
+}
+.intel label{
+  margin:0;
+  padding-left: 4px;
+  padding-bottom: 4px;
+}
+
+/*Signup button*/
+button.signup-submit{
+  border: none;
+  height: 40px;
+  width: 81%;
+  background: #2563EB;
+  color: white;
+  border-radius: 40px;
+  margin-top: 25px;
+}
+
+button.signup-submit:hover{
+    background: #1D4ED8;
+    box-shadow: 0 8px 20px rgba(37, 99, 235, 0.4);
+}
+
+/*label and input boxes edited*/
+.register-form label{
+  font-size: 14px;
+  font-weight: 600;
+}
+.register-form input{
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+}
+ .register-form input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+

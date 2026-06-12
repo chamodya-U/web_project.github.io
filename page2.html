@@ -14,9 +14,9 @@
         <div>
           <form class="login-form" action="page2.html" method="post">
             <label class="form-label" for="email">Email*</label>
-            <input class="form-input" id="email" type="text" name="email" placeholder="  Email Address" required />
+            <input class="form-input" id="email" type="text" name="email" placeholder="Email Address" required />
             <label class="form-label" for="password">Password*</label>
-            <input class="form-input" id="password" type="password" name="password" placeholder="  Password" required />
+            <input class="form-input" id="password" type="password" name="password" placeholder="Password" required />
             <div class="forgot-password">
               <div class="remember" ><input type="checkbox"><p>Remember me</p></div>
               <div class="frogott"><a href="forgot-password.html">Forgot password?</a></div>                         
@@ -25,7 +25,46 @@
             <p class="signup-link">Don't have an account? <a href="register.html"><b>Register</b></a></p>
             <button type="submit" onclick="window.location.href='index.html'">Guest</button>  
           </form>
-        </div>
+        </div>        
+      </div>
+    </div>
+
+    <div class="register">
+      <div class="register-block">
+      <h1 class="regist">Register</h1>
+        <div>
+          <form class="register-form" action="page2.html" method="post">
+            <div class="name">
+              <div class="fname">
+                <label class="form-label" for="fname">First Name*</label>
+                <input class="form-input" id="text" type="text" name="fname" placeholder="Tasan"/>
+              </div>
+              <div class="lname">
+                <label class="form-label" for="lname">Last Name*</label>
+                <input class="form-input" id="text" type="text" name="lname" placeholder="Ranawana"/>
+              </div>
+             </div>
+            <div class="ed">
+              <label class="form-label" for="email">Email*</label>
+              <input class="form-input" id="email" type="email" name="email" placeholder="Email Address"/>
+              <label class="form-label" for="dep">Department</label>
+              <input class="form-input" id="dep" type="text" name="dep" placeholder="Computer System Engineering"/>
+            </div>
+              <div class="intel">
+                <div class="ID">
+                  <label class="form-label" for="ID_num">Index Number</label>
+                  <input class="form-input" id="ID_num" type="text" name="ID_num" placeholder="CS/20XX/XXX"/>
+                </div>
+                <div class="tele"><label class="form-label" for="tel">Contact Number</label>
+                  <input class="form-input" id="tel" type="tel" name="tel" placeholder="07x-xxxxxxx"/>
+                </div>                                
+              </div>
+                     
+            <button class="signup-submit" type="submit">Sign Up</button>            
+            <p class="login-link">Have an Account? <a href="register.html"><b>Login</b></a></p>
+            <button type="submit" onclick="window.location.href='index.html'">Guest</button>  
+          </form>
+        </div>        
       </div>
     </div>
   </body>
