@@ -2,96 +2,145 @@
   --main-colour: rgb(27, 37, 52);
 }
 
-html{
-  background-color: var(--main-colour);
+body{
+    font-family:sans-serif;
+    margin:0;
+    padding:0;
+    width: 100vw;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-body {
-  font-family: arial;
-  width: 100vw;
-  overflow-x: hidden;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+#navigationBar{
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    
+    
 }
 
-#navigate{
-  background-color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 0;
-  box-shadow:
-    0 4px 8px 0 rgba(0, 0, 0, 0.2),
-    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+/* *{border:1px solid red} */
+nav{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+nav ul{
+    margin:0;
+    padding:0;
+    display: flex;
+    list-style-type: none;
 }
 
-nav {
-  display: flex;
-  width: 100vw;
-  background-color: white;
+nav ul li a{
+    padding:20px 10px;
+    color:black
 }
 
-.logo {
-  width: 3%;
-  padding: 0 20px;
+nav ul li a:hover{
+    background-color: green;
+    color: white;
+}
+#navigationBar a{
+    text-decoration:none;
 }
 
-nav ul {
-  display: flex;
-  justify-content: center;
-  list-style-type: none;
-  padding: 0 20px;
-  width: 80%;
-  margin: 0;
+#logo a{
+    display: flex;
+    align-items: center;
+    color: black;
+}
+#logo img{
+    width:40px;
+    height: 40px;
+    margin:0 10%;
+
+}
+#signLogin a{
+    color:black;
+    padding:20px 20px;
+
+}
+
+#signLogin a:hover{
+    background-color: gray;
+    color: white;
+
+}
+#hero{
+    width: 100%;
+    position: relative;
+}
+
+#banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height:70vh;
+    overflow: hidden;
+}
+#banner img{
+    width: 100%;
+    object-fit: cover;
+    
+}
+
+#shade{
+    position: absolute;
+    width: 100%;
+    height: 70vh;
+    top:0;
+    left: 0;
+    z-index: 1;
+    background: linear-gradient(to top, rgba(0,0,0,0.9),rgba(0,0,0,0));
+
+}
+#banner_dis{
+    font-size:300%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    bottom:20%;
+    z-index: 1;
+    color: white;
+}
+#banner_dis *{
+    margin: 0;
+    padding: 0;
+}
+
+#bottom1 {
+    background-color: white;
+    display: flex;
+    height: 10%;
+    justify-content: center;
+    padding: 20px;
+
 }
 
 
-nav ul li a {
-  text-decoration: none;
-  color: black;
-  padding: 20px;
-  display: block;
+.foot2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
 }
 
-nav ul li a:hover {
-  text-decoration: none;
-  background-color: green;
-  color: white;
+.foot2 img{
+    width: 10%;
+    background-color: rgb(211, 211, 211);
+    border: 5px solid rgb(210, 210, 210);
+    border-radius: 50px;
 }
-
-.hero {
-  width: 100%;
-  height: 350px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: rgb(43, 38, 38);
-  color: white;
-  overflow: hidden;
-}
-
-.hero-btn-container button {
-  border: none;
-  padding:5px 10px;
-  margin-left: 20px;
-  border-radius:10px;
-}
-
-.main {
-  width: 100%;
-  height: 500px;
-
-  background-color: rgb(199, 199, 199);
-}
-
-.main h2 {
-  width: 100%;
-  text-align: center;
-}
-
+/* *{border:1px solid red;} */
 
 
 footer{
@@ -101,22 +150,22 @@ footer{
   
 }
 
-.tophalf-footer {
+.bottom2 {
   padding-top: 20px;
   display: flex;
   justify-content: center;
   
 }
-.tophalf-footer ul {
+.bottom2 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-.tophalf-footer ul li {
+.bottom2 ul li {
 
   padding: 10px 0 0 0;
 }
-.tophalf-footer ul a {
+.bottom2 ul a {
   text-decoration: none;
   color: gray;
   
@@ -138,33 +187,6 @@ footer{
 
 .foot1 img{
   filter:opacity(90%);
-}
-.div-front {
-  background-color: white;
-  display: flex;
-  height: 10%;
-  justify-content: center;
-  padding: 20px;
-  
-}
-
-
-.foot2{
-  display:flex;
-  flex-direction: column;
-  align-items: center;
-  width: 25%;
-}
-
-.foot2 img{
-  width: 10%;
-  background-color: rgb(211, 211, 211);
-  border: 5px solid rgb(210, 210, 210);
-  border-radius: 50px;
-}
-
-footer hr{
-  border-color:rgba(204, 204, 204, 0.455);
 }
 
 .top-container{
@@ -236,10 +258,6 @@ footer hr{
   display:hidden;
 }
 
-#corousel_container{
-  border:1px solid red;
-  margin:5px 20px;
-}
 
 @keyframes popup {
   from {

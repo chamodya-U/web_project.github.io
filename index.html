@@ -1,47 +1,37 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Home</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="navigate">
-      <img class="logo" src="src/open-book.png" alt="Digital Library Logo"/>
-      <p>DigitalLibrary</p>
+</head>
+<body>
+    <div id="navigationBar">
+        <div id="logo"><a href="index.html"><img src="/src/open-book.png" alt="logo.png"><h3>DigitalLibrary</h3></a></div>
         <nav>
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="catalog.html">Catalog</a></li>
-            <li><a href="resouse.html">Resourse</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="catalog.html">Catalog</a></li>
+                <li><a href="about.html">About us</a></li>
+                <li><a href="about.html">Contact us</a></li>
+            </ul>
         </nav>
+        <div id="signLogin"><a href="sign.html">Login/Signup</a></div>
     </div>
-    <div class="hero">
-      <h1>Welcome to the Knowledge Hub</h1>
-      <div class="hero-btn-container">
-        <button id="browse-collection">Browse Collection</button>
-        <button id="membership-info">Membership Info</button>
-      </div>
+    <div id="hero">
+        <div id="banner"><img src="src/library/IMG_1877.png" alt="hero.png"></div>
+        <div id="shade"></div>
+        <div id="banner_dis"><h1>Welcome to the Knowledge Hub</h1><h6>Empowering minds through knowledge, discovery, and lifelong learning.</h6></div>
     </div>
-    <div class="main">
-      <h2>Featured Collection</h2>
-      <div id="corousel_container">
-        <div id="corousel"></div>
-      </div>
+    <div id="corousel"></div>
+    <div id="bottom1">
+        <div class="foot2"><img src="src/img_bot_1.ico"  alt="time.png" style="width: 9%;"><h3 style="width:80%;text-align: center;">Access. Anytime. Anywhere</h3><p style="width:80%;text-align: center;"><q><i>A library is not a luxury but one of the necessities of life</i></q><br><br>- Henry Ward Beecher</p></div>
+        <div class="foot2"><img src="src/img_bot_2.png" alt="academic.png" ><h3 style="width:80%;text-align: center;">Read. Learn. Grow.</h3><p style="width:80%;text-align: center;"><q><i>The only thing that you absolutely have to know, is the location of the library.</i></q><br><br>- Albert Einstein</p></div>
+        <div class="foot2"><img src="src/img_bot_3.png" alt="learn&grow.png" ><h3 style="width:80%;text-align: center;">Connect. Share. Inspire</h3><p style="width:80%;text-align: center;"><q><i>Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve.</i></q><br><br>- Sidney Sheldon</p></div>
     </div>
-
-    <div class="div-front">
-      <div class="foot2"><img src="src/img_bot_1.ico"  alt="time.png" style="width: 9%;"><h3 style="width:80%;text-align: center;">24/7 Digital Access</h3><p style="width:80%;text-align: center;">Borrow and read your favorite titles anytime, anywhere on any device with our seamless platform</p></div>
-      <div class="foot2"><img src="src/img_bot_2.png" alt="academic.png" ><h3 style="width:80%;text-align: center;">Academic Excellence</h3><p style="width:80%;text-align: center;">Don't settle for surface-level searches. Unlock exclusive access to top-tier university archives, scientific journals, and historical documents.</p></div>
-      <div class="foot2"><img src="src/img_bot_3.png" alt="learn&grow.png" ><h3 style="width:80%;text-align: center;">24/7 Digital Access</h3><p style="width:80%;text-align: center;">Borrow and read your favorite titles anytime, anywhere on any device with our seamless platform</p></div>
-    </div>
-  
     <footer>
-      <div class="tophalf-footer">
+      <div class="bottom2">
         <div class="foot1">Digital Library<br><br><small style="color:gray">Empowering minds through universal access to knowledge and information since 2026</small></div>
         <div class="foot1">Quick Link<br>
           <ul>
@@ -65,5 +55,11 @@
       </p>
       </div>
     </footer>
-  </body>
+    <script>
+        const banner = document.querySelector('#banner img');
+        let bimg=["IMG_1890.png","IMG_1907.png","IMG_1930.png","IMG_1877.png"];
+        let i=0;
+        setInterval(()=>{banner.src=`src/library/${bimg[i%bimg.length]}`;i++;},5000);
+    </script>
+</body>
 </html>
