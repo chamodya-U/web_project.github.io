@@ -420,6 +420,9 @@ button.login-submit:hover{
 }
 
 /*Registering part / sign up*/
+.register{
+  display : none;
+}
 /*jspart should come here*/
 .register-block{
   background-color: rgba(0, 0, 0, 0.5);
@@ -427,7 +430,6 @@ button.login-submit:hover{
   padding: 60px;
   border-radius: 30px;
   backdrop-filter: blur(20px);
-  display: none;
 }
 
 .regist{
