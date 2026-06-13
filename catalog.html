@@ -1,30 +1,41 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>catalog</title>
-</head>
-<body>
-  <div id="navigationBar">
-        <div id="logo"><a href="index.html"><img src="src/open-book.png" alt="logo.png"><h3>DigitalLibrary</h3></a></div>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="catalog.html">Catalog</a></li>
-                <li><a href="about.html">About us</a></li>
-                <li><a href="about.html">Contact us</a></li>
-            </ul>
-        </nav>
-        <div id="signLogin"><a href="login.html">Login/Signup</a></div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>catalog</title>
+  </head>
+  <body>
+    <div id="navigationBar">
+      <div id="logo">
+        <a href="index.html"
+          ><img src="src/open-book.png" alt="logo.png" />
+          <h3>DigitalLibrary</h3></a
+        >
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="catalog.html">Catalog</a></li>
+          <li><a href="about.html">About us</a></li>
+          <li><a href="about.html">Contact us</a></li>
+        </ul>
+      </nav>
+      <div id="signLogin"><a href="login.html">Login/Signup</a></div>
     </div>
     <div class="top-container">
       <div class="searchbar">
-        <h1 style="color:white;">Search for books</h1>
-        <div style="margin-bottom:20px;z-index:1;">
-        <input type="text" name="bookname" id="search" placeholder="enter the name of the book" onkeydown="if(event.key==='Enter') search();">
-        <button id="search-btn" onclick="search()">Search</button><br>
+        <h1 style="color: white">Search for books</h1>
+        <div style="margin-bottom: 20px; z-index: 1">
+          <input
+            type="text"
+            name="bookname"
+            id="search"
+            placeholder="enter the name of the book"
+            onkeydown="if (event.key === 'Enter') search();"
+          />
+          <button id="search-btn" onclick="search()">Search</button><br />
         </div>
         <div id="search_result"></div>
       </div>
@@ -32,50 +43,72 @@
     </div>
     <footer>
       <div class="bottom2">
-        <div class="foot1">Digital Library<br><br><small style="color:gray">Empowering minds through universal access to knowledge and information since 2026</small></div>
-        <div class="foot1">Quick Link<br>
+        <div class="foot1">
+          Digital Library<br /><br /><small style="color: gray"
+            >Empowering minds through universal access to knowledge and
+            information since 2026</small
+          >
+        </div>
+        <div class="foot1">
+          Quick Link<br />
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="catalog.html">Catalog</a></li>
             <li><a href="resouse.html">Resourse</a></li>
           </ul>
         </div>
-        <div class="foot1">Support<br>
+        <div class="foot1">
+          Support<br />
           <ul>
             <li><a href="about.html">About</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>
-        <div class="foot1"><img src="src/bookshelf_white2.png" alt="Library Logo" style="width:100%; height:100%; object-fit: cover;"></div>
+        <div class="foot1">
+          <img
+            src="src/bookshelf_white2.png"
+            alt="Library Logo"
+            style="width: 100%; height: 100%; object-fit: cover"
+          />
+        </div>
       </div>
-      <hr>
+      <hr />
       <div class="copyright-footer">
-      <p>
-        <small><small>&copy; 2026 Library System. All rights reserved.</small></small>
-      </p>
+        <p>
+          <small
+            ><small
+              >&copy; 2026 Library System. All rights reserved.</small
+            ></small
+          >
+        </p>
       </div>
     </footer>
 
-  <script src="database.js"></script>
-  <script>
-    function search() {
-      var bookname = document.getElementById("search").value;
-      var res_cont = document.getElementById("result");
-      res_cont.innerHTML = "";
-      let count=0;
-      if(bookname.length==0){return;}
-      books.forEach(function(item) {
-        if (item.name.toLowerCase().includes(bookname.toLowerCase())) {
-           let ndiv=document.createElement('div');
-           ndiv.className = "res_book";
-           ndiv.innerHTML = `<a href='book.html?id=${item.id}'><div class="res_img_con"><img src='${item.coverPage}' alt='${item.name}'></div><div class="res_book_name">${item.name}</div></a>`;
-           res_cont.appendChild(ndiv);
-           count++;
+    <script type="module">
+      import books from "./database.js";
+      window.books = books;
+
+      window.search = function search() {
+        var bookname = document.getElementById("search").value;
+        var res_cont = document.getElementById("result");
+        res_cont.innerHTML = "";
+        let count = 0;
+        if (bookname.length == 0) {
+          return;
         }
-      }
-    );
-    if(count==0){res_cont.innerHTML = "No result Found !"}
-  }
-  </script>
-</body>
+        window.books.forEach(function (item) {
+          if (item.name.toLowerCase().includes(bookname.toLowerCase())) {
+            let ndiv = document.createElement("div");
+            ndiv.className = "res_book";
+            ndiv.innerHTML = `<a href='book.html?id=${item.id}'><div class="res_img_con"><img src='${item.coverPage}' alt='${item.name}'></div><div class="res_book_name">${item.name}</div></a>`;
+            res_cont.appendChild(ndiv);
+            count++;
+          }
+        });
+        if (count == 0) {
+          res_cont.innerHTML = "No result Found !";
+        }
+      };
+    </script>
+  </body>
 </html>
