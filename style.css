@@ -240,6 +240,7 @@ select:focus{
 #res_count{
   color:white;
   margin-left:100px;
+  margin-bottom: 10px;
 }
 
 #result {
