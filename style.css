@@ -204,7 +204,6 @@ footer {
   width: 300px;
   text-align: center;
   border: none;
-  border-radius: 20px 0px 0px 20px;
   padding: 10px;
 }
 
@@ -213,6 +212,8 @@ footer {
 }
 
 .searchbar button {
+  width: 100px;
+  text-align: center;
   border: none;
   border-radius: 0px 20px 20px 0px;
   padding: 10px;
@@ -224,6 +225,23 @@ footer {
   cursor:pointer;
 }
 
+select{
+  margin:0;
+  padding:0;
+  text-align:center;
+  border-radius: 20px 0px 0px 20px;
+
+}
+
+select:focus{
+  outline: none;
+}
+
+#res_count{
+  color:white;
+  margin-left:100px;
+}
+
 #result {
   color: white;
   display: flex;
@@ -232,14 +250,14 @@ footer {
 }
 
 .res_book {
-  width: 150px;
+  width: 200px;
   height: auto;
   display: flex;
   flex-direction: column;
-  align-items: center;
+
   padding: 10px;
   background-color: rgb(255, 255, 255);
-  border-radius: 10px;
+  border-radius: 5px;
   margin: 20px;
   box-shadow:
     0 4px 8px 0 rgba(209, 209, 209, 0.2),
@@ -248,6 +266,11 @@ footer {
 }
 
 .res_book a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
   width: 100%;
   text-decoration: none;
   color: black;
@@ -259,15 +282,17 @@ footer {
 }
 
 .res_book img {
-  width: 100%;
+  width: 150px;
   object-fit: fill;
 }
 
+.res_img_con{
+  height:260px;
+}
+
 .res_book_name {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: bold;
+  margin-top:10px;
+  width:100%;
 }
 
 #search_result {

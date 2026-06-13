@@ -29,6 +29,40 @@
       <div class="searchbar">
         <h1 style="color: white">Search for books</h1>
         <div style="margin-bottom:20px;display:flex;z-index: 1">
+          <div>
+          <select onchange="search()" style="height:40px;">
+            <option value="all">All</option>
+            <option value="Biography">Biography</option>
+            <option value="Business">Business</option>
+            <option value="Children">Children</option>
+            <option value="Classics">Classics</option>
+            <option value="Contemporary">Contemporary</option>
+            <option value="Drama">Drama</option>
+            <option value="Dystopian">Dystopian</option>
+            <option value="Fantasy">Fantasy</option>
+            <option value="Fiction">Fiction</option>
+            <option value="Graphic Novel">Graphic Novel</option>
+            <option value="Historical Fiction">Historical Fiction</option>
+            <option value="History">History</option>
+            <option value="Horror">Horror</option>
+            <option value="Humor">Humor</option>
+            <option value="Mystery">Mystery</option>
+            <option value="Non-Fiction">Non-Fiction</option>
+            <option value="Paranormal">Paranormal</option>
+            <option value="Philosophy">Philosophy</option>
+            <option value="Poetry">Poetry</option>
+            <option value="Psychology">Psychology</option>
+            <option value="Religion">Religion</option>
+            <option value="Romance">Romance</option>
+            <option value="Science Fiction">Science Fiction</option>
+            <option value="Science">Science</option>
+            <option value="Self-Help">Self-Help</option>
+            <option value="Spirituality">Spirituality</option>
+            <option value="Thriller">Thriller</option>
+            <option value="Travel">Travel</option>
+            <option value="Young Adult">Young Adult</option>
+          </select>
+        </div>
           <input
             type="text"
             name="bookname"
@@ -38,14 +72,15 @@
           />
           <button id="search-btn" onclick="search()">Search</button><br />
         </div>
-        <div id="search_result"></div>
       </div>
+      <div id="res_count"></div>
       <div id="result"></div>
     </div>
     <a id="uparrow" href="#logo"><img src="src/up-arrow.png" alt="up-arrow"></a>
     <a id="downarrow" href="#copyright-footer"><img src="src/up-arrow.png" alt="up-arrow"></a>
-    <hr>
+    
     <footer>
+      <hr>
       <div class="bottom2">
         <div class="foot1">
           Digital Library<br /><br /><small style="color: gray"
@@ -76,7 +111,7 @@
           />
         </div>
       </div>
-      <hr />
+      <hr>
       <div id="copyright-footer">
         <p>
           <small
@@ -92,24 +127,36 @@
       window.books = books;
       var arrowup = document.getElementById('uparrow');
       var arrowdown = document.getElementById('downarrow');
-      window.search = function search() {
+      var res_count = document.getElementById("res_count");
+      window.search = function search(genre="all") {
+        var genre = document.querySelector("select").value;
         var bookname = document.getElementById("search").value;
         var res_cont = document.getElementById("result");
         res_cont.innerHTML = "";
         let count = 0;
         
         window.books.forEach(function (item) {
-          if (item.name.toLowerCase().includes(bookname.toLowerCase())) {
+          if (item.name.toLowerCase().includes(bookname.toLowerCase()) && (item.genre.includes(genre) || genre=="all")){
             let ndiv = document.createElement("div");
             ndiv.className = "res_book";
-            ndiv.innerHTML = `<a href='book.html?id=${item.id}'><div class="res_img_con"><img src='${item.coverPage}' alt='${item.name}'></div><div class="res_book_name">${item.name}</div></a>`;
+            ndiv.innerHTML = `<a href='book.html?id=${item.id}'>
+              <div class="res_img_con">
+                <img src='${item.coverPage}' alt='${item.name}'>
+              </div>
+              <div class="res_book_name">
+                <h3>${item.name}</h3>
+                <p style="color: gray">by ${item.author}</p>
+                <p style="background-color: rgb(200,200,200);padding:4px;border-radius:2px;display:flex;justify-content:center;align-items:center;width:120px;">${item.genre}</p>
+              </div>
+              </a>`;
             res_cont.appendChild(ndiv);
             count++;
           }
         });
         if (count == 0) {
-          res_cont.innerHTML = "No result Found !";
+          res_cont.innerHTML = "";
         }
+        res_count.textContent=`Showing ${count} matching books :`;
       };
       search();
       arrowup.style.display="none";
