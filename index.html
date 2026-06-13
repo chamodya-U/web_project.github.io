@@ -88,18 +88,68 @@
     <div id="corousel">
       <div id="collection" class="collection">
         <div class="box-container" id="box-container-1">
-          <div class="box box1">1</div>
-          <div class="box box2">2</div>
-          <div class="box box3">3</div>
-          <div class="box box4">4</div>
-          <div class="box box5">5</div>
+          <!-- <div class="box box1">1 og</div> -->
+          <div id="idbox-1" class="box">2</div>
+          <div id="idbox-2" class="box"></div>
+          <div id="idbox-3" class="box"></div>
+          <div id="idbox-4" class="box"></div>
+          <div id="idbox-5" class="box"></div>
+          <div id="idbox-6" class="box"></div>
+          <div id="idbox-7" class="box"></div>
+          <div id="idbox-8" class="box"></div>
+          <div id="idbox-9" class="box"></div>
+          <div id="idbox-10" class="box"></div>
+          <div id="idbox-11" class="box"></div>
+          <div id="idbox-12" class="box"></div>
+          <div id="idbox-13" class="box"></div>
+          <div id="idbox-14" class="box"></div>
+          <div id="idbox-15" class="box"></div>
+          <div id="idbox-16" class="box"></div>
+          <div id="idbox-17" class="box"></div>
+          <div id="idbox-18" class="box"></div>
+          <div id="idbox-19" class="box"></div>
+          <div id="idbox-20" class="box"></div>
+          <div id="idbox-21" class="box"></div>
+          <div id="idbox-22" class="box"></div>
+          <div id="idbox-23" class="box"></div>
+          <div id="idbox-24" class="box"></div>
+          <div id="idbox-25" class="box"></div>
+          <div id="idbox-26" class="box"></div>
+          <div id="idbox-27" class="box"></div>
+          <div id="idbox-28" class="box"></div>
+          <div id="idbox-29" class="box">29 og</div>
         </div>
         <div class="box-container" id="box-container-2">
-          <div class="box box6">6</div>
-          <div class="box box7">7</div>
-          <div class="box box8">8</div>
-          <div class="box box9">9</div>
-          <div class="box box10">10</div>
+          <!-- <div class="box box1-dup">1 dup</div> -->
+          <div id="idbox-1-dup" class="box">2 dub</div>
+          <div id="idbox-2-dup" class="box"></div>
+          <div id="idbox-3-dup" class="box"></div>
+          <div id="idbox-4-dup" class="box"></div>
+          <div id="idbox-5-dup" class="box"></div>
+          <div id="idbox-6-dup" class="box"></div>
+          <div id="idbox-7-dup" class="box"></div>
+          <div id="idbox-8-dup" class="box"></div>
+          <div id="idbox-9-dup" class="box"></div>
+          <div id="idbox-10-dup" class="box"></div>
+          <div id="idbox-11-dup" class="box"></div>
+          <div id="idbox-12-dup" class="box"></div>
+          <div id="idbox-13-dup" class="box"></div>
+          <div id="idbox-14-dup" class="box"></div>
+          <div id="idbox-15-dup" class="box"></div>
+          <div id="idbox-16-dup" class="box"></div>
+          <div id="idbox-17-dup" class="box"></div>
+          <div id="idbox-18-dup" class="box"></div>
+          <div id="idbox-19-dup" class="box"></div>
+          <div id="idbox-20-dup" class="box"></div>
+          <div id="idbox-21-dup" class="box"></div>
+          <div id="idbox-22-dup" class="box"></div>
+          <div id="idbox-23-dup" class="box"></div>
+          <div id="idbox-24-dup" class="box"></div>
+          <div id="idbox-25-dup" class="box"></div>
+          <div id="idbox-26-dup" class="box"></div>
+          <div id="idbox-27-dup" class="box"></div>
+          <div id="idbox-28-dup" class="box"></div>
+          <div id="idbox-29-dup" class="box">29 dup</div>
         </div>
       </div>
     </div>
@@ -205,32 +255,25 @@
 
       let offset = 0;
 
-      console.log(container1.offsetWidth);
-
       window.addEventListener("load", () => {
-        // Initial positioning
         const updatePositions = () => {
-          // Get width of one container (assumed same for both)
           const width1 = container1.offsetWidth;
-          if (width1 === 0) return; // Not yet rendered
+          if (width1 === 0) return;
 
           const totalWidth = width1 * 2;
 
-          // Normalize offset to stay within [0, totalWidth)
           let currentOffset = ((offset % totalWidth) + totalWidth) % totalWidth;
 
-          // Position each container relative to the logical scroll position
-          let x1 = -currentOffset;
+          let x1 = Math.round(-currentOffset);
           if (x1 <= -width1) x1 += totalWidth;
 
-          let x2 = width1 - currentOffset;
+          let x2 = Math.round(width1 - currentOffset);
           if (x2 <= -width1) x2 += totalWidth;
 
           container1.style.transform = `translate(${x1}px, -50%)`;
           container2.style.transform = `translate(${x2}px, -50%)`;
         };
 
-        // Wait a frame to ensure layout
         requestAnimationFrame(updatePositions);
 
         collection.addEventListener(
@@ -243,9 +286,9 @@
           { passive: false },
         );
 
-        // Handle window resize
         window.addEventListener("resize", updatePositions);
       });
     </script>
+    <script src="script.js"></script>
   </body>
 </html>
