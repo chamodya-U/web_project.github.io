@@ -545,4 +545,31 @@ button.signup-submit:hover{
   }
 }
 
+/* about.html style */
 
+table{
+    border: 1px solid #000000;
+    border-spacing: 0;
+    margin:auto;
+    width: 50%;
+    
+}
+
+th{
+    background-color: rgb(27, 37, 52);
+    color: white;
+    padding: 10px;
+    
+
+}
+
+td{
+    padding: 10px;
+    
+
+}
+
+tr:hover{
+    background-color:rgba(151, 150, 150, 0.796);
+    color: white;
+}
