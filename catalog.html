@@ -68,7 +68,7 @@
         if (item.name.toLowerCase().includes(bookname.toLowerCase())) {
            let ndiv=document.createElement('div');
            ndiv.className = "res_book";
-           ndiv.innerHTML = `<a href='book.html?id=${item.id}'><img src='${item.coverPage}' alt='${item.name}'><br><div class="res_book_name">${item.name}</div></a>`;
+           ndiv.innerHTML = `<a href='book.html?id=${item.id}'><div class="res_img_con"><img src='${item.coverPage}' alt='${item.name}'></div><div class="res_book_name">${item.name}</div></a>`;
            res_cont.appendChild(ndiv);
            count++;
         }
