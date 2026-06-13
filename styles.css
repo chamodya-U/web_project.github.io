@@ -63,6 +63,7 @@ body {
 .similar-book-container {
   height: auto;
   display: flex;
+  justify-content:center;
   flex-wrap: wrap;
   margin: auto;
   width: 100%;
