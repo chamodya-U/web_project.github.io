@@ -41,6 +41,8 @@
       </div>
       <div id="result"></div>
     </div>
+    <a id="uparrow" href="#logo"><img src="src/up-arrow.png" alt="up-arrow"></a>
+    <a id="downarrow" href="#copyright-footer"><img src="src/up-arrow.png" alt="up-arrow"></a>
     <footer>
       <div class="bottom2">
         <div class="foot1">
@@ -73,7 +75,7 @@
         </div>
       </div>
       <hr />
-      <div class="copyright-footer">
+      <div id="copyright-footer">
         <p>
           <small
             ><small
@@ -83,19 +85,17 @@
         </p>
       </div>
     </footer>
-
     <script type="module">
       import books from "./database.js";
       window.books = books;
-
+      var arrowup = document.getElementById('uparrow');
+      var arrowdown = document.getElementById('downarrow');
       window.search = function search() {
         var bookname = document.getElementById("search").value;
         var res_cont = document.getElementById("result");
         res_cont.innerHTML = "";
         let count = 0;
-        if (bookname.length == 0) {
-          return;
-        }
+        
         window.books.forEach(function (item) {
           if (item.name.toLowerCase().includes(bookname.toLowerCase())) {
             let ndiv = document.createElement("div");
@@ -109,6 +109,12 @@
           res_cont.innerHTML = "No result Found !";
         }
       };
+      search();
+      arrowup.style.display="none";
+      window.addEventListener("scroll",(e)=>{
+        arrowup.style.display=(window.scrollY>100)?"block":"none";
+        arrowdown.style.display=(document.body.scrollHeight-window.scrollY<1000)?"none":"block";
+      });
     </script>
   </body>
 </html>
