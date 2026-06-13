@@ -2,6 +2,10 @@
   --main-colour: rgb(27, 37, 52);
 }
 
+html{
+  background-color:var(--main-colour);
+}
+
 body{
     font-family:sans-serif;
     margin:0;
@@ -14,12 +18,12 @@ body{
 }
 
 #navigationBar{
+    background-color: white;
     margin:0;
     display: flex;
     justify-content: center;
     align-items: center;
-    width:100%;
-    
+    width:100%;   
     
 }
 
@@ -63,6 +67,7 @@ nav ul li a:hover{
 #signLogin a{
     color:black;
     padding:20px 20px;
+    margin-right: 20px;
 
 }
 
@@ -219,6 +224,7 @@ footer{
 }
 
 #result{
+  color: white;
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
