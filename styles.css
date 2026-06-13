@@ -66,7 +66,7 @@ body {
   flex-wrap: wrap;
   margin: auto;
   width: 100%;
-  background-color: rgba(128, 128, 128, 0.222);
+  background-color: rgb(27, 37, 52);
   padding: 20px;
 }
 .similar-book-container h3 {
@@ -88,7 +88,7 @@ body {
 }
 .similar-book-container a {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .book-card:hover {

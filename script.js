@@ -43,8 +43,8 @@ books.forEach((obj) => {
     card.className = "book-card";
     card.id = `img-div-${index}`;
     title.innerText = `${name}`;
-    card.appendChild(title);
     card.appendChild(img);
+    card.appendChild(title);
     link.appendChild(card);
     similarBookContainer.appendChild(link);
   }
@@ -66,3 +66,4 @@ imgcards.forEach((card) => {
     language.innerHTML = `Language <b>${obj.language}</b>`;
   });
 });
+

@@ -6,6 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="src/taskbar.ico" type="image/x-icon">
   </head>
   <body>
     <div id="navigationBar">
@@ -51,8 +52,10 @@
         </div>
       </div>
     </div>
+    <h2 style="padding-left:5%;">Readers also enjoyed</h3>
     <div class="similar-book-container">
-      <h3>Readers also enjoyed</h3>
+    <a id="uparrow" href="#logo"><img src="src/up-arrow.png" alt="up-arrow"></a>
+    <a id="downarrow" href="#copyright-footer"><img src="src/up-arrow.png" alt="up-arrow"></a>
     </div>
     <footer>
       <div class="bottom2">
@@ -86,7 +89,7 @@
         </div>
       </div>
       <hr />
-      <div class="copyright-footer">
+      <div id="copyright-footer">
         <p>
           <small
             ><small
@@ -97,5 +100,14 @@
       </div>
     </footer>
     <script type="module" src="script.js"></script>
+    <script>
+      var arrowup = document.getElementById('uparrow');
+      var arrowdown = document.getElementById('downarrow');
+      arrowup.style.display="none";
+      window.addEventListener("scroll",(e)=>{
+        arrowup.style.display=(window.scrollY>100)?"block":"none";
+        arrowdown.style.display=(document.body.scrollHeight-window.scrollY<1000)?"none":"block";
+      });
+    </script>
   </body>
 </html>
