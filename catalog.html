@@ -113,9 +113,10 @@
       };
       search();
       arrowup.style.display="none";
+      arrowdown.style.display="none";
       window.addEventListener("scroll",(e)=>{
         arrowup.style.display=(window.scrollY>100)?"block":"none";
-        arrowdown.style.display=(document.body.scrollHeight-window.scrollY<1000)?"none":"block";
+        arrowdown.style.display=(document.body.scrollHeight-window.scrollY<1000 || window.scrollY<100)?"none":"block";
       });
     </script>
   </body>
