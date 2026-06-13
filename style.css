@@ -237,7 +237,7 @@ footer{
   flex-direction:column;
   align-items:center;
   padding:10px;
-  background-color:rgb(193, 193, 193);
+  background-color:rgb(255, 255, 255);
   border-radius:10px;
   margin:10px;
   box-shadow:
@@ -247,13 +247,22 @@ footer{
 }
 
 .res_book a{
+  width:100%;
   text-decoration:none;
   color:black;
 }
 
 .res_book img{
   width:100%;
+  object-fit:fill;
 
+}
+
+.res_book_name{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
 }
 
 #search_result{
@@ -262,16 +271,6 @@ footer{
   width:200px;
   height:100px;
   display:hidden;
-}
-
-
-@keyframes popup {
-  from {
-    transform: scale(0);
-  }
-  to {
-    transform: scale(1);
-  }
 }
 
 .background-pg{
@@ -535,6 +534,13 @@ button.signup-submit:hover{
     color: rgba(255, 255, 255, 0.7);
 }
 
-
+@keyframes popup {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
 
 
