@@ -14,10 +14,11 @@
       .collection {
         background-color: #1a1a1a;
         height: 600px;
-        display: flex;
         overflow: hidden;
         align-items: center;
         position: relative;
+        scrollbar-width: none;
+        overflow-x: scroll;
       }
 
       .box-container {
@@ -32,6 +33,7 @@
         background-color: #3498db;
         border-radius: 20px;
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        /*  overflow: hidden; */
       }
 
       .box {
@@ -47,11 +49,27 @@
         color: white;
         font-size: 2rem;
         font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        position: relative;
       }
 
       .box:hover {
         transform: scale(1.05);
         background-color: #2980b9;
+      }
+
+      .box img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 20px;
+      }
+
+      .genre-name {
+        text-align: center;
+        position: absolute;
+        padding: 10px;
       }
     </style>
   </head>
@@ -88,8 +106,7 @@
     <div id="corousel">
       <div id="collection" class="collection">
         <div class="box-container" id="box-container-1">
-          <!-- <div class="box box1">1 og</div> -->
-          <div id="idbox-1" class="box">2</div>
+          <div id="idbox-1" class="box"></div>
           <div id="idbox-2" class="box"></div>
           <div id="idbox-3" class="box"></div>
           <div id="idbox-4" class="box"></div>
@@ -117,11 +134,10 @@
           <div id="idbox-26" class="box"></div>
           <div id="idbox-27" class="box"></div>
           <div id="idbox-28" class="box"></div>
-          <div id="idbox-29" class="box">29 og</div>
+          <div id="idbox-29" class="box"></div>
         </div>
         <div class="box-container" id="box-container-2">
-          <!-- <div class="box box1-dup">1 dup</div> -->
-          <div id="idbox-1-dup" class="box">2 dub</div>
+          <div id="idbox-1-dup" class="box"></div>
           <div id="idbox-2-dup" class="box"></div>
           <div id="idbox-3-dup" class="box"></div>
           <div id="idbox-4-dup" class="box"></div>
@@ -149,7 +165,7 @@
           <div id="idbox-26-dup" class="box"></div>
           <div id="idbox-27-dup" class="box"></div>
           <div id="idbox-28-dup" class="box"></div>
-          <div id="idbox-29-dup" class="box">29 dup</div>
+          <div id="idbox-29-dup" class="box"></div>
         </div>
       </div>
     </div>
@@ -289,6 +305,6 @@
         window.addEventListener("resize", updatePositions);
       });
     </script>
-    <script src="script.js"></script>
+    <script type="module" src="script.js"></script>
   </body>
 </html>
