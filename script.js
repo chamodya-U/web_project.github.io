@@ -65,7 +65,7 @@ imgcards.forEach((card) => {
 });
 
 //for barrow btn
-document.getElementById("barrow-btn").addEventListener("click", () => {
+document.getElementById("barrow-btn")?.addEventListener("click", () => {
   alert("You have barrowed this book successfully!");
 });
 
