@@ -338,6 +338,11 @@ select:focus{
   z-index: -1;
   filter: blur(5px);
 }
+/*container*/
+.containe {
+  position: relative;
+}
+
 /*Loging block big div*/
 .log {
   display: flex;
@@ -348,6 +353,9 @@ select:focus{
 /*Loging block big div*/
 .register {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 /*Loging block*/
 .login-block {
@@ -388,12 +396,17 @@ select:focus{
   height: 35px;
   width: 80%;
   border-radius: 10px;
-  margin-bottom: 30px;
   padding-left: 10px;
 }
+#email {
+  margin-bottom: 8px;
+}
+#log-pass {
+  margin-top: 8px;
+}
 #password {
-  margin-bottom: 4px;
-  padding-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 8px;
 }
 
 /*forgot password div*/
@@ -450,9 +463,9 @@ button.login-submit:hover {
 .signup-link a,
 .login-link,
 .login-link a {
-  text-decoration: none;
   color: white;
   margin-top: 20px;
+  margin-left: 3px;
 }
 /*label and input boxes edited*/
 .login-form label {
@@ -472,9 +485,9 @@ button.login-submit:hover {
 
 /*Registering part / sign up*/
 .register {
-  display: none;
+  display: flex;
 }
-/*jspart should come here*/
+
 .register-block {
   background-color: rgba(0, 0, 0, 0.5);
   width: 400px;
@@ -503,7 +516,7 @@ button.login-submit:hover {
   justify-content: space-between;
   width: 90%;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .fname {
 }
@@ -527,11 +540,35 @@ button.login-submit:hover {
 }
 .ed input {
   width: 96%;
+  margin-bottom: 0;
 }
 
 .ed label {
   padding-left: 4px;
   padding-bottom: 4px;
+}
+/*Password field*/
+.reg-pass {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.reg-pass label {
+  margin: 0;
+  padding-left: 4px;
+  padding-bottom: 4px;
+  width: auto;
+}
+.reg-pass input {
+  margin: 0;
+  width: 90%;
+  padding-left: 10px;
+}
+
+.confirm-pass label {
+  margin: 0;
 }
 
 /*Index and Contact number part*/
@@ -539,6 +576,7 @@ button.login-submit:hover {
   display: flex;
   justify-content: space-between;
   width: 90%;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 .intel input {
@@ -583,6 +621,29 @@ button.signup-submit:hover {
 .register-form input::placeholder {
   color: rgba(255, 255, 255, 0.7);
 }
+
+/*error msges inside small*/
+.error-msg {
+  color: #ff4d4d;
+  font-size: 12px;
+  margin-top: 4px;
+  display: block;
+  min-height: 16px;
+  align-self: flex-start;
+  width: auto;
+  margin-left: 40px;
+}
+
+/*position fixing*/
+#log,
+#register {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+
 
 @keyframes popup {
   from {
