@@ -123,16 +123,25 @@ collectionArray.forEach((el, i) => {
   let genre = document.createElement("p");
   let genreDub = document.createElement("p");
   let redirectLink = document.createElement("a");
+  let redirectLinkDub = document.createElement("a");
+
+  //properties
   img.src = `${el[1]}`;
-  img.className = "genre-img";
+  img.className = "collection-box-img";
   imgDub.src = `${el[1]}`;
-  imgDub.className = "genre-img";
+  imgDub.className = "collection-box-img";
   genre.innerText = `${el[0]}`;
-  genre.className = "genre-name";
+  genre.className = "collection-box-name";
   genreDub.innerText = `${el[0]}`;
-  genreDub.className = "genre-name";
-  boxes[i].appendChild(img);
-  boxes[i].appendChild(genre);
-  boxesDub[i].appendChild(imgDub);
-  boxesDub[i].appendChild(genreDub);
+  genreDub.className = "collection-box-name";
+  redirectLink.href = "#"; //`catalog.html?genre=${el[0]}`;
+  redirectLinkDub.href = "#"; //`catalog.html?genre=${el[0]}`;
+
+  //apending
+  redirectLink.appendChild(img);
+  redirectLink.appendChild(genre);
+  redirectLinkDub.appendChild(imgDub);
+  redirectLinkDub.appendChild(genreDub);
+  boxes[i].appendChild(redirectLink);
+  boxesDub[i].appendChild(redirectLinkDub);
 });
