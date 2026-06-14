@@ -148,14 +148,19 @@ function validateFname() {
   }
   return true;
 }
-
-signForm.addEventListener("submit", (event) => {
-  event.preventDefault();
-});
 */
+function signupfun() {
+  signForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+    sessionStorage.setItem("role", "user");
+    window.location.href = "index.html";
+  });
+}
 
+/*
 $(".signup-submit").click((event) => {
   event.preventDefault();
   sessionStorage.setItem("role", "user");
   window.location.href = "index.html";
 });
+*/
