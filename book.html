@@ -31,7 +31,6 @@
       <div class="image-container">
         <img
           id="main-book"
-          src="src/bookimg/81tb8gsbcRL._AC_UF1000,1000_QL80_.jpg.jpeg"
           alt="book"
         />
       </div>
@@ -47,16 +46,14 @@
         <hr />
         <p id="book-description"></p>
         <div class="book-tags">
-          <p>Handcover</p>
-          <p>Kindle</p>
-          <p>Audiobook</p>
+          <p id="selected_book_genre">Handcover</p>
         </div>
       </div>
     </div>
     <h2 style="padding-left:5%;">Readers also enjoyed</h3>
     <div class="similar-book-container">
-    <a id="uparrow" href="#logo"><img src="src/up-arrow.png" alt="up-arrow"></a>
-    <a id="downarrow" href="#copyright-footer"><img src="src/up-arrow.png" alt="up-arrow"></a>
+    <a class="uparrow" href="#logo"><img src="src/up-arrow.png" alt="up-arrow"></a>
+    <a class="downarrow" href="#copyright-footer"><img src="src/up-arrow.png" alt="up-arrow"></a>
     </div>
     <footer>
       <div class="bottom2">
@@ -101,14 +98,5 @@
       </div>
     </footer>
     <script type="module" src="script.js"></script>
-    <script>
-      var arrowup = document.getElementById('uparrow');
-      var arrowdown = document.getElementById('downarrow');
-      arrowup.style.display="none";
-      window.addEventListener("scroll",(e)=>{
-        arrowup.style.display=(window.scrollY>100)?"block":"none";
-        arrowdown.style.display=(document.body.scrollHeight-window.scrollY<1000)?"none":"block";
-      });
-    </script>
   </body>
 </html>

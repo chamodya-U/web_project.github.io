@@ -30,7 +30,7 @@
         <h1 style="color: white">Search for books</h1>
         <div style="margin-bottom: 20px; display: flex; z-index: 1">
           <div>
-            <select onchange="search()" style="height: 40px">
+            <select id="genre-select" name="genre" onchange="search(this.value)" style="height: 40px">
               <option value="all">All</option>
               <option value="Biography">Biography</option>
               <option value="Business">Business</option>
@@ -67,7 +67,7 @@
             type="text"
             name="bookname"
             id="search"
-            placeholder="enter the name of the book"
+            placeholder="Search by book name"
           />
           <button id="search-btn">Search</button><br />
         </div>
@@ -75,13 +75,8 @@
       <div id="res_count"></div>
       <div id="result"></div>
     </div>
-    <a id="uparrow" href="#logo"
-      ><img src="src/up-arrow.png" alt="up-arrow"
-    /></a>
-    <a id="downarrow" href="#copyright-footer"
-      ><img src="src/up-arrow.png" alt="up-arrow"
-    /></a>
-
+    <a class="uparrow" href="#logo"><img src="src/up-arrow.png" alt="up-arrow"></a>
+    <a class="downarrow" href="#copyright-footer"><img src="src/up-arrow.png" alt="up-arrow"></a>
     <footer>
       <hr />
       <div class="bottom2">
@@ -125,14 +120,12 @@
         </p>
       </div>
     </footer>
+    <script src="script.js" type="module"></script>
     <script type="module">
       import books from "./database.js";
       window.books = books;
-      var arrowup = document.getElementById("uparrow");
-      var arrowdown = document.getElementById("downarrow");
       var res_count = document.getElementById("res_count");
       window.search = function search(genre = "all") {
-        var genre = document.querySelector("select").value;
         var bookname = document.getElementById("search").value;
         var res_cont = document.getElementById("result");
         res_cont.innerHTML = "";
@@ -164,27 +157,21 @@
         }
         res_count.textContent = `Showing ${count} results :`;
       };
-      search();
-      document.getElementById("search-btn").addEventListener("click", search);
+      const params = new URLSearchParams(window.location.search);
+      const genre = (params.get("genre"))?params.get("genre"):"all";
+      document.getElementById("genre-select").value = genre;
+      search(genre);
+      
+      document.getElementById("search-btn").addEventListener("click", ()=>{search(document.getElementById("genre-select").value);});
       document
         .getElementById("search")
         .addEventListener("keydown", (event) => {
 
           if (event.key === "Enter") {
-            search();
+            search(document.getElementById("genre-select").value);
           }
         });
-
-      arrowup.style.display = "none";
-      arrowdown.style.display = "none";
-      window.addEventListener("scroll", (e) => {
-        arrowup.style.display = window.scrollY > 100 ? "block" : "none";
-        arrowdown.style.display =
-          document.body.scrollHeight - window.scrollY < 1000 ||
-          window.scrollY < 100
-            ? "none"
-            : "block";
-      });
+      
     </script>
   </body>
 </html>

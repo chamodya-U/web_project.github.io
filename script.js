@@ -25,32 +25,26 @@ if (similarBookContainer) {
     published.innerHTML = `published <b>${book.publishDate}</b>`;
     language.innerHTML = `Language <b>${book.language}</b>`;
   }
+  document.getElementById("selected_book_genre").textContent=book.genre;
 
-  books.forEach((obj) => {
-    let name = obj.name;
-    let coverPage = obj.coverPage;
-    let index = obj.id;
-
-    //generating boook divs
-    if (index !== id) {
-      let img = document.createElement("img");
-      let card = document.createElement("div");
-      let title = document.createElement("p");
-      let link = document.createElement("a");
-      img.src = `${coverPage}`;
-      img.className = "card-img";
-      link.href = `book.html?id=${index}`;
-      title.className = "card-title";
-      card.className = "res_book";
-      card.id = `img-div-${index}`;
-      title.innerText = `${name}`;
-      link.appendChild(img);
-      link.appendChild(title);
-      card.appendChild(link);
-      similarBookContainer.appendChild(card);
+  books.forEach(function (item) {
+    if (item.genre === book.genre && id !== item.id) {
+    let ndiv = document.createElement("div");
+    ndiv.className = "res_book";
+    ndiv.innerHTML = `<a href='book.html?id=${item.id}'>
+      <div class="res_img_con">
+        <img src='${item.coverPage}' alt='${item.name}'>
+      </div>
+      <div class="res_book_name">
+        <h3>${item.name}</h3>
+        <p style="color: gray">by ${item.author}</p>
+        <p style="background-color: rgb(200,200,200);padding:4px;border-radius:2px;display:flex;justify-content:center;align-items:center;width:120px;">${item.genre}</p>
+      </div>
+      </a>`;
+  similarBookContainer.appendChild(ndiv);}
     }
-  });
-}
+  );
+};
 
 const imgcards = document.querySelectorAll(".book-card");
 
@@ -113,9 +107,9 @@ let collectionArray = [
   ["Dystopian", "https://images.gr-assets.com/books/1349614200m/13453029.jpg"],
   ["Paranormal", "https://images.gr-assets.com/books/1388773547m/42900.jpg"],
 ];
-
-const boxes = document.getElementById("box-container-1").children;
-const boxesDub = document.getElementById("box-container-2").children;
+if(document.getElementById("box-container-1") && document.getElementById("box-container-2")){
+  const boxes = document.getElementById("box-container-1").children;
+  const boxesDub = document.getElementById("box-container-2").children;
 
 collectionArray.forEach((el, i) => {
   let img = document.createElement("img");
@@ -134,8 +128,8 @@ collectionArray.forEach((el, i) => {
   genre.className = "collection-box-name";
   genreDub.innerText = `${el[0]}`;
   genreDub.className = "collection-box-name";
-  redirectLink.href = "#"; //`catalog.html?genre=${el[0]}`;
-  redirectLinkDub.href = "#"; //`catalog.html?genre=${el[0]}`;
+  redirectLink.href =`catalog.html?genre=${el[0]}`;
+  redirectLinkDub.href =`catalog.html?genre=${el[0]}`;
 
   //apending
   redirectLink.appendChild(img);
@@ -145,3 +139,19 @@ collectionArray.forEach((el, i) => {
   boxes[i].appendChild(redirectLink);
   boxesDub[i].appendChild(redirectLinkDub);
 });
+}
+
+//up,down arrows behaviour
+if(document.querySelector(".uparrow") && document.querySelector(".downarrow")){
+  const arrowup = document.querySelector(".uparrow");
+  const arrowdown = document.querySelector(".downarrow");
+  arrowup.style.display = "none";
+  arrowdown.style.display = "none";
+  window.addEventListener("scroll", (e) => {
+    arrowup.style.display = window.scrollY > 100 ? "block" : "none";
+    arrowdown.style.display =
+      document.body.scrollHeight - window.scrollY < 1000 ||
+      window.scrollY < 100
+        ? "none"
+        : "block";
+});}
