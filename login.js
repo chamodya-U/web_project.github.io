@@ -104,11 +104,13 @@ loginForm.addEventListener("submit", (event) => {
     const userPass = "User123#";
 
     if (adminEmail === loginEmail.value && adminPass === loginPass.value) {
+      //use to send the data to index.js
       sessionStorage.setItem("role", "admin");
       window.location.href = "index.html";
     }
     if (userEmail === loginEmail.value && userPass === loginPass.value) {
-      sessionStorage.getItem("role", "user");
+      //use to send the data to index.js
+      sessionStorage.setItem("role", "user");
       window.location.href = "index.html";
     } else {
       showError(passError, "Invalid Email or Password");
