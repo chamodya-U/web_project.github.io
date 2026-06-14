@@ -126,6 +126,7 @@ nav ul li a:hover {
   margin: 0;
   padding: 0;
   text-align: center;
+  text-shadow:black 0 0 10px;
 }
 
 #bottom1 {
