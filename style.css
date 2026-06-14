@@ -927,8 +927,8 @@ button.signup-submit:hover {
   }
 
   .bottom2 div {
-    width: 100%;
-    justify-content: center;
+    width: 80%;
+    margin:auto;
     text-align: center;
   }
 
