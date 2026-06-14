@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Inventory Management</title>
-    <script src="database.js" defer></script>
+
     <style>
       * {
         box-sizing: border-box;
@@ -27,6 +27,7 @@
       .form-container {
         padding: 40px;
         border-radius: 8px;
+        background-color: rgba(0, 0, 0, 0.4);
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         width: 100%;
         max-width: 850px;
@@ -41,7 +42,7 @@
       }
 
       .form-header p {
-        color: rgb(99, 83, 147);
+        color: rgb(255, 255, 255);
         font-weight: 500;
       }
 
@@ -85,7 +86,7 @@
       label {
         font-weight: 600;
         margin-bottom: 8px;
-        color: #444444;
+        color: #ffffff;
         font-size: 14px;
       }
 
@@ -182,7 +183,17 @@
       }
     </style>
   </head>
-  <body>
+  <body style="position: relative">
+    <div
+      style="
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-image: url(src/library/IMG_1890.png);
+        filter: blur(5px);
+        z-index: -1;
+      "
+    ></div>
     <div class="form-container login-block">
       <div class="form-header">
         <h1>Inventory Management</h1>
@@ -191,7 +202,26 @@
 
       <div class="form-title">
         <h2>Add New Book to Inventory</h2>
-        <a id="close" href="index.html" title="Close">&#x274C;</a>
+        <a
+          id="close"
+          href="index.html"
+          title="Close"
+          style="
+            background-color: white;
+            border-radius: 50%;
+            padding: 5px;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          "
+          ><img
+            src="./src/x-solid-full.svg"
+            alt="cancel"
+            width="20"
+            height="20"
+        /></a>
       </div>
 
       <form action="#" method="post" id="inventoryForm" class="form-handler">
@@ -319,6 +349,7 @@
         </div>
       </form>
     </div>
+
     <script type="module" src="script.js"></script>
     <script type="module">
       import books from "./database.js";
