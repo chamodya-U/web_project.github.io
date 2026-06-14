@@ -108,10 +108,13 @@ let collectionArray = [
   ["Psychology", "https://images.gr-assets.com/books/1317793965m/11468377.jpg"],
   [
     "Spirituality",
-    "https://placehold.co/400x600/333333/ffffff?text=A+New+Earth:+Awakening+to+Your+Life's+Purpose",
+    "https://bookcoverzone.com/png24-front-mockup/bookcover0031912-small.png",
   ],
   ["Dystopian", "https://images.gr-assets.com/books/1349614200m/13453029.jpg"],
-  ["Paranormal", "https://images.gr-assets.com/books/1388773547m/42900.jpg"],
+  [
+    "Paranormal",
+    "https://thebookcoverdesigner.com/wp-content/uploads/2026/03/t-verses-of-treachery-1.jpg.webp",
+  ],
 ];
 if (
   document.getElementById("box-container-1") &&
