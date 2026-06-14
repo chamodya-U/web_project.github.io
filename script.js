@@ -25,6 +25,7 @@ if (similarBookContainer) {
     published.innerHTML = `published <b>${book.publishDate}</b>`;
     language.innerHTML = `Language <b>${book.language}</b>`;
   }
+  document.getElementById("selected_book_genre").textContent=book.genre;
 
   books.forEach(function (item) {
     if (item.genre === book.genre && id !== item.id) {
