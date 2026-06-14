@@ -107,9 +107,9 @@ let collectionArray = [
   ["Dystopian", "https://images.gr-assets.com/books/1349614200m/13453029.jpg"],
   ["Paranormal", "https://images.gr-assets.com/books/1388773547m/42900.jpg"],
 ];
-
-const boxes = document.getElementById("box-container-1").children;
-const boxesDub = document.getElementById("box-container-2").children;
+if(document.getElementById("box-container-1") && document.getElementById("box-container-2")){
+  const boxes = document.getElementById("box-container-1").children;
+  const boxesDub = document.getElementById("box-container-2").children;
 
 collectionArray.forEach((el, i) => {
   let img = document.createElement("img");
@@ -139,3 +139,19 @@ collectionArray.forEach((el, i) => {
   boxes[i].appendChild(redirectLink);
   boxesDub[i].appendChild(redirectLinkDub);
 });
+}
+
+//up,down arrows behaviour
+if(document.querySelector(".uparrow") && document.querySelector(".downarrow")){
+  const arrowup = document.querySelector(".uparrow");
+  const arrowdown = document.querySelector(".downarrow");
+  arrowup.style.display = "none";
+  arrowdown.style.display = "none";
+  window.addEventListener("scroll", (e) => {
+    arrowup.style.display = window.scrollY > 100 ? "block" : "none";
+    arrowdown.style.display =
+      document.body.scrollHeight - window.scrollY < 1000 ||
+      window.scrollY < 100
+        ? "none"
+        : "block";
+});}
