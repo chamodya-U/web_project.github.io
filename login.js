@@ -97,9 +97,18 @@ loginForm.addEventListener("submit", (event) => {
   const pass = validatePass();
 
   if (email && pass) {
-    const correntEmail = "admin@gmail.com";
-    const correctPass = "Admin123#";
-    if (correntEmail === loginEmail.value && correctPass === loginPass.value) {
+    const adminEmail = "admin@gmail.com";
+    const adminPass = "Admin123#";
+
+    const userEmail = "user@gmail.com";
+    const userPass = "User123#";
+
+    if (adminEmail === loginEmail.value && adminPass === loginPass.value) {
+      sessionStorage.setItem("role", "admin");
+      window.location.href = "index.html";
+    }
+    if (userEmail === loginEmail.value && userPass === loginPass.value) {
+      sessionStorage.getItem("role", "user");
       window.location.href = "index.html";
     } else {
       showError(passError, "Invalid Email or Password");

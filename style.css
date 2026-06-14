@@ -397,14 +397,14 @@ select:focus {
   padding-left: 10px;
 }
 #email {
-  margin-bottom: 8px;
+  margin-bottom: 2px;
 }
 #log-pass {
   margin-top: 8px;
 }
 #password {
-  margin-top: 5px;
-  margin-bottom: 8px;
+  margin-top: 7px;
+  margin-bottom: 2px;
 }
 
 /*forgot password div*/
@@ -413,7 +413,7 @@ select:focus {
   justify-content: space-between;
   align-items: center;
   width: 80%;
-  margin-top: 8px;
+  margin-top: 5px;
 }
 
 /*check box and remember me*/
