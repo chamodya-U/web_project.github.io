@@ -36,10 +36,9 @@ function showError(errorSpan, message) {
 function clearError(errorSpan) {
   errorSpan.textContent = "";
 }
-
-//password validating part
+//password validating part function
 function validatePass() {
-  const value = loginPass.value.trim();
+  const value = loginPass.value;
 
   if (value === "") {
     showError(passError, "Password is required.");
@@ -118,4 +117,45 @@ loginForm.addEventListener("submit", (event) => {
   }
 });
 
+//js validation for the sign up form under construction
+/*
 //registration js validation
+const signForm = document.querySelector("#register-form");
+const fname = document.querySelector("#fname");
+const lname = document.querySelector("#lname");
+const regEmail = document.querySelector("#email");
+const regPass = document.querySelector("#password");
+const regConfirmPass = document.querySelector("#confirm-pass");
+const dep = document.querySelector("#dep");
+const regIndex = document.querySelector("#ID_num");
+const regTel = document.querySelector("#tel");
+//error messeges
+const fnameError = document.getElementById("fname-error");
+const lnameError = document.getElementById("lname-error");
+const regEmailError = document.getElementById("regemail-error");
+const regPassError = document.getElementById("regPass-error");
+const confirmPassError = document.getElementById("regConfirmPass-error");
+const depError = document.getElementById("dep-error");
+const idError = document.getElementById("id-error");
+const telError = document.getElementById("tel-error");
+
+
+function validateFname() {
+  const value = fname.value.trim();
+  if (value === "") {
+    showError(fnameError, "First Name is required.");
+    return false;
+  }
+  return true;
+}
+
+signForm.addEventListener("submit", (event) => {
+  event.preventDefault();
+});
+*/
+
+$(".signup-submit").click((event) => {
+  event.preventDefault();
+  sessionStorage.setItem("role", "user");
+  window.location.href = "index.html";
+});

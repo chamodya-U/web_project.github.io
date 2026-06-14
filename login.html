@@ -16,7 +16,7 @@
             <form
               class="login-form"
               id="login-form"
-              action="page2.html"
+              action="index.html"
               method="post"
             >
               <label class="form-label" for="email">Email*</label>
@@ -76,7 +76,7 @@
         <div class="register-block">
           <h1 class="regist">Register</h1>
           <div>
-            <form class="register-form" action="page2.html" method="post">
+            <form class="register-form" id="register-form" method="post">
               <div class="name">
                 <div class="fname">
                   <label class="form-label" for="fname">First Name*</label>
@@ -88,6 +88,8 @@
                     placeholder="Tasan"
                     required
                   />
+                  <!--fname error messege-->
+                  <span id="fname-error"></span>
                 </div>
                 <div class="lname">
                   <label class="form-label" for="lname">Last Name*</label>
@@ -99,6 +101,8 @@
                     placeholder="Ranawana"
                     required
                   />
+                  <!-- lname error messege-->
+                  <span id="lname-error"></span>
                 </div>
               </div>
               <div class="ed">
@@ -109,7 +113,10 @@
                   type="email"
                   name="email"
                   placeholder="Email Address"
+                  required
                 />
+                <!-- email error messege-->
+                <span id="regemail-error"></span>
               </div>
               <div class="reg-pass">
                 <div class="new-pass">
@@ -120,7 +127,11 @@
                     type="password"
                     name="password"
                     placeholder="Enter a Password"
+                    required
+                    minlength="8"
                   />
+                  <!-- password error messege-->
+                  <span id="regPass-error"></span>
                 </div>
                 <div class="confirm-pass">
                   <label class="form-label" for="confirm-pass"
@@ -132,7 +143,11 @@
                     type="password"
                     name="confirm-pass"
                     placeholder="Re Enter the Password"
+                    required
+                    minlength="8"
                   />
+                  <!--password confirm error messege-->
+                  <span id="regConfirmPass-error"></span>
                 </div>
               </div>
               <div class="ed">
@@ -143,7 +158,10 @@
                   type="text"
                   name="dep"
                   placeholder="Computer System Engineering"
+                  required
                 />
+                <!--department error messege-->
+                <span id="dep-error"></span>
               </div>
               <div class="intel">
                 <div class="ID">
@@ -154,7 +172,10 @@
                     type="text"
                     name="ID_num"
                     placeholder="CS/20XX/XXX"
+                    required
                   />
+                  <!--Index number error messege-->
+                  <span id="id-error"></span>
                 </div>
                 <div class="tele">
                   <label class="form-label" for="tel">Contact Number</label>
@@ -164,10 +185,14 @@
                     type="tel"
                     name="tel"
                     placeholder="07x-xxxxxxx"
+                    pattern="07[0-9]{8}"
+                    title="Enter a valid Sri Lankan number"
+                    required
                   />
+                  <!--contact error messege-->
+                  <span id="tel-error"></span>
                 </div>
               </div>
-
               <button class="signup-submit" type="submit">Sign Up</button>
               <p class="login-link">
                 Have an Account?
@@ -180,12 +205,6 @@
                   ><b>Login</b></a
                 >
               </p>
-              <button
-                type="submit"
-                onclick="window.location.href = 'index.html'"
-              >
-                Guest
-              </button>
             </form>
           </div>
         </div>
