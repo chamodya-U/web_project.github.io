@@ -97,6 +97,7 @@ nav ul li a:hover {
 }
 #banner img {
   width: 100%;
+  min-width: 800px;
   object-fit: cover;
 }
 
@@ -124,6 +125,7 @@ nav ul li a:hover {
 #banner_dis * {
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 #bottom1 {
@@ -887,3 +889,29 @@ button.signup-submit:hover {
   }
 }
 /* *{border:1px solid red} */
+
+@media screen and (max-width: 850px) {
+  #bottom1 {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  #bottom1 div {
+    width: 100%;
+  }
+
+  .bottom2 {
+    flex-direction: column;
+  }
+
+  .bottom2 div {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .foot1 img {
+    max-width: 115px;
+  }
+}
