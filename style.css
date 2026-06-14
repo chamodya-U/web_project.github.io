@@ -144,10 +144,10 @@ nav ul li a:hover {
 }
 
 .foot2 img {
-  width: 10%;
+  width: 50px;
   background-color: rgb(211, 211, 211);
   border: 5px solid rgb(210, 210, 210);
-  border-radius: 50px;
+  border-radius: 40px;
 }
 /* *{border:1px solid red;} */
 
@@ -912,6 +912,7 @@ button.signup-submit:hover {
     margin: 0px;
   }
 
+  /* index.html responsive */
   #bottom1 {
     width: 100%;
     flex-direction: column;
@@ -938,5 +939,15 @@ button.signup-submit:hover {
 
   #banner_dis h1 {
     margin-bottom: 30px;
+  }
+  #banner,#shade{
+    height:auto;
+  }
+  #collection{
+    height:450px;
+  }
+
+  .foot2{
+    margin:20px 0;
   }
 }
