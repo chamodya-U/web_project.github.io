@@ -45,9 +45,6 @@ function validatePass() {
     showError(passError, "Password is required.");
     return false;
   }
-  if (value === "admin") {
-    return true;
-  }
   if (value.length < 8) {
     showError(passError, "Password must be at least 8 characters.");
     return false;
@@ -80,10 +77,6 @@ function validateEmail() {
     showError(emailError, "Email address is required.");
     return false;
   }
-
-  if (value === "admin") {
-    return true;
-  }
   if (!value.includes("@") || !value.includes(".")) {
     showError(emailError, "Enter a valid email address.");
     return false;
@@ -95,7 +88,7 @@ function validateEmail() {
 //blur listner
 //it checks every keystroke untill the right one enters
 loginEmail.addEventListener("input", validateEmail);
-loginPass.addEventListener("input", validatePass);
+//loginPass.addEventListener("blur", validatePass);
 
 loginForm.addEventListener("submit", (event) => {
   event.preventDefault();
@@ -104,8 +97,13 @@ loginForm.addEventListener("submit", (event) => {
   const pass = validatePass();
 
   if (email && pass) {
-    console.log("form is valid!");
-    window.location.href = "index.html";
+    const correntEmail = "admin@gmail.com";
+    const correctPass = "Admin123#";
+    if (correntEmail === loginEmail.value && correctPass === loginPass.value) {
+      window.location.href = "index.html";
+    } else {
+      showError(passError, "Invalid Email or Password");
+    }
   }
 });
 
