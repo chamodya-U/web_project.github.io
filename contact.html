@@ -25,6 +25,20 @@
         <div id="banner"><img src="src/library.png" alt="hero.png"></div>
         <div id="shade"></div>
         
+    <div id="content">
+        <span class="content-tag">We're here to help</span>
+        <h1>Contact Us</h1>
+        <p>
+        Whether you have questions about your library account,
+        borrowing and returning books, accessing digital resources,
+        reserving materials, or reporting a technical issue, our team
+        is here to help.
+        </p>
+        <a href="#contactus" class="content-btn">Send us a message ↓</a>
+    </div>
+
+
+        <!--
         <div id="content">
         <h1 >Contact Us</h1>
 
@@ -34,33 +48,84 @@
             reserving materials, or reporting a technical issue, our team
             is here to help.
         </p>
-
-        <p>
-            Use the contact form below to send us your inquiry, and we'll
-            respond as soon as possible.
-        </p>
-
-        <p id="cont_info">
-           <a href="mailto:yourlibrary@email.com"> Email: yourlibrary@email.com</a> <br>
-            Phone: +94 XX XXX XXXX <br>
-            Address: Your Library Address
-        </p>
     </div>
+-->
     
     </div>
-    
     <div id="loc">
-        <div id="Location" ><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.3342799975185!2d79.90258541063427!3d6.9698330930017605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25981ae4d0dd7%3A0xc61b6f912200f5b9!2sFCT%20New%20Building%20-%20University%20of%20Kelaniya!5e0!3m2!1sen!2slk!4v1781361475950!5m2!1sen!2slk" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>    
-        <div id ="Loc_disc"><h1>Our Location</h1><br>
-            <p>Faculty Library, <br>
-                Bulugaha Junction,<br>
-                Universitiy of kelaniya.
-            </p>
+    <div class="location-wrapper">
+        <div class="map-container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.3342799975185!2d79.90258541063427!3d6.9698330930017605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25981ae4d0dd7%3A0xc61b6f912200f5b9!2sFCT%20New%20Building%20-%20University%20of%20Kelaniya!5e0!3m2!1sen!2slk!4v1781361475950!5m2!1sen!2slk" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
+        
+        <div class="location-info">
+        <h1>Our Location</h1>
+        <p>Faculty Library,<br>Bulugaha Junction,<br>University of Kelaniya.</p>
+        
+        <div class="visiting-info">
+            <div class="visit-item">
+            <span class="visit-icon">🕒</span>
+            <div>
+            <h4>Opening Hours</h4>
+            <p>Weekdays: 8.00 am – 7.00 pm<br>Weekends: 8.30 am – 6.00 pm</p>
+            <a href="about.html">Click here to see more details</a>
+      </div>
     </div>
 
-        <footer>
+    <div class="visit-item">
+      <span class="visit-icon">🚗</span>
+      <div>
+        <h4>Parking</h4>
+        <p>Free visitor parking is available at the Faculty entrance.</p>
+      </div>
+    </div>
+
+    <div class="visit-item">
+      <span class="visit-icon">🚌</span>
+      <div>
+        <h4>Public Transit</h4>
+        <p>Bus routes 245 & 187 stop at Bulugaha Junction, a 5-minute walk away.</p>
+      </div>
+    </div>
+  </div>
+            
+    </div>
+    </div>
+    </div>
+    
+
+<div class="contact-section" id="contactus">
+  <div class="contact-info-card">
+    <h2>Get in Touch</h2>
+    <p>
+        Use the contact form below to send us your inquiry, and we'll
+        respond as soon as possible.
+    </p>
+    <p>📧 <a href="mailto:yourlibrary@email.com">yourlibrary@email.com</a></p>
+    <p>📞 +94 XX XXX XXXX</p>
+    <p>📍 Your Library Address</p>
+  </div>
+
+  <form class="contact-form">
+    <label for="name">Name</label>
+    <input type="text" id="name" placeholder="Your name" required>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" placeholder="you@example.com" required>
+
+    <label for="subject">Subject</label>
+    <input type="text" id="subject" placeholder="What's this about?">
+
+    <label for="message">Message</label>
+    <textarea id="message" rows="5" placeholder="Write your message..." required></textarea>
+
+    <button type="submit" class="contact-submit">Send Message</button>
+  </form>
+</div>
+
+    <!--Footer-->
+    
+    <footer>
       <div class="bottom2">
         <div class="foot1">Digital Library<br><br><small style="color:gray">Empowering minds through universal access to knowledge and information since 2026</small></div>
         <div class="foot1">Quick Link<br>
