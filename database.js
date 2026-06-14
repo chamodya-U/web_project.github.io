@@ -4,7 +4,7 @@ const books = [
     name: "The Hunger Games",
     author: "Suzanne Collins",
     description:
-      "A popular young adult title by Suzanne Collins, since its release in 2008, it has earned a large readership worldwide.",
+      "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. Each year, the Capitol forces each district to send one boy and one girl between the ages of twelve and eighteen to participate in the Hunger Games, a brutal fight to the death broadcast live on television. When sixteen-year-old Katniss Everdeen volunteers to take her younger sister's place, she must rely on her expert hunting skills, sharp instincts, and unwillingness to be a pawn in the Capitol's cruel game. As she navigates the deadly arena, she forms unexpected alliances, confronts moral dilemmas, and becomes a symbol of rebellion that could ignite a revolution. This gripping young adult dystopian novel explores themes of sacrifice, inequality, media manipulation, and the power of hope. Since its release in 2008, it has earned a massive readership worldwide, inspired a blockbuster film franchise, and sparked important conversations about violence, privilege, and resistance.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1447303603m/2767052.jpg",
     numberOfPages: 554,
@@ -16,7 +16,7 @@ const books = [
     name: "Harry Potter and the Sorcerer's Stone",
     author: "J.K. Rowling, Mary GrandPré",
     description:
-      "A widely read fantasy work by J.K. Rowling, Mary GrandPré, first published in 1997, it has become a favorite among readers of the genre.",
+      "Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his cruel aunt and uncle. But on his eleventh birthday, a giant, beetle-eyed man named Rubeus Hagrid bursts in with astonishing news: Harry is a wizard, and he has been accepted to Hogwarts School of Witchcraft and Wizardry. Harry soon learns that his parents were not killed in a car crash but were murdered by the dark wizard Lord Voldemort, who also left Harry with a lightning-shaped scar and mysterious powers. An incredible adventure is about to begin, filled with magical creatures, enchanted chess, a three-headed dog, and the mysterious Sorcerer's Stone that grants immortality. This beloved fantasy novel captures the wonder of discovering a hidden world, the joy of true friendship, and the courage to face evil. Since 1997, it has captivated millions of readers, launching one of the most successful and beloved series in literary history.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1474154022m/3.jpg",
     numberOfPages: 698,
@@ -28,7 +28,7 @@ const books = [
     name: "Twilight",
     author: "Stephenie Meyer",
     description:
-      "A widely read young adult work by Stephenie Meyer, released in 2005, it remains a frequently recommended read in its category.",
+      "When Isabella 'Bella' Swan moves from sunny Phoenix, Arizona, to the perpetually rainy and gloomy town of Forks, Washington, to live with her father, she expects nothing but boredom. But everything changes when she meets the mysterious, alluring, and impossibly beautiful Edward Cullen. Edward is aloof, cold to the touch, and seems to harbor a dangerous secret. Bella soon discovers that Edward and his family are vampires—though they have sworn to hunt animals rather than humans. As Bella is drawn into Edward's world of immortal beings, family loyalty, and ancient rivalries, she must navigate the risks of falling in love with someone who could kill her with a single lapse in control. This young adult romance blends supernatural suspense with intense emotional drama, exploring the boundaries of love, sacrifice, and what it means to be human. Released in 2005, it remains a frequently recommended read and spawned a massive cultural phenomenon, including multiple sequels and major motion pictures that defined a generation of paranormal romance.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361039443m/41865.jpg",
     numberOfPages: 746,
@@ -40,7 +40,7 @@ const books = [
     name: "To Kill a Mockingbird",
     author: "Harper Lee",
     description:
-      "A widely read classics work by Harper Lee, since 1960, it has been praised for its storytelling and lasting appeal.",
+      "Set in the sleepy, fictional Alabama town of Maycomb during the Great Depression, this Pulitzer Prize-winning classic is narrated by young Scout Finch, a tomboy who learns harsh lessons about prejudice, empathy, and moral courage. Scout, her older brother Jem, and their widowed father Atticus, a principled lawyer, live a comfortable life until Atticus agrees to defend Tom Robinson, a black man falsely accused of raping a white woman. As the trial unfolds, the Finch family faces condemnation from their neighbors, threats of violence, and the loss of innocence. Through Scout's innocent yet perceptive eyes, readers witness the deep-seated racism, hypocrisy, and quiet courage of a community grappling with injustice. Harper Lee's only novel for decades has been praised for its warmth, humor, and profound humanity, becoming a cornerstone of American literature and a staple of school curricula since 1960.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1361975680m/2657.jpg",
     numberOfPages: 369,
@@ -52,7 +52,7 @@ const books = [
     name: "The Great Gatsby",
     author: "F. Scott Fitzgerald",
     description:
-      "A widely read classics work by F. Scott Fitzgerald, first published in 1925, it has become a favorite among readers of the genre.",
+      "Set on the glamorous North Shore of Long Island during the Roaring Twenties, this iconic novel follows the mysterious millionaire Jay Gatsby and his obsessive love for the beautiful, shallow Daisy Buchanan. Narrated by Gatsby's neighbor Nick Carraway, a Yale graduate and World War I veteran who moves to New York to learn the bond business, the story unfolds through extravagant parties, secret desires, and tragic misunderstandings. Gatsby, born poor and having reinvented himself, amasses his fortune solely to win Daisy's love, but he cannot escape his past or the carelessness of the wealthy elite. Fitzgerald's masterpiece critiques the American Dream, class structure, moral decay, and the emptiness behind the era's glittering surface. First published in 1925, it has become a favorite among readers for its lyrical prose, vivid symbolism, and timeless themes of aspiration and loss.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1490528560m/4671.jpg",
     numberOfPages: 594,
@@ -64,7 +64,7 @@ const books = [
     name: "The Fault in Our Stars",
     author: "John Green",
     description:
-      "An acclaimed young adult book written by John Green, first published in 2012, it has become a favorite among readers of the genre.",
+      "Hazel Grace Lancaster, a sixteen-year-old cancer patient, is forced by her parents to attend a support group where she meets and falls in love with Augustus Waters, a charming, witty, and incredibly handsome amputee and former basketball player. Augustus is in remission, but Hazel carries an oxygen tank and knows her time is limited. Together they embark on a journey to Amsterdam to meet their reclusive author, Peter Van Houten, whose novel about a cancer-stricken girl has given Hazel a vocabulary for her own experience. What they find is disappointment, but also the profound realization that love, loss, and life's fragility are deeply intertwined. John Green's heartbreakingly honest novel explores the humor and tragedy of young love against the backdrop of terminal illness, asking what it means to leave a mark on the world. Since its publication in 2012, it has become a beloved staple of young adult literature and was adapted into a successful film.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1360206420m/11870085.jpg",
     numberOfPages: 396,
@@ -76,7 +76,7 @@ const books = [
     name: "The Hobbit",
     author: "J.R.R. Tolkien",
     description:
-      "A widely read fantasy work by J.R.R. Tolkien, since 1937, it has been praised for its storytelling and lasting appeal.",
+      "Bilbo Baggins, a comfort-loving, respectable hobbit who enjoys his cozy hobbit-hole, good food, and a warm fireplace, is swept into an epic quest when the wizard Gandalf and a company of thirteen dwarves arrive at his door unannounced. Their mission: to reclaim a stolen treasure guarded by the fearsome dragon Smaug in the Lonely Mountain. Along the way, the reluctant adventurer encounters trolls who want to eat them, elves who are both beautiful and dangerous, giant spiders in Mirkwood Forest, and the mysterious, wretched creature Gollum, from whom Bilbo acquires a magical ring that grants invisibility. This prelude to The Lord of the Rings is a timeless adventure about courage, friendship, and discovering the hero within even the most unlikely of individuals. Since 1937, it has enchanted readers of all ages with its whimsical tone, rich world-building, and profound themes, remaining a pillar of modern fantasy literature.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1372847500m/5907.jpg",
     numberOfPages: 584,
@@ -88,7 +88,7 @@ const books = [
     name: "The Catcher in the Rye",
     author: "J.D. Salinger",
     description:
-      "A widely read classics work by J.D. Salinger, since 1951, it has been praised for its storytelling and lasting appeal.",
+      "Holden Caulfield, a disaffected and cynical teenager expelled from yet another prestigious prep school, Pencey Prep, decides to wander the streets of New York City over a few cold December days before returning home to face his parents. Holden grapples with profound grief over his beloved younger brother Allie's death from leukemia, alienation from the 'phony' adult world he despises, and a fierce, desperate desire to protect childhood innocence. He imagines himself as the 'catcher in the rye,' saving children from falling off a cliff into adulthood. Narrated in Holden's raw, colloquial, and deeply authentic voice, the novel captures teenage angst, confusion, and rebellion with unprecedented honesty. Since its publication in 1951, it has been both banned and celebrated, becoming an enduring symbol of adolescent disillusionment and a cornerstone of twentieth-century American literature.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1398034300m/5107.jpg",
     numberOfPages: 276,
@@ -100,7 +100,7 @@ const books = [
     name: "Angels & Demons",
     author: "Dan Brown",
     description:
-      "One of Dan Brown's best-known fiction books, since 2000, it has been praised for its storytelling and lasting appeal.",
+      "Harvard symbologist Robert Langdon is awakened by a frantic phone call and summoned to a Swiss research facility to analyze a mysterious symbol seared into the chest of a murdered physicist. The symbol is the Illuminati brand, marking the resurgence of an ancient secret brotherhood that has emerged from hiding to enact its final revenge against its mortal enemy: the Catholic Church. As Langdon races through the streets of Rome, following a trail of ancient symbols, religious architecture, and hidden clues, he discovers that the Illuminati have stolen a vial of antimatter capable of destroying the Vatican. With the clock ticking toward the conclave to elect a new pope, Langdon must stop a catastrophic act of terrorism. This fast-paced thriller blends art, history, science, and religious conspiracy, and since its release in 2000, it has been praised for its gripping plot and intellectual puzzles.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1303390735m/960.jpg",
     numberOfPages: 213,
@@ -112,7 +112,7 @@ const books = [
     name: "Pride and Prejudice",
     author: "Jane Austen",
     description:
-      "A celebrated work of classics from Jane Austen, since 1813, it has been praised for its storytelling and lasting appeal.",
+      "In the English countryside of the early nineteenth century, the Bennet family faces the urgent and increasingly desperate task of marrying off their five daughters to secure their financial future, as their estate is entailed to a male cousin. When wealthy, aristocratic Mr. Charles Bingley moves into nearby Netherfield Park with his even wealthier and much more aloof friend, Mr. Fitzwilliam Darcy, the Bennet sisters' hopes are raised. But Darcy clashes fiercely with the sharp-tongued, intelligent, and spirited Elizabeth Bennet, whose initial prejudice against his arrogance is matched only by his pride. Their witty banter, misunderstandings, and gradual understanding give rise to one of literature's most beloved and enduring romances. Jane Austen's comedy of manners brilliantly satirizes social class, marriage, morality, and gender roles in Regency England. Since 1813, it has remained an enduring classic, beloved for its memorable characters and sparkling dialogue.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1320399351m/1885.jpg",
     numberOfPages: 556,
@@ -124,7 +124,7 @@ const books = [
     name: "The Kite Runner",
     author: "Khaled Hosseini",
     description:
-      "A widely read fiction work by Khaled Hosseini, since its release in 2003, it has earned a large readership worldwide.",
+      "Set against the tumultuous backdrop of a changing Afghanistan from the fall of the monarchy to the rise of the Taliban, this powerful and heartbreaking novel follows the friendship between Amir, a privileged Pashtun boy, and Hassan, the son of his Hazara servant. After Amir betrays Hassan in a moment of unforgivable cowardice, he spends decades haunted by guilt, shame, and the memory of the person who once said to him, 'For you, a thousand times over.' When an old friend summons him to Pakistan and tells him, 'There is a way to be good again,' Amir returns to his war-torn homeland to seek redemption and rescue Hassan's son from a terrible fate. Khaled Hosseini's debut weaves a devastating tale of love, betrayal, class conflict, and the complex bonds between fathers and sons. Since its release in 2003, it has earned a large readership worldwide and brought modern Afghan history into the global literary spotlight.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1484565687m/77203.jpg",
     numberOfPages: 197,
@@ -136,7 +136,7 @@ const books = [
     name: "Divergent",
     author: "Veronica Roth",
     description:
-      "A celebrated work of young adult from Veronica Roth, since its release in 2011, it has earned a large readership worldwide.",
+      "In a futuristic, post-apocalyptic Chicago, society has been divided into five factions, each dedicated to a specific virtue: Abnegation (the selfless), Dauntless (the brave), Erudite (the intelligent), Amity (the peaceful), and Candor (the honest). Beatrice Prior, a sixteen-year-old from Abnegation, must choose where she belongs for the rest of her life—but she has a secret that could get her killed. She is 'Divergent,' someone who does not fit neatly into any one faction, which makes her impossible to control and a threat to the social order. As she navigates the brutal, adrenaline-fueled initiation process of Dauntless, where she renames herself Tris, she must hide her true nature or risk execution at the hands of those who fear what they cannot control. This thrilling dystopian novel explores identity, conformity, courage, and the nature of fear. Since its 2011 release, it has become a favorite among young adult readers and was adapted into a major film franchise.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1328559506m/13335037.jpg",
     numberOfPages: 446,
@@ -148,7 +148,7 @@ const books = [
     name: "1984",
     author: "George Orwell, Erich Fromm, Celâl Üster",
     description:
-      "An acclaimed fiction book written by George Orwell, Erich Fromm, Celâl Üster, since its release in 1949, it has earned a large readership worldwide.",
+      "In the grim, totalitarian superstate of Oceania, where the Party watches every citizen's every move through omnipresent telescreens, Winston Smith works at the Ministry of Truth, rewriting historical records to align with the Party's ever-changing version of reality. But Winston secretly despises the oppressive regime led by the enigmatic Big Brother. He begins a forbidden love affair with Julia and commits the ultimate crime of thoughtcrime: keeping a diary. As he attempts to join an underground resistance, he is captured and brought to Room 101, where he confronts his deepest fears. Orwell's chilling dystopian masterpiece, published in 1949, introduced concepts like Newspeak, doublethink, and thought police that have become shorthand for government surveillance and manipulation. This prophetic novel warns of totalitarianism, the destruction of truth, and the power of language to control human thought, remaining terrifyingly relevant decades after its publication.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1348990566m/5470.jpg",
     numberOfPages: 703,
@@ -160,7 +160,7 @@ const books = [
     name: "Animal Farm",
     author: "George Orwell",
     description:
-      "A widely read classics work by George Orwell, since 1945, it has been praised for its storytelling and lasting appeal.",
+      "When the mistreated animals of Manor Farm overthrow their drunken, cruel master Mr. Jones, they establish a new society based on the Seven Commandments of Animalism, with the principle that 'All animals are equal.' Led by the intelligent pigs Snowball and Napoleon, the animals initially enjoy a better life. But soon Napoleon, using a pack of ferocious dogs, seizes absolute power, drives Snowball out, and begins to alter the commandments. The pigs adopt human behaviors—sleeping in beds, drinking alcohol, wearing clothes—and eventually walk on two legs. The final commandment reads, 'All animals are equal, but some are more equal than others.' Orwell's brilliant allegory satirizes the Russian Revolution and Stalin's betrayal of its ideals. Published in 1945, this novella remains a timeless warning about how power corrupts idealistic movements and how tyranny can emerge from revolution.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1424037542m/7613.jpg",
     numberOfPages: 465,
@@ -172,7 +172,7 @@ const books = [
     name: "The Diary of a Young Girl",
     author: "Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",
     description:
-      "A celebrated work of non-fiction from Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday, since its release in 1947, it has earned a large readership worldwide.",
+      "For two years during World War II, thirteen-year-old Anne Frank, her family, and four other Jews hid in a secret annex behind a bookcase in Amsterdam, avoiding Nazi capture. During that time, Anne kept a diary, writing with remarkable honesty, wit, and insight about her daily life, her dreams, her budding sexuality, her conflicts with her mother, her growing affection for Peter van Pels, and her hopes for humanity. She wrote, 'In spite of everything, I still believe that people are really good at heart.' Tragically, the annex was discovered in 1944, and Anne died of typhus at Bergen-Belsen concentration camp at age fifteen. Her father, Otto, the only survivor, published her diary in 1947. Since then, it has been translated into over seventy languages, read by millions, and become one of the most powerful documents of the Holocaust—a testament to a young girl's indomitable spirit and a haunting reminder of the cost of hatred.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1358276407m/48855.jpg",
     numberOfPages: 255,
@@ -184,7 +184,7 @@ const books = [
     name: "The Girl with the Dragon Tattoo",
     author: "Stieg Larsson, Reg Keeland",
     description:
-      "A celebrated work of fiction from Stieg Larsson, Reg Keeland, since 2005, it has been praised for its storytelling and lasting appeal.",
+      "Disgraced financial journalist Mikael Blomkvist accepts an unusual assignment: to solve the forty-year-old disappearance of Harriet Vanger, the beloved niece of retired industrialist Henrik Vanger. He is joined by Lisbeth Salander, a brilliant but deeply troubled hacker with a dragon tattoo and photographic memory, who has survived unspeakable abuse from Sweden's guardianship system. Together, they uncover a dark history of serial murder, family secrets, and Nazi ties, while also exposing a corrupt businessman who nearly destroyed Blomkvist's career. Larsson's posthumously published thriller, the first in the Millennium series, became an international sensation for its compelling characters, intricate plotting, and searing social commentary on violence against women. Since its release in 2005, it has sold over 80 million copies worldwide and inspired multiple film adaptations, introducing one of literature's most unforgettable heroines.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327868566m/2429135.jpg",
     numberOfPages: 342,
@@ -196,7 +196,7 @@ const books = [
     name: "Catching Fire",
     author: "Suzanne Collins",
     description:
-      "A popular young adult title by Suzanne Collins, first published in 2009, it has become a favorite among readers of the genre.",
+      "After surviving the 74th Hunger Games and defying the Capitol by forcing a double victory with Peeta Mellark, Katniss Everdeen should be safe. Instead, she is more endangered than ever. President Snow visits her home and threatens to kill everyone she loves unless she convinces the districts that her berry trick was an act of lovesick desperation, not rebellion. But Katniss cannot control the spark she ignited. As she and Peeta embark on the Victory Tour through Panem's hungry, resentful districts, unrest spreads like wildfire. To silence her, the Capitol announces a shocking twist for the 75th Hunger Games, the Quarter Quell: the tributes will be chosen from the pool of existing victors. Katniss must return to the arena, where she faces allies and enemies alike, knowing that the only way to survive may be to burn the Capitol down. This second installment intensifies the series' themes of sacrifice, revolution, and the cost of defiance, building toward an explosive conclusion.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1358273780m/6148028.jpg",
     numberOfPages: 710,
@@ -208,7 +208,7 @@ const books = [
     name: "Harry Potter and the Prisoner of Azkaban",
     author: "J.K. Rowling, Mary GrandPré, Rufus Beck",
     description:
-      "A widely read fantasy work by J.K. Rowling, Mary GrandPré, Rufus Beck, since 1999, it has been praised for its storytelling and lasting appeal.",
+      "When the dreaded Sirius Black escapes from the wizard prison Azkaban, believed to be the first escape in centuries, all of the wizarding world is terrified. Black is a convicted supporter of Lord Voldemort and is said to be coming for Harry Potter. But as Harry enters his third year at Hogwarts, he learns that the truth is far more complex. With the help of the eccentric new Defense Against the Dark Arts professor, Remus Lupin, Harry learns to cast the Patronus Charm—a magical guardian that repels Dementors, the soul-sucking prison guards. As Harry uncovers the secrets of his parents' deaths, the identity of the traitor who betrayed them, and the true story of Sirius Black, he faces impossible choices about loyalty, justice, and revenge. This installment deepens the series' emotional stakes, introduces the complex concept of time travel, and reveals that the line between good and evil is rarely clear. Rowling weaves a tight, surprising plot that has captivated readers since 1999.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1499277281m/5.jpg",
     numberOfPages: 211,
@@ -220,7 +220,7 @@ const books = [
     name: "The Fellowship of the Ring",
     author: "J.R.R. Tolkien",
     description:
-      "A celebrated work of fantasy from J.R.R. Tolkien, since its release in 1954, it has earned a large readership worldwide.",
+      "When Bilbo Baggins leaves the Shire on his 111th birthday, he leaves behind a mysterious golden ring to his young cousin Frodo. The wizard Gandalf reveals that this is the One Ring, created by the Dark Lord Sauron to control all the rings of power and enslave Middle-earth. If Sauron recovers it, all hope is lost. Frodo must leave his beloved Shire and carry the Ring to the only place it can be destroyed: the fires of Mount Doom in the heart of Sauron's land, Mordor. He is joined by eight companions—the Fellowship—including the brave human Aragorn, heir to the throne of Gondor; the elf Legolas; the dwarf Gimli; the wise wizard Gandalf; and his loyal hobbit friends Sam, Merry, and Pippin. Their perilous journey takes them through the ancient mines of Moria, the enchanted forest of Lothlórien, and the looming threat of the Dark Lord's servants. Since its release in 1954, this epic fantasy has defined the genre, blending myth, language, and profound themes of friendship, sacrifice, and the struggle against overwhelming evil.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1298411339m/34.jpg",
     numberOfPages: 658,
@@ -232,7 +232,7 @@ const books = [
     name: "Mockingjay",
     author: "Suzanne Collins",
     description:
-      "A celebrated work of young adult from Suzanne Collins, published in 2010, it continues to be discussed and recommended by readers.",
+      "After the destruction of District 12 and the rescue of the remaining survivors, Katniss Everdeen awakens in the ruins of District 13—a district she was told no longer existed. District 13 has been preparing for war against the Capitol for decades, and they need a symbol to unite the oppressed districts. Katniss reluctantly becomes the Mockingjay, the face of the rebellion. But she is broken: her home is gone, Peeta has been captured and tortured by the Capitol, and she is haunted by the faces of those she could not save. As the districts rise in open rebellion, Katniss must decide whether she is fighting for justice or revenge. She discovers that District 13's leader, President Coin, may be as ruthless as President Snow. The final book of the Hunger Games trilogy forces Katniss to confront the true cost of war, the nature of power, and what it means to be a hero. Published in 2010, this dark, unflinching conclusion to the groundbreaking series continues to be discussed and recommended by readers for its powerful anti-war message and complex moral questions.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1358275419m/7260188.jpg",
     numberOfPages: 471,
@@ -244,7 +244,7 @@ const books = [
     name: "Harry Potter and the Order of the Phoenix",
     author: "J.K. Rowling, Mary GrandPré",
     description:
-      "An acclaimed fantasy book written by J.K. Rowling, Mary GrandPré, since 2003, it has been praised for its storytelling and lasting appeal.",
+      "Harry Potter returns for his fifth year at Hogwarts to discover that the wizarding world is in denial: Lord Voldemort has returned, but the Ministry of Magic refuses to believe it. To silence Harry and Dumbledore, the Ministry appoints the sadistic Dolores Umbridge as the new Defense Against the Dark Arts professor and later as High Inquisitor of Hogwarts. As Umbridge refuses to teach practical defensive magic, Harry secretly forms 'Dumbledore's Army' to teach his classmates what they need to survive. Meanwhile, Harry is plagued by visions of Voldemort's thoughts and actions, and he struggles with the grief of losing fellow champion Cedric Diggory. The Order of the Phoenix, a secret organization including his godfather Sirius Black, is fighting in the shadows. When Harry has a vision that Sirius is being tortured, he races to the Department of Mysteries—only to fall into Voldemort's trap. This longest book in the series, published in 2003, explores teenage angst, the failure of institutions, the consequences of secrecy, and the profound loss that comes with growing up in wartime, ending with a devastating death that changes Harry forever.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1387141547m/2.jpg",
     numberOfPages: 614,
@@ -256,7 +256,7 @@ const books = [
     name: "The Lovely Bones",
     author: "Alice Sebold",
     description:
-      "A popular fiction title by Alice Sebold, released in 2002, it remains a frequently recommended read in its category.",
+      "On a snowy December day in 1973, fourteen-year-old Susie Salmon, a typical suburban teenager, is lured into a cornfield by her neighbor, Mr. Harvey, and brutally murdered. From her personalized heaven, Susie watches as her family and friends grapple with her loss, her killer remains free, and the investigation stalls. Her father grows obsessed with finding the truth, her mother retreats into an affair, her sister grows up too fast trying to protect their younger brother, and the boy she had a crush on struggles with his own grief. Susie watches from her perfect world as her family fractures and slowly, painfully, begins to heal. This haunting and lyrical novel explores loss, trauma, justice, and the enduring bonds of family. Sebold, herself a survivor of sexual assault, writes with unflinching honesty and surprising beauty. Published in 2002, it became an instant classic, remaining a frequently recommended read for its unique narrative voice and its compassionate exploration of how love transcends even death.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1457810586m/12232938.jpg",
     numberOfPages: 404,
@@ -268,7 +268,7 @@ const books = [
     name: "Harry Potter and the Chamber of Secrets",
     author: "J.K. Rowling, Mary GrandPré",
     description:
-      "One of J.K. Rowling, Mary GrandPré's best-known fantasy books, since its release in 1998, it has earned a large readership worldwide.",
+      "Harry Potter returns to Hogwarts for his second year to find that someone—or something—has opened the Chamber of Secrets, releasing a monster that petrifies students. Muggle-born students are the targets, and the haunting message painted on the wall in blood warns that 'the Chamber of Secrets has been opened. Enemies of the heir, beware.' Suspicion falls on Harry, who speaks Parseltongue (snake language) and whose scar has been hurting. As students are petrified one by one, including Hermione Granger, Harry and Ron must solve the mystery before the monster kills someone. They discover that the Chamber was built by Salazar Slytherin, one of Hogwarts's founders, who wanted to purge Muggle-borns. The heir is revealed to be none other than Ron's sister, Ginny Weasley, possessed by the memory of the young Lord Voldemort hidden in a diary. This second installment, published in 1998, deepens the series' world-building and themes of prejudice, legacy, and the choice between good and evil, introducing the loyal house-elf Dobby and the dangerous phoenix Fawkes.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1474169725m/15881.jpg",
     numberOfPages: 233,
@@ -280,7 +280,7 @@ const books = [
     name: "Harry Potter and the Goblet of Fire",
     author: "J.K. Rowling, Mary GrandPré",
     description:
-      "A celebrated work of fantasy from J.K. Rowling, Mary GrandPré, released in 2000, it remains a frequently recommended read in its category.",
+      "Harry Potter's fourth year at Hogwarts is supposed to be exciting: the Triwizard Tournament, a dangerous competition between three wizarding schools, is being held at Hogwarts for the first time in centuries. But when Harry's name inexplicably emerges from the Goblet of Fire, he is forced to compete, even though he is underage and did not enter. Alongside Cedric Diggory of Hufflepuff, Viktor Krum of Durmstrang, and Fleur Delacour of Beauxbatons, Harry must face dragons, rescue captives from the lake, and navigate a deadly maze. But the Tournament is a trap. The final task transports Harry and Cedric to a graveyard, where Peter Pettigrew kills Cedric and uses Harry's blood to resurrect Lord Voldemort. Harry witnesses the rebirth of the Dark Lord, escapes, and returns to Hogwarts—but no one believes him except Dumbledore. This turning point in the series, published in 2000, moves from mystery to open conflict, ending with the death of a major character and the return of the series' ultimate villain, forever changing Harry and the wizarding world.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1361482611m/6.jpg",
     numberOfPages: 687,
@@ -292,7 +292,7 @@ const books = [
     name: "Harry Potter and the Deathly Hallows",
     author: "J.K. Rowling, Mary GrandPré",
     description:
-      "An acclaimed fantasy book written by J.K. Rowling, Mary GrandPré, released in 2007, it remains a frequently recommended read in its category.",
+      "Harry, Ron, and Hermione leave Hogwarts behind to complete the mission Dumbledore gave them: find and destroy Voldemort's Horcruxes—objects containing pieces of his soul. Without the protection of Hogwarts, the Ministry of Magic, or Dumbledore's guidance, they are hunted by Voldemort's forces, who have taken over the wizarding world. As they wander the British countryside, starving and desperate, they learn of the Deathly Hallows: three legendary objects that make their possessor the Master of Death. Harry must decide whether to seek the Hallows or continue hunting Horcruxes. The epic conclusion to the seven-book series, published in 2007, brings together every character and plot thread, culminating in the Battle of Hogwarts, where beloved characters die, secrets are revealed, and Harry must walk into the Forbidden Forest to face Voldemort alone. This massive finale explores themes of sacrifice, death, and the power of love, delivering a satisfying end to one of the most beloved series in literary history.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1474171184m/136251.jpg",
     numberOfPages: 609,
@@ -304,7 +304,7 @@ const books = [
     name: "The Da Vinci Code",
     author: "Dan Brown",
     description:
-      "A popular fiction title by Dan Brown, since 2003, it has been praised for its storytelling and lasting appeal.",
+      "In the Louvre, a museum curator is murdered, leaving behind a cryptic code of Fibonacci numbers and Da Vinci references. Harvard symbologist Robert Langdon is summoned to the scene, only to become the prime suspect. With the help of police cryptologist Sophie Neveu, the curator's granddaughter, Langdon flees and uncovers a conspiracy that has been hidden for two thousand years: the Holy Grail is not a cup but Mary Magdalene, the wife of Jesus, whose bloodline survives to this day. A secret society, the Priory of Sion, has protected this secret, while the Catholic organization Opus Dei has tried to destroy all evidence. As they race through Paris, London, and Scotland, Langdon and Sophie decode hidden messages in Da Vinci's paintings and church architecture. This controversial thriller, published in 2003, became a global phenomenon, selling over 80 million copies despite criticism for historical inaccuracies. Its fast-paced plot, puzzles, and exploration of religious history captivated readers worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1303252999m/968.jpg",
     numberOfPages: 224,
@@ -316,7 +316,7 @@ const books = [
     name: "Harry Potter and the Half-Blood Prince",
     author: "J.K. Rowling, Mary GrandPré",
     description:
-      "A widely read fantasy work by J.K. Rowling, Mary GrandPré, since 2005, it has been praised for its storytelling and lasting appeal.",
+      "Lord Voldemort and his Death Eaters are attacking both the wizarding and Muggle worlds with increasing boldness. Yet, while chaos reigns outside, Dumbledore focuses on private lessons with Harry, showing him memories of Voldemort's past in the Pensieve. They seek to understand how a orphaned half-blood boy named Tom Riddle became the Dark Lord, and to find the secret of his immortality: Horcruxes. Meanwhile, Harry discovers an old potions textbook annotated by the mysterious 'Half-Blood Prince,' whose spells give Harry unprecedented success in Potions class—and lead him into dangerous magic. Romance blossoms among the young characters, and Harry struggles with his feelings for Ginny Weasley and his jealousy of her boyfriend, Dean Thomas. This installment, published in 2005, is both the calm before the storm and the darkest book yet, ending with the devastating death of a beloved character on the Astronomy Tower. It sets the stage for the final confrontation, revealing that Harry's destiny is to destroy the Horcruxes—or die trying.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1361039191m/1.jpg",
     numberOfPages: 578,
@@ -328,7 +328,7 @@ const books = [
     name: "Lord of the Flies",
     author: "William Golding",
     description:
-      "One of William Golding's best-known classics books, released in 1954, it remains a frequently recommended read in its category.",
+      "When a plane crash strands a group of British schoolboys on a deserted tropical island, they initially rejoice at their freedom from adult authority. The boys elect Ralph as their leader, and he establishes rules: build a signal fire, build shelters, and use a conch shell to hold meetings. But the brilliant but savage Jack, obsessed with hunting pigs, resents Ralph's authority. As fear of a mysterious 'beast' grows, Jack exploits the boys' primal instincts, and their civilization collapses into savagery. They paint their faces, abandon the fire, murder two boys, and eventually hunt Ralph through the burning island, intending to kill him. Only the arrival of a naval officer, drawn by the inferno, saves Ralph's life. Golding's allegorical novel, published in 1954, explores the inherent darkness within human nature, the conflict between civilization and savagery, and the fragility of moral order. It remains a frequently recommended read in schools for its powerful examination of society, power, and the loss of innocence.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327869409m/7624.jpg",
     numberOfPages: 305,
@@ -338,9 +338,9 @@ const books = [
   {
     id: 29,
     name: "Romeo and Juliet",
-    author: "William Shakespeare, Robert           Jackson",
+    author: "William Shakespeare, Robert Jackson",
     description:
-      "An acclaimed classics book written by William Shakespeare, Robert           Jackson, published in 1595, it continues to be discussed and recommended by readers.",
+      "In the streets of Verona, two noble families—the Montagues and Capulets—have been feuding for so long that no one remembers how it began. But when Romeo Montague crashes a Capulet party and meets Juliet Capulet, they fall instantly and desperately in love, despite the impossibility of their union. With the help of Friar Laurence, they secretly marry, hoping to unite their families. But Tybalt, Juliet's fiery cousin, challenges Romeo to a duel, and when Romeo refuses, his friend Mercutio is killed. Romeo avenges him, killing Tybalt, and is banished from Verona. Meanwhile, Juliet's parents arrange her marriage to Paris. In desperation, Friar Laurence gives Juliet a potion that simulates death, hoping to reunite the lovers after she awakens. The message to Romeo never arrives. Believing Juliet dead, Romeo buys poison, returns to Verona, drinks it beside her tomb, and dies. Juliet awakens, finds Romeo dead, and stabs herself. Their deaths finally end the feud. Shakespeare's tragedy, published in 1595, explores love, hate, fate, and youthful passion, remaining one of his most performed and adapted plays.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327872146m/18135.jpg",
     numberOfPages: 190,
@@ -352,7 +352,7 @@ const books = [
     name: "Gone Girl",
     author: "Gillian Flynn",
     description:
-      "A widely read mystery work by Gillian Flynn, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "On the morning of their fifth wedding anniversary, Nick Dunne's beautiful, brilliant wife Amy disappears from their rented Missouri home. The police find signs of a struggle, and Nick's odd behavior—smiling at press conferences, failing a polygraph—makes him the prime suspect. But then his twin sister reveals that he has been having an affair, and the evidence against him mounts. Told in alternating chapters between Nick (present day) and Amy's diary (past), the truth slowly unravels. Amy is not dead; she has framed Nick for her murder, stage by careful stage, as revenge for his affair and his failure to live up to her impossible expectations. When Amy, tired of hiding, returns covered in blood claiming she was kidnapped, she traps Nick in a marriage neither can escape. Flynn's dark, twisty psychological thriller, published in 2012, subverts the missing-wife trope, exploring marriage as a performance, the masks couples wear, media manipulation, sociopathy, and the dangerous games love can become. It was adapted into a critically acclaimed film by David Fincher.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1339602131m/8442457.jpg",
     numberOfPages: 736,
@@ -364,7 +364,7 @@ const books = [
     name: "The Help",
     author: "Kathryn Stockett",
     description:
-      "A popular fiction title by Kathryn Stockett, released in 2009, it remains a frequently recommended read in its category.",
+      "In Jackson, Mississippi, during the early 1960s, racial segregation is the law of the land. Black maids raise white children, clean white homes, and cook white meals—but they are not allowed to use the same bathrooms as their employers. Skeeter, a recent white college graduate who wants to be a writer, decides to interview the black maids about their experiences working for white families. But this is a dangerous project: if discovered, the maids could lose their jobs, be arrested, or worse. Two maids, Aibileen and Minny, agree to tell their stories, which reveal the casual cruelties, humiliations, and occasional kindnesses of their lives. As the book nears publication, the women face threats and retaliation, but their stories expose the hypocrisy of a society built on separate-but-unequal. Stockett's debut novel, published in 2009, became an instant bestseller and was adapted into an Oscar-nominated film. It explores themes of courage, friendship across racial lines, the power of storytelling, and the ordinary heroism of women who risked everything for truth.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1346100365m/4667024.jpg",
     numberOfPages: 508,
@@ -376,7 +376,7 @@ const books = [
     name: "Of Mice and Men",
     author: "John Steinbeck",
     description:
-      "A celebrated work of classics from John Steinbeck, published in 1937, it continues to be discussed and recommended by readers.",
+      "During the Great Depression, two migrant workers—George Milton, a small, sharp-witted man, and Lennie Small, a giant of a man with the mind of a child—travel together through California, dreaming of owning their own farm where they can 'live off the fatta the lan.' Lennie, who loves to pet soft things but accidentally kills them with his strength, has gotten them fired from their last job. They find work on a ranch, where they meet an isolated cast: Candy, an old swamper with one hand; Curley, the aggressive boss's son; Curley's lonely, unnamed wife; and Crooks, the black stable hand forced to live apart. For a moment, the dream of their own farm seems within reach. But when Lennie accidentally kills Curley's wife, George must make the most painful decision of his life. Steinbeck's novella, published in 1937, explores themes of friendship, loneliness, the American Dream, and the fate of the powerless. The tragic ending, in which George shoots Lennie to save him from a lynch mob, remains one of literature's most devastating moments.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1437235233m/890.jpg",
     numberOfPages: 743,
@@ -388,7 +388,7 @@ const books = [
     name: "Memoirs of a Geisha",
     author: "Arthur Golden",
     description:
-      "An acclaimed fiction book written by Arthur Golden, first published in 1997, it has become a favorite among readers of the genre.",
+      "In 1929, nine-year-old Chiyo Sakamoto, a poor girl from a fishing village, is sold into the geisha district of Gion in Kyoto. Separated from her sister, she is forced to work as a servant for a cruel geisha, Hatsumomo, who torments her constantly. But when the renowned geisha Mameha, Hatsumomo's rival, takes Chiyo under her wing and trains her as a geisha, Chiyo's fortunes change. Renamed Sayuri, she rises to become one of Gion's most celebrated geishas, using her art of dance, music, and conversation to entertain powerful men. But the man she loves, the Chairman, is her patron's best friend, and she cannot have him without betraying her patron and everything she has earned. Set against the backdrop of World War II, which devastates the geisha world, this novel immerses readers in a hidden culture of beauty, rivalry, and sacrifice. Golden's debut, published in 1997, was a massive bestseller and adapted into an Oscar-nominated film. It explores the cost of ambition, the nature of art, and the power of hidden love.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Memoirs+of+a+Geisha",
@@ -401,7 +401,7 @@ const books = [
     name: "Fifty Shades of Grey",
     author: "E.L. James",
     description:
-      "A popular romance title by E.L. James, published in 2011, it continues to be discussed and recommended by readers.",
+      "Anastasia Steele, a shy, naive literature student, interviews the enigmatic young billionaire Christian Grey for her college newspaper. She is drawn to him despite—or perhaps because of—his intimidating intensity. Christian is equally drawn to Ana, but he offers her a contract, not a romance. He wants a submissive partner in a BDSM arrangement: rules, a non-disclosure agreement, and no expectations of a conventional relationship. Ana must decide whether she can embrace his dark desires or whether she needs the love and tenderness Christian claims he cannot give. As they negotiate the terms of their relationship, Ana discovers the traumatic past that made Christian who he is. James's erotic romance, originally published as fan fiction (Twilight-based), became a global phenomenon in 2011, selling over 125 million copies and sparking both passionate defenders and harsh critics. The trilogy's success brought BDSM themes into mainstream popular culture, though critics have raised concerns about its portrayal of consent and relationship dynamics. It remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1385207843m/10818853.jpg",
     numberOfPages: 216,
@@ -413,7 +413,7 @@ const books = [
     name: "The Alchemist",
     author: "Paulo Coelho, Alan R. Clarke",
     description:
-      "A widely read fiction work by Paulo Coelho, Alan R. Clarke, released in 1988, it remains a frequently recommended read in its category.",
+      "Santiago, a young Andalusian shepherd, has a recurring dream of treasure buried near the Egyptian pyramids. Encouraged by a mysterious king who tells him that 'when you want something, all the universe conspires in helping you to achieve it,' Santiago sells his sheep and embarks on a journey from Spain across North Africa. On his journey, he is robbed, works for a crystal merchant, crosses the desert with an Englishman who seeks the secret of alchemy, and falls in love with Fatima, a desert woman. He learns that the treasure is not where he expected, but the real reward is the journey itself—the wisdom, love, and self-discovery he gained along the way. Coelho's philosophical fable, published in 1988, has become one of the best-selling books in history, translated into over 80 languages. Its simple, parabolic style and message about following one's 'Personal Legend' have resonated with millions of readers seeking meaning and purpose. Critics call it simplistic, but fans call it transformative. It remains a frequently recommended read for its inspirational message.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1483412266m/865.jpg",
     numberOfPages: 741,
@@ -425,7 +425,7 @@ const books = [
     name: "The Giver",
     author: "Lois Lowry",
     description:
-      "An acclaimed fiction book written by Lois Lowry, released in 1993, it remains a frequently recommended read in its category.",
+      "Jonas lives in a seemingly perfect community: no war, no pain, no fear, no hunger, no poverty, no choices—and no colors, no music, no love, no memories of the past. Everyone is assigned a role at age twelve. Jonas is assigned to become the Receiver of Memory, the sole keeper of all the community's memories of the time before Sameness. His mentor, the Giver, transmits memories of snow, sunshine, pain, hunger, war, joy, and love—all the experiences the community has eliminated. As Jonas receives these memories, he begins to see his community's dark truth: all the conformity and safety come at the cost of human freedom and emotion. When he learns that the community's release of 'birthmothers' and 'newchildren' is actually euthanasia, Jonas escapes with a baby scheduled for release, returning the memories to the community and discovering a sled, music, and Christmas lights in a world he had forgotten existed. Lowry's Newbery-winning novel, published in 1993, explores the dangerous allure of sameness, the necessity of pain for joy, and the courage to choose emotion over security. It remains a frequently recommended read in schools for its accessible introduction to dystopian themes.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1342493368m/3636.jpg",
     numberOfPages: 545,
@@ -437,7 +437,7 @@ const books = [
     name: "The Lion, the Witch, and the Wardrobe",
     author: "C.S. Lewis",
     description:
-      "A popular fantasy title by C.S. Lewis, first published in 1950, it has become a favorite among readers of the genre.",
+      "During World War II, four siblings—Peter, Susan, Edmund, and Lucy Pevensie—are evacuated from London to live with the eccentric Professor Kirke in his sprawling country house. While playing hide-and-seek, Lucy discovers a magical wardrobe that leads to the land of Narnia, a world of talking animals, fauns, and centaurs—but also eternal winter. Narnia is under the spell of the White Witch, who claims to be Queen and has made it 'always winter but never Christmas.' Edmund, tempted by Turkish delight, betrays his siblings to the witch. But Aslan, the great lion and true king of Narnia, returns, and with his sacrifice—and resurrection—the witch's power is broken. The children are crowned kings and queens of Narnia, ruling for many years until they stumble back through the wardrobe and find themselves children again in the Professor's house. Lewis's classic, published in 1950, is a beloved Christian allegory exploring themes of sacrifice, redemption, temptation, and the battle between good and evil. It remains a favorite among readers of the genre for its imaginative world-building and timeless storytelling.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1353029077m/100915.jpg",
     numberOfPages: 622,
@@ -449,7 +449,7 @@ const books = [
     name: "The Time Traveler's Wife",
     author: "Audrey Niffenegger",
     description:
-      "A popular fiction title by Audrey Niffenegger, since its release in 2003, it has earned a large readership worldwide.",
+      "Henry DeTamble is a librarian at the Newberry Library in Chicago. He is also a chrono-displacement disorder sufferer, meaning he involuntarily travels through time, often naked, to different points in his own past and future. Clare Abshire is an artist who has known Henry since she was six years old—when he appeared in the meadow behind her house as a man in his thirties. Their love story is told in fragments, with Henry appearing in Clare's life at various ages (from child to old man) and Clare appearing in Henry's life at times he has not yet experienced. They meet, they fall in love, they marry, they struggle with Henry's absences and the miscarriages caused by their child's own time-traveling—and eventually, they face the day of Henry's death, which Clare has known about for decades. Niffenegger's debut novel, published in 2003, reimagines the time-travel romance with heartbreaking originality. It explores the nature of memory, the pain of waiting, the unpredictability of love, and whether we can change fate. The non-linear narrative and deep emotional resonance have earned it a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1437728815m/14050.jpg",
     numberOfPages: 269,
@@ -461,7 +461,7 @@ const books = [
     name: "A Game of Thrones",
     author: "George R.R. Martin",
     description:
-      "An acclaimed fiction book written by George R.R. Martin, first published in 1996, it has become a favorite among readers of the genre.",
+      "In the land of Westeros, summer has lasted for decades, and winter—a season of deadly cold and darkness—is coming. King Robert Baratheon visits his old friend Eddard 'Ned' Stark, Warden of the North, to ask him to become Hand of the King. But after Robert's suspicious death, Ned discovers the terrible secret that Robert's children are not his own—they are born of incest between his widow, Queen Cersei, and her twin brother, Jaime Lannister. When Ned is executed, war erupts across the Seven Kingdoms. Multiple factions vie for the Iron Throne: Ned's son Robb, declared King in the North; the late king's brothers Stannis and Renly; and the exiled children of the overthrown Targaryen dynasty—the young princess Daenerys, who hatches three dragons. Meanwhile, beyond the Wall, a 700-foot ice barrier protecting the realms of men, strange creatures called White Walkers rise. Martin's epic fantasy, the first in the A Song of Ice and Fire series, subverts traditional heroism, killing off beloved characters and portraying war as brutal, messy, and morally complex. Published in 1996, it became the basis for the hit HBO series Game of Thrones and revolutionized modern fantasy with its gritty realism, political intrigue, and unpredictable plotting.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1436732693m/13496.jpg",
     numberOfPages: 373,
@@ -473,7 +473,7 @@ const books = [
     name: "Eat, Pray, Love",
     author: "Elizabeth Gilbert",
     description:
-      "A popular non-fiction title by Elizabeth Gilbert, since its release in 2006, it has earned a large readership worldwide.",
+      "After a painful divorce and a devastating breakup, Elizabeth Gilbert, at thirty-four, finds herself crying on her bathroom floor, afraid of everything. She decides to spend a year traveling alone to three countries, each focusing on one aspect of her healing. In Italy, she eats—savoring pasta, pizza, gelato, and the Italian language itself, learning the art of pleasure and indulgence. In India, she prays—spending four months at an ashram, struggling with meditation, facing her grief and anger on a worn meditation cushion. In Bali, Indonesia, she finds balance—falling in love with a Brazilian businessman, Felipe, while learning from an elderly medicine man, Ketut Liyer, the secrets of 'unconditional love.' Gilbert's memoir, published in 2006, became an international bestseller, spending over 200 weeks on the New York Times bestseller list and adapted into a film starring Julia Roberts. It resonated with millions of women seeking self-discovery, healing, and permission to prioritize their own happiness after loss. It remains a frequently recommended read in its category for its honest, witty, and inspiring voice.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1503066414m/19501.jpg",
     numberOfPages: 403,
@@ -485,7 +485,7 @@ const books = [
     name: "The Lightning Thief",
     author: "Rick Riordan",
     description:
-      "An acclaimed fantasy book written by Rick Riordan, published in 2005, it continues to be discussed and recommended by readers.",
+      "Percy Jackson, a twelve-year-old with dyslexia and ADHD, has been kicked out of more schools than he can count. But when his math teacher turns into a monster and tries to kill him, he learns the truth: he is a demigod, the son of a mortal woman and Poseidon, Greek god of the sea. Monsters are real, the Greek gods are alive and living in America (on the 600th floor of the Empire State Building), and someone has stolen Zeus's master lightning bolt—with Percy as the prime suspect. Percy must travel across the United States to the Underworld, retrieve the bolt, and prevent a war among the gods. With his friends Annabeth, daughter of Athena, and Grover, a satyr (a half-man, half-goat creature), he battles Medusa, the Minotaur, and a hydra, while discovering his own powers. Riordan's first book in the Percy Jackson series, published in 2005, was praised for its fast-paced adventure, clever integration of Greek mythology into modern settings, and its respectful portrayal of learning differences as hidden strengths. It launched a bestselling franchise and remains a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1400602609m/28187.jpg",
     numberOfPages: 658,
@@ -497,7 +497,7 @@ const books = [
     name: "Little Women",
     author: "Louisa May Alcott",
     description:
-      "A widely read classics work by Louisa May Alcott, since its release in 1868, it has earned a large readership worldwide.",
+      "Set during the Civil War, the March sisters—Meg, Jo, Beth, and Amy—live in poverty with their beloved mother, Marmee, while their father serves as a chaplain at the front. Each sister struggles with her own flaws: Meg with vanity, Jo with her temper, Beth with shyness, and Amy with selfishness. Jo, the spirited aspiring writer, is the heart of the novel, clashing with the wealthy, lonely boy next door, Laurie. As the years pass, the girls grow into women, facing love, loss, illness, marriage, and ambition. Beth contracts scarlet fever and dies, a scene that has devastated readers for generations. Meg marries Laurie's tutor. Amy marries Laurie. And Jo, after rejecting Laurie, marries an older German professor, Bhaer, and opens a school for boys. Alcott's semi-autobiographical novel, published in two parts in 1868-69, has never gone out of print. It remains a beloved classic for its warm, realistic portrayal of family life, its celebration of female independence (Jo refuses to marry for money), and its exploration of the tension between domestic duty and artistic ambition. Since its release in 1868, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Little+Women",
     numberOfPages: 609,
@@ -509,7 +509,7 @@ const books = [
     name: "Jane Eyre",
     author: "Charlotte Brontë, Michael Mason",
     description:
-      "An acclaimed fiction book written by Charlotte Brontë, Michael Mason, since 1847, it has been praised for its storytelling and lasting appeal.",
+      "Jane Eyre, a plain, poor, but fiercely independent orphan, survives a miserable childhood at Gateshead Hall under her cruel aunt and at the brutal Lowood School, where her best friend Helen dies of tuberculosis. She grows into a governess at Thornfield Hall, a gloomy estate whose master, Mr. Rochester, is moody and mysterious. Despite their differences in class and appearance, Jane and Rochester fall in love. As they are about to marry, Jane discovers that Rochester already has a wife—Bertha Mason, a 'madwoman' kept locked in the attic. Refusing to become Rochester's mistress, Jane flees, nearly starving on the moors before being taken in by the Rivers family. Her cousin, St. John Rivers, a cold missionary, proposes a loveless marriage. But Jane hears Rochester's voice calling her name across the moor, returns to Thornfield, finds it burned by his mad wife (who died in the fire), and reunites with a blind, crippled Rochester—now free to marry. Brontë's novel, published in 1847, was revolutionary for its plain protagonist, its first-person female narration, its critique of class and gender constraints, and its passionate insistence that a woman has the right to choose love, dignity, and moral principle over passion. It remains an acclaimed fiction book.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327867269m/10210.jpg",
     numberOfPages: 434,
@@ -521,7 +521,7 @@ const books = [
     name: "The Notebook",
     author: "Nicholas Sparks",
     description:
-      "One of Nicholas Sparks's best-known fiction books, published in 1996, it continues to be discussed and recommended by readers.",
+      "In the summer of 1946, in the small town of New Bern, North Carolina, wealthy seventeen-year-old Allie Nelson falls deeply in love with Noah Calhoun, a poor but passionate mill worker. But her parents separate them, and Allie moves away. Fourteen years later, on the eve of her wedding to a wealthy lawyer, Allie sees a newspaper article: Noah has restored the old plantation house that he promised to her. She returns to New Bern to see him, and they rekindle their romance, forcing Allie to choose between security and passion. In the novel's frame story, an old man (Noah) reads this story aloud to an old woman (Allie) who has Alzheimer's disease and no longer recognizes him. Each time he reads to her, she briefly remembers their love—and then forgets. Sparks's debut novel, published in 1996, became the blueprint for his successful career of tearjerking romances. It was adapted into a hit film starring Ryan Gosling and Rachel McAdams, whose iconic rainy kiss scene has been parodied and celebrated ever since. The novel explores memory, commitment, and the enduring power of first love. It continues to be discussed and recommended by readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1385738917m/15931.jpg",
     numberOfPages: 713,
@@ -533,7 +533,7 @@ const books = [
     name: "Life of Pi",
     author: "Yann Martel",
     description:
-      "A popular fantasy title by Yann Martel, published in 2001, it continues to be discussed and recommended by readers.",
+      "Piscine Molitor 'Pi' Patel, a zookeeper's son in Pondicherry, India, grows up surrounded by animals—and by three religions: Hinduism, Christianity, and Islam. When his family decides to sell their zoo and move to Canada, the ship carrying them and their animals sinks in the Pacific. Pi survives, but he is stranded on a lifeboat with a bizarre crew: a hyena, a zebra with a broken leg, an orangutan named Orange Juice—and a 450-pound Bengal tiger named Richard Parker. The hyena kills the zebra and orangutan, and then the tiger kills the hyena. Pi is left alone on a 26-foot lifeboat with a man-eating tiger. For 227 days, Pi must survive: he catches fish and turtles, collects fresh water, and uses his knowledge of animal training to establish dominance over Richard Parker. The story ends with Pi's rescue in Mexico, and when Japanese officials investigating the shipwreck doubt his story, Pi tells an alternative, brutally realistic version—leaving readers to decide which story is true. Martel's Man Booker Prize-winning novel, published in 2001, is a philosophical adventure exploring faith, survival, the nature of truth, and the power of storytelling. It was adapted into an Oscar-winning film by Ang Lee, praised for its visual beauty and emotional power.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1320562005m/4214.jpg",
     numberOfPages: 517,
@@ -545,7 +545,7 @@ const books = [
     name: "Water for Elephants",
     author: "Sara Gruen",
     description:
-      "An acclaimed fiction book written by Sara Gruen, since its release in 2006, it has earned a large readership worldwide.",
+      "Jacob Jankowski, a ninety-something nursing home resident, reflects on his youth during the Great Depression. Orphaned and penniless after his Polish parents die in a car accident, the twenty-three-year-old Cornell veterinary student jumps a train—and lands in the Benzini Brothers Most Spectacular Show on Earth, a traveling circus. He becomes the circus's veterinarian, caring for a menagerie of exotic animals, including a seemingly untrainable elephant named Rosie, who only understands Polish. Jacob falls in love with Marlena, the beautiful equestrian star, but she is married to August, the paranoid schizophrenic animal trainer with violent mood swings. As tensions rise, August's abuse of animals and people escalates, leading to a bloody climax during a performance when Rosie, provoked, kills August. The novel alternates between Jacob's memories of circus life—the camaraderie, the cruelty, the grifters, and the freaks—and his present life in the nursing home, where he feels invisible until he runs away to join the circus again. Gruen's novel, published in 2006, immerses readers in the vibrant, decaying world of Depression-era circus life. It was adapted into a film starring Reese Witherspoon and Robert Pattinson and remains a favorite for its richly drawn characters and bittersweet love story.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1494428973m/43641.jpg",
     numberOfPages: 304,
@@ -557,7 +557,7 @@ const books = [
     name: "The Book Thief",
     author: "Markus Zusak",
     description:
-      "A widely read historical fiction work by Markus Zusak, since its release in 2005, it has earned a large readership worldwide.",
+      "It is 1939, Nazi Germany. Liesel Meminger, a young German girl, is traveling with her mother and brother to be placed with foster parents. Her brother dies on the train, and Liesel steals her first book: The Gravedigger's Handbook, dropped by a young apprentice. Liesel arrives at Himmel Street in the fictional town of Molching, where she is raised by Hans and Rosa Hubermann—Hans, a kind, gentle painter who plays the accordion, and Rosa, a sharp-tongued laundress who 'loves' by feeding starving children. Hans teaches Liesel to read, and she falls in love with words, stealing books from Nazi book burnings, the mayor's wife's library, and anywhere else she can find them. Her family hides Max Vandenburg, a Jewish fist-fighter, in their basement, and Liesel and Max form a profound friendship through their shared love of stories. The novel is narrated by Death himself, who is exhausted, sympathetic, and haunted by the sheer weight of the souls he must carry. Death tells us from the beginning that Liesel will survive; but he warns that many she loves will not. Zusak's novel, published in 2005, has become a modern classic for its unique narration, lyrical prose, and unflinching look at the human capacity for both cruelty and kindness during the Holocaust. It was adapted into an Oscar-nominated film and remains a widely read historical fiction work.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1390053681m/19063.jpg",
     numberOfPages: 304,
@@ -569,7 +569,7 @@ const books = [
     name: "Fahrenheit 451",
     author: "Ray Bradbury",
     description:
-      "One of Ray Bradbury's best-known classics books, since its release in 1953, it has earned a large readership worldwide.",
+      "Guy Montag is a fireman. But in this dystopian future, firemen do not put out fires—they start them, burning books. Society has outlawed reading, believing that books cause unhappiness, conflict, and inequality. Citizens live in wall-sized television screens called 'parlors' with interactive 'family' shows, while their neighbors are strangers. Montag has never questioned his job until Clarisse McClellan, a seventeen-year-old neighbor who asks 'why' and who walks in the rain and smells flowers, asks him, 'Are you happy?' He realizes he is not. He has a secret: he has been hiding books for years. When Montag's wife Mildred reports him, the firemen arrive at his own house. Montag kills his captain, Beaty, with a flamethrower and flees, joining a community of homeless intellectuals who have memorized books to preserve them from destruction. As enemy bombers destroy the city, Montag's group emerges to rebuild. Bradbury's novel, published in 1953, was inspired by the Nazi book burnings and McCarthyism. The title refers to the temperature at which paper burns. It remains a powerful warning against censorship, anti-intellectualism, and the substitution of shallow entertainment for deep thought. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1351643740m/4381.jpg",
     numberOfPages: 162,
@@ -581,7 +581,7 @@ const books = [
     name: "New Moon",
     author: "Stephenie Meyer",
     description:
-      "An acclaimed young adult book written by Stephenie Meyer, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "In the second book of the Twilight saga, Bella Swan celebrates her birthday with her vampire boyfriend Edward Cullen and his family. But when she gets a paper cut and Jasper, the vampire with the weakest self-control, nearly attacks her, the Cullens realize how dangerous their presence is for Bella. Edward, believing he is protecting Bella, decides to leave her forever. He lies to her, telling her he does not love her anymore, and the entire Cullen family disappears from Forks, Washington. Bella falls into a months-long depression, screaming in her sleep and staring at the same wall for hours. Her father, Charlie, desperate to help, encourages her to spend time with her friend Jacob Black, a member of the Quileute tribe. Bella discovers that Jacob is a werewolf—the natural enemy of vampires—and that the Quileutes have been protecting the town from vampire Laurent. As Bella slowly emerges from her grief, she discovers that she can hear Edward's voice when she engages in reckless, dangerous behavior. She starts cliff diving—and is nearly killed—only to be saved by Jacob. Meanwhile, Edward, believing Bella dead, travels to Italy to provoke the ruling vampire coven, the Volturi, into killing him. Bella races to save him, and the Cullens return, but Jacob is heartbroken. Published in 2006, this installment explores grief, suicidal ideation, and the intensity of first love. It remains a frequently recommended read in its category, despite criticism of its portrayal of unhealthy relationships.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361039440m/49041.jpg",
     numberOfPages: 336,
@@ -593,7 +593,7 @@ const books = [
     name: "Where the Sidewalk Ends",
     author: "Shel Silverstein",
     description:
-      "A popular poetry title by Shel Silverstein, released in 1974, it remains a frequently recommended read in its category.",
+      "This collection of poems and drawings invites readers to a world where the sidewalk ends, a magical place just beyond the constraints of ordinary life. Silverstein's verses are funny, subversive, poignant, and deeply imaginative, celebrating childhood's untamed spirit. Meet a boy who turns into a television set, a girl who eats a whale, a unicorn who is sold for a dollar, a giant named Sarah Cynthia Sylvia Stout who refuses to take the garbage out, and a narrator who warns, 'If you are a dreamer, come in. If you are a dreamer, a wisher, a liar, a hoper, a prayer, a magic-bean-buyer, come in.' The poems use simple language and playful rhythms to explore loss, loneliness, joy, greed, and wonder. Silverstein's distinctive black-and-white line drawings are integral to the experience, making the words come alive on the page. First published in 1974, this beloved collection has sold millions of copies worldwide and introduced generations of children to poetry. Unlike many children's poets, Silverstein never talks down to his readers; he respects their intelligence and their dark humor. Poems like 'Sick' ('I cannot go to school today, said little Peggy Ann McKay'), 'Ickle Me, Pickle Me, Tickle Me Too,' and the title poem remain classics. It remains a frequently recommended read in its category for its timeless humor and heart.",
     genre: "Poetry",
     coverPage: "https://images.gr-assets.com/books/1168052448m/30119.jpg",
     numberOfPages: 154,
@@ -605,7 +605,7 @@ const books = [
     name: "City of Bones",
     author: "Cassandra Clare",
     description:
-      "One of Cassandra Clare's best-known young adult books, published in 2007, it continues to be discussed and recommended by readers.",
+      "Fifteen-year-old Clary Fray witnesses a murder at a New York City nightclub—but the victim suddenly disappears, and the three teenage killers, covered in strange markings, vanish as well. Her best friend Simon cannot see them. The police find no body. Clary's mother disappears, their apartment is destroyed by a demon, and Clary is attacked by a tentacled monster in her own living room. She is rescued by Jace, a beautiful, arrogant, and deadly Shadowhunter—a human-angel hybrid who hunts demons. Clary learns that she is not ordinary: she can see the Shadow World (demons, vampires, werewolves, faeries, and warlocks) because she has The Sight, a rare gift. When her mother is kidnapped by Valentine, a rogue Shadowhunter trying to create a pure-blood army, Clary is swept into a world of forbidden magic, family secrets, and an ancient cup called the Mortal Cup. She discovers that Valentine is her father, and she is his daughter. Clare's first book in The Mortal Instruments series, published in 2007, launched a sprawling universe across multiple series, films, and a TV show. It combines urban fantasy, romance, and action, exploring themes of found family, forbidden love, and the complexity of good and evil. It continues to be discussed and recommended by readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1432730315m/256683.jpg",
     numberOfPages: 697,
@@ -617,7 +617,7 @@ const books = [
     name: "Eclipse",
     author: "Stephenie Meyer",
     description:
-      "A popular young adult title by Stephenie Meyer, since 2007, it has been praised for its storytelling and lasting appeal.",
+      "The third book of the Twilight saga finds Bella Swan caught between her love for vampire Edward Cullen and her growing bond with werewolf Jacob Black. Seattle is being terrorized by a string of mysterious murders—newborn vampires, created by an unknown enemy, who are out of control. The culprit is Victoria, the mate of the vampire James killed in the first book, who seeks revenge by building an army of newborns to destroy Bella. Edward and the Cullens ally with Jacob and the Quileute werewolves to protect Bella. Jacob, who is in love with Bella, demands that she choose him. Bella is torn: Edward represents immortality, music, poetry, and cold, eternal love; Jacob represents warmth, the sun, laughter, and a normal human life. She chooses Edward, telling Jacob, 'I love you, but I'm in love with him.' Jacob runs away, heartbroken, and Bella agrees to marry Edward. The vampire army attacks, and the Cullens and werewolves defeat them, though a newborn kills Seth Clearwater's sister. The novel ends with Edward and Bella's engagement. Published in 2007, this installment deepens the series' love triangle and explores themes of choice, sacrifice, and the impossibility of having everything. It remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361038355m/428263.jpg",
     numberOfPages: 729,
@@ -629,7 +629,7 @@ const books = [
     name: "Eragon",
     author: "Christopher Paolini",
     description:
-      "A popular fantasy title by Christopher Paolini, since its release in 2002, it has earned a large readership worldwide.",
+      "Fifteen-year-old Eragon, a poor farm boy living on the edge of the Empire, finds a polished blue stone in the spine of a mountain while hunting. He thinks it will buy meat for his family. Instead, it hatches into a dragon, and Eragon becomes the last of the Dragon Riders—an ancient order that once kept peace in the land of Alagaësia. The evil King Galbatorix, himself a Rider who went mad and slaughtered his order, learns of the new dragon and sends his servants, the monstrous Urgals, to kill Eragon and capture the dragon, Saphira. Eragon's uncle, Garrow, is killed, and Eragon flees with the storyteller Brom, who secretly was a Rider himself. Brom trains Eragon in swordplay, magic, and the ancient language that controls reality. They travel to the rebel stronghold, the Varden, where Eragon is celebrated as a symbol of hope. He learns that his father was Morzan, the first of Galbatorix's traitorous Forsworn—but that is a lie; his true father is Brom. Paolini began writing this epic fantasy at fifteen years old, and it was self-published by his parents before being picked up by Knopf in 2002. Despite criticism of its similarities to Star Wars and Lord of the Rings, it became a bestseller and was adapted into a film. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1366212852m/113436.jpg",
     numberOfPages: 677,
@@ -641,7 +641,7 @@ const books = [
     name: "The Hitchhiker's Guide to the Galaxy",
     author: "Douglas Adams",
     description:
-      "A celebrated work of science fiction from Douglas Adams, first published in 1979, it has become a favorite among readers of the genre.",
+      "On an ordinary Thursday morning, Arthur Dent wakes up to discover that a bulldozer is about to demolish his house to make way for a bypass. His friend Ford Prefect, who is not from Guildford but from a small planet in the vicinity of Betelgeuse, tells him not to worry: the Earth is about to be demolished anyway to make way for a hyperspace bypass. Seconds before the Vogons (a race of unpleasant bureaucratic aliens) destroy the Earth, Ford and Arthur hitch a ride on a passing spaceship. Arthur discovers that Ford is a researcher for The Hitchhiker's Guide to the Galaxy, a digital book that is better than the Encyclopedia Galactica because it has 'Don't Panic' written in large, friendly letters on its cover. They meet Zaphod Beeblebrox, the two-headed, three-armed, egomaniacal president of the galaxy; Trillian, the only other human survivor of Earth's destruction; and Marvin the Paranoid Android, a genius-level robot with depression. They search for the legendary planet Magrathea, where they learn that Earth was a supercomputer designed to calculate the ultimate question of Life, the Universe, and Everything (the answer is 42). Adams's comic science fiction masterpiece, first broadcast as a radio play in 1978 and published as a novel in 1979, has become a cult classic, beloved for its wit, absurdity, and existential humor. It remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1327656754m/11.jpg",
     numberOfPages: 617,
@@ -653,7 +653,7 @@ const books = [
     name: "Brave New World",
     author: "Aldous Huxley",
     description:
-      "A celebrated work of classics from Aldous Huxley, published in 1932, it continues to be discussed and recommended by readers.",
+      "The World State of AF 632 (after Ford, the god of mass production and Henry Ford) has achieved stability: people are grown in hatcheries and conditioned for their predetermined social caste (Alphas, Betas, Gammas, Deltas, or Epsilons). They are engineered to love their work, consume goods, and engage in casual, commitment-free sex with anyone they desire. Pain, aging, loneliness, and unhappiness have been eliminated through the drug soma. Bernard Marx, an Alpha psychologist who is physically smaller than his peers (a flaw from alcohol in his artificial blood supply), feels alienated. He takes a vacation to the Savage Reservation, a relic of the old world where people still give birth, age, and believe in gods. There he meets John the Savage, the son of the Director of Hatcheries, and his mother Linda, who were stranded years ago. Bernard brings them back to London, where John becomes a sensation. But John cannot accept the World State's shallow happiness; he prefers Shakespeare, suffering, and free will. His refusal to conform leads to tragedy. Huxley's dystopian novel, published in 1932, is often paired with Orwell's 1984 as a contrasting vision: Orwell feared oppression would come from external force; Huxley feared we would willingly surrender freedom for pleasure. It remains a celebrated work of classics, frequently read in schools for its prescient critique of consumerism, conditioning, and the cost of stability.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1487389574m/5129.jpg",
     numberOfPages: 557,
@@ -665,7 +665,7 @@ const books = [
     name: "Breaking Dawn",
     author: "Stephenie Meyer",
     description:
-      "An acclaimed fantasy book written by Stephenie Meyer, published in 2008, it continues to be discussed and recommended by readers.",
+      "The final book of the Twilight saga opens with Bella Swan's wedding to Edward Cullen, followed by a honeymoon on a private island off Brazil. Bella desperately wants a honeymoon night despite Edward's fear that his vampire strength will hurt her. They consummate their marriage, and Bella discovers she is pregnant—impossibly, since vampires are frozen and cannot reproduce. The half-vampire, half-human fetus grows at an alarming rate, and it is killing Bella from the inside. Rosalie, the vampire who longed for children, fiercely protects the pregnancy. Jacob Black, furious and heartbroken, learns of the pregnancy and decides to kill the baby—until he imprints (the werewolf version of soulmate bonding) on the newborn infant, Renesmee. Bella nearly dies giving birth, but Edward injects his venom into her heart, turning her into a vampire. As a newborn, Bella has exceptional self-control, beauty, and power. Meanwhile, the Volturi, believing the Cullens have created an immortal child (a vampire turned as a child, which is forbidden because they cannot be controlled), march to Forks to destroy the Cullens. The conflict is resolved when Alice Cullen returns with a half-vampire witness who proves Renesmee is not an immortal child. Published in 2008, this controversial installment was criticized for its depiction of Bella's pregnancy and Jacob's imprinting on a baby. It remains a frequently recommended read in its category, despite divided fan reactions.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1361039438m/1162543.jpg",
     numberOfPages: 256,
@@ -677,7 +677,7 @@ const books = [
     name: "The Secret Life of Bees",
     author: "Sue Monk Kidd",
     description:
-      "An acclaimed fiction book written by Sue Monk Kidd, published in 2001, it continues to be discussed and recommended by readers.",
+      "In South Carolina in 1964, fourteen-year-old Lily Owens has been haunted by the memory of her mother's death. When Lily was four years old, she accidentally shot her mother during an argument between her parents, and her abusive father has reminded her of it ever since. The only mother figure in her life is Rosaleen, her black housekeeper. When Rosaleen is arrested after trying to register to vote during the height of the Civil Rights movement, Lily helps her escape, and they run away to Tiburon, the town written on the back of a picture of the Black Madonna that belonged to her mother. They are taken in by three beekeeping sisters: August, June, and May Boatwright. August becomes a surrogate mother, teaching Lily about beekeeping, love, and the story of the Black Madonna, who represents strength and survival. Lily learns that August knew her mother, and she confronts the truth about that tragic day. Kidd's debut novel, published in 2001, became a bestseller and was adapted into a film. It explores themes of motherhood, racism, forgiveness, and the sacred feminine. The novel's warmth, Southern setting, and unforgettable characters have made it a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1473454532m/37435.jpg",
     numberOfPages: 213,
@@ -689,7 +689,7 @@ const books = [
     name: "The Adventures of Huckleberry Finn",
     author: "Mark Twain, John Seelye, Guy Cardwell",
     description:
-      "One of Mark Twain, John Seelye, Guy Cardwell's best-known classics books, first published in 1884, it has become a favorite among readers of the genre.",
+      "Huck Finn, the son of the town drunk, has been 'civilized' by the Widow Douglas and her sister, Miss Watson. But when his abusive father kidnaps him and locks him in a cabin, Huck fakes his own murder and escapes down the Mississippi River. He meets Jim, Miss Watson's slave, who has run away after overhearing that she plans to sell him downriver. Together, they float on a raft, seeking freedom: Huck from his father and civilization, Jim from slavery. Huck struggles with his conscience: society has taught him that helping a runaway slave is a sin, but his heart tells him Jim is a good man and a loyal friend. When he decides, 'All right, then, I'll go to hell,' he chooses humanity over the law. They encounter feuding families, con artists (the Duke and the King who sell Jim), and the death of Tom Sawyer's aunt. At the novel's ambiguous end, Jim is freed, but Huck decides to 'light out for the territory ahead of the rest' to escape being civilized again. Twain's novel, published in 1884, is frequently called the first Great American Novel for its vernacular voice, its critique of racism, and its exploration of moral growth. But it has also been banned for its use of racial slurs. It remains a celebrated work of classics, first published in 1884, and has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1405973850m/2956.jpg",
     numberOfPages: 363,
@@ -701,7 +701,7 @@ const books = [
     name: "Charlotte's Web",
     author: "E.B. White, Garth Williams, Rosemary Wells",
     description:
-      "An acclaimed classics book written by E.B. White, Garth Williams, Rosemary Wells, since its release in 1952, it has earned a large readership worldwide.",
+      "On a farm in Maine, Fern Arable rescues a runt piglet from being killed and names him Wilbur. She raises him with love until he is sold to her uncle, Homer Zuckerman, to be fattened up for Christmas dinner. Wilbur, lonely and terrified of his fate, is befriended by Charlotte A. Cavatica, a wise, kind, and literary barn spider. Charlotte promises to save Wilbur's life, and she weaves words into her web above his pen: 'Some Pig,' 'Terrific,' and 'Radiant.' The Zuckermans and the townspeople are amazed, believing Wilbur is a miraculous pig. He wins a prize at the county fair, ensuring he will never be slaughtered. But Charlotte, exhausted from saving him, dies at the fair, leaving behind an egg sac of 514 baby spiders. Wilbur takes the egg sac home, and most of Charlotte's daughters, granddaughters, and great-granddaughters stay in the barn, but none ever quite replace Charlotte in his heart. White's classic children's novel, published in 1952, is a meditation on friendship, mortality, and the miracle of life. Charlotte's famous line—'After all, what's a life, anyway? We're born, we live a little while, we die'—has moved generations of readers. It remains an acclaimed classics book, since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1439632243m/24178.jpg",
     numberOfPages: 262,
@@ -713,7 +713,7 @@ const books = [
     name: "The Curious Incident of the Dog in the Night-Time",
     author: "Mark Haddon",
     description:
-      "A popular fiction title by Mark Haddon, since 2003, it has been praised for its storytelling and lasting appeal.",
+      "Christopher John Francis Boone, a fifteen-year-old with savant abilities and what appears to be autism spectrum disorder, knows all the countries of the world and their capitals, every prime number up to 7,057, and is determined to become an astronaut. But he struggles with social situations, metaphor, and human emotions. When he finds his neighbor's poodle, Wellington, dead on the lawn with a garden fork through its body, Christopher decides to investigate the murder. His investigation uncovers secrets: his mother, whom he believed died of a heart attack two years earlier, is actually alive and living in London with her lover, Mr. Shears (the poodle's owner). Christopher's father admits to killing the dog and to lying about his mother. Terrified, Christopher runs away to London to find her. The novel is presented as a murder mystery written by Christopher, complete with diagrams, mathematical puzzles, and prime-numbered chapters. Haddon's novel, published in 2003, became an international bestseller for its groundbreaking portrayal of an autistic narrator. It explores themes of honesty, trust, order, and the way neurotypical people fail to understand those who think differently. It won the Whitbread Book of the Year Award and was adapted into a critically acclaimed play. Since 2003, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1479863624m/1618.jpg",
     numberOfPages: 203,
@@ -725,7 +725,7 @@ const books = [
     name: "The Girl on the Train",
     author: "Paula Hawkins",
     description:
-      "A widely read mystery work by Paula Hawkins, first published in 2015, it has become a favorite among readers of the genre.",
+      "Rachel Watson, a divorced, unemployed alcoholic, rides the same commuter train to and from London every day, pretending to her roommate that she still has a job. Each day, she passes by her old house, where her ex-husband Tom now lives with his new wife Anna and their baby. To escape her pain, she invents a perfect life for a couple she sees having coffee on their deck: 'Jess' and 'Jason,' she calls them, imagining they are happy. When she sees 'Jess' kissing another man, Rachel feels betrayed—and then 'Jess' (whose real name is Megan) goes missing. Rachel, whose blackouts make her an unreliable witness, realizes she may have seen something crucial, but the police dismiss her. She inserts herself into the investigation, alienating everyone, as the truth slowly emerges: Megan was having affairs with multiple men, including Rachel's therapist and Tom. The murderer is Tom, who kills Megan when she threatens to expose his affair, and who also killed his ex-wife (whom Rachel witnessed but cannot remember). Hawkins's psychological thriller, published in 2015, was compared to Gone Girl for its unreliable female narrator, its dark portrayal of marriage, and its twisty plot. It became a massive bestseller, adapted into a film starring Emily Blunt. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1490903702m/22557272.jpg",
     numberOfPages: 730,
@@ -737,7 +737,7 @@ const books = [
     name: "The Golden Compass",
     author: "Philip Pullman",
     description:
-      "One of Philip Pullman's best-known fantasy books, since 1995, it has been praised for its storytelling and lasting appeal.",
+      "In a parallel universe where people's souls exist outside their bodies as animal companions called dæmons, twelve-year-old Lyra Belacqua lives at Jordan College, Oxford, raised by scholars while her explorer uncle, Lord Asriel, is away. Children are disappearing throughout England, and Lyra's friend Roger is among them. She overhears conversations about 'Dust'—a mysterious elementary particle that adults fear and the Church wants to suppress. With a truth-telling alethiometer (golden compass) given to her by the Master of Jordan College, Lyra journeys north to rescue the kidnapped children. She joins the Gyptians (boat-dwellers), befriends a polar bear named Iorek Byrnison, and infiltrates the Bolvangar station, where the sinister General Oblation Board, led by Mrs. Coulter (who is Lyra's mother), is performing 'intercision'—cutting children away from their dæmons, leaving them as soulless, obedient zombies. Lyra rescues Roger, only to have Lord Asriel kill him to open a portal between worlds. Pullman's His Dark Materials trilogy, which begins with this novel published in 1995, is a celebrated work of fantasy that critiques organized religion, free will, and innocence. It was adapted into a 2007 film and a recent HBO series. Since 1995, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1451271747m/119322.jpg",
     numberOfPages: 253,
@@ -749,7 +749,7 @@ const books = [
     name: "Wuthering Heights",
     author: "Emily Brontë, Richard J. Dunn",
     description:
-      "A popular classics title by Emily Brontë, Richard J. Dunn, since 1847, it has been praised for its storytelling and lasting appeal.",
+      "Lockwood, a tenant at Thrushcross Grange, becomes curious about his landlord, the reclusive Heathcliff, who lives at the nearby Wuthering Heights. He asks his housekeeper, Nelly Dean, to tell the story. Nelly recounts: In his youth, Mr. Earnshaw returns from Liverpool with a dark-skinned orphan he names Heathcliff. Earnshaw's daughter Catherine loves Heathcliff passionately, calling him her soul: 'Whatever our souls are made of, his and mine are the same.' But Earnshaw's son Hindley mistreats Heathcliff, and Catherine, tempted by the wealthy Edgar Linton, says she cannot marry Heathcliff because 'it would degrade me.' Heathcliff overhears, runs away, and returns years later rich and bent on revenge. He marries Edgar's sister Isabella and torments her, takes control of Wuthering Heights from the degenerate Hindley, forces his son Linton to marry Edgar's daughter Cathy, and destroys both families. The novel ends with Heathcliff dead, his obsession finally spent, and the next generation—Cathy and Hareton—planning to marry at the Grange. Brontë's only novel, published in 1847, was initially dismissed as violent and immoral. Today it is considered a classic of English literature for its exploration of obsessive love, class, and the destructive power of revenge. Since its release, it has earned a large readership worldwide and remains a popular classics title.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Wuthering+Heights",
@@ -762,7 +762,7 @@ const books = [
     name: "My Sister's Keeper",
     author: "Jodi Picoult",
     description:
-      "A widely read fiction work by Jodi Picoult, since its release in 2004, it has earned a large readership worldwide.",
+      "Anna Fitzgerald is thirteen years old. She was conceived to be a bone marrow donor for her older sister Kate, who has leukemia. Over the years, Anna has donated cord blood, stem cells, and lymphocytes. Now Kate needs a kidney, and Anna decides she has had enough. She hires a lawyer and sues her parents for medical emancipation, sparking a legal battle that tears her family apart. Her father, a firefighter, struggles with his loyalty to both daughters. Her mother, Sara, a former lawyer who has sacrificed her career and identity to save Kate, refuses to accept Anna's decision. Her brother Jesse, ignored by his parents, acts out in increasingly destructive ways. And Kate, the dying sister at the center of the storm, harbors a secret: she has asked Anna to refuse because she is ready to die. The novel builds to a devastating twist: Anna wins her lawsuit, but on the way home, she is killed in a car accident, and her kidneys are donated to Kate. Picoult's novel, published in 2004, became a bestseller for its exploration of medical ethics, family loyalty, and the impossible choices parents make when two children need them. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1369504683m/10917.jpg",
     numberOfPages: 535,
@@ -774,7 +774,7 @@ const books = [
     name: "Slaughterhouse-Five",
     author: "Kurt Vonnegut Jr.",
     description:
-      "One of Kurt Vonnegut Jr.'s best-known classics books, released in 1969, it remains a frequently recommended read in its category.",
+      "Billy Pilgrim, an optometrist from Ilium, New York, has become 'unstuck in time.' He travels unpredictably between different moments of his life: as a young soldier in World War II, as a prisoner of war in Dresden during the firebombing that killed 135,000 civilians, as a suburban father, and as a captive on the planet Tralfamadore, where he is displayed in a zoo with movie star Montana Wildhack. The Tralfamadorians see all moments of time simultaneously, so they know that death is an illusion; a person is alive somewhere else in the timeline. Their philosophy: 'So it goes.' Vonnegut's semi-autobiographical novel, published in 1969, was based on his own experience as a POW in Dresden, where he survived the firebombing by hiding in a slaughterhouse basement. The book's fragmented, anti-linear structure mirrors Billy's disorientation and the chaos of war. Vonnegut uses dark humor and absurdity to convey the horror of Dresden and the senselessness of violence. Since its release, it has been praised for its storytelling and lasting appeal. It remains a frequently recommended read in its category for its anti-war message and innovative narrative style. So it goes.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1440319389m/4981.jpg",
     numberOfPages: 505,
@@ -786,7 +786,7 @@ const books = [
     name: "Gone with the Wind",
     author: "Margaret Mitchell",
     description:
-      "A celebrated work of classics from Margaret Mitchell, released in 1936, it remains a frequently recommended read in its category.",
+      "Scarlett O'Hara, the beautiful, spoiled, and manipulative daughter of a wealthy Georgia plantation owner, has everything she wants—except Ashley Wilkes, the neighbor she loves. When Ashley marries his cousin Melanie instead, Scarlett marries Charles Hamilton out of spite. The Civil War begins, Charles dies, and Scarlett is widowed. She moves to Atlanta to live with Melanie, nurses wounded soldiers, and watches the South crumble. When Sherman's army burns Atlanta, Scarlett escapes with Melanie (who is giving birth) to Tara, her family's plantation. There she finds her mother dead, her father senile, and her sisters helpless. The war ends; Scarlett works the fields herself, kills a marauding Yankee, and steals money from her sister's fiancé to buy a sawmill. She marries the dashing, cynical blockade runner Rhett Butler for his money, but she still pines for Ashley. Rhett eventually gives up on her, famously telling her, 'Frankly, my dear, I don't give a damn.' Only after Ashley's wife Melanie dies does Scarlett realize she never loved him—she loved Rhett. But he is gone. She vows, 'Tomorrow is another day.' Mitchell's epic novel, published in 1936, won the Pulitzer Prize. It has been praised for its compelling characters and criticized for its romanticized portrayal of slavery. Since its release, it has earned a large readership worldwide, and the 1939 film adaptation remains a classic. It remains a celebrated work of classics.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1328025229m/18405.jpg",
     numberOfPages: 635,
@@ -798,7 +798,7 @@ const books = [
     name: "A Thousand Splendid Suns",
     author: "Khaled Hosseini",
     description:
-      "A widely read fiction work by Khaled Hosseini, first published in 2007, it has become a favorite among readers of the genre.",
+      "Mariam, an illegitimate girl in Afghanistan, is forced to marry Rasheed, a violent shoemaker thirty years her senior after her mother commits suicide. Laila, a beautiful, educated girl from a loving family, loses her parents in a rocket attack during the Soviet-Afghan war, and she too marries Rasheed to survive. The two women become co-wives in Rasheed's house, initially hating each other but eventually bonding over their shared suffering. They plan escape, are caught, and beaten. Laila gives birth to a son, and Mariam, who has never been able to have children, loves the boy as her own. When Rasheed tries to strangle Laila, Mariam kills him with a shovel and then confesses to save Laila. Mariam is executed, but Laila and the children escape to Pakistan, then return to rebuild the orphanage in Kabul. Hosseini's second novel, published in 2007, is a powerful exploration of Afghan women's lives under decades of war, the Taliban's oppression (they outlaw female education, work, and freedom of movement), and the bonds of sisterhood formed in suffering. The title comes from a poem by Saib-e-Tabrizi about Kabul: 'One could not count the moons that shimmer on her roofs / Or the thousand splendid suns that hide behind her walls.' Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1345958969m/128029.jpg",
     numberOfPages: 649,
@@ -810,7 +810,7 @@ const books = [
     name: "The Perks of Being a Wallflower",
     author: "Stephen Chbosky",
     description:
-      "An acclaimed fiction book written by Stephen Chbosky, published in 1999, it continues to be discussed and recommended by readers.",
+      "Charlie, a shy, introspective, and traumatized freshman, begins writing letters to an anonymous 'friend' about his life: his best friend died by suicide last year, his Aunt Helen (whom he loved) was killed in a car accident on his birthday, and he is about to start high school. He is befriended by Patrick and Sam, two charismatic, artistic seniors who introduce him to mix tapes, Rocky Horror Picture Show, drugs, and the experience of feeling infinite. Charlie falls in love with Sam, but she is dating someone else. He hooks up with Mary Elizabeth, breaks her heart, and is ostracized. Sam kisses him at a party, and Charlie realizes she has been using him. He has a flashback of Aunt Helen sexually abusing him as a child, and he suffers a mental breakdown, ending up in a hospital. When he recovers, he writes: 'I guess we are who we are for a lot of reasons. And maybe we'll never know most of them. But even if we don't have the power to choose where we come from, we can still choose where we go from there.' Chbosky's epistolary novel, published in 1999, has become a touchstone for teenagers dealing with depression, abuse, sexuality, and the intense emotions of adolescence. It was adapted into a film written and directed by Chbosky. It continues to be discussed and recommended by readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1167352178m/22628.jpg",
     numberOfPages: 645,
@@ -822,7 +822,7 @@ const books = [
     name: "Insurgent",
     author: "Veronica Roth",
     description:
-      "A popular young adult title by Veronica Roth, first published in 2012, it has become a favorite among readers of the genre.",
+      "The second book of the Divergent trilogy begins immediately after the events of the first. Tris Prior and Tobias Eaton (Four) are fugitives, having escaped the simulation attack on Abnegation by the Erudite faction. The attack was led by Jeanine Matthews, the Erudite leader, who blames the Abnegation for hoarding resources and wants to seize power. Tris is wracked with guilt: she shot and killed her friend Will (under mind control) and blames herself for the death of her parents. The rebels flee to Amity headquarters, then to Candor, where Tris undergoes a truth serum test that reveals she is Divergent—someone who does not fit into any single faction. The Divergent are immune to mind control and thus the only ones who can stop Jeanine. Tris and Four join the factionless, the homeless population who rejected their factions, led by Four's estranged mother, Evelyn. They launch an attack on Erudite headquarters. Tris surrenders to Jeanine, who wants to dissect Divergent brains to understand why they are immune. Four rescues her, and they learn that the outside world (the cities beyond the fence) are watching. The book ends with Tris and her brother Caleb escaping through the fence. Published in 2012, this installment deepens the series' exploration of identity, morality, and the cost of freedom. It remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1325667729m/11735983.jpg",
     numberOfPages: 297,
@@ -834,7 +834,7 @@ const books = [
     name: "Ender's Game",
     author: "Orson Scott Card",
     description:
-      "A widely read science fiction work by Orson Scott Card, released in 1985, it remains a frequently recommended read in its category.",
+      "In a future where humanity barely survived two invasions by the alien Formics (called 'Buggers'), the International Fleet seeks the next military genius. Ender Wiggin, a brilliant six-year-old boy, is monitored, selected, and sent to Battle School in orbit. There, he is isolated, manipulated, and tested in zero-gravity war games where he must lead armies against his peers. His teachers, especially Colonel Graff, are cruel: they destroy his friendships, make his enemies hate him, and push him to his breaking point because they believe the next Napoleon must be forged in loneliness and violence. Ender uses unorthodox strategies—attacking the enemy's gate directly, breaking rules to win—and is promoted to Command School earlier than any student in history. There, he is told he is playing simulated games against Formic fleets. He leads his team into the 'simulation' and, after brutal battles, uses a devastating weapon (the Molecular Detachment Device) to destroy the Formic homeworld—only to be told that the 'simulation' was real, and he has committed genocide. He is horrified, but humanity celebrates him as a hero. Ender later becomes the Speaker for the Dead. Card's novel, published in 1985, won both Hugo and Nebula Awards. It remains a widely read science fiction work, released in 1985, and is a frequently recommended read in its category, though Card's controversial personal views have complicated its legacy.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1408303130m/375802.jpg",
     numberOfPages: 421,
@@ -846,7 +846,7 @@ const books = [
     name: "Frankenstein",
     author: "Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",
     description:
-      "An acclaimed classics book written by Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle, since its release in 1818, it has earned a large readership worldwide.",
+      "Captain Walton, on an expedition to the North Pole, rescues a near-dead Victor Frankenstein, a scientist who tells an astonishing story. As a young man, Victor became obsessed with the secret of life. After years of morbid research, he assembled a creature from body parts, brought it to life—and was horrified by his creation. The creature, eight feet tall, hideous, and rejected by all humanity, fled into the wilderness. Victor fell ill, and when he recovered, he learned that his younger brother William had been murdered—and that the creature was the killer. The creature confronted Victor in the mountains and demanded a mate: a female creature who would love him and share his exile. Victor agreed, but at the last moment, horrified by the possibility of a new race of monsters, he destroyed his second creation. In revenge, the creature murdered Victor's best friend, Henry Clerval, and on Victor's wedding night, his bride, Elizabeth. Victor pursued the creature across the Arctic until he died. The creature found Victor's body, mourned him, and vanished into the ice. Shelley wrote this novel, published in 1818, when she was eighteen. It is considered the first science fiction novel, exploring themes of creation, responsibility, loneliness, and the monstrousness of both creator and created. It remains an acclaimed classics book.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1381512375m/18490.jpg",
     numberOfPages: 678,
@@ -858,7 +858,7 @@ const books = [
     name: "The Shining",
     author: "Stephen King",
     description:
-      "A widely read fiction work by Stephen King, since its release in 1977, it has earned a large readership worldwide.",
+      "Jack Torrance, a recovering alcoholic and aspiring writer, accepts a job as winter caretaker of the Overlook Hotel, a remote, isolated resort in the Colorado Rockies. He hopes the solitude will help him repair his family: his wife Wendy, and his five-year-old son Danny. But Danny has 'the shining'—telepathic powers that allow him to sense the hotel's violent past: murders, suicides, gangsters, and a former caretaker who went insane and killed his family with an ax. The Overlook is alive, hungry for the shining, and begins possessing Jack. Jack descends into madness: he sees ghosts in the ballroom (including a beautiful woman who rots in his arms), the hotel's appliances and hedge animals come to life, and he takes the ax to pursue his family. Wendy and Danny escape, and the hotel explodes, seemingly killed by its own boiler. Danny, with the help of Dick Halloran (the chef who shares the shining), saves his mother. Stephen King's third novel, published in 1977, became his first hardcover bestseller and was adapted into Stanley Kubrick's classic film (which King famously disliked for changing the ending and making Jack unsympathetic). The novel explores addiction, domestic violence, paternal failure, and the cyclical nature of abuse. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1353277730m/11588.jpg",
     numberOfPages: 690,
@@ -870,7 +870,7 @@ const books = [
     name: "The Host",
     author: "Stephenie Meyer",
     description:
-      "A popular science fiction title by Stephenie Meyer, since its release in 2008, it has earned a large readership worldwide.",
+      "Earth has been invaded: a parasitic alien species called Souls now inhabits the bodies of most humans, erasing their consciousness. One Soul, Wanderer, is implanted into the body of a human rebel named Melanie Stryder. But Melanie's consciousness refuses to fade. She fights Wanderer for control of her body, overwhelming her with memories of her boyfriend Jared, her brother Jamie, and the resistance hiding in the caves of the desert. Wanderer, against her own species' laws, falls in love with the humans she is supposed to betray. She escapes the Seekers (the Souls who police the invasion) and leads them to the resistance, where she is a prisoner but also a healer. She falls in love with another human, Ian, while Melanie still loves Jared. In a bizarre love triangle, two women (one human, one alien) share one body, and two men love the same body. When Wanderer is given a chance to receive a new human body, she refuses, choosing to sacrifice herself for Melanie. Meyer's adult science fiction novel, published in 2008, was written during a break from the Twilight series. It explores themes of identity, empathy, what makes us human, and the possibility that peace with an enemy comes from understanding, not victory. Since its release, it has earned a large readership worldwide.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1318009171m/1656001.jpg",
     numberOfPages: 706,
@@ -882,7 +882,7 @@ const books = [
     name: "Looking for Alaska",
     author: "John Green",
     description:
-      "A widely read young adult work by John Green, since 2005, it has been praised for its storytelling and lasting appeal.",
+      "Miles Halter, a boy obsessed with famous last words, leaves his boring Florida life to attend Culver Creek Preparatory School in Alabama. There, he falls in love with Alaska Young, a brilliant, beautiful, unpredictable, and deeply troubled girl who reads biographies of tortured geniuses and smokes Parliament cigarettes. Miles, nicknamed 'Pudge' by his roommate Chip 'The Colonel' Martin, becomes part of Alaska's tight-knit group of pranksters and outsiders. The novel is structured in two parts: BEFORE and AFTER. Before, Miles, the Colonel, and Alaska pull elaborate pranks, talk about life, and Miles falls deeper in love with the unattainable Alaska. After, Alaska dies in a car crash on her way to visit her mother's grave, and the narrative becomes a mystery: was it an accident, or suicide? The boys investigate, discover Alaska's guilt over her mother's death, and conclude she was distraught, not suicidal. Green's debut novel, published in 2005, won the Printz Award. It was inspired by his work as a hospital chaplain, where he saw young people dying and realized literature did not address the randomness of loss. The book explores guilt, grief, and the search for meaning after tragedy. Since 2005, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1394798630m/99561.jpg",
     numberOfPages: 455,
@@ -894,7 +894,7 @@ const books = [
     name: "Bridget Jones's Diary",
     author: "Helen Fielding",
     description:
-      "A widely read fiction work by Helen Fielding, released in 1996, it remains a frequently recommended read in its category.",
+      "Bridget Jones, a thirty-something single woman in London, is worried about her weight (she is a 'stick insect' compared to other women), her career (she is a publicist for a publishing company), her drinking and smoking, and her love life. She resolves to keep a diary tracking her resolution: 'Will not go out every night but stay in and read books and listen to classical music.' She quickly breaks this resolution. The novel, written entirely in diary entries, follows Bridget through a year of disastrous dates, embarrassing moments at work, tense family holidays (where her parents' marriage is falling apart), and her romantic entanglement with two men: the handsome, charming, womanizing Daniel Cleaver (her boss), and the grumpy, seemingly judgmental human rights lawyer Mark Darcy (who wears a reindeer sweater and calls her 'a verbally incontinent spinster who smokes like a chimney'). Of course, she ends up with Mark. Fielding's novel, published in 1996, is a retelling of Pride and Prejudice for the '90s (Mark Darcy = Mr. Darcy, Daniel Cleaver = Wickham). It was adapted into a hit film starring Renée Zellweger and Colin Firth (who also played Mr. Darcy in the 1995 Pride and Prejudice). Since its release, it has earned a large readership worldwide and remains a frequently recommended read in its category for its humor, warmth, and honest portrayal of a woman trying to find herself.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1292060045m/227443.jpg",
     numberOfPages: 680,
@@ -906,7 +906,7 @@ const books = [
     name: "Sense and Sensibility",
     author: "Jane Austen, Tony Tanner, Ros Ballaster",
     description:
-      "A popular fiction title by Jane Austen, Tony Tanner, Ros Ballaster, since its release in 1811, it has earned a large readership worldwide.",
+      "When Mr. Dashwood dies, his entire estate is inherited by his son from a previous marriage, leaving his second wife and three daughters—Elinor, Marianne, and Margaret—penniless. They move to a cottage in Devonshire, offered by a distant cousin, Sir John Middleton. The novel contrasts two sisters: Elinor, who embodies 'sense' (reason, restraint, and propriety), and Marianne, who embodies 'sensibility' (passion, impulsivity, and romanticism). Elinor falls in love with Edward Ferrars, the shy, unassuming brother of her sister-in-law, but she learns he has been secretly engaged to Lucy Steele for years. Marianne falls in love with the dashing, romantic John Willoughby, who recites poetry and gallantly rescues her from a storm—but he is a fortune hunter who marries a wealthy woman. Both sisters suffer heartbreak. In the end, Edward's engagement breaks, and he marries Elinor. Marianne, after nearly dying of a fever, marries the staid, older Colonel Brandon, who has loved her quietly all along. Austen's first published novel, released in 1811, was originally titled Elinor and Marianne. It satirizes the cult of sensibility and argues that true love requires both emotion and reason. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1397245675m/14935.jpg",
     numberOfPages: 514,
@@ -918,7 +918,7 @@ const books = [
     name: "Holes",
     author: "Louis Sachar, Louis Sachar",
     description:
-      "One of Louis Sachar, Louis Sachar's best-known young adult books, since 1998, it has been praised for its storytelling and lasting appeal.",
+      "Stanley Yelnats, a boy cursed by his no-good-dirty-rotten-pig-stealing-great-great-grandfather, is wrongly convicted of stealing a pair of sneakers. He is sent to Camp Green Lake, a juvenile detention camp in the middle of a dried-up Texas lake. There, boys must dig one hole a day, five feet deep and five feet wide, supposedly to 'build character.' But the warden, who wears rattlesnake venom nail polish, is actually searching for the buried treasure of Kissin' Kate Barlow, a outlaw who robbed Stanley's great-grandfather a century ago. Stanley befriends Zero (Hector Zeroni), the smallest and quietest boy, who cannot read but can dig faster than anyone. When Zero runs away, Stanley follows him into the desert, saves his life, and they discover the treasure on the mountaintop where Zero's great-great-grandmother told a story to Stanley's great-great-grandfather. The novel weaves together three interconnected stories: the curse of Stanley's family, the outlaw Kate Barlow, and the boys' friendship. Sachar's novel, published in 1998, won the National Book Award and the Newbery Medal. It was adapted into a Disney film. Since 1998, it has been praised for its storytelling and lasting appeal, and it remains a widely read young adult work.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327781893m/38709.jpg",
     numberOfPages: 704,
@@ -930,7 +930,7 @@ const books = [
     name: "The Devil Wears Prada",
     author: "Lauren Weisberger",
     description:
-      "A celebrated work of fiction from Lauren Weisberger, released in 2003, it remains a frequently recommended read in its category.",
+      "Andrea 'Andy' Sachs, a recent Northwestern journalism graduate, moves to New York and lands a job that a million girls would die for: junior assistant to Miranda Priestly, the editor-in-chief of Runway magazine, the most powerful woman in fashion. But the job is a nightmare. Miranda is an impossible, abusive tyrant: she expects Andy to anticipate her every need, find her the never-published-in-print Harry Potter manuscript, and retrieve her dog from the vet during a hurricane, all while her own life falls apart. Her boyfriend dumps her, her father worries, and her friends abandon her. Andy survives a year at Runway, losing her soul in the process: she loses weight, wears designer clothes, and becomes the assistant Miranda wanted. At Paris Fashion Week, Andy discovers that Miranda is planning to fire her loyal second-in-command, Nigel, to save her own job. Andy quits on the spot, throws her cell phone into a fountain, and gets a job at a mainstream magazine, where she writes an exposé of her year at Runway. Weisberger's novel, published in 2003, was based on her own experience as an assistant to Anna Wintour, the real-life editor of Vogue. It was adapted into a hit film starring Meryl Streep and Anne Hathaway. Since its release, it has earned a large readership worldwide and remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Devil+Wears+Prada",
@@ -943,7 +943,7 @@ const books = [
     name: "The Odyssey",
     author: "Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",
     description:
-      "A celebrated work of classics from Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox, since its release in 720, it has earned a large readership worldwide.",
+      "After ten years of fighting in the Trojan War, the Greek hero Odysseus longs to return to his wife Penelope and son Telemachus on the island of Ithaca. But his journey home takes another ten years. He blinds the cyclops Polyphemus, angering his father Poseidon, who curses Odysseus to wander. He escapes the cannibalistic Laestrygonians, resists the sorceress Circe (who turns his men into pigs), visits the underworld, sails past the Sirens (whose song lures sailors to death), navigates the monsters Scylla and Charybdis, and finally lands on Calypso's island, where he is held prisoner for seven years. Meanwhile, back in Ithaca, Penelope is besieged by 108 suitors who eat her food and drink her wine. She weaves a shroud by day and unravels it by night, vowing to choose a husband when it is finished. Telemachus, helped by the goddess Athena, searches for news of his father. Odysseus finally returns, disguised as a beggar, kills the suitors, and reunites with Penelope. Homer's epic poem, composed around the 8th century BCE and likely written down in the 6th century, is one of the foundational works of Western literature. Since its release in approximately 720 BCE, it has earned a large readership worldwide. It remains a celebrated work of classics for its exploration of nostos (homecoming), xenia (hospitality), cunning versus strength, and the hero's journey.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1390173285m/1381.jpg",
     numberOfPages: 395,
@@ -956,7 +956,7 @@ const books = [
     author:
       "Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",
     description:
-      "An acclaimed fantasy book written by Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta, since its release in 1946, it has earned a large readership worldwide.",
+      "An aviator crashes his plane in the Sahara Desert, far from help. There he meets a strange young boy, the little prince, who asks him to draw a sheep. The little prince tells the aviator about his home: Asteroid B-612, a planet no larger than a house, where he tends three volcanoes (two active, one extinct) and protects a single rose—a vain, demanding flower he loves but has come to doubt. The little prince traveled to other asteroids, meeting a king with no subjects, a conceited man who wants applause, a drunkard who drinks to forget his shame, a businessman who counts stars he claims to own, a lamplighter who follows absurd orders, and a geographer who never leaves his desk. On Earth, he meets a fox who teaches him the secret: 'What is essential is invisible to the eye' and 'You become responsible forever for what you have tamed.' Saint-Exupéry's novella, published in 1943 in both French and English, is a meditation on love, loss, loneliness, and the foolishness of adult priorities. It has been translated into over 300 languages, making it one of the most translated books in history. Since its release, it has earned a large readership worldwide and remains an acclaimed fantasy book.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1367545443m/157993.jpg",
     numberOfPages: 354,
@@ -968,7 +968,7 @@ const books = [
     name: "The Glass Castle",
     author: "Jeannette Walls",
     description:
-      "A celebrated work of non-fiction from Jeannette Walls, published in 2005, it continues to be discussed and recommended by readers.",
+      "Jeannette Walls grew up in a family of nomadic, impoverished, fiercely intelligent, and deeply dysfunctional parents. Her father, Rex, is a charismatic alcoholic who promises to build the Glass Castle, a solar-powered glass mansion, and teaches his children physics, geology, and how to face fear. Her mother, Rose Mary, is an artist who claims she rejects conventional life for artistic freedom but neglects to buy food or heat the house. The family moves constantly: from the desert to Welch, West Virginia, where they live in a collapsed shack without running water or a toilet. The children sift through trash for food, wear clothes from the dump, and are bullied at school. But the children survive by supporting each other, and eventually, Jeannette and her siblings escape to New York City. Years later, when Jeannette is a successful journalist living on Park Avenue, she sees her homeless parents dumpster-diving and feels shame. Walls's memoir, published in 2005, became an instant classic for its unflinching honesty, its compassion for flawed parents, and its testimony to the resilience of children. It spent over 260 weeks on the New York Times bestseller list. Since its publication, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1400930557m/7445.jpg",
     numberOfPages: 514,
@@ -980,7 +980,7 @@ const books = [
     name: "Into the Wild",
     author: "Jon Krakauer",
     description:
-      "A widely read non-fiction work by Jon Krakauer, first published in 1996, it has become a favorite among readers of the genre.",
+      "In April 1992, a young man named Chris McCandless hitchhiked from his hometown in Virginia to Alaska, gave away his $24,000 savings to charity, changed his name to Alexander Supertramp, burned his money, and walked alone into the wilderness. Four months later, his decomposed body was found by a hunter. He had starved to death, weighing only 67 pounds. Krakauer, a journalist and mountaineer, was fascinated by McCandless's story. He retraced McCandless's journey: his strained relationship with his wealthy, secretive parents, his discovery of his father's double life (his parents were not legally married when he was born, and his father had a second family), his solo canoe trip down the Colorado River, his work on a grain elevator in South Dakota, his arrival in Fairbanks, his hike down the Stampede Trail to an abandoned bus. Krakauer argues that McCandless was not suicidal or naive: he was a young man searching for meaning, authenticity, and a life free from materialism and his father's lies. He died because of a combination of bad luck (a flood blocked his return) and a crucial mistake (he misidentified a potato seed as edible). Krakauer's book, published in 1996, sparked controversy: some admire McCandless as a noble idealist; others condemn him as a foolish, arrogant boy. It was adapted into a film by Sean Penn. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1403173986m/1845.jpg",
     numberOfPages: 436,
@@ -992,7 +992,7 @@ const books = [
     name: "A Tale of Two Cities",
     author: "Charles Dickens, Richard Maxwell, Hablot Knight Browne",
     description:
-      "An acclaimed classics book written by Charles Dickens, Richard Maxwell, Hablot Knight Browne, released in 1859, it remains a frequently recommended read in its category.",
+      "'It was the best of times, it was the worst of times.' The novel opens in 1775, comparing London and Paris as they lurch toward revolution. Dr. Manette, a French physician unjustly imprisoned in the Bastille for eighteen years, is released and reunited with his daughter Lucie in England. She marries Charles Darnay, a French aristocrat who has renounced his title. But the French Revolution breaks out, and the revolutionaries, led by the vicious Madame Defarge (who knits a registry of enemies to be executed), imprison Darnay. The hero is Sydney Carton, a dissolute, alcoholic English lawyer who looks exactly like Darnay and loves Lucie from afar. Carton redeems his wasted life by visiting Darnay's cell, drugging him, switching places, and going to the guillotine in his place. His famous last line: 'It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.' Dickens's novel, published in 1859, is one of the best-selling books of all time. It has been adapted into numerous films and plays. The novel explores resurrection, sacrifice, the brutality of mob justice, and the possibility of redemption. Since its release, it has earned a large readership worldwide, and remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1344922523m/1953.jpg",
     numberOfPages: 348,
@@ -1004,7 +1004,7 @@ const books = [
     name: "Jurassic Park",
     author: "Michael Crichton",
     description:
-      "A celebrated work of science fiction from Michael Crichton, released in 1990, it remains a frequently recommended read in its category.",
+      "On a remote island off the coast of Costa Rica, billionaire John Hammond has created a theme park like no other: Jurassic Park, a zoo of living dinosaurs, cloned from DNA preserved in amber from prehistoric mosquitoes. He invites a team of experts: paleontologist Alan Grant, paleobotanist Ellie Sattler, and mathematician Ian Malcolm, a chaos theorist who warns that the park is inherently unstable. ('Life finds a way.') When a disgruntled employee shuts down the park's security systems, the dinosaurs escape their enclosures and hunt the humans. The children of Hammond's lawyer, Tim and Lex, are trapped inside. The novel follows the survivors as they try to reach the visitor's center, avoid the pack-hunting velociraptors and the terrifying T-rex, and escape the island before it is napalmed. Crichton's novel, published in 1990, was a techno-thriller bestseller and became the basis for Steven Spielberg's blockbuster film (which toned down the novel's violence and Malcolm's philosophical monologues). The novel explores themes of genetic power, corporate greed, and the chaos inherent in complex systems. It was followed by a sequel, The Lost World. Since its release, it has earned a large readership worldwide and remains a popular science fiction title.",
     genre: "Science Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Jurassic+Park",
     numberOfPages: 607,
@@ -1016,7 +1016,7 @@ const books = [
     name: "The Giving Tree",
     author: "Shel Silverstein",
     description:
-      "A popular children title by Shel Silverstein, released in 1964, it remains a frequently recommended read in its category.",
+      "A boy plays every day under a tree, eating her apples, swinging from her branches. She loves the boy. But as he grows up, he visits less often and asks for more: he wants money, so she gives him her apples to sell. He wants a house, so she gives him her branches to build. He wants a boat to sail away, so she gives him her trunk. And when the boy, now an old man, returns again, the tree is a stump. She apologizes: 'I have nothing left to give you.' But the old man just needs a place to sit, so he sits on the stump, and the tree is happy. Silverstein's children's book, published in 1964, has been read as a parable about unconditional love (the tree as a mother) or as a cautionary tale about selfishness (the boy as a taker). It has sold over ten million copies and been translated into dozens of languages. Critics have debated whether it is a beautiful story of generosity or a disturbing story of exploitation. Silverstein himself refused to explain his meaning, saying, 'It's just a relationship between two people.' Since its release, it has earned a large readership worldwide and remains a popular children title.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1174210942m/370493.jpg",
     numberOfPages: 232,
@@ -1028,7 +1028,7 @@ const books = [
     name: "A Time to Kill",
     author: "John Grisham",
     description:
-      "One of John Grisham's best-known fiction books, first published in 1989, it has become a favorite among readers of the genre.",
+      "In Clanton, Mississippi, ten-year-old Tonya Hailey is kidnapped, beaten, and raped by two white supremacists, Billy Ray Cobb and Pete Willard. The men are arrested, but before they can stand trial, Tonya's father, Carl Lee Hailey, buys an M-16 rifle, ambushes them in the courthouse, and kills them both. Carl Lee is arrested for murder. Jake Brigance, an idealistic young white attorney who campaigned for the black community's vote, agrees to defend Carl Lee. The case divides the town: the Klan organizes protests and cross-burnings; the black community, afraid to speak out, watches in silence. Jake's family is threatened, his car is firebombed, and his house is attacked. The trial becomes a national media circus. Jake argues that Carl Lee was temporarily insane—a black father watching his daughter nearly die—and that a father's right to protect his child should be considered by the jury. After a dramatic closing argument, the jury acquits Carl Lee. Grisham's first novel, published in 1989, was rejected by many publishers before Wynwood Press printed a small run. After the success of his later novel The Firm, this book was reissued and became a bestseller. It was adapted into a film starring Matthew McConaughey, Samuel L. Jackson, and Sandra Bullock. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=A+Time+to+Kill",
     numberOfPages: 382,
@@ -1040,7 +1040,7 @@ const books = [
     name: "Night",
     author: "Elie Wiesel, Marion Wiesel",
     description:
-      "An acclaimed non-fiction book written by Elie Wiesel, Marion Wiesel, since its release in 1958, it has earned a large readership worldwide.",
+      "In 1944, fifteen-year-old Elie Wiesel and his family live in Sighet, Transylvania. They are deported to Auschwitz by the Nazis. His mother and younger sister are sent to the gas chambers immediately. Elie and his father survive the initial selection and are forced into slave labor. Over the next year, Elie loses his faith in God ('Blessed be God's name? Why, but why should I bless him?'), his innocence, and his identity. He witnesses babies thrown into flames, a child hanged for sabotage, and his own father beaten for being too slow. He feels ashamed of his own hunger and exhaustion when he cannot protect his father. His father dies of dysentery in Buchenwald, just months before liberation. Elie survives, but he cannot look at himself in a mirror for years. Wiesel's memoir, first published in 1956 (in Yiddish) and then in French in 1958, is a searing account of the Holocaust's dehumanization. It has been translated into over thirty languages and is taught in schools worldwide as a testament to human cruelty and the survivor's obligation to bear witness. Wiesel was awarded the Nobel Peace Prize in 1986. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1473495285m/1617.jpg",
     numberOfPages: 495,
@@ -1052,7 +1052,7 @@ const books = [
     name: "Paper Towns",
     author: "John Green",
     description:
-      "One of John Green's best-known young adult books, published in 2008, it continues to be discussed and recommended by readers.",
+      "Quentin 'Q' Jacobsen has been in love with his neighbor, Margo Roth Spiegelman, since they were children. But after a traumatic childhood incident (finding a dead body in a park), they drifted apart. In their senior year, Margo climbs into Q's window in the middle of the night, dressed as a ninja, and takes him on a revenge spree through Orlando (putting fish-oil in her ex-boyfriend's car, breaking into SeaWorld, etc.). The next day, Margo disappears. She has run away before, but this time she leaves clues: a map with a red X, lines from Walt Whitman's 'Song of Myself,' and cryptic notes about 'paper towns.' Q believes she left clues for him to find her. He skips prom, drives hundreds of miles to an abandoned mini-mall in upstate New York, and finds Margo. She explains: she is not dead, and she did not need to be rescued. She wanted to escape the 'paper towns'—the fake, hollow versions of people that others project onto her. She does not love Q; she loves being free. Q returns home, heartbroken but wiser. Green's novel, published in 2008, explores the danger of romanticizing someone instead of seeing them as they really are. It was adapted into a film. Since its release, it has earned a large readership worldwide and continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1349013610m/6442769.jpg",
     numberOfPages: 151,
@@ -1064,7 +1064,7 @@ const books = [
     name: "The Princess Bride",
     author: "William Goldman",
     description:
-      "An acclaimed young adult book written by William Goldman, released in 1973, it remains a frequently recommended read in its category.",
+      "The book presents itself as an abridged version of a classic novel by the fictional S. Morgenstern, a satire of Florinese history. Goldman claims his father read him the boring parts as a child, but he later found the 'good parts'—the romance, adventure, swordfights, and revenge. Buttercup, the most beautiful woman in the world, is forced to become the wife of the evil Prince Humperdinck. She believes her true love, Westley, was killed by the Dread Pirate Roberts. But Westley, having survived and become the Dread Pirate Roberts himself, returns to rescue her. He must survive the Fire Swamp (with its lightning sand and R.O.U.S.s—Rodents of Unusual Size), defeat the swordsman Inigo Montoya (who seeks revenge against the six-fingered man who killed his father), and the giant Fezzik (who recites rhymes). The novel famously includes Goldman's commentary and asides, which are entirely fictional. Goldman's novel, published in 1973, was adapted into the beloved cult classic film by Rob Reiner. The film is largely faithful to the 'good parts' version, though many readers are surprised to discover that the fictional author and the framing device are inventions. Since its release, it has earned a large readership worldwide and remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327903636m/21787.jpg",
     numberOfPages: 236,
@@ -1076,7 +1076,7 @@ const books = [
     name: "The Outsiders",
     author: "S.E. Hinton",
     description:
-      "A widely read fiction work by S.E. Hinton, published in 1967, it continues to be discussed and recommended by readers.",
+      "Ponyboy Curtis, a fourteen-year-old greaser (a poor, working-class youth with greased hair), lives with his two older brothers, Darry and Sodapop, after their parents were killed in a car accident. The greasers are constantly at war with the Socs (pronounced 'soashes'), the wealthy kids from the West Side who drive expensive cars, get away with everything, and jump greasers for fun. One night, Ponyboy and his best friend Johnny are jumped by Socs; Johnny kills one in self-defense. They flee to an abandoned church, where they hide out. They cut their hair and read Gone with the Wind to pass the time. They save children from a burning church, and Johnny is critically injured. The greasers and Socs agree to a final rumble. The greasers win, but Johnny dies from his injuries. His last words: 'Stay gold, Ponyboy. Stay gold.' Ponyboy recovers, and a judge lets him stay with his brothers. Hinton wrote this novel when she was fifteen years old (published in 1967) to protest the lack of realistic young adult literature. It remains a classic for its portrayal of class conflict, brotherhood, and the universal fear of being an outsider. Since its publication, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1442129426m/231804.jpg",
     numberOfPages: 354,
@@ -1088,7 +1088,7 @@ const books = [
     name: "The Maze Runner",
     author: "James Dashner",
     description:
-      "An acclaimed young adult book written by James Dashner, since its release in 2009, it has earned a large readership worldwide.",
+      "Thomas wakes up in a metal box, his memory wiped, with only his name. The box opens into the Glade, a small enclave surrounded by four massive stone walls that form a maze. Outside the walls are Grievers, part-mechanical, part-biological monsters that kill anyone caught in the maze after dark. Thomas has been sent to the Glade, a society of teenage boys who have been arriving for two years—one new boy per month, plus supplies. The builders, or the Creators, keep them trapped for unknown purposes. Thomas is different: he is curious, brave, and desperate to solve the maze. He becomes a Runner, one of the elite boys who memorize the maze's shifting patterns. He discovers that the maze is solvable: the walls are actually doors, and when the combination is found, an exit will reveal itself. The girl arrives, the first girl ever, carrying a message: 'She is the last one ever.' Thomas solves the maze, and the survivors escape into the 'real world'—only to discover they are guinea pigs in a government experiment studying a virus called the Flare. Dashner's novel, published in 2009, was adapted into a film. It launched a best-selling dystopian series. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1375596592m/6186357.jpg",
     numberOfPages: 594,
@@ -1100,7 +1100,7 @@ const books = [
     name: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
     author: "Steven D. Levitt, Stephen J. Dubner",
     description:
-      "A popular non-fiction title by Steven D. Levitt, Stephen J. Dubner, first published in 2005, it has become a favorite among readers of the genre.",
+      "Levitt, a University of Chicago economist, is less interested in traditional economics (stocks, bonds, inflation) than in asking: 'If morality represents the way we would like the world to work, then economics represents how it actually does work.' In this bestselling book, Levitt and journalist Dubner apply economic thinking to surprising topics. Chapter 1: What do schoolteachers and sumo wrestlers have in common? Both cheat when the incentives are right (teachers inflate test scores; wrestlers throw matches). Chapter 2: Why did crime drop sharply in the 1990s? The most controversial answer: legalized abortion in the 1970s meant fewer unwanted children born into poverty, and thus fewer potential criminals. Chapter 3: Why do drug dealers still live with their mothers? Because the gangs are structured like a corporate pyramid, and most dealers are at the bottom, earning below minimum wage. Chapter 4: Are parents important? Not as important as they think: parenting techniques matter less than who the parents are (education, income, class). Chapter 5: Is your baby's name a predictor of success? No, but the parents' socioeconomic status predicts the name, which correlates with other outcomes. Published in 2005, the book has sold over four million copies. It spawned a blog, a sequel (SuperFreakonomics), a documentary, and a podcast. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1327909092m/1202.jpg",
     numberOfPages: 555,
@@ -1112,7 +1112,7 @@ const books = [
     name: "The Secret Garden",
     author: "Frances Hodgson Burnett",
     description:
-      "An acclaimed classics book written by Frances Hodgson Burnett, published in 1911, it continues to be discussed and recommended by readers.",
+      "Mary Lennox, a spoiled, sour ten-year-old girl born in India, is orphaned by a cholera outbreak and sent to live with her reclusive uncle, Archibald Craven, at Misselthwaite Manor on the Yorkshire Moors. Mary is neglected and left to explore the manor and its grounds alone. She hears a crying in the night (her cousin Colin, who has been bedridden and told he is a cripple) and discovers a secret garden, locked for ten years after the death of Mr. Craven's wife. With the help of Dickon, a boy who can talk to animals, Mary brings the garden back to life. She secretly brings Colin into the garden, and as he breathes fresh air, plants bulbs, and learns to stand and walk, he transforms from a whining invalid into a healthy, happy boy. Mr. Craven, traveling abroad, dreams of his wife calling him home; he returns to find Colin running to meet him, cured. Burnett's novel, published in 1911, is a classic of children's literature. It explores themes of transformation through nature, the power of positive thinking, and the healing of physical and emotional wounds. Since its publication, it continues to be discussed and recommended by readers, and remains an acclaimed classics book.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327873635m/2998.jpg",
     numberOfPages: 236,
@@ -1124,7 +1124,7 @@ const books = [
     name: "One Hundred Years of Solitude",
     author: "Gabriel García Márquez, Gregory Rabassa",
     description:
-      "One of Gabriel García Márquez, Gregory Rabassa's best-known classics books, since its release in 1967, it has earned a large readership worldwide.",
+      "The novel tells the story of seven generations of the Buendía family in the fictional town of Macondo, from its founding by José Arcadio Buendía and his cousin-wife Úrsula Iguarán, to its destruction by a biblical hurricane. The family's history is cyclical: characters are named José Arcadio and Aureliano, they marry cousins, they have children with pig tails, and they repeat the same mistakes. Colonel Aureliano Buendía leads 32 civil wars and loses them all. Remedios the Beauty ascends to heaven while folding laundry. José Arcadio Segundo sees a massacre of striking workers and is the only survivor, but no one believes him. Amaranta Úrsula has a child with her nephew Aureliano, and the child has a pig's tail—the prophecy the family has feared for a century. Aureliano (the last of the line) deciphers a set of parchments that predicts the family's destruction. As he finishes reading, Macondo is swept off the face of the earth. Márquez's masterpiece, published in 1967, is the defining work of magical realism, where supernatural events are presented as ordinary. It won him the Nobel Prize in Literature in 1982. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327881361m/320.jpg",
     numberOfPages: 280,
@@ -1136,7 +1136,7 @@ const books = [
     name: "The Picture of Dorian Gray",
     author: "Oscar Wilde, Jeffrey Eugenides",
     description:
-      "A widely read classics work by Oscar Wilde, Jeffrey Eugenides, since its release in 1891, it has earned a large readership worldwide.",
+      "In Victorian London, the beautiful young Dorian Gray has his portrait painted by Basil Hallward, an artist who has fallen in love with his subject. Dorian, influenced by the hedonistic Lord Henry Wotton, wishes that the portrait would age instead of him, so he could pursue a life of pleasure without consequences. His wish is granted. Dorian abandons his fiancée, Sibyl Vane, who then kills herself. He looks in the mirror: he is still young and beautiful, but the portrait shows cruelty around his mouth. Over the next eighteen years, Dorian descends into a life of sin—opium dens, seduction, blackmail, and possibly murder. The portrait grows increasingly hideous, reflecting his corrupted soul, while his face remains flawless. Finally, Dorian stabs the portrait, trying to destroy the evidence of his sins. When his servants break in, they find the portrait restored to its original beauty—and the old, hideous, knife-wounded corpse of Dorian Gray on the floor. Wilde's only novel, published in 1890, was used as evidence of 'gross indecency' at his trial, which led to his imprisonment. The novel explores aestheticism, hedonism, narcissism, and the relationship between art and morality. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1424596966m/5297.jpg",
     numberOfPages: 626,
@@ -1148,7 +1148,7 @@ const books = [
     name: "Fifty Shades Freed",
     author: "E.L. James",
     description:
-      "One of E.L. James's best-known fiction books, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "The third book of the Fifty Shades trilogy follows the marriage of Anastasia Steele and Christian Grey. Ana and Christian have a lavish wedding, then move into their newly built home, but trouble follows them. Christian's former submissive, Leila, escapes from a mental institution and stalks Ana. Ana's former boss, Jack Hyde, whom Ana fired for sexual harassment, tries to kidnap her, blackmail Christian, and steal his company. Ana discovers she is pregnant; Christian panics (his childhood trauma makes him fear harming a child), but eventually embraces fatherhood. They have a son, Theodore Raymond Grey (named after Christian's adoptive father). The novel resolves the tension between Ana's desire for independence and Christian's need for control; they find a balance. Jack Hyde, arrested, promises revenge. James's third book, published in 2012, was the fastest-selling paperback of all time. It has been criticized for its prose, its portrayal of BDSM, and its glorification of controlling, jealous behavior (Christian tracks Ana's phone, buys the company where she works, and throws a tantrum when she visits her friend). Despite or because of the controversy, the trilogy has sold over 150 million copies worldwide. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1336418837m/13536860.jpg",
     numberOfPages: 635,
@@ -1160,7 +1160,7 @@ const books = [
     name: "Dracula",
     author: "Bram Stoker, Nina Auerbach, David J. Skal",
     description:
-      "A popular classics title by Bram Stoker, Nina Auerbach, David J. Skal, since its release in 1897, it has earned a large readership worldwide.",
+      "Jonathan Harker, a young English solicitor, travels to Transylvania to help Count Dracula purchase an estate in England. Harker is imprisoned in the Count's castle, and he discovers that the Count is a vampire who sleeps in a coffin filled with earth. Harker escapes, but Dracula travels to England on a ship, killing the crew. He attacks Lucy Westenra, who becomes a vampire and preys on children. Professor Abraham Van Helsing, a Dutch doctor and vampire hunter, leads a small group: Lucy's suitors (Arthur, Quincey, and Jack), her fiancé (Lord Godalming), Jonathan's fiancée Mina, and Jonathan himself. They kill Lucy, then hunt Dracula through London. Mina is attacked by Dracula, and she begins to transform. To save her, the men track Dracula to Transylvania, kill his brides, and at sunset, just before Dracula enters his castle, Jonathan and Quincey stab him. Dracula crumbles to dust, Quincey dies, and Mina is cured. Stoker's novel, published in 1897, is an epistolary novel told through letters, diary entries, newspaper clippings, and log entries. It established many vampire conventions: fangs, garlic, holy water, crucifixes, and sunlight as fatal. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1387151694m/17245.jpg",
     numberOfPages: 711,
@@ -1172,7 +1172,7 @@ const books = [
     name: "The Girl Who Played with Fire",
     author: "Stieg Larsson, Reg Keeland",
     description:
-      "A celebrated work of fiction from Stieg Larsson, Reg Keeland, since its release in 2006, it has earned a large readership worldwide.",
+      "The second book of the Millennium series finds Lisbeth Salander, the dragon-tattooed hacker, wanted for murder. Two journalists at Millennium magazine—Dag Svensson and his girlfriend Mia Johansson—are about to publish an exposé of sex trafficking in Sweden, implicating powerful figures. They are shot dead. Lisbeth's fingerprints are on the murder weapon, and she has fled Sweden. Mikael Blomkvist, Lisbeth's friend and occasional lover, does not believe she is guilty. He investigates, uncovering a conspiracy: Lisbeth's brutal guardian, Nils Bjurman, and a murderous giant named Ronald Niedermann (who cannot feel pain) are part of a network. Lisbeth, hiding in Grenada, returns to Sweden, digs up her father, a former Soviet spy named Alexander Zalachenko, and confronts him. In a final battle, Lisbeth kills her father, is captured, and is acquitted due to Blomkvist's investigation and her lawyer's brilliant defense. The novel explores corruption, the failure of the Swedish justice system, violence against women, and Lisbeth's tortured past. Since its release in 2006, it has earned a large readership worldwide. Larsson died of a heart attack in 2004 before seeing his books become international sensations.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1351778881m/5060378.jpg",
     numberOfPages: 171,
@@ -1184,7 +1184,7 @@ const books = [
     name: "Fifty Shades Darker",
     author: "E.L. James",
     description:
-      "A widely read romance work by E.L. James, first published in 2011, it has become a favorite among readers of the genre.",
+      "The second book of the Fifty Shades trilogy begins with Ana leaving Christian after the previous book's BDSM scene violated her boundaries. Christian, who has never loved anyone before, is devastated. He pursues Ana, promising to try a 'vanilla' relationship without contracts or rules. He takes her to meet his family (his adoptive parents are loving and normal; his birth mother was a crack addict who died when he was four). Ana learns about Christian's traumatic past: he was beaten, burned with cigarettes, and starved by his birth mother's pimp. He was adopted at age four and became a sexual submissive to an older woman, Elena Lincoln, when he was fifteen. The couple tries to reconcile: they buy a sailboat, attend a masquerade ball, and have sex (now mutually satisfying, not contractual). But Elena (Mrs. Robinson) is jealous, and Leila, a former submissive who is stalking Christian, attacks Ana. Christian kills Leila in self-defense. The book ends with Christian proposing marriage and Ana accepting. James's second novel, published in 2011, was another blockbuster, despite critical reviews calling it repetitive and melodramatic. Fans embraced the deepening of Christian's backstory and his emotional growth. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1358266080m/11857408.jpg",
     numberOfPages: 689,
@@ -1196,7 +1196,7 @@ const books = [
     name: "The Poisonwood Bible",
     author: "Barbara Kingsolver",
     description:
-      "One of Barbara Kingsolver's best-known historical fiction books, published in 1998, it continues to be discussed and recommended by readers.",
+      "Nathan Price, an evangelical Baptist minister from Georgia, drags his wife Orleanna and four daughters (Rachel, Leah, Adah, and Ruth May) to the Belgian Congo in 1959 as missionaries. Nathan is arrogant, rigid, and self-righteous. He refuses to learn the Kikongo language, believing his English will be divinely understood. He demands that the villagers be baptized in the river, which is infested with crocodiles. He is oblivious to the village's hunger, sickness, and the rising political violence of the Congo's independence from Belgium. Each daughter narrates in a distinct voice: Rachel, the shallow, materialistic eldest; Leah, the idealistic tomboy who wants her father's approval; Adah, born with hemiplegia, who reads words backward and sees the world in paradox; and Ruth May, the youngest, who plays with village children. Over the course of a year, the Prices suffer tragedy: Ruth May is bitten by a snake and dies. The family flees, but Nathan stays and is executed by rebels. The novel, published in 1998, explores colonialism, religion, guilt, and the long legacy of America's involvement in Africa. Since its release, it has earned a large readership worldwide, and continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1412242487m/7244.jpg",
     numberOfPages: 349,
@@ -1208,7 +1208,7 @@ const books = [
     name: "Me Talk Pretty One Day",
     author: "David Sedaris",
     description:
-      "One of David Sedaris's best-known humor books, first published in 2000, it has become a favorite among readers of the genre.",
+      "This collection of humorous essays showcases David Sedaris at his sharpest and funniest. The first half of the book recounts his eccentric childhood in North Carolina: learning to speak with a speech therapist ('the wet set'), working as a performance artist in a Macy's window, enduring the 'You Can't Kill the Rooster' antics of his drug-addled brother, and being sent to France to learn French. The second half describes his move to Paris with his partner Hugh, and his humiliating attempts to learn the language from a sadistic teacher who tells him, 'Every day you look less and less like a big cigarette.' Sedaris's deadpan delivery and self-deprecating humor turn humiliation into art. His essay about a silent retreat where he cannot stop thinking about funny words ('kumquat') is a highlight. First published in 2000, this collection cemented Sedaris's place as America's foremost humorist. He captures the absurdity of everyday life—family relationships, language barriers, cultural differences—with warmth and wit. The title essay, about his French class, has become one of his most anthologized pieces. Since its release, it has remained a frequently recommended read in its category.",
     genre: "Humor",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Me+Talk+Pretty+One+Day",
@@ -1221,7 +1221,7 @@ const books = [
     name: "Where the Wild Things Are",
     author: "Maurice Sendak",
     description:
-      "One of Maurice Sendak's best-known children books, released in 1963, it remains a frequently recommended read in its category.",
+      "Max, a mischievous boy wearing a wolf costume, misbehaves so badly that his mother sends him to bed without supper. But his bedroom transforms into a magical forest, and an ocean, and he sails away to the land where the Wild Things live. The Wild Things are monstrous, hairy creatures with terrible roars and gnashing teeth. Max tames them by staring into their yellow eyes without blinking, and they make him their king. He leads them in a 'wild rumpus'—a joyous, chaotic, three-page wordless spread of dancing, swinging, and stomping—until he gets lonely and smells good things to eat. He leaves the Wild Things (who beg him to stay) and sails back to his bedroom, where his supper is waiting for him, still hot. Sendak's picture book, published in 1963, was controversial for its dark imagery and psychological depth. Child psychologists praised its honest portrayal of childhood anger and its resolution through imagination and maternal love. It won the Caldecott Medal and has been adapted into an animated short, an opera, and a live-action film. With only 338 words, it has become one of the most beloved children's books of all time. Since its release, it has remained a frequently recommended read in its category.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1384434560m/19543.jpg",
     numberOfPages: 663,
@@ -1233,7 +1233,7 @@ const books = [
     name: "The Count of Monte Cristo",
     author: "Alexandre Dumas, Robin Buss",
     description:
-      "One of Alexandre Dumas, Robin Buss's best-known classics books, since 1844, it has been praised for its storytelling and lasting appeal.",
+      "Edmond Dantès, a young, honest sailor, is falsely accused of treason by jealous rivals on his wedding day. He is imprisoned without trial in the island fortress of Château d'If, where he spends fourteen years in a dark cell, slowly going mad. He meets the Abbé Faria, a brilliant Italian prisoner who digs a tunnel into Dantès's cell. Faria educates Dantès in languages, philosophy, science, and economics, and reveals the location of a vast treasure hidden on the island of Monte Cristo. When Faria dies, Dantès escapes in his body bag, finds the treasure, and reinvents himself as the Count of Monte Cristo—wealthy, mysterious, and bent on revenge. He systematically destroys the lives of the three men who framed him: Caderousse, who becomes a murderer; Fernand Mondego, who commits suicide after his wife and son abandon him; and Villefort, who goes insane. Dantès also rewards those who were kind to him, saving the life of his old employer's son and reuniting a shipowner with his grandson. Dumas's epic adventure, serialized in 1844-46, is one of the most popular novels ever written, exploring justice, revenge, mercy, and the corrupting power of wealth. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1309203605m/7126.jpg",
     numberOfPages: 483,
@@ -1245,7 +1245,7 @@ const books = [
     name: "The Road",
     author: "Cormac McCarthy",
     description:
-      "A popular science fiction title by Cormac McCarthy, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "In a post-apocalyptic world, a father and his young son walk south through a gray, ash-covered landscape toward the coast. The cause of the disaster is never named—only that 'a long shear of light' caused everything to burn, leaving no animals, no plants, no hope. The father carries a revolver with two bullets, one for each of them if the 'bad guys' find them. The 'bad guys' are cannibalistic gangs who capture, enslave, and eat people. The father and son scavenge for canned food, push a shopping cart of supplies, and hide from the road. The father is coughing blood and dying. The son, born after the apocalypse, has never known a world with birdsong, light, or other children. The novel's prose is sparse, fragmentary, and stripped of quotation marks. The only names are 'the man' and 'the boy.' Their only motivation is to 'carry the fire'—to retain their humanity, compassion, and morality in a world that has abandoned all three. When the father finally dies, the boy is found by a family who adopts him. McCarthy's novel, published in 2006, won the Pulitzer Prize and was adapted into a film starring Viggo Mortensen. It explores love, parenthood, hope, and the question of why we bother living when we know we will die. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1439197219m/6288.jpg",
     numberOfPages: 579,
@@ -1257,7 +1257,7 @@ const books = [
     name: "Allegiant",
     author: "Veronica Roth",
     description:
-      "One of Veronica Roth's best-known young adult books, first published in 2013, it has become a favorite among readers of the genre.",
+      "The final book of the Divergent trilogy reveals the truth: the city of Chicago is not the world; it is an experiment. The Bureau of Genetic Welfare, headquartered in an airport outside the city, is run by scientists who created the faction system to fix human nature after a catastrophic war known as the Purity War. The experiment has failed. Tris Prior, Tobias Eaton, and their friends escape the city and discover the truth: their entire lives have been watched and manipulated. The Bureau wants to reset the experiment (which would kill all the Divergent, including Tris), using the memory serum to wipe the city's collective memory. Tris sacrifices herself to destroy the Bureau's data, ensuring the city's freedom. She dies, and Tobias carries her body out of the compound. This ending provoked intense backlash from fans who had invested in Tris and Tobias's relationship. Roth defended her choice, saying she wanted an honest ending, not a happy one. The novel also introduced the controversial twist that Tobias's mother, Evelyn, survived the attack on Abnegation and is alive. Published in 2013, the final book was adapted into a film, but the studio split it into two parts, and the second part went straight to television due to poor box office returns. It remains a widely read young adult work.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1395582745m/18710190.jpg",
     numberOfPages: 512,
@@ -1269,7 +1269,7 @@ const books = [
     name: "Bossypants",
     author: "Tina Fey",
     description:
-      "An acclaimed non-fiction book written by Tina Fey, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Tina Fey, the creator of 30 Rock and the first female head writer of Saturday Night Live, writes a memoir that is as funny and sharp as her comedy. She recounts her childhood in suburban Philadelphia, her awkward teenage years, her early days at SNL (where she was the only woman in the writers' room), the creation of her Sarah Palin impression, and the challenges of being a working mother in Hollywood. She addresses the sexism she faced: male executives who assumed she was the assistant, producers who asked her to 'smile more,' and the persistent rumor that she had a nose job (she did not; she broke her nose as a child). She shares wisdom: 'There are no wrong answers in improv, only unexpected ones.' She also discusses her feud with Amy Poehler (they don't have one) and her co-star Alec Baldwin (they get along). Fey writes in a conversational, self-deprecating style that feels like chatting with a smart, funny friend. The book became a bestseller in 2011, praised for its honesty and humor. It remains a celebrated work of non-fiction for its insight into the comedy industry and its portrait of a woman succeeding in a male-dominated field. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1481509554m/9418327.jpg",
     numberOfPages: 679,
@@ -1281,7 +1281,7 @@ const books = [
     name: "A Walk to Remember",
     author: "Nicholas Sparks",
     description:
-      "An acclaimed drama book written by Nicholas Sparks, since 1999, it has been praised for its storytelling and lasting appeal.",
+      "In Beaufort, North Carolina, in 1958, Landon Carter is a popular, rebellious teenager who has never given much thought to Jamie Sullivan, the minister's daughter who wears a cardigan every day and carries a Bible. But when Landon is forced to participate in the school play (starring Jamie as the angel), they rehearse together, and Landon falls in love with her kindness, faith, and hidden beauty. Jamie is dying of leukemia. Her one wish is to be married in the church where her mother died, and to have a miracle. Landon marries her, giving her two months of happiness. She dies on their first anniversary. The novel is framed by an older Landon, looking back fifty years later, still wearing the ring he gave her. Sparks's novel, published in 1999, is based on the true story of his sister, who died of cancer. He wrote it to process his grief. It was adapted into a film starring Shane West and Mandy Moore (whose song 'Only Hope' was written for the film). The novel explores faith, redemption, and the transformative power of love. It remains a frequently recommended read in its category, despite its tearjerker reputation. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Drama",
     coverPage: "https://images.gr-assets.com/books/1385738968m/3473.jpg",
     numberOfPages: 283,
@@ -1293,7 +1293,7 @@ const books = [
     name: "Confessions of a Shopaholic",
     author: "Sophie Kinsella",
     description:
-      "A celebrated work of young adult from Sophie Kinsella, since its release in 2000, it has earned a large readership worldwide.",
+      "Rebecca Bloomwood, a financial journalist in London, has a serious problem: she loves to shop, and she is drowning in debt. She works for Successful Saving magazine but spends her entire paycheck and then some on designer scarves, candles, and boots she will never wear. She hides her credit card bills from her best friend Suze and her boyfriend (she doesn't have one). When a handsome banker named Luke Brandon (the son of a department store magnate) begins wooing her, she must hide her secret. The novel follows her increasingly desperate attempts to avoid her debt collector, answer her threatening letters, and maintain her reputation. When her bank finally corners her at a party, her secret is exposed—but Luke, who appreciates her charm, forgives her and agrees to help her manage her money. The novel, published in 2000, launched a best-selling series (Shopaholic Takes Manhattan, Shopaholic Ties the Knot, etc.) and a film starring Isla Fisher. Kinsella's protagonist is both infuriating and endearing, and the novel captures the contradictions of consumer culture: we know we shouldn't buy things we can't afford, but we do anyway. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327872404m/9416.jpg",
     numberOfPages: 686,
@@ -1305,7 +1305,7 @@ const books = [
     name: "Les Misérables",
     author: "Victor Hugo, Lee Fahnestock, Norman MacAfee",
     description:
-      "A celebrated work of classics from Victor Hugo, Lee Fahnestock, Norman MacAfee, first published in 1862, it has become a favorite among readers of the genre.",
+      "Jean Valjean, a poor French peasant, steals a loaf of bread to feed his sister's starving children. He is sentenced to five years in prison; after multiple escape attempts, he serves nineteen years. When he is released, he is bitter and hardened—until a kindly bishop, Myriel, offers him food and shelter, then forgives him when Valjean steals his silver. The bishop says, 'I have bought your soul for God.' Valjean reinvents himself as Monsieur Madeleine, a wealthy factory owner and mayor of Montreuil-sur-Mer. But Inspector Javert, a police officer obsessed with justice and the law, recognizes him. Valjean spends the rest of the novel evading Javert while trying to do good: he adopts Cosette, the orphaned daughter of a dying prostitute named Fantine; he saves Marius, a student revolutionary with whom Cosette falls in love; and he refuses to kill Javert when he has the chance. Javert, unable to reconcile Valjean's goodness with his criminal identity, commits suicide. The novel, published in 1862, is 1,500 pages long and includes digressions on the Battle of Waterloo, the Paris sewers, and monastic life. It has been adapted into a beloved stage musical. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1411852091m/24280.jpg",
     numberOfPages: 600,
@@ -1317,7 +1317,7 @@ const books = [
     name: "A Clash of Kings",
     author: "George R.R. Martin",
     description:
-      "One of George R.R. Martin's best-known fantasy books, since 1998, it has been praised for its storytelling and lasting appeal.",
+      "The second book of A Song of Ice and Fire finds Westeros in chaos. King Joffrey sits on the Iron Throne in King's Landing, but three other kings claim the crown: Renly Baratheon (King Robert's youngest brother), Stannis Baratheon (Robert's older brother), and Robb Stark (declared King in the North by his bannermen). The war is called the War of the Five Kings (Balon Greyjoy, Lord of the Iron Islands, declares himself king as well). Tyrion Lannister, newly appointed Hand of the King, tries to rule King's Landing with wit and strategy, but he is outmaneuvered by his sister Cersei. Arya Stark, disguised as a boy named Arry, escapes King's Landing and wanders the riverlands, witnessing war's devastation. Sansa Stark is held hostage by Joffrey, who torments her. Bran Stark, the new Prince of Winterfell, discovers he has magical powers as a warg (entering the mind of his direwolf Summer). Daenerys Targaryen, in the east, loses her husband Khal Drogo and her dragons, but they are reborn from his funeral pyre. The novel ends with Stannis's attack on King's Landing, repelled by Tyrion's wildfire and Tywin Lannister's reinforcements. Martin's second installment, published in 1998, expands the world and deepens the political intrigue. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1358254974m/10572.jpg",
     numberOfPages: 154,
@@ -1329,7 +1329,7 @@ const books = [
     name: "The Memory Keeper's Daughter",
     author: "Kim Edwards",
     description:
-      "One of Kim Edwards's best-known fiction books, since its release in 2005, it has earned a large readership worldwide.",
+      "In 1964, a blizzard hits Lexington, Kentucky. Dr. David Henry delivers his own twins, but the girl is born with Down syndrome. In a moment of panic, he tells his wife Norah that the girl died. He gives the baby to his nurse, Caroline Gill, and tells her to take her to an institution. Instead, Caroline flees to Pittsburgh and raises the child, Phoebe, as her own. The novel follows two parallel stories: David and Norah's family, haunted by the secret of the 'dead' daughter, and Caroline and Phoebe's life, full of love and challenges. David's guilt destroys his marriage; Norah becomes an alcoholic; their son Paul grows up feeling the absence of his ghost twin. Years later, on his deathbed, David confesses. Norah travels to Pittsburgh, meets Phoebe, and finds peace. Edwards's debut novel, published in 2005, explores the burden of secrets, the nature of disability, and the way a single decision can shape multiple lives. The novel was inspired by Edwards's own experience working in a clinic for children with disabilities. It became a bestseller, praised for its emotional depth and moral complexity. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Memory+Keeper's+Daughter",
@@ -1342,7 +1342,7 @@ const books = [
     name: "Me Before You",
     author: "Jojo Moyes",
     description:
-      "An acclaimed romance book written by Jojo Moyes, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "Louisa Clark, a bubbly, quirky twenty-six-year-old from a small English town, loses her job at a cafe. Desperate, she takes a position as a caregiver for Will Traynor, a wealthy, adventurous former banker who was paralyzed from the chest down in a motorcycle accident two years earlier. Will is bitter, sarcastic, and openly hostile. He has signed a 'death with dignity' agreement with his parents: he will live six more months, then go to Dignitas in Switzerland to end his life. Louisa is hired to cheer him up and change his mind. At first, they clash. But slowly, she wins him over: she makes him laugh, takes him to horse races and concerts, and teaches him that life is still worth living. On a trip to Mauritius, they fall in love. But Will still chooses to die. He explains that he cannot live as a prisoner in his own body, dependent on others for everything. Louisa is devastated but accepts his choice. She is with him when he dies. Moyes's novel, published in 2012, became a massive bestseller and was adapted into a film starring Emilia Clarke and Sam Claflin. It sparked intense debate about assisted suicide, disability, and love. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1357108762m/15507958.jpg",
     numberOfPages: 273,
@@ -1354,7 +1354,7 @@ const books = [
     name: "Catch-22",
     author: "Joseph Heller",
     description:
-      "A celebrated work of classics from Joseph Heller, first published in 1961, it has become a favorite among readers of the genre.",
+      "Captain John Yossarian, a bombardier in the U.S. Army Air Forces during World War II, is stationed on the island of Pianosa, Italy. He is furious: his commanding officers keep raising the number of missions required to be discharged (25, then 30, then 35, then 50). Every time he protests, they invoke Catch-22: 'A man is considered insane if he willingly continues to fly dangerous combat missions; but if he requests to be grounded because he is insane, he is considered sane enough to fly.' There is no way out. The novel is non-linear, satirical, and absurdist. Yossarian's friends die one by one: Clevinger disappears over the sea; McWatt crashes his plane; Nately is killed; Hungry Joe dies of a heart attack. Yossarian refuses to fly more missions. He is offered a deal: a promotion and a medal if he tells the press that he loves his country. He refuses. He escapes to Sweden. Heller's novel, published in 1961, coined the term 'Catch-22' now used for any no-win situation. It is one of the most important anti-war novels ever written, blending black humor with horror. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1463157317m/168668.jpg",
     numberOfPages: 483,
@@ -1366,7 +1366,7 @@ const books = [
     name: "Tuesdays with Morrie",
     author: "Mitch Albom, Saulius Dagys",
     description:
-      "A celebrated work of non-fiction from Mitch Albom, Saulius Dagys, since 1997, it has been praised for its storytelling and lasting appeal.",
+      "Mitch Albom, a successful sports journalist, has become disconnected from the people he loves. He works too much, ignores his wife, and has stopped playing music. One night, he sees his former college sociology professor, Morrie Schwartz, on Nightline with Ted Koppel. Morrie is dying of ALS (Lou Gehrig's disease). Mitch, who promised to keep in touch but never did, visits Morrie at his home in Massachusetts. They meet every Tuesday for fourteen weeks until Morrie's death. Each Tuesday, they discuss a different topic: death, fear, aging, greed, marriage, family, forgiveness, and the meaning of life. Morrie, who is slowly losing control of his body but not his mind, shares his wisdom: 'The most important thing in life is to learn how to give out love and to let it come in.' He says, 'Once you learn how to die, you learn how to live.' The book, published in 1997, became a global phenomenon, spending over 200 weeks on the New York Times bestseller list. It has been adapted into a TV film and a stage play. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1423763749m/6900.jpg",
     numberOfPages: 718,
@@ -1378,7 +1378,7 @@ const books = [
     name: "Middlesex",
     author: "Jeffrey Eugenides",
     description:
-      "An acclaimed fiction book written by Jeffrey Eugenides, first published in 2002, it has become a favorite among readers of the genre.",
+      "Cal Stephanides, a 41-year-old intersex man, tells his story: he was born Calliope Helen Stephanides in 1960, raised as a girl in Detroit. He traces his genetic condition back three generations to his grandparents, who were brother and sister (they didn't know it at the time). His grandparents escaped the destruction of Smyrna (a Greek city burned by Turks in 1922), immigrated to Detroit, and built a successful restaurant. Cal's parents, Milton and Tessie, own the restaurant and become wealthy. Cal grows up as a girl, but at fourteen, she develops male secondary sex characteristics: her voice deepens, her clitoris grows into a penis, and she grows facial hair. A doctor diagnoses her as 5-alpha-reductase deficiency, a genetic condition where XY individuals are born with female genitalia but produce testosterone at puberty. Cal runs away to San Francisco, identifies as male, and begins life as Cal. The novel, published in 2002, won the Pulitzer Prize. It explores Greek-American identity, the immigrant experience, the 1967 Detroit riots, and the nature of gender. It is widely praised for its humor, compassion, and ambitious scope. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1437029776m/2187.jpg",
     numberOfPages: 723,
@@ -1390,7 +1390,7 @@ const books = [
     name: "The Adventures of Tom Sawyer",
     author: "Mark Twain, Guy Cardwell, John Seelye",
     description:
-      "A widely read classics work by Mark Twain, Guy Cardwell, John Seelye, since its release in 1876, it has earned a large readership worldwide.",
+      "Tom Sawyer, a mischievous boy who hates school and loves trouble, lives with his Aunt Polly in the fictional town of St. Petersburg, Missouri, on the Mississippi River. He tricks his friends into whitewashing a fence for him ('Does a boy get a chance to whitewash a fence every day?'), falls in love with the new girl Becky Thatcher, and testifies at a murder trial to save innocent Muff Potter. The novel's most famous scene: Tom and his friend Huckleberry Finn run away to Jackson's Island, where they witness their own funeral from afar. They also witness Injun Joe, the real murderer, bury stolen treasure. Tom and Huck find the treasure, become rich, and Huck is adopted by the Widow Douglas. Twain's novel, published in 1876, was intended for children but also satirizes adult hypocrisy, superstition, and the institution of slavery (Huck is a free boy, but Jim, the runaway slave, does not appear until Huckleberry Finn). Tom Sawyer has become an American archetype of boyhood freedom and mischief. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1404811979m/24583.jpg",
     numberOfPages: 345,
@@ -1402,7 +1402,7 @@ const books = [
     name: "A Wrinkle in Time",
     author: "Madeleine L'Engle",
     description:
-      "A popular fantasy title by Madeleine L'Engle, first published in 1962, it has become a favorite among readers of the genre.",
+      "Meg Murry, a high school student struggling with math and her temper, feels out of place. Her father, a physicist, disappeared a year ago while working on a secret government project called the tesseract. Meg, her genius brother Charles Wallace, and her friend Calvin O'Keefe are visited by three mysterious beings: Mrs. Whatsit (a former star), Mrs. Who (who speaks in quotes), and Mrs. Which (the oldest and most powerful). They travel through a tesseract (a wrinkle in time) to the planet Camazotz, where their father is imprisoned. On Camazotz, everyone is identical: they bounce balls in the same rhythm, walk in step, and children who are different are taken to be 're-educated' by IT, a giant, pulsating brain. Charles Wallace, who is psychic, is possessed by IT. Meg, who loves her brother, rescues him by confronting IT with love—the one thing IT cannot understand or control. L'Engle's novel, published in 1962, won the Newbery Medal. It was revolutionary for its time: a female protagonist, a blend of science fiction and Christian theology, and the idea that love is a force of physics. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1329061522m/18131.jpg",
     numberOfPages: 250,
@@ -1414,7 +1414,7 @@ const books = [
     name: "The Joy Luck Club",
     author: "Amy Tan",
     description:
-      "A celebrated work of classics from Amy Tan, published in 1989, it continues to be discussed and recommended by readers.",
+      "Four Chinese immigrant women in San Francisco—Suyuan Woo, An-mei Hsu, Lindo Jong, and Ying-ying St. Clair—form the Joy Luck Club, a weekly gathering to play mahjong, eat Chinese food, and share stories. The novel is structured as a series of vignettes, alternating between the mothers' stories in China and the daughters' stories in America. Suyuan, who was forced to abandon her twin baby daughters on a roadside during the Japanese invasion, has died. Her American-born daughter June is asked to take her place at the mahjong table. Lindo, who escaped an arranged marriage at 12, raises a daughter, Waverly, who becomes a chess champion but resents her mother's pride. An-mei, whose mother was a concubine and committed suicide, has a daughter Rose who is trapped in a marriage to a narcissistic husband. Ying-ying, who lost her will to live after a childhood trauma, has a daughter Lena who is losing herself in a marriage to a controlling man. The mothers and daughters struggle to understand each other across cultural and generational divides. Tan's debut novel, published in 1989, was a finalist for the National Book Award. It was adapted into a film. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1304978653m/7763.jpg",
     numberOfPages: 725,
@@ -1426,7 +1426,7 @@ const books = [
     name: "The Handmaid's Tale",
     author: "Margaret Atwood",
     description:
-      "A widely read fiction work by Margaret Atwood, first published in 1985, it has become a favorite among readers of the genre.",
+      "In the near future, a totalitarian theocracy called the Republic of Gilead has replaced the United States after a fertility crisis caused by pollution and STDs. Most women are barren; the few who can bear children are called Handmaids. Offred (her name means 'of Fred,' her Commander) is a Handmaid. She is forced to have sex once a month with the Commander while his wife, Serena Joy, sits behind her, holding her legs. If she conceives, the child will be taken and raised by the Commander's wife. She cannot read, write, speak to other Handmaids, or leave the house without a partner. She is constantly watched by the Eyes (secret police) and feared by the Aunts (women who enforce the regime). She remembers her life before: her husband Luke, her daughter, her job, her name. The novel ends with Offred being taken away by the Eyes—to execution or rescue, we do not know. An epilogue, set 200 years later, reveals that Offred's story was recorded on cassette tapes and discovered by a historian. Atwood's novel, published in 1985, was inspired by the rise of the religious right, the Iranian Revolution, and 17th-century Puritan America. It has been adapted into a film, an opera, and an Emmy-winning TV series. Since its release, it has become a widely read fiction work.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1498057733m/38447.jpg",
     numberOfPages: 603,
@@ -1438,7 +1438,7 @@ const books = [
     name: "The Sisterhood of the Traveling Pants",
     author: "Ann Brashares",
     description:
-      "A popular young adult title by Ann Brashares, since 2001, it has been praised for its storytelling and lasting appeal.",
+      "Four best friends—Lena, Tibby, Bridget, and Carmen—are about to spend their first summer apart since they were born. At a thrift store, they find a pair of jeans that magically fits each of them perfectly, despite their different body types. They make a pact: they will share the pants, sending them to each other throughout the summer, and record their adventures in a journal. Lena, who is beautiful and shy, spends the summer in Greece with her grandparents and falls in love with a boy named Kostos. Tibby stays home, making a documentary about her boring life, and befriends Bailey, a twelve-year-old girl dying of leukemia. Bridget, an athletic extrovert, goes to soccer camp in Mexico and has a sexual relationship with her older coach, Eric. Carmen, who struggles with her weight and her identity (her father is Puerto Rican, her mother is white), visits her father in South Carolina, where she discovers he is engaged to a woman with two children. The pants bind the girls together through first love, loss, betrayal, and growing up. Brashares's novel, published in 2001, was a bestseller and adapted into a film. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1461611233m/452306.jpg",
     numberOfPages: 667,
@@ -1450,7 +1450,7 @@ const books = [
     name: "Lolita",
     author: "Vladimir Nabokov, Craig Raine",
     description:
-      "A celebrated work of fiction from Vladimir Nabokov, Craig Raine, since 1955, it has been praised for its storytelling and lasting appeal.",
+      "Humbert Humbert, a middle-aged European scholar of French literature, moves to a small New England town and rents a room from a widow named Charlotte Haze. He is only interested in Charlotte's twelve-year-old daughter, Dolores, whom he calls 'Lolita.' He marries Charlotte to be close to Lolita; when Charlotte is killed in a car accident, Humbert takes Lolita on a cross-country road trip, during which he rapes her repeatedly. He keeps her prisoner, bribing her with gifts and privileges. Eventually, Lolita escapes with a playwright named Clare Quilty. Years later, Humbert finds Lolita, now married and pregnant, and offers her money. She refuses to return to him. Humbert tracks down Quilty and kills him. The novel is presented as Humbert's confession, written in prison while awaiting trial for murder. He addresses the jury, trying to explain his obsession as love, not abuse. Nabokov's novel, published in 1955, is written in exquisite, lyrical prose about a monstrous subject. It was banned in France, England, and Australia before being published in the U.S. It has been adapted into two films (one by Stanley Kubrick). The novel explores the unreliability of the narrator, the morality of art, and the nature of obsession. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1377756377m/7604.jpg",
     numberOfPages: 354,
@@ -1462,7 +1462,7 @@ const books = [
     name: "Wicked: The Life and Times of the Wicked Witch of the West",
     author: "Gregory Maguire, Douglas Smith",
     description:
-      "A popular fantasy title by Gregory Maguire, Douglas Smith, published in 1995, it continues to be discussed and recommended by readers.",
+      "The Wizard of Oz told from the perspective of the Wicked Witch of the West. The witch is named Elphaba, born with green skin, sharp teeth, and a fear of water. She is brilliant, passionate, and idealistic. At university, she rooms with Galinda (later Glinda), the beautiful, popular, and shallow girl who will become the Good Witch. They are rivals, then friends. Elphaba becomes involved with a radical professor, Dr. Dillamond (a goat), who is silenced by the Wizard's regime. She travels to the Emerald City to meet the Wizard, who she believes is a fraud, and she becomes a revolutionary. The novel explores the nature of evil: is Elphaba evil? She is accused of murdering the Wicked Witch of the East (she didn't; a house fell on her), stealing the ruby slippers (she didn't), and attacking Dorothy (she was defending her sister's shoes). The novel reimagines Oz as a totalitarian state where Animals (sentient creatures) are being silenced and the Wizard is a dictator. Maguire's novel, published in 1995, became the basis for the hit Broadway musical Wicked, which softens the novel's dark tone and political commentary. Since its release, it has become a popular fantasy title.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1437733293m/37442.jpg",
     numberOfPages: 670,
@@ -1474,7 +1474,7 @@ const books = [
     name: "The Firm (Penguin Readers, Level 5)",
     author: "John Grisham",
     description:
-      "A celebrated work of fiction from John Grisham, published in 1991, it continues to be discussed and recommended by readers.",
+      "Mitch McDeere, a brilliant Harvard Law School graduate, is recruited by Bendini, Lambert & Locke, a small, wealthy law firm in Memphis. The firm offers him a Mercedes, a low-interest mortgage, and a salary far above market rate. They also surveil him constantly, monitor his phone calls, and send private investigators to his wife's errands. Mitch discovers the firm's secret: it is a front for the Morolto crime family. The firm launders money, bribes officials, and has killed five lawyers who tried to leave. The FBI approaches Mitch and asks him to be an informant. He must spy on his colleagues, gather evidence, and escape the firm without being killed. In a brilliant double-cross, Mitch and his wife Abby steal $10 million from the firm's offshore accounts, blackmail the Morolto family, and flee to the Cayman Islands. Grisham's second novel, published in 1991, was his breakthrough bestseller, spending 47 weeks on the New York Times list. It was adapted into a film starring Tom Cruise. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1418465200m/5358.jpg",
     numberOfPages: 669,
@@ -1486,7 +1486,7 @@ const books = [
     name: "Room",
     author: "Emma Donoghue",
     description:
-      "One of Emma Donoghue's best-known fiction books, since 2010, it has been praised for its storytelling and lasting appeal.",
+      "Jack is five years old. He has lived his entire life in a single, 11x11 foot room with his Ma. He has never seen the sky, the grass, or another human being besides his Ma. He believes that Room is the entire world, that the television shows are cartoons (not real), and that Old Nick (the man who visits at night and rapes Ma) is magic. Jack's Ma was kidnapped seven years earlier, at nineteen, and has been held prisoner in a soundproofed shed in her captor's backyard. She has kept Jack alive, taught him to read, exercise, and stay quiet during Old Nick's visits. When Jack turns five, Ma tells him the truth. She teaches him to pretend to be sick, to curl up in a rug, and to escape when Old Nick takes him to the hospital. Jack escapes, leads police to Room, and Ma is rescued. The second half of the novel follows Jack's adjustment to the outside world: the noise, the light, the crowds, the grandparents who treat him strangely. Donoghue's novel, published in 2010, was inspired by the Fritzl case (a man who imprisoned his daughter in a basement for 24 years) and the kidnapping of Jaycee Dugard. It won the Rogers Writers' Trust Fiction Prize and was adapted into an Oscar-winning film (Brie Larson won Best Actress). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1344265419m/7937843.jpg",
     numberOfPages: 415,
@@ -1498,7 +1498,7 @@ const books = [
     name: "Hamlet",
     author: "William Shakespeare, Richard Andrews, Rex Gibson",
     description:
-      "A celebrated work of classics from William Shakespeare, Richard Andrews, Rex Gibson, since its release in 1600, it has earned a large readership worldwide.",
+      "The prince of Denmark, Hamlet, returns from university to find his father dead, his mother Gertrude remarried to his uncle Claudius (who has claimed the throne), and his father's ghost walking the castle battlements. The ghost reveals that Claudius murdered him, pouring poison in his ear while he slept, and commands Hamlet to avenge his death. Hamlet is torn between duty and doubt. He feigns madness to investigate, but his behavior alienates Ophelia, the woman he loves, and causes Polonius (her father, the king's advisor) to spy on him. He stages a play reenacting his father's murder to confirm Claudius's guilt. When Claudius reacts, Hamlet is sure—but he hesitates to kill him while he is praying, fearing that Claudius's soul might go to heaven. He accidentally kills Polonius, and Ophelia drowns herself. In the final scene, a fencing match arranged by Claudius, Hamlet is cut with a poisoned sword, kills Claudius, and dies himself. The entire royal family dies. Shakespeare's tragedy, written around 1600, is his longest play and one of his most quoted. It explores themes of madness, revenge, mortality, and the difficulty of certainty ('To be or not to be'). Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1351051208m/1420.jpg",
     numberOfPages: 608,
@@ -1510,7 +1510,7 @@ const books = [
     name: "Dune",
     author: "Frank Herbert",
     description:
-      "One of Frank Herbert's best-known science fiction books, published in 1965, it continues to be discussed and recommended by readers.",
+      "The desert planet Arrakis (Dune) is the only source of the spice melange, the most valuable substance in the universe. Spice extends life, expands consciousness, and enables space travel. The Emperor assigns Duke Leto Atreides to govern Arrakis, but it is a trap: the Duke's enemies, the Harkonnens, attack with the Emperor's help. Duke Leto is killed, but his son Paul and Lady Jessica (his mother) escape into the desert. They are taken in by the Fremen, the fierce desert-dwelling natives who have been oppressed for centuries. Paul, who has been trained in martial arts and mentat (supercomputer) thinking, and who may be the Kwisatz Haderach (a super-being), becomes their leader. He takes the name Muad'Dib, teaches the Fremen warfare, and leads a guerrilla campaign against the Harkonnens. He wins, marries the Emperor's daughter, and becomes Emperor himself. But he is horrified by the jihad (holy war) that will be fought in his name, killing billions. Herbert's novel, published in 1965, won the Hugo and Nebula Awards. It is one of the best-selling science fiction novels of all time, exploring ecology, religion, politics, and colonialism. It has been adapted into films (most recently by Denis Villeneuve) and TV series. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1434908555m/234225.jpg",
     numberOfPages: 274,
@@ -1522,7 +1522,7 @@ const books = [
     name: "The Tipping Point: How Little Things Can Make a Big Difference",
     author: "Malcolm Gladwell",
     description:
-      "An acclaimed non-fiction book written by Malcolm Gladwell, published in 2000, it continues to be discussed and recommended by readers.",
+      "Why do some ideas, trends, and behaviors spread like viruses while others fizzle? Gladwell argues that epidemics (of crime, fashion, smoking, or technology) reach a 'tipping point' when three conditions are met. First, The Law of the Few: A small number of exceptional people spread messages: Connectors (who know everyone), Mavens (who gather and share information), and Salesmen (who persuade). Second, The Stickiness Factor: The message must be memorable, like the 'Blue's Clues' show that repeats the same episode five days in a row or the sesame seeds on a bagel. Third, The Power of Context: The environment matters, like the New York subway cleanup that reduced crime or the small group sizes in a suicide prevention program. Gladwell uses examples: the sudden popularity of Hush Puppies shoes, the drop in New York City crime, the spread of syphilis in Baltimore, and the best-selling children's book The Tipping Point itself. His first book, published in 2000, became a business bestseller and coined the phrase 'tipping point.' It has been praised and criticized for oversimplifying complex social phenomena. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1473396980m/2612.jpg",
     numberOfPages: 473,
@@ -1534,7 +1534,7 @@ const books = [
     name: "Steve Jobs",
     author: "Walter Isaacson",
     description:
-      "A widely read biography work by Walter Isaacson, since its release in 2011, it has earned a large readership worldwide.",
+      "Based on over forty interviews with Steve Jobs and interviews with more than one hundred family members, friends, rivals, and colleagues, this biography was written at Jobs's request. Jobs gave Isaacson complete access and did not ask to read the book before publication. The book traces his life: his adoption by Paul and Clara Jobs, his early years at Hewlett-Packard, his founding of Apple with Steve Wozniak in his parents' garage, his ouster from Apple in 1985, his founding of NeXT and purchase of Pixar, his triumphant return to Apple in 1997, and his development of the iMac, iPod, iPhone, iPad, and iTunes. Isaacson explores Jobs's contradictions: he was a visionary who could be cruel, a genius who could be a tyrant, a Zen Buddhist who loved material luxury, a man who was adopted and who initially denied paternity of his own daughter. Jobs died on October 5, 2011, just weeks after the book was completed. The biography became a bestseller, praised for its honesty and depth. Since its release in 2011, it has earned a large readership worldwide.",
     genre: "Biography",
     coverPage: "https://images.gr-assets.com/books/1327861368m/11084145.jpg",
     numberOfPages: 588,
@@ -1546,7 +1546,7 @@ const books = [
     name: "One Flew Over the Cuckoo's Nest",
     author: "Ken Kesey",
     description:
-      "A widely read classics work by Ken Kesey, since its release in 1962, it has earned a large readership worldwide.",
+      "Randle Patrick McMurphy, a rambunctious, gambling, fighting con man, is transferred from a prison work farm to a mental institution to avoid hard labor. He is not insane, but he disrupts the ward's routine with his laughter, his jokes, and his rebellious spirit. The ward is ruled by Nurse Ratched, a cold, manipulative woman who controls the patients through fear, humiliation, and subtle psychological torture. She uses the 'Shock Shop' (electroconvulsive therapy) and lobotomies to subdue anyone who challenges her. McMurphy organizes a fishing trip, sneaks in prostitutes, leads the patients in watching the World Series on TV, and teaches them to laugh. He inspires Chief Bromden, a giant Native American patient who pretends to be deaf and mute, to speak and to regain his strength. When McMurphy attacks Nurse Ratched (he tries to strangle her), he is lobotomized. Chief Bromden smothers McMurphy with a pillow, then escapes by throwing a heavy control panel through a window. Kesey's novel, published in 1962, was based on his own experiences working as an orderly in a VA hospital. It was adapted into an Oscar-winning film starring Jack Nicholson. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1485308778m/332613.jpg",
     numberOfPages: 460,
@@ -1558,7 +1558,7 @@ const books = [
     name: "The Old Man and the Sea",
     author: "Ernest Hemingway",
     description:
-      "A widely read classics work by Ernest Hemingway, since its release in 1952, it has earned a large readership worldwide.",
+      "Santiago, an aging Cuban fisherman, has gone eighty-four days without catching a single fish. His young apprentice, Manolin, has been forbidden by his parents to fish with the old man (he is unlucky). On the eighty-fifth day, Santiago rows far out into the Gulf Stream and hooks a giant marlin, eighteen feet long. For three days, the fish pulls Santiago's boat, and Santiago holds on, his hands bleeding, his back aching, his strength fading. He respects the fish, calls him 'brother,' and wonders if he deserves to kill him. He finally does, lashing the marlin to the side of his skiff. On the way home, sharks attack. Santiago kills them with a harpoon, a knife, and a club, but they eat most of the marlin. He returns to Havana with only the skeleton, the head, and the spine. The other fishermen measure it: eighteen feet. Manolin returns to him, promising to fish with him again. Santiago sleeps and dreams of lions on the African beach. Hemingway's novella, published in 1952, was his last major work of fiction. It won the Pulitzer Prize and contributed to his 1954 Nobel Prize. It is an allegory of struggle, endurance, and the dignity of labor. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1329189714m/2165.jpg",
     numberOfPages: 524,
@@ -1570,7 +1570,7 @@ const books = [
     name: "The Grapes of Wrath",
     author: "John Steinbeck",
     description:
-      "One of John Steinbeck's best-known classics books, released in 1939, it remains a frequently recommended read in its category.",
+      "The Joad family, tenant farmers in Oklahoma, are driven off their land during the Dust Bowl of the 1930s. They load their belongings onto a broken-down truck and join thousands of other 'Okies' on Route 66, heading to California, where they have heard there are jobs picking fruit and vegetables. On the journey, the grandmother and grandfather die. They arrive in California to find a land of plenty—groves of oranges, lettuce fields, vineyards—and no work. Wages are low, labor camps are squalid, and landowners exploit the desperate migrants. Tom Joad, recently released from prison for killing a man in self-defense, becomes an organizer for the migrant workers. His mother, Ma Joad, holds the family together. The novel ends with Tom leaving to continue organizing (he will be hunted), and Rose of Sharon, whose baby was stillborn, breastfeeding a starving man. Steinbeck's novel, published in 1939, won the Pulitzer Prize and led to his Nobel Prize. It was banned and burned for its 'obscene' language and its criticism of capitalism. It is a powerful, unflinching portrait of poverty, injustice, and the human spirit's resilience. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1352912927m/4395.jpg",
     numberOfPages: 290,
@@ -1582,7 +1582,7 @@ const books = [
     name: "The Five People You Meet in Heaven",
     author: "Mitch Albom",
     description:
-      "An acclaimed fiction book written by Mitch Albom, since its release in 2003, it has earned a large readership worldwide.",
+      "Eddie, an eighty-three-year-old maintenance man at Ruby Pier, an amusement park, dies while trying to save a little girl from a falling ride. He goes to heaven, where he meets five people whose lives intersected with his in ways he never knew. The first is a blue-skinned man (he turned blue from silver nitrate poisoning) whom Eddie killed in a car accident during World War II. The second is Eddie's captain from the war, who shot Eddie in the leg to save his life (Eddie didn't know). The third is Ruby, the woman for whom the pier was named, who reveals that Eddie's father died of an infection after Ruby's husband, a doctor, was fired. The fourth is Eddie's wife Marguerite, who died of cancer at forty-seven; she teaches him that loss is not the end of love. The fifth is a little girl named Tala, whom Eddie accidentally killed as a soldier (he set fire to a hut not knowing she was inside). Eddie's final job is to forgive himself. Albom's novel, published in 2003, is a meditation on the interconnectedness of lives and the possibility of redemption after death. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Five+People+You+Meet+in+Heaven",
@@ -1595,7 +1595,7 @@ const books = [
     name: "Anne of Green Gables",
     author: "L.M. Montgomery",
     description:
-      "An acclaimed fiction book written by L.M. Montgomery, published in 1908, it continues to be discussed and recommended by readers.",
+      "Matthew and Marilla Cuthbert, an elderly brother and sister who live on Prince Edward Island, decide to adopt a boy to help with their farm, Green Gables. Instead, they are sent a girl: eleven-year-old Anne Shirley, a talkative, imaginative, red-haired orphan. Marilla wants to send her back, but Matthew, who is shy and kind, falls in love with her. Anne stays. She gets into trouble constantly: she dyes her hair green, breaks a slate over Gilbert Blythe's head (he called her 'carrots'), and nearly poisons her best friend Diana with what she thinks is raspberry cordial (it's currant wine). But she also excels in school, wins a scholarship to college, and makes everyone around her happier. When Matthew dies of a heart attack, Anne gives up her scholarship to stay home and help Marilla. Gilbert, who has loved her for years, gives up his teaching position at Avonlea so Anne can teach there. They become friends, and a sequel reveals they marry. Montgomery's novel, published in 1908, has never gone out of print. It has been adapted into films, TV series, and a recent Netflix series. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Anne+of+Green+Gables",
@@ -1608,7 +1608,7 @@ const books = [
     name: "City of Glass",
     author: "Cassandra Clare",
     description:
-      "One of Cassandra Clare's best-known fantasy books, since its release in 2009, it has earned a large readership worldwide.",
+      "The third book of The Mortal Instruments finds Clary Fray desperate to save her mother, who is in a magical coma. The only way to wake her is to find the Book of the White, which is hidden in the Shadowhunter city of Alicante (the City of Glass). But Alicante is closed to outsiders, and Jace, the Shadowhunter she loves, has been taken by his father, Valentine, who has discovered that Jace is immune to demonic possession. Clary sneaks into Alicante, disguised as a Shadowhunter trainee. She discovers the city is not the paradise she expected: it is provincial, classist, and full of political intrigue. She also discovers a terrible truth: Valentine is her father, and Jace is not her brother. Her mother's husband, Luke, is a werewolf, not her biological father. Jace is the son of Valentine's sworn enemy, Stephen Herondale, who was raised as Valentine's son after Stephen's death. The revelation frees Clary and Jace to love each other. The novel ends with Valentine's defeat and Clary's mother waking. Clare's third novel, published in 2009, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1369452339m/3777732.jpg",
     numberOfPages: 591,
@@ -1620,7 +1620,7 @@ const books = [
     name: "A Storm of Swords",
     author: "George R.R. Martin",
     description:
-      "A celebrated work of fantasy from George R.R. Martin, published in 2000, it continues to be discussed and recommended by readers.",
+      "The third and longest book of A Song of Ice and Fire is often considered the best. The War of the Five Kings continues, but the kings are dying. Robb Stark is murdered at the Red Wedding by the Freys and Boltons, who betray him after he breaks his marriage vow. His mother, Catelyn, is also killed, then resurrected as the vengeful Lady Stoneheart. Joffrey Baratheon is poisoned at his own wedding, framed for his death. Balon Greyjoy falls from a bridge (murdered by a Faceless Man hired by his brother). Only Stannis and Tommen (Joffrey's younger brother) survive. Meanwhile, Daenerys Targaryen conquers the slave cities of Slaver's Bay, building an army of Unsullied (eunuch soldiers) and freeing slaves. Jon Snow is elected Lord Commander of the Night's Watch. Tyrion Lannister, accused of poisoning Joffrey, is sentenced to death; he kills his father Tywin with a crossbow and escapes. And the White Walkers attack the wildlings at the Fist of the First Men. Martin's novel, published in 2000, won the Hugo Award. It is famous for its shocking twists (the Red Wedding) and its refusal of heroic fantasy conventions (the good guys lose). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1497931121m/62291.jpg",
     numberOfPages: 497,
@@ -1632,7 +1632,7 @@ const books = [
     name: "Divine Secrets of the Ya-Ya Sisterhood",
     author: "Rebecca Wells",
     description:
-      "An acclaimed fiction book written by Rebecca Wells, since its release in 1996, it has earned a large readership worldwide.",
+      "Sidda Lee Walker, a successful playwright in New York, is about to have her play premiered. She is also alienated from her mother, Vivi, a flamboyant, alcoholic, abusive woman who once locked Sidda in a closet. When a New York Times reporter interviews Sidda's mother for a profile, Vivi gives an interview that makes Sidda look unstable. Sidda calls off her wedding and runs away. Vivi's lifelong friends—the Ya-Ya Sisterhood (a childhood club that has lasted decades)—kidnap Sidda and force her to look at their scrapbook: 'Divine Secrets of the Ya-Ya Sisterhood.' Through letters, photographs, and mementos, Sidda learns why her mother is so damaged. Vivi was raised by a cold, distant father and a mentally ill mother who was institutionalized. Vivi was sexually abused by a neighbor. She was abandoned by her first love. She married Sidda's father, but he was emotionally absent. She suffered from postpartum depression and turned to alcohol and rage. Sidda forgives her mother. The novel, published in 1996, is partially autobiographical (Wells's own mother was an alcoholic). It was adapted into a film starring Sandra Bullock and Ellen Burstyn. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1408313524m/137791.jpg",
     numberOfPages: 515,
@@ -1644,7 +1644,7 @@ const books = [
     name: "Outlander",
     author: "Diana Gabaldon",
     description:
-      "A popular historical fiction title by Diana Gabaldon, first published in 1991, it has become a favorite among readers of the genre.",
+      "In 1945, Claire Randall, a former World War II combat nurse, is on a second honeymoon in Scotland with her husband Frank. She touches a standing stone and is transported back in time to 1743, just before the Jacobite rebellion. She is captured by a Scottish clan and forced to marry Jamie Fraser, a young, handsome, honorable Highlander. She intends to escape and return to Frank, but she falls in love with Jamie. The novel follows their adventures: they fight the English, are captured by the villainous Captain Randall (Frank's ancestor), escape, and join the Jacobite army. Claire becomes pregnant with Jamie's child. The novel ends with the Battle of Culloden (the Jacobite defeat) looming, and Claire must choose between returning to her own time (she has a chance) or staying to die with Jamie. She chooses to stay. Gabaldon's novel, published in 1991, is the first of a best-selling series (eight books and counting). It blends historical fiction, romance, time travel, and adventure. It was adapted into a hit TV series. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1402600310m/10964.jpg",
     numberOfPages: 524,
@@ -1656,7 +1656,7 @@ const books = [
     name: "The Scarlet Letter",
     author: "Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym",
     description:
-      "A widely read romance work by Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym, released in 1850, it remains a frequently recommended read in its category.",
+      "In Puritan Boston, Hester Prynne is led out of prison with a three-month-old baby in her arms. On her breast is a scarlet letter 'A' (for adulteress), embroidered beautifully in gold thread. She refuses to name the father of her child. Her husband, Roger Chillingworth, who was presumed lost at sea, arrives in Boston and learns of her shame. He disguises himself as a doctor and vows to find the father. The father is Arthur Dimmesdale, the beloved young minister. Dimmesdale is tormented by guilt, but he cannot confess. He preaches against hypocrisy while hiding his sin. Chillingworth, now Dimmesdale's doctor, slowly tortures him, suspecting the truth. At night, Dimmesdale stands on the scaffold where Hester was shamed, and he screams. In the climax, on Election Day, Dimmesdale preaches his greatest sermon, then climbs the scaffold, confesses, tears open his shirt to reveal the letter A carved into his chest, and dies. Chillingworth dies a year later, leaving his fortune to Pearl, Hester's daughter. Hester returns to Boston, wears the letter voluntarily, and is buried next to Dimmesdale. Hawthorne's novel, published in 1850, explores sin, guilt, revenge, and the hypocrisy of a society that punishes women but not men. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1404810944m/12296.jpg",
     numberOfPages: 717,
@@ -1665,10 +1665,10 @@ const books = [
   },
   {
     id: 139,
-    name: "Miss Peregrine’s Home for Peculiar Children",
+    name: "Miss Peregrine's Home for Peculiar Children",
     author: "Ransom Riggs",
     description:
-      "An acclaimed fantasy book written by Ransom Riggs, published in 2011, it continues to be discussed and recommended by readers.",
+      "Jacob Portman has grown up listening to his grandfather Abe's stories: tales of children who could fly, lift boulders, control fire, project their dreams, and live forever in a time loop. When Abe is murdered by a monster with tentacles, Jacob doubts his sanity. He travels to a remote island off the coast of Wales, where he finds the ruins of Miss Peregrine's Home for Peculiar Children—and discovers that his grandfather's stories were true. The children are still there, frozen in a loop: it is September 3, 1940, the day a Nazi bomb destroyed their home. They cannot leave the loop, or they will age and die. Miss Peregrine is an ymbryne, a woman who can manipulate time. Jacob discovers he is peculiar too: he can see and fight the hollowgasts (invisible monsters with tentacles) and their masters, the wights (humans who have transformed). The children battle the wights, save Miss Peregrine (who is captured), and escape to the mainland. Riggs's novel, published in 2011, was a bestseller, praised for its eerie vintage photographs (found by Riggs at flea markets), which illustrate the story. It was adapted into a film by Tim Burton. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1472782916m/9460487.jpg",
     numberOfPages: 168,
@@ -1680,7 +1680,7 @@ const books = [
     name: "The Girl Who Kicked the Hornet's Nest",
     author: "Stieg Larsson, Reg Keeland",
     description:
-      "An acclaimed fiction book written by Stieg Larsson, Reg Keeland, released in 2007, it remains a frequently recommended read in its category.",
+      "The final book of the Millennium trilogy opens with Lisbeth Salander in a hospital, recovering from a gunshot wound to the head. She is charged with attempted murder (she shot her father, Alexander Zalachenko, a Soviet spy) and with the murders of two other men (she was framed). Zalachenko is in the same hospital, also recovering. The Swedish government, which has protected Zalachenko for decades, wants Lisbeth dead. Mikael Blomkvist, the journalist who believes in Lisbeth's innocence, publishes an exposé of the Section, a secret government organization that hid Zalachenko and allowed him to continue his criminal activities. The Section, revealed to be a rogue group within the Security Police, tries to silence Blomkvist and kill Lisbeth. Lisbeth, with the help of her hacker friends, engineers a trap. In a dramatic courtroom scene, Lisbeth's lawyer proves that the evidence against her was fabricated, that the Section has been operating illegally, and that Lisbeth acted in self-defense. She is acquitted. Larsson's final novel, published posthumously in 2007, continues his exploration of violence against women, government corruption, and the power of investigative journalism. Larsson died of a heart attack before seeing his books become international bestsellers. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327708260m/6892870.jpg",
     numberOfPages: 679,
@@ -1692,7 +1692,7 @@ const books = [
     name: "The Martian",
     author: "Andy Weir",
     description:
-      "A celebrated work of science fiction from Andy Weir, released in 2012, it remains a frequently recommended read in its category.",
+      "Mark Watney, a NASA astronaut and botanist, is left for dead on Mars after a violent dust storm forces his crew to evacuate. He is alone, with no way to communicate with Earth, enough food for 300 days, and a mission that would last 400 days before the next scheduled landing. He survives using his ingenuity, humor, and botany skills: he grows potatoes in the Martian soil using his own feces as fertilizer, creates water by burning hydrazine (rocket fuel), and rigs a rover to travel hundreds of miles to retrieve a Pathfinder probe. NASA, unaware he is alive, prepares a mission to retrieve his body. When they see that his equipment is moving, they realize he is alive. The novel follows two parallel stories: Watney's survival log (told in the first person) and NASA's efforts to rescue him (told in the third person). The world cooperates: China shares a booster rocket, and Watney's crew turns their ship around to retrieve him. The novel ends with Watney safe aboard the Hermes, teaching the next generation of astronauts. Weir's self-published novel was picked up by Crown in 2014 and became a bestseller, adapted into a film starring Matt Damon. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1413706054m/18007564.jpg",
     numberOfPages: 674,
@@ -1704,7 +1704,7 @@ const books = [
     name: "The Pillars of the Earth",
     author: "Ken Follett",
     description:
-      "A widely read historical fiction work by Ken Follett, first published in 1989, it has become a favorite among readers of the genre.",
+      "In 12th-century England, a small town called Kingsbridge is the setting for a epic story of ambition, love, betrayal, and the building of a Gothic cathedral. Prior Philip, a devout, driven monk, dreams of building the grandest cathedral in England. Tom Builder, a master mason whose wife dies in childbirth, seeks work. Aliena, the daughter of a disgraced earl who is raped by the villainous William Hamleigh, vows to regain her family's title. Jack, Tom's stepson, becomes a master architect and the lover of Aliena. The novel follows the construction of the cathedral over fifty years, as Philip and Tom (and later Jack) face war, fire, famine, and the machinations of the corrupt Bishop Waleran and the brutal William. Follett's novel, published in 1989, was a departure from his usual spy thrillers. It became his best-selling work, spending 18 weeks on the New York Times list. It was adapted into a TV miniseries. Since its release, it has become a widely read historical fiction work.",
     genre: "Historical Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Pillars+of+the+Earth",
@@ -1717,7 +1717,7 @@ const books = [
     name: "All the Light We Cannot See",
     author: "Anthony Doerr",
     description:
-      "A widely read historical fiction work by Anthony Doerr, first published in 2014, it has become a favorite among readers of the genre.",
+      "Marie-Laure Leblanc, a blind French girl, lives with her father, a locksmith at the Museum of Natural History in Paris. When the Nazis occupy Paris, they flee to Saint-Malo, the walled coastal city where Marie-Laure's reclusive great-uncle lives. She carries with her a secret: a valuable diamond, the Sea of Flames, which her father was entrusted to protect. Werner Pfennig, a German orphan with a genius for radios, is recruited by the Nazis to track down illegal radio transmissions. He is sent to Saint-Malo, where Marie-Laure, now sixteen, broadcasts educational programs over her great-uncle's radio. Their paths cross in the rubble of the bombed city. Werner, who has become disillusioned with the Nazis, protects Marie-Laure, then dies after the war while trying to reach his sister. Marie-Laure, who survives, places the diamond in a grotto, ending the curse. Doerr's novel, published in 2014, won the Pulitzer Prize. It explores the nature of memory, the morality of following orders, and the ways people find light in darkness. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1451445646m/18143977.jpg",
     numberOfPages: 421,
@@ -1729,7 +1729,7 @@ const books = [
     name: "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
     author: "Laura Hillenbrand",
     description:
-      "A popular non-fiction title by Laura Hillenbrand, first published in 2010, it has become a favorite among readers of the genre.",
+      "Louis Zamperini, a Italian-American from Torrance, California, was a juvenile delinquent turned Olympic runner (he competed in the 1936 Berlin Olympics, finishing 8th in the 5000 meters). In World War II, he became a bombardier in the Pacific. His plane crashed in 1943; he survived 47 days on a raft, drifting 2,000 miles, fighting off sharks, starvation, and Japanese planes. He was captured by the Japanese and sent to a series of brutal POW camps. The camp commander, Mutsuhiro Watanabe ('the Bird'), tortured Zamperini daily, beating him with a belt, forcing him to hold a heavy beam over his head, and humiliating him. After the war, Zamperini suffered from severe PTSD and became an alcoholic. His wife, Cynthia, encouraged him to attend a Billy Graham revival; he became a Christian, forgave his captors, and dedicated his life to helping troubled youth. He lived to be 97. Hillenbrand, who wrote the bestseller Seabiscuit, wrote Unbroken while suffering from chronic fatigue syndrome, often working from bed. The book, published in 2010, was a massive bestseller and adapted into a film directed by Angelina Jolie. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1327861115m/8664353.jpg",
     numberOfPages: 335,
@@ -1741,7 +1741,7 @@ const books = [
     name: "Deception Point",
     author: "Dan Brown",
     description:
-      "A popular fiction title by Dan Brown, since its release in 2001, it has earned a large readership worldwide.",
+      "Rachel Sexton, a intelligence analyst for the NRO (National Reconnaissance Office), is summoned by the White House to a site in the Arctic. NASA has discovered a meteorite containing fossils of extraterrestrial life—proof of intelligent life beyond Earth. The discovery is a political godsend: the President, whose NASA funding has been cut, can use it to win reelection. But Rachel discovers the meteorite is a fake, planted by a private corporation, StrataSpheres, that has a financial interest in NASA funding. The corporation tries to kill her and her team. Rachel escapes, returns to Washington, and exposes the conspiracy. The President, who knew about the forgery, is impeached. Brown's fourth novel, published in 2001, was written before The Da Vinci Code made him famous. It received mixed reviews, with critics complaining about wooden characters and implausible plot twists. But it was still a bestseller, selling over 10 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Deception+Point",
@@ -1754,7 +1754,7 @@ const books = [
     name: "The Goldfinch",
     author: "Donna Tartt",
     description:
-      "A popular fiction title by Donna Tartt, published in 2013, it continues to be discussed and recommended by readers.",
+      "Theo Decker, a thirteen-year-old boy, survives a terrorist bombing at the Metropolitan Museum of Art that kills his mother. In the chaos, he steals a small, priceless painting: Carel Fabritius's The Goldfinch. He leaves the museum with the painting hidden under his coat. The novel follows his life over the next fourteen years. He is taken in by the wealthy Barbour family, then sent to Las Vegas to live with his alcoholic, gambling father. There he befriends Boris, a Ukrainian immigrant who introduces him to drugs and crime. Theo, who suffers from severe PTSD, becomes a professional antique dealer. The painting, which he cannot sell (it is too famous), haunts him. He becomes entangled with a Russian gang, travels to Amsterdam, and nearly dies in a hotel shootout. He returns the painting to the museum anonymously. The novel ends with Theo, now an adult, meditating on the relationship between art, beauty, and survival. Tartt's novel, published in 2013, won the Pulitzer Prize. It was a critical and commercial success, praised for its prose and its exploration of loss, grief, and the long shadow of trauma. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1451554970m/17333223.jpg",
     numberOfPages: 302,
@@ -1766,7 +1766,7 @@ const books = [
     name: "Thirteen Reasons Why",
     author: "Jay Asher",
     description:
-      "A celebrated work of young adult from Jay Asher, since 2007, it has been praised for its storytelling and lasting appeal.",
+      "Clay Jensen returns home from school to find a mysterious package on his porch. It contains seven cassette tapes, recorded by Hannah Baker, his classmate and secret crush. Hannah died two weeks ago. She committed suicide. The tapes are her explanation: there are thirteen reasons why she killed herself, each side of each tape dedicated to a person who contributed to her death. Clay is one of them. He listens to the tapes over the course of one night, walking through his town, visiting the places Hannah describes. The reasons range from small cruelties (a boy who spread a rumor about her, a girl who stole a poem she wrote) to large betrayals (a boy who exposed her at a party, a school counselor who dismissed her cry for help). Clay's tape reveals that he was the one person who could have saved her (he kissed her at a party, then left when she pushed him away; she later wrote that he 'broke her heart'), but he does not blame himself. The tapes are also a map: they must be passed from person to person; anyone who breaks the chain will have a second copy released publicly. Asher's novel, published in 2007, was a bestseller and controversial. It was adapted into a Netflix series that sparked debate about whether it glamorized suicide. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1333822506m/1217100.jpg",
     numberOfPages: 734,
@@ -1778,7 +1778,7 @@ const books = [
     name: "Girl with a Pearl Earring",
     author: "Tracy Chevalier",
     description:
-      "An acclaimed historical fiction book written by Tracy Chevalier, released in 1999, it remains a frequently recommended read in its category.",
+      "In 1664 Delft, sixteen-year-old Griet, the daughter of a tile painter blinded in a kiln explosion, is forced to work as a maid in the household of the painter Johannes Vermeer. She is responsible for cleaning his studio, but she becomes fascinated by his work. Vermeer, who is financially dependent on his wealthy patron, van Ruijven, is also attracted to Griet's eye for color and composition. She secretly grinds his paints, mixes his colors, and poses for him—but always with her head covered, so no one will know. When van Ruijven commissions a portrait of Griet, she must wear his wife's pearl earrings. The painting, Girl with a Pearl Earring, becomes Vermeer's most famous work. But the maid who posed for it is dismissed after van Ruijven's son tries to rape her, and she marries a butcher's son. She never sees Vermeer again. Chevalier's novel, published in 1999, is a fictionalized account of the creation of the famous painting. It was adapted into an Oscar-nominated film starring Scarlett Johansson and Colin Firth. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1327197580m/2865.jpg",
     numberOfPages: 241,
@@ -1790,7 +1790,7 @@ const books = [
     name: "If I Stay",
     author: "Gayle Forman",
     description:
-      "A popular young adult title by Gayle Forman, first published in 2009, it has become a favorite among readers of the genre.",
+      "Mia Hall, a seventeen-year-old cellist, is driving with her family on a snowy Oregon road when a truck hits their car. Her parents and younger brother die instantly. Mia is in a coma, her body broken, her soul hovering outside her body. She watches as doctors operate on her, as her grandparents and boyfriend (Adam, the lead singer of a rock band) sit by her bed, as friends visit. The novel is told in flashbacks: her childhood, her relationship with Adam, her audition for Juilliard, her family's love. She must decide: stay or go. She wants to stay; she loves Adam, she loves music, she wants to live. But she also wants to be with her parents and brother. In the end, she hears Adam playing her a song on his guitar, and she wakes up. Forman's novel, published in 2009, was a bestseller and adapted into a film starring Chloë Grace Moretz. A sequel, Where She Went, follows Adam's perspective after Mia goes to Juilliard and their relationship falls apart. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1347462970m/4374400.jpg",
     numberOfPages: 337,
@@ -1802,7 +1802,7 @@ const books = [
     name: "The Red Tent",
     author: "Anita Diamant",
     description:
-      "An acclaimed historical fiction book written by Anita Diamant, first published in 1997, it has become a favorite among readers of the genre.",
+      "The Red Tent is a feminist retelling of the biblical story of Dinah, the daughter of Jacob and Leah, whose rape is briefly mentioned in Genesis (Chapter 34). In the Bible, Dinah is raped by Shechem, a prince of the Hivites; her brothers Simeon and Levi trick the Hivites into being circumcised, then murder them all while they are recovering. Dinah is never heard from again. Diamant's novel gives Dinah a voice. She tells her life story: her childhood in the red tent, where women gather during menstruation and childbirth; her relationships with her mothers (Leah, Rachel, Bilhah, Zilpah); her love for her sisters; her rape; her marriage to Shechem (she loved him, and he loved her); the massacre of her husband and family; her journey to Egypt, where she becomes a midwife and gives birth to a son. The novel imagines a world of women's rituals, wisdom, and community, lost to history. Diamant's first novel, published in 1997, became a bestseller, beloved by readers of all faiths. It has been adapted into a TV miniseries. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Red+Tent",
     numberOfPages: 425,
@@ -1814,7 +1814,7 @@ const books = [
     name: "The Sea of Monsters",
     author: "Rick Riordan",
     description:
-      "A widely read fantasy work by Rick Riordan, first published in 2006, it has become a favorite among readers of the genre.",
+      "The second book of the Percy Jackson series finds Camp Half-Blood in danger: the magical boundaries that protect it are poisoned, and monsters are attacking the camp. The only cure is the Golden Fleece, which is located in the Sea of Monsters (the Bermuda Triangle). Percy, Annabeth, and Percy's new friend, Tyson (a cyclops who is also Percy's half-brother), journey across the sea. They battle a giant cannibalistic sheep, a hydra, and the evil Luke (a former camper who has allied with Kronos, the Titan king). They also discover that Luke has kidnapped Grover, the satyr, and that the Golden Fleece is guarded by the sorceress Circe. In the climax, the heroes retrieve the fleece, save Grover, and return to camp, where they heal the poisoned tree that guards the borders. But they also discover that Luke used the fleece to resurrect Kronos, who is now growing in power. Riordan's second novel, published in 2006, continues the fast-paced, humorous adventure, introducing more Greek mythology (Polyphemus, Scylla and Charybdis, Circe) and deepening the series' themes of loyalty, family, and destiny. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1400602661m/28186.jpg",
     numberOfPages: 416,
@@ -1826,7 +1826,7 @@ const books = [
     name: "Dear John",
     author: "Nicholas Sparks",
     description:
-      "A widely read romance work by Nicholas Sparks, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "John Tyree, a rebellious young man from a wealthy family, enlists in the Army after dropping out of college. On leave in his hometown of Wilmington, North Carolina, he meets Savannah Lynn Curtis, a beautiful, idealistic college student who is building homes for Habitat for Humanity. They fall in love over two weeks, then John returns to service. They write letters (hence the title). After 9/11, John reenlists, postponing their reunion for years. Savannah marries another man, a family friend named Tim. John is devastated. When Tim is diagnosed with cancer, John sells his father's valuable coin collection (his father, who has autism, had been saving it for him) and donates the money to pay for Tim's treatment. He visits Savannah, returns her letters, and they say goodbye. The novel ends with John training new soldiers, having found purpose. Sparks's novel, published in 2006, was adapted into a film starring Channing Tatum and Amanda Seyfried. It is one of Sparks's more somber novels; unlike The Notebook, the lovers do not end up together. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1397749854m/5526.jpg",
     numberOfPages: 377,
@@ -1838,7 +1838,7 @@ const books = [
     name: "City of Ashes",
     author: "Cassandra Clare",
     description:
-      "A widely read fantasy work by Cassandra Clare, released in 2008, it remains a frequently recommended read in its category.",
+      "The second book of The Mortal Instruments begins with Clary Fray and Jace Wayland struggling with the revelation that they are siblings (they are not, but they believe they are). Jace is captured by his father, Valentine, who has discovered a powerful weapon: the Mortal Sword, which can force any Shadowhunter to tell the truth. Valentine wants to use it to learn the true names of all the demons, so he can control them. Clary, her brother Simon (who is now a vampire, turned to save his life), and the Shadowhunters (including Alec and Isabelle) mount a rescue. They infiltrate Valentine's ship, but Jace refuses to come. He believes he is evil, like his father. Clary uses the Morgenstern ring (an heirloom) to free the ghost of the Angel Raziel, who defeats Valentine. Jace is saved, but Valentine escapes. The novel also introduces the Inquisitor, who arrests Jace and tries to have him executed. Clare's second novel, published in 2008, expands the world of the Shadowhunters, introduces new characters (Maia, a werewolf, and the vampire Raphael), and deepens the romance between Clary and Jace, even as they believe they are siblings. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1432730356m/1582996.jpg",
     numberOfPages: 274,
@@ -1850,7 +1850,7 @@ const books = [
     name: "Macbeth",
     author: "William Shakespeare",
     description:
-      "An acclaimed fiction book written by William Shakespeare, first published in 1606, it has become a favorite among readers of the genre.",
+      "Macbeth, a Scottish general, returns from a victorious battle when he encounters three witches. They prophesy that he will become Thane of Cawdor (which happens immediately) and then King of Scotland. His ambitious wife, Lady Macbeth, urges him to murder King Duncan, who is staying at their castle as a guest. Macbeth kills Duncan, blames the guards, and becomes king. But he is tormented by guilt: he sees a ghost, cannot sleep, and begins to murder anyone he suspects of threatening his throne. He kills his friend Banquo, whose descendants were prophesied to be kings. He kills the family of Macduff, a nobleman who fled to England. Lady Macbeth, driven mad by guilt, sleepwalks and tries to wash imaginary blood from her hands. She kills herself. Macduff, with the English army, attacks Macbeth's castle. Macbeth, confident because the witches told him he could not be killed by any man 'born of woman,' discovers that Macduff was 'from his mother's womb untimely ripped' (a C-section). Macduff kills Macbeth. Malcolm, Duncan's son, becomes king. Shakespeare's tragedy, written around 1606, is his shortest. It explores ambition, guilt, and the corrupting power of power. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1459795224m/8852.jpg",
     numberOfPages: 497,
@@ -1862,7 +1862,7 @@ const books = [
     name: "The Two Towers",
     author: "J.R.R. Tolkien",
     description:
-      "A celebrated work of fantasy from J.R.R. Tolkien, published in 1954, it continues to be discussed and recommended by readers.",
+      "The second volume of The Lord of the Rings follows the splitting of the Fellowship. Aragorn, Legolas, and Gimli chase the Uruk-hai who captured Merry and Pippin. They meet Gandalf the White (resurrected after his battle with the Balrog), who leads them to the kingdom of Rohan. Rohan's king, Théoden, is under the spell of Saruman (the wizard who has allied with Sauron). Gandalf frees him, and the Rohirrim ride to Helm's Deep, where they withstand a massive siege by Saruman's army. Meanwhile, Frodo and Sam approach Mordor, accompanied by Gollum (a former hobbit who possessed the Ring for 500 years). Gollum leads them through the Dead Marshes, past the Black Gate, and up a secret stairway toward Shelob's Lair, where a giant spider attacks them. The book ends with Frodo stung by Shelob, and Sam, who believes Frodo is dead, taking the Ring to finish the quest alone. The Two Towers was published in 1954. It is darker than The Fellowship of the Ring, focusing on war, treachery, and the weight of the Ring. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1298415523m/15241.jpg",
     numberOfPages: 424,
@@ -1874,7 +1874,7 @@ const books = [
     name: "Something Borrowed",
     author: "Emily Giffin",
     description:
-      "A celebrated work of romance from Emily Giffin, since its release in 2004, it has earned a large readership worldwide.",
+      "Rachel White, a thirty-year-old lawyer in Manhattan, has always lived in the shadow of her best friend, Darcy Rhone. Darcy is beautiful, popular, and engaged to Dex, the man Rachel has secretly loved since law school. On the night of her thirtieth birthday, after too many drinks, Rachel sleeps with Dex. She expects guilt; instead, she falls deeper in love. The affair continues for months. Rachel must decide: betray her best friend, or give up the man she loves. She chooses Dex. When Darcy discovers the affair, she is furious, but she eventually forgives Rachel. Dex and Rachel marry, and Darcy moves on. Giffin's debut novel, published in 2004, was a bestseller and adapted into a film starring Kate Hudson, Ginnifer Goodwin, and John Krasinski. The novel explores friendship, loyalty, and the moral ambiguity of affairs: Rachel is the protagonist, but she is also the other woman. A sequel, Something Blue, follows Darcy's perspective. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1305063535m/42156.jpg",
     numberOfPages: 194,
@@ -1886,7 +1886,7 @@ const books = [
     name: "Green Eggs and Ham",
     author: "Dr. Seuss, לאה נאור",
     description:
-      "A celebrated work of children from Dr. Seuss, לאה נאור, since its release in 1960, it has earned a large readership worldwide.",
+      "Sam-I-Am, a persistent, cheerful creature, tries to convince his grumpy companion to try green eggs and ham. He offers them in a house, with a mouse, in a box, with a fox, in a boat, with a goat, on a train, in the rain, on a tree, in a car—each time, the companion refuses: 'I do not like green eggs and ham. I do not like them, Sam-I-Am.' Finally, Sam-I-Am offers them on a train in the rain, in a car in a tree, and the companion, exhausted, agrees to try them. He discovers he loves them: 'I do so like green eggs and ham! Thank you, thank you, Sam-I-Am!' The book was written on a bet: Dr. Seuss's publisher bet him that he could not write a book using only 50 words. He won the bet. The 50 words are: a, am, and, anywhere, are, be, boat, box, car, could, dark, do, eat, eggs, fox, goat, good, green, ham, here, house, I, if, in, let, like, may, me, mouse, not, on, or, rain, Sam, say, see, so, thank, that, the, them, there, they, train, tree, try, will, with, would, you. Published in 1960, it has sold over 8 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1468680100m/23772.jpg",
     numberOfPages: 262,
@@ -1898,7 +1898,7 @@ const books = [
     name: "Charlie and the Chocolate Factory",
     author: "Roald Dahl, Quentin Blake",
     description:
-      "One of Roald Dahl, Quentin Blake's best-known fiction books, released in 1964, it remains a frequently recommended read in its category.",
+      "Charlie Bucket, a poor boy who lives with his parents and four grandparents in a tiny, leaky house, loves chocolate more than anything. He can only afford one chocolate bar a year, on his birthday. When the eccentric genius Willy Wonka announces that he has hidden five Golden Tickets in chocolate bars, inviting the finders to tour his mysterious factory, the world goes mad. Four spoiled children find tickets: Augustus Gloop (who is greedy), Violet Beauregarde (who chews gum constantly and is competitive), Veruca Salt (who is spoiled and demanding), and Mike Teavee (who watches TV obsessively). Charlie finds the fifth ticket. On the tour, each of the four bad children is punished: Augustus falls into a chocolate river and is sucked up a pipe; Violet turns into a blueberry; Veruca is deemed a 'bad egg' and thrown down a garbage chute; Mike is shrunk by a television camera. Charlie, who is kind and honest, is the only one left. Wonka reveals that the tour was a test: Charlie has won the entire factory. Dahl's novel, published in 1964, has been adapted twice into film (Willy Wonka & the Chocolate Factory starring Gene Wilder, and Charlie and the Chocolate Factory starring Johnny Depp). It explores themes of greed, entitlement, and the rewards of kindness. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1309211401m/6310.jpg",
     numberOfPages: 201,
@@ -1910,7 +1910,7 @@ const books = [
     name: "The Battle of the Labyrinth",
     author: "Rick Riordan",
     description:
-      "One of Rick Riordan's best-known fantasy books, since its release in 2008, it has earned a large readership worldwide.",
+      "The fourth book of the Percy Jackson series finds Camp Half-Blood preparing for war: Luke, possessed by Kronos, is planning to invade the camp through the Labyrinth, a magical underground maze that connects all of North America. Percy, Annabeth, Grover, and Tyson must find the Labyrinth's entrance (the center of the maze) and destroy it before Luke's army (a mix of monsters, demigods, and Titans) can attack. The quest takes them through the Labyrinth, which is alive and changes constantly. They meet Daedalus, the inventor who built the Labyrinth, who is 2,000 years old and has been hiding in his workshop. He agrees to help them in exchange for the promise of death (he has been cursed to live forever). In the climax, Luke's army invades Camp Half-Blood. Daedalus gives Percy his magic laptop (which controls the Labyrinth), and Percy gives the Labyrinth's secrets to the camp. Daedalus dies, the Labyrinth collapses, and the camp is saved. But Luke escapes, and Kronos begins to take over his body. Riordan's fourth novel, published in 2008, deepens the series' themes of friendship, sacrifice, and the difficulty of growing up. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1443142158m/2120932.jpg",
     numberOfPages: 469,
@@ -1922,7 +1922,7 @@ const books = [
     name: "Great Expectations",
     author: "Charles Dickens",
     description:
-      "A popular classics title by Charles Dickens, since 1860, it has been praised for its storytelling and lasting appeal.",
+      "Pip, a poor orphan boy in the marshes of Kent, is raised by his abusive older sister and her kind husband, Joe, a blacksmith. He is forced to entertain the wealthy, insane Miss Havisham, who lives in a decaying mansion with her adopted daughter, Estella, whom she has raised to break men's hearts. Pip falls in love with Estella, but she is cold to him. A mysterious benefactor leaves Pip a fortune, and he moves to London to become a gentleman, ashamed of his humble origins. The benefactor is not Miss Havisham, but Abel Magwitch, a convict Pip helped as a boy. Magwitch is hunted by the police and dies in prison. Pip loses his fortune. He returns to Joe and, years later, meets the widowed Estella in the ruined garden of Satis House. The original ending was grim: Estella remarries and Pip remains single. Dickens's friend, Edward Bulwer-Lytton, convinced him to change it to a more hopeful ending: Estella and Pip walk out of the garden together, the 'suffering has been stronger than all other teaching.' Dickens's novel, published in 1860-61, explores class, guilt, ambition, and the difference between being 'common' and being a gentleman. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327920219m/2623.jpg",
     numberOfPages: 360,
@@ -1934,7 +1934,7 @@ const books = [
     name: "The Return of the King",
     author: "J.R.R. Tolkien",
     description:
-      "A popular fantasy title by J.R.R. Tolkien, published in 1955, it continues to be discussed and recommended by readers.",
+      "The third volume of The Lord of the Rings begins with Gandalf and Pippin arriving at Minas Tirith, the capital of Gondor, to warn of Sauron's attack. Aragorn, Legolas, and Gimli take the Paths of the Dead, summoning an army of cursed ghosts to defeat the Corsairs of Umbar (pirates). The Battle of the Pelennor Fields is the largest battle in the book: the Witch-king of Angmar (leader of the Nazgûl) is killed by Éowyn (disguised as a man) and Merry. Theoden, king of Rohan, is killed. Aragorn arrives with the ghost army, wins the battle, and enters Minas Tirith as its rightful king. Meanwhile, Frodo and Sam continue toward Mount Doom. Gollum betrays them to Shelob, then follows them. At the Crack of Doom, Frodo claims the Ring for himself and puts it on. Gollum bites off Frodo's finger, falls into the lava, and the Ring is destroyed. Sauron's armies collapse. Aragorn is crowned king, marries Arwen (Elrond's daughter), and Frodo, wounded physically and emotionally, sails to the Undying Lands with the elves. The Return of the King was published in 1955. It won the International Fantasy Award. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1389977161m/18512.jpg",
     numberOfPages: 662,
@@ -1944,9 +1944,9 @@ const books = [
   {
     id: 162,
     name: "The Stranger",
-    author: "Albert Camus, Matthew    Ward",
+    author: "Albert Camus, Matthew Ward",
     description:
-      "One of Albert Camus, Matthew    Ward's best-known classics books, released in 1942, it remains a frequently recommended read in its category.",
+      "Meursault, a French Algerian office worker, receives a telegram: his mother has died. He attends her funeral, but he does not cry. He drinks coffee, smokes a cigarette, and thinks about returning to Algiers. The next day, he goes to the beach, meets his neighbor Marie, and they have sex. He writes a letter for another neighbor, Raymond, to lure his mistress to his apartment so Raymond can beat her. On a Sunday, Meursault, Marie, and Raymond walk to a beach house. They encounter the mistress's brother, an Arab, on the beach. Raymond fights with him; Meursault takes Raymond's gun. The sun is hot; Meursault walks toward the Arab, who pulls a knife. Meursault shoots him once, then four more times. He is arrested. At his trial, the prosecutor ignores the murder; instead, he focuses on Meursault's failure to cry at his mother's funeral. He is convicted and sentenced to death. In prison, a chaplain asks him to repent. Meursault refuses. He opens his heart to 'the gentle indifference of the world.' Camus's novel, published in 1942, is a classic of existentialism. It explores the absurdity of life, the indifference of the universe, and the arbitrary nature of justice. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1349927872m/49552.jpg",
     numberOfPages: 505,
@@ -1958,7 +1958,7 @@ const books = [
     name: "The Lost Hero",
     author: "Rick Riordan",
     description:
-      "A widely read fantasy work by Rick Riordan, released in 2010, it remains a frequently recommended read in its category.",
+      "The first book of The Heroes of Olympus series (a sequel to Percy Jackson) introduces new characters: Jason, a boy who wakes up on a school bus with no memory of his past, holding hands with a girl named Piper (who claims to be his girlfriend) and next to a boy named Leo (who claims to be his best friend). They are attacked by storm spirits, and Jason, who can fly and control the wind, discovers he is a demigod. He is brought to Camp Half-Blood, where he learns he is the son of Jupiter (Zeus) and a Roman demigod. The novel introduces the Roman camp, Camp Jupiter, and explains that the Greek and Roman camps have been separated for centuries. Jason, Piper (daughter of Aphrodite), and Leo (son of Hephaestus) embark on a quest to rescue Hera, who has been captured by the giants (enemies of the gods). They succeed, but the earth goddess Gaea, the primordial enemy of the Olympians, is waking. Percy Jackson is missing. Riordan's novel, published in 2010, continues the fast-paced, humorous adventure, introducing Roman mythology and new characters while featuring cameos from old favorites. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1464201003m/7736182.jpg",
     numberOfPages: 187,
@@ -1970,7 +1970,7 @@ const books = [
     name: "Eleanor & Park",
     author: "Rainbow Rowell",
     description:
-      "A widely read young adult work by Rainbow Rowell, first published in 2013, it has become a favorite among readers of the genre.",
+      "Set over the course of a school year in 1986, the novel follows two misfit teenagers in Omaha, Nebraska. Eleanor, a chubby, red-haired girl with an abusive stepfather, is new to the school. She wears men's shirts, ties her hair with shoelaces, and has no money for new clothes. Park, a half-Korean boy who loves comic books and punk rock, is popular enough to be left alone. Park reluctantly lets Eleanor sit next to him on the bus. They bond over comic books (Watchmen, X-Men), music (The Smiths, The Cure), and shared loneliness. They fall in love without speaking about it. Eleanor's home life becomes increasingly dangerous: her stepfather, Richie, beats her mother and sexually harasses her. Eleanor's mother finally sends her away to live with a family friend in Minneapolis. Eleanor never says goodbye. The novel ends with Park, years later, receiving a postcard from Eleanor. Rowell's novel, published in 2013, won the Printz Award and was a finalist for the Goodreads Choice Awards. It explores themes of poverty, abuse, first love, and the difficulty of communication. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1341952742m/15745753.jpg",
     numberOfPages: 667,
@@ -1982,7 +1982,7 @@ const books = [
     name: "A Feast for Crows",
     author: "George R.R. Martin",
     description:
-      "A celebrated work of fantasy from George R.R. Martin, since its release in 2005, it has earned a large readership worldwide.",
+      "The fourth book of A Song of Ice and Fire focuses on the aftermath of the War of the Five Kings. Most of the POV characters from the first three books are absent (Martin split the fourth and fifth books by geography; A Feast for Crows covers events in King's Landing, the Riverlands, the Iron Islands, Dorne, and the Reach, while A Dance with Dragons covers events in the North, the Wall, and the East). Cersei Lannister, now Queen Regent, rules King's Landing, but she is paranoid, incompetent, and self-destructive. She alienates her allies, kills her enemies, and is eventually imprisoned by the Faith Militant for her incest and adultery. Brienne of Tarth searches for Sansa Stark. Arya Stark arrives in Braavos and begins her training as a Faceless Man. Samwell Tarly travels to Oldtown to become a maester. The Iron Islands elect Euron Greyjoy, a pirate who claims to have sailed to Valyria, as their king. In Dorne, the Red Viper's daughters plot revenge against the Lannisters. The novel, published in 2005, was criticized for its slow pace and lack of popular characters (Jon, Daenerys, Tyrion). But it deepened the series' political complexity. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1429538615m/13497.jpg",
     numberOfPages: 676,
@@ -1994,7 +1994,7 @@ const books = [
     name: "Matched",
     author: "Ally Condie",
     description:
-      "An acclaimed young adult book written by Ally Condie, since its release in 2010, it has earned a large readership worldwide.",
+      "In a dystopian future, the Society controls everything: what you eat, where you work, who you love. At seventeen, each citizen attends the Matching Banquet, where the Society selects their perfect genetic match. Cassia Reyes is matched with her best friend, Xander Carrow. But on her home screen, another face appears: Ky Markham, a quiet, mysterious boy who is an Aberration (his family was punished, and he has no status). The Society claims it was a glitch. Cassia has to choose: accept her predetermined match, or follow her heart. The novel follows Cassia as she uncovers the Society's secrets: they suppress art, poetry, and individual thought; they euthanize citizens who are no longer useful; they control the population through a regime of pills and tests. Cassia falls in love with Ky, who teaches her how to write (illegal) and how to survive. When Ky is sent to the war front (a death sentence), Cassia volunteers to be an Official, hoping to save him. Condie's novel, published in 2010, is the first of a trilogy (Crossed, Reached). It was a bestseller, praised for its romantic tension and dystopian world-building. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1367706191m/7735333.jpg",
     numberOfPages: 607,
@@ -2006,7 +2006,7 @@ const books = [
     name: "American Gods",
     author: "Neil Gaiman",
     description:
-      "A widely read fantasy work by Neil Gaiman, published in 2001, it continues to be discussed and recommended by readers.",
+      "Shadow Moon, a convict released from prison after three years, is hired as a bodyguard by a mysterious con man named Mr. Wednesday. Wednesday is actually Odin, the Norse god of war, who is recruiting the old gods of America (gods brought by immigrants: Anansi, Eostre, Czernobog, and many others) to fight a war against the new gods of America (gods of media, technology, and globalization). Shadow travels across the country with Wednesday, meeting gods in truck stops, strip clubs, and small towns. He discovers that Wednesday is planning a battle, but he also discovers that Wednesday is a liar. The war is a trap: Wednesday will die, and his death will be a sacrifice that gives the old gods power. Shadow, who has been sacrificed by Wednesday (he is hanged from the World Tree), returns from the dead, confronts the new gods, and brokers a peace. Shadow learns his true identity: he is the son of Odin, a demigod. Gaiman's novel, published in 2001, won the Hugo, Nebula, and Bram Stoker awards. It is a meditation on the nature of belief: gods are created by belief, and they die when people stop believing. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1258417001m/4407.jpg",
     numberOfPages: 656,
@@ -2018,7 +2018,7 @@ const books = [
     name: "The Stand",
     author: "Stephen King, Bernie Wrightson",
     description:
-      "A celebrated work of horror from Stephen King, Bernie Wrightson, published in 1978, it continues to be discussed and recommended by readers.",
+      "A military-created super-flu, Captain Trips, escapes from a lab in California. It kills 99.4% of the world's population within weeks. The survivors, immune to the disease, are drawn to two figures: Mother Abagail, a 108-year-old woman in Nebraska who speaks for God, and Randall Flagg, a dark man with glowing red eyes who speaks for the Devil. The survivors travel to Boulder, Colorado, to join Mother Abagail, and to Las Vegas, Nevada, to join Flagg. The two communities prepare for a final confrontation. The Boulder community sends a spy, a deaf-mute named Nick Andros, and a group of assassins to kill Flagg. The Las Vegas community builds a nuclear bomb. In the climax, the bomb is detonated, destroying Las Vegas and killing Flagg (but Flagg reappears on a beach in a different world). The survivors return to Boulder, where they begin to rebuild civilization. King's novel, published in 1978 (uncut version in 1990), is his longest, at over 1,000 pages. It was adapted into a TV miniseries and a recent streaming series. It explores good vs. evil, the fragility of society, and the nature of heroism. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1213131305m/149267.jpg",
     numberOfPages: 668,
@@ -2030,7 +2030,7 @@ const books = [
     name: "The Last Song",
     author: "Nicholas Sparks",
     description:
-      "A popular romance title by Nicholas Sparks, since its release in 2008, it has earned a large readership worldwide.",
+      "Ronnie Miller, a seventeen-year-old rebellious girl from New York City, is forced to spend the summer with her father, Steve, a former Juilliard pianist who now lives in a small beach town in Georgia. Ronnie is angry at her father for divorcing her mother and moving away. She refuses to play piano (she was a prodigy). She falls in love with Will Blakelee, a handsome, nice local boy who is on the verge of leaving for college. Meanwhile, her father is dying of cancer. Over the summer, Ronnie reconciles with her father, learns to play piano again, and discovers that her father has been hiding his illness to protect her. Will leaves for college, but he returns for Steve's funeral. Ronnie, now eighteen, goes to Juilliard. The novel was Sparks's first to be written specifically for a film adaptation (the screenplay was written simultaneously). The film starred Miley Cyrus and Greg Kinnear. It was published in 2009. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1286549186m/6400090.jpg",
     numberOfPages: 385,
@@ -2042,7 +2042,7 @@ const books = [
     name: "Digital Fortress",
     author: "Dan Brown",
     description:
-      "A popular fiction title by Dan Brown, since its release in 1998, it has earned a large readership worldwide.",
+      "Susan Fletcher, the head cryptographer at the NSA (National Security Agency), is called in to investigate a mysterious code that is breaking all of the NSA's decryption attempts. The code is Digital Fortress, created by her former lover, Ensei Tankado, a Japanese programmer who believes the NSA's surveillance violates civil liberties. Tankado has sworn to publish the code on the Internet unless the NSA reveals its secret decryption program, TRANSLTR. Tankado dies (murdered by a hired assassin), and Susan races to find the code before it is unleashed. She discovers that Digital Fortress is a worm, a self-replicating virus that will destroy the NSA's entire database. She stops it, but at the cost of her mentor's life. Brown's first novel, published in 1998, was written before his breakout success with The Da Vinci Code. It received mixed reviews, with critics calling it predictable and poorly researched. But it was a bestseller, selling over 10 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1360095966m/11125.jpg",
     numberOfPages: 293,
@@ -2054,7 +2054,7 @@ const books = [
     name: "Emma",
     author: "Jane Austen, Fiona Stafford",
     description:
-      "An acclaimed classics book written by Jane Austen, Fiona Stafford, released in 1815, it remains a frequently recommended read in its category.",
+      "Emma Woodhouse, a wealthy, beautiful, and clever twenty-one-year-old, is 'handsome, clever, and rich, with a comfortable home and happy disposition.' She has no need to marry and no intention of doing so. Instead, she amuses herself by matchmaking for her friends. She tries to pair her young friend Harriet Smith with Mr. Elton, the local vicar, but Mr. Elton wants Emma herself. She tries to pair Harriet with Frank Churchill, but Frank is secretly engaged to Jane Fairfax. She insults Miss Bates, a poor, talkative spinster, at a picnic, and Mr. Knightley (her brother-in-law and neighbor) scolds her: 'Badly done, Emma! Badly done!' Emma learns to be humble. She realizes she loves Mr. Knightley, who is sixteen years older and has known her since she was a child. They marry. Harriet marries Robert Martin, a farmer she loved at the beginning of the novel. Austen's novel, published in 1815, is a comedy of manners and a satire of class. Emma is one of Austen's most unlikeable heroines: she is snobbish, meddlesome, and often wrong. But she learns and grows. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1373627931m/6969.jpg",
     numberOfPages: 205,
@@ -2066,7 +2066,7 @@ const books = [
     name: "Anna Karenina",
     author: "Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude",
     description:
-      "One of Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude's best-known classics books, first published in 1877, it has become a favorite among readers of the genre.",
+      "Anna Karenina, a beautiful, aristocratic woman married to the cold, much older statesman Karenin, falls in love with Count Vronsky, a dashing cavalry officer. She abandons her husband and her son, Seryozha, to live with Vronsky. She is ostracized by society. She becomes dependent on Vronsky, jealous of his freedom, and addicted to morphine. She throws herself under a train. Meanwhile, a parallel story follows Konstantin Levin, a wealthy landowner who struggles to find meaning in life. Levin proposes to Kitty Shcherbatskaya (whom Vronsky rejected), marries her, and finds happiness in family life, physical labor, and faith. Tolstoy's novel, published in 1877, is one of the greatest novels ever written. It explores love, marriage, infidelity, jealousy, and the search for meaning. The famous opening line: 'All happy families are alike; each unhappy family is unhappy in its own way.' Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1352422904m/15823480.jpg",
     numberOfPages: 222,
@@ -2078,7 +2078,7 @@ const books = [
     name: "A Clockwork Orange",
     author: "Anthony Burgess",
     description:
-      "A popular science fiction title by Anthony Burgess, published in 1962, it continues to be discussed and recommended by readers.",
+      "Alex, a fifteen-year-old boy in a dystopian London, leads a gang of 'droogs' through nights of 'ultra-violence': beating old men, raping young women, and fighting rival gangs. He is caught, imprisoned, and selected for a new experimental treatment: the Ludovico Technique. He is forced to watch violent films while injected with drugs that make him nauseated. He is conditioned to become sick at the thought of violence and sex. He is released, but he is defenseless: his former victims beat him, and he cannot fight back. He attempts suicide. The treatment is reversed, and Alex returns to his old self. The novel's final chapter (original British edition) shows Alex growing out of his violence: he is eighteen, bored with his old gang, and considering marriage and a family. The American edition omitted this chapter (the film also omitted it), making the novel more nihilistic. Burgess's novel, published in 1962, was adapted into a controversial film by Stanley Kubrick. It explores free will vs. conditioning, the nature of evil, and the danger of state control. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1348339306m/227463.jpg",
     numberOfPages: 317,
@@ -2090,7 +2090,7 @@ const books = [
     name: "The Shack",
     author: "William Paul Young",
     description:
-      "A widely read fiction work by William Paul Young, first published in 2007, it has become a favorite among readers of the genre.",
+      "Mackenzie Allen Phillips's youngest daughter, Missy, is abducted during a family camping trip. Evidence suggests she was murdered in a shack in the Oregon wilderness. Four years later, Mack receives a note in his mailbox: 'Mackenzie, it's been a while. I'd love to see you again. Meet me at the shack. -Papa' Papa is what his wife calls God. Mack returns to the shack, where he meets three people: an African American woman named Papa (God the Father), a Jewish carpenter named Jesus (God the Son), and a ghostly Asian woman named Sarayu (God the Holy Spirit). Over a weekend, Mack confronts his grief, his anger at God, and the mystery of evil. He learns that God did not cause Missy's death; a human did. God weeps with Mack. God forgives the killer. Mack returns home, healed. Young's novel, self-published in 2007, became a word-of-mouth phenomenon, selling over 20 million copies. It was criticized for its theology (it implies universalism, modalism, and a soft view of hell) and praised for its emotional power. It was adapted into a film. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1344270232m/1812457.jpg",
     numberOfPages: 540,
@@ -2102,7 +2102,7 @@ const books = [
     name: "The Last Olympian",
     author: "Rick Riordan",
     description:
-      "A celebrated work of fantasy from Rick Riordan, released in 2009, it remains a frequently recommended read in its category.",
+      "The fifth and final book of the Percy Jackson series follows the war against Kronos, who has risen from the pit and possessed the body of Luke Castellan. Kronos's army of monsters, Titans, and demigods marches on New York City. The gods are absent, distracted by their own war against Typhon (a monster even more powerful than Kronos). The defense of Mount Olympus (located on the 600th floor of the Empire State Building) falls to the demigods of Camp Half-Blood, led by Percy. Percy defeats the Minotaur, holds up the sky (like Atlas), and battles Kronos himself. Luke, fighting Kronos's control, stabs himself in the one place that will destroy the Titan (his Achilles heel). Luke dies, Kronos is defeated, and the gods return. Rachel Elizabeth Dare, a mortal who can see through the Mist, becomes the new Oracle (prophecy-giver). Percy is offered godhood, but he refuses, asking instead that the gods claim all their children (including the minor gods) and that the campers be allowed to live after age twenty. The novel ends with Percy and Annabeth kissing. Riordan's final book, published in 2009, brought the series to a satisfying close. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327924597m/4502507.jpg",
     numberOfPages: 398,
@@ -2114,7 +2114,7 @@ const books = [
     name: "It",
     author: "Stephen King",
     description:
-      "A popular horror title by Stephen King, first published in 1986, it has become a favorite among readers of the genre.",
+      "In Derry, Maine, a shape-shifting creature (sometimes a clown, sometimes a werewolf, sometimes a giant bird) wakes every 27 years to feed on children. In 1958, seven children defeat the creature (called It) by wounding it in the sewers. They swear a blood oath to return if It ever wakes again. In 1985, It wakes. The seven children, now adults, return to Derry. They have forgotten their childhoods; they must remember. The novel follows two timelines: the children in 1958, and the adults in 1985. The children, calling themselves the Losers' Club, include Bill (who stutters), Beverly (the only girl), Ben (fat), Richie (the clown), Eddie (sickly), Stan (logical), and Mike (the only one who stayed in Derry). In the adult timeline, Mike calls them back; only Stan refuses and kills himself. The adults face It again, in the sewers below Derry. They kill It by ripping out Its heart. They lose their memories again, but they know they are loved. King's novel, published in 1986, is 1,138 pages. It was adapted into a TV miniseries (starring Tim Curry as Pennywise the Clown) and two recent blockbuster films. Since its release, it has become a favorite among readers of the genre.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1309376909m/18342.jpg",
     numberOfPages: 620,
@@ -2126,7 +2126,7 @@ const books = [
     name: "Crime and Punishment",
     author: "Fyodor Dostoyevsky, David McDuff",
     description:
-      "One of Fyodor Dostoyevsky, David McDuff's best-known fiction books, since its release in 1866, it has earned a large readership worldwide.",
+      "Rodion Raskolnikov, a poor, former law student in St. Petersburg, has a theory: there are extraordinary men (like Napoleon) who have the right to commit crimes for a higher purpose. To test his theory, he murders an old, cruel pawnbroker, Alyona Ivanovna, and her innocent sister, Lizaveta. He falls ill with guilt. He is investigated by Porfiry Petrovich, a clever magistrate who suspects him. He meets Sonya Marmeladova, a prostitute forced to sell her body to feed her family. Sonya, who believes in God, asks him to confess. Raskolnikov does not confess out of guilt; he confesses because he realizes his theory is wrong: he is not Napoleon, he is just a murderer. He confesses, is sent to Siberia, and, in the novel's epilogue, finds redemption through Sonya's love. Dostoyevsky's novel, published in 1866, explores the psychology of crime, the nature of guilt, and the possibility of redemption. It is considered one of the greatest novels ever written. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1382846449m/7144.jpg",
     numberOfPages: 425,
@@ -2138,7 +2138,7 @@ const books = [
     name: "The Bell Jar",
     author: "Sylvia Plath",
     description:
-      "An acclaimed classics book written by Sylvia Plath, first published in 1963, it has become a favorite among readers of the genre.",
+      "Esther Greenwood, a nineteen-year-old from Massachusetts, wins a prestigious journalism internship in New York City. Instead of excitement, she feels apathy, confusion, and dread. She cannot sleep, cannot read, cannot write. She returns home to find that she has not been accepted to a writing course. She attempts suicide by swallowing pills, but she survives. She is institutionalized and given electroshock therapy. She begins to recover, but the novel ends ambiguously: she is about to be discharged, but she does not know if she is 'cured.' The bell jar is a metaphor for her depression: she feels trapped under a glass jar, suffocated, separated from the world. Plath's novel, published under a pseudonym in 1963 (just before her suicide), is semi-autobiographical. She had attempted suicide, been institutionalized, and received electroshock therapy. The novel was not published in the US until 1971 (at her mother's request). It has become a classic of feminist literature and a powerful portrait of depression. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1473890514m/6514.jpg",
     numberOfPages: 419,
@@ -2150,7 +2150,7 @@ const books = [
     name: "Angela's Ashes",
     author: "Frank McCourt",
     description:
-      "A popular non-fiction title by Frank McCourt, released in 1996, it remains a frequently recommended read in its category.",
+      "Frank McCourt's memoir of his impoverished Irish childhood begins: 'My father and mother should have stayed in New York where they met and married and where I was born. Instead, they returned to Ireland when I was four, my brother, Malachy, three, the twins, Oliver and Eugene, barely one, and my sister, Margaret, dead in the grave.' The family lives in Limerick, in a house with no indoor plumbing, no electricity, and walls 'covered with the damp that we breathed, that coated the furniture, that stank of the lavatory.' His father, Malachy, is a charming alcoholic who drinks the dole money. His mother, Angela, begs for food. Three more children die in infancy. Frank, the oldest, survives. He learns to steal coal, bread, and lemonade. He dreams of America. At nineteen, he sails for New York. McCourt's memoir, published in 1996, won the Pulitzer Prize. It was adapted into a film. It is written in a spare, lyrical, childlike voice that makes the horrors bearable. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Angela's+Ashes",
     numberOfPages: 710,
@@ -2162,7 +2162,7 @@ const books = [
     name: "Siddhartha",
     author: "Hermann Hesse, Hilda Rosner",
     description:
-      "A popular classics title by Hermann Hesse, Hilda Rosner, since its release in 1922, it has earned a large readership worldwide.",
+      "Siddhartha, a handsome, intelligent Brahmin's son, leaves his home in ancient India to seek enlightenment. He joins ascetic Samanas, starving himself and meditating. He meets Gautama Buddha, who has already attained enlightenment, but Siddhartha cannot accept his teachings: wisdom cannot be taught, only experienced. He leaves Buddha, plunges into the world of the senses: he becomes a lover to Kamala, a beautiful courtesan; he becomes a merchant and grows wealthy; he gambles, drinks, and becomes attached to luxury. He becomes disgusted with himself, leaves, and attempts suicide. He meets a ferryman, Vasudeva, who teaches him to listen to the river. The river speaks to Siddhartha: time is an illusion; all moments are simultaneous. He understands that the separation between body and spirit, good and evil, is false. He becomes a ferryman. When Kamala dies, leaving their son, Siddhartha learns to love, even when it hurts. Hesse's novel, published in 1922, blends Eastern religion with Western psychology. It was a cult classic in the 1960s and remains popular. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1428715580m/52036.jpg",
     numberOfPages: 185,
@@ -2174,7 +2174,7 @@ const books = [
     name: "In Cold Blood",
     author: "Truman Capote",
     description:
-      "A popular non-fiction title by Truman Capote, since its release in 1965, it has earned a large readership worldwide.",
+      "On November 15, 1959, in the small town of Holcomb, Kansas, the Clutter family—Herbert, Bonnie, Nancy, and Kenyon—are brutally murdered in their home. There is no motive; the killers leave almost no clues. Capote, a celebrated novelist, traveled to Kansas with his friend Harper Lee (author of To Kill a Mockingbird) and spent six years researching the case. He interviewed neighbors, police, and eventually the killers, Richard 'Dick' Hickock and Perry Smith. The novel is a reconstruction of the murder and its aftermath: the killers' journey to Holcomb (they were told the Clutters kept a safe with $10,000; there was no safe), the crime itself (the Clutters were tied up and shot), the killers' arrest in Las Vegas, their trial, and their execution by hanging. Capote invented the 'non-fiction novel' genre, blending journalistic facts with novelistic techniques (dialogue, scene, interior monologue). The book was a sensation, making Capote famous. Since its release in 1965, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1424931136m/168642.jpg",
     numberOfPages: 515,
@@ -2186,7 +2186,7 @@ const books = [
     name: "Beautiful Creatures",
     author: "Kami Garcia, Margaret Stohl",
     description:
-      "One of Kami Garcia, Margaret Stohl's best-known young adult books, first published in 2009, it has become a favorite among readers of the genre.",
+      "Ethan Wate, a high school junior in the small, suffocating town of Gatlin, South Carolina, dreams only of escape. He has read the same books for years; his mother is dead; his father is a recluse. Then Lena Duchannes moves to town. She is beautiful, mysterious, and from the cursed Duchannes family. She is a Caster (a supernatural being) who, on her sixteenth birthday, will be Claimed by either the Light or the Dark. She cannot control which; it depends on her nature. Ethan discovers that he is a Seer: a mortal who can see through the illusions that hide the Caster world from ordinary people. He and Lena fall in love. They discover that Lena is destined to be Claimed by the Dark, but they change her fate: she is Claimed by the Light. Garcia and Stohl's novel, published in 2009, is the first of the Caster Chronicles series (four books). It was adapted into a film (which bombed, but the novel was a bestseller). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327873282m/6304335.jpg",
     numberOfPages: 493,
@@ -2198,7 +2198,7 @@ const books = [
     name: "Clockwork Angel",
     author: "Cassandra Clare",
     description:
-      "An acclaimed fantasy book written by Cassandra Clare, first published in 2010, it has become a favorite among readers of the genre.",
+      "The first book of The Infernal Devices trilogy (a prequel to The Mortal Instruments) is set in Victorian London. Tessa Gray, a sixteen-year-old American girl, travels to London after her brother's death, only to be kidnapped by the Dark Sisters, who force her to 'change' into other people. She discovers she is a shapeshifter, a type of warlock, and that her mother was a Shadowhunter. She is rescued by Will Herondale and Jem Carstairs, two young Shadowhunters who are investigating a series of murders committed by 'clockwork monsters' (automations). The monsters are created by Mortmain, a mysterious villain who is trying to take over the Shadowhunter world. Tessa falls in love with both Will and Jem (a love triangle that will span the trilogy). The novel also reveals that Will's strange, cruel behavior is a cover for a curse: he is trying to drive everyone away to protect them. Clare's novel, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1454962884m/7171637.jpg",
     numberOfPages: 636,
@@ -2210,7 +2210,7 @@ const books = [
     name: "Matilda",
     author: "Roald Dahl, Quentin Blake",
     description:
-      "A popular young adult title by Roald Dahl, Quentin Blake, since 1988, it has been praised for its storytelling and lasting appeal.",
+      "Matilda Wormwood, a five-year-old genius who has taught herself to read, loves libraries and books. Her parents, Mr. and Mrs. Wormwood, are stupid, dishonest, and neglectful. Her father is a used car salesman who sells cars with sawdust in the engine; her mother is obsessed with bingo. When Matilda starts school, she meets the kind Miss Honey and the terrifying Miss Trunchbull, the headmistress who throws children out of windows, locks them in the Chokey (a dark cupboard lined with nails and broken glass), and calls them 'maggots.' Matilda discovers she has telekinesis: she can move objects with her mind. She uses her powers to help Miss Honey reclaim her house from Miss Trunchbull (who is her aunt). Matilda moves in with Miss Honey, and her parents move to Spain (to escape the police). Dahl's novel, published in 1988, was adapted into a film starring Mara Wilson, Danny DeVito, and Rhea Perlman, and a recent musical. It explores the power of books, the importance of justice, and the idea that children can defeat cruel adults. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Matilda",
     numberOfPages: 355,
@@ -2222,7 +2222,7 @@ const books = [
     name: "The Night Circus",
     author: "Erin Morgenstern",
     description:
-      "One of Erin Morgenstern's best-known fantasy books, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Le Cirque des Rêves (The Circus of Dreams) opens at midnight and disappears at dawn. It appears without warning, and its tents are black and white, decorated with silver stars. Inside, patrons find breathtaking illusions: a cloud maze, a wishing tree, an ice garden, and a tent where the ceiling is the night sky. The circus is the stage for a contest between two young magicians, Celia and Marco, trained from childhood by their competitive mentors. They do not know the rules of the contest; they do not know how to win; they only know that one will die. Celia, the daughter of a magician, is a natural illusionist who can change reality itself. Marco, an orphan taken in by a mysterious man, is a scholar of magic who works through written spells. They fall in love, not knowing they are enemies. When the contest ends in a draw (neither can kill the other), the circus becomes their shared prison: they must keep it running forever. Morgenstern's debut novel, published in 2011, became a bestseller and was optioned for a film. It is a visual, dreamlike novel exploring love, sacrifice, and the nature of art. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1387124618m/9361589.jpg",
     numberOfPages: 155,
@@ -2234,7 +2234,7 @@ const books = [
     name: "The Other Boleyn Girl",
     author: "Philippa Gregory",
     description:
-      "A widely read historical fiction work by Philippa Gregory, released in 2001, it remains a frequently recommended read in its category.",
+      "The novel tells the story of Mary Boleyn, the less famous sister of Anne Boleyn. Mary is married off to a minor noble, then summoned to court by her ambitious family. She becomes the mistress of King Henry VIII, bearing him two children (a son who died, and a daughter). When Mary's sister Anne arrives at court, Anne seduces the king away from Mary. Anne rises: she becomes Henry's mistress, his wife (after he divorces Catherine of Aragon), and Queen of England. Mary is banished. Anne fails to produce a son; she is accused of incest, treason, and witchcraft; she is beheaded. Mary, who has remarried a farmer, survives. Gregory's novel, published in 2001, was a bestseller and adapted into a film starring Natalie Portman, Scarlett Johansson, and Eric Bana. It was criticized for historical inaccuracy (Mary was not Anne's innocent victim; she also schemed for power) but praised for its drama. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1355932638m/37470.jpg",
     numberOfPages: 241,
@@ -2246,7 +2246,7 @@ const books = [
     name: "Uglies",
     author: "Scott Westerfeld",
     description:
-      "One of Scott Westerfeld's best-known young adult books, published in 2005, it continues to be discussed and recommended by readers.",
+      "In a future dystopian world, everyone undergoes a 'pretty' operation at sixteen, transforming them from an 'Ugly' into a 'Pretty'—barbie-doll beautiful, with surgically altered bodies that can stay young forever. Tally Youngblood, almost sixteen, cannot wait to be Pretty. Her friend Shay runs away to join the Smokies, a secret community of 'Specials' (the ones who keep the system running). Tally, forced to betray Shay to the authorities, undergoes the operation and becomes Pretty. But she discovers the truth: the operation makes you docile, compliant, and stupid. It literally damages your brain. Tally runs away to join the Smokies, but the authorities catch them. Westerfeld's novel, published in 2005, is the first of a quartet (Uglies, Pretties, Specials, Extras). It explores themes of beauty, conformity, and the ethics of surgery. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1443904172m/24770.jpg",
     numberOfPages: 750,
@@ -2258,7 +2258,7 @@ const books = [
     name: "A Dance with Dragons",
     author: "George R.R. Martin",
     description:
-      "A widely read fantasy work by George R.R. Martin, published in 2011, it continues to be discussed and recommended by readers.",
+      "The fifth book of A Song of Ice and Fire runs parallel to A Feast for Crows, covering the characters not in the fourth book: Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Theon Greyjoy. Jon is elected Lord Commander of the Night's Watch and must make impossible decisions: ally with the wildlings (against tradition), march on Winterfell (to save his sister Arya), or remain neutral (as his oath requires). He is stabbed by his own men. Daenerys rules Meereen, struggling to control the city she conquered. She flies away on Drogon (her dragon) and is found by a khalasar (Dothraki tribe). Tyrion, in exile, travels to Meereen to join Daenerys. He survives slavery, a lion pit, and a plague. Theon, tortured by Ramsay Bolton, rescues his sister Asha. The novel, published in 2011, is the longest in the series. It was a bestseller, but critics complained that it did not advance the plot (the characters are no closer to the end than they were at the start). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327885335m/10664113.jpg",
     numberOfPages: 173,
@@ -2270,7 +2270,7 @@ const books = [
     name: "The Lord of the Rings (The Lord of the Rings, #1-3)",
     author: "J.R.R. Tolkien",
     description:
-      "A popular fantasy title by J.R.R. Tolkien, released in 1955, it remains a frequently recommended read in its category.",
+      "This boxed set contains the three volumes of The Lord of the Rings: The Fellowship of the Ring, The Two Towers, and The Return of the King. The epic fantasy follows the quest to destroy the One Ring, the creation of the Dark Lord Sauron, which has the power to enslave all of Middle-earth. The hobbit Frodo Baggins, inheritor of the Ring, must carry it to the fires of Mount Doom, where it was forged, and destroy it. He is accompanied by eight companions: his gardener Samwise Gamgee, his cousins Merry and Pippin, the wizard Gandalf, the human Aragorn (heir to the throne of Gondor), the elf Legolas, the dwarf Gimli, and the treacherous human Boromir (who tries to take the Ring). The trilogy is often considered the greatest fantasy ever written, influencing generations of writers and creating many of the genre's tropes. Tolkien created entire languages (Elvish), histories, myths, and maps. The books were adapted into a blockbuster film trilogy. Since its release in 1955, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1411114164m/33.jpg",
     numberOfPages: 388,
@@ -2282,7 +2282,7 @@ const books = [
     name: "Wild: From Lost to Found on the Pacific Crest Trail",
     author: "Cheryl Strayed",
     description:
-      "A widely read non-fiction work by Cheryl Strayed, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "Twenty-two years old, Cheryl Strayed's mother dies of cancer. Her family scatters, her marriage ends, and she falls into heroin use and casual sex. She is lost. Without any hiking experience, she decides to walk the Pacific Crest Trail (PCT), 1,100 miles from the Mojave Desert to Washington State. She carries a backpack she calls 'Monster,' which is too heavy for her. She loses her boots over a cliff; she duct-tapes sandals. She meets snakes, bears, and a bull. She meets kind strangers who offer her food, water, and shelter. She is lonely, scared, and often miserable. And she heals. The PCT forces her to confront her grief, her guilt (she cheated on her husband), and her fear. She finishes the trail. Strayed's memoir, published in 2012, was a number-one New York Times bestseller and adapted into a film starring Reese Witherspoon (who produced). The book's success revived interest in the PCT. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1453189881m/12262741.jpg",
     numberOfPages: 691,
@@ -2294,7 +2294,7 @@ const books = [
     name: "Watchmen",
     author: "Alan Moore, Dave Gibbons, John Higgins",
     description:
-      "One of Alan Moore, Dave Gibbons, John Higgins's best-known graphic novel books, since 1987, it has been praised for its storytelling and lasting appeal.",
+      "Set in an alternate 1985 where superheroes exist and the United States won the Vietnam War, Watchmen deconstructs the superhero genre. The Comedian, a government-sanctioned hero, is murdered. Rorschach, a brutal vigilante who sees the world in black and white, investigates. He discovers a plot to kill the remaining heroes: Nite Owl (a retired, middle-aged gadgeteer), Silk Spectre (her daughter), Doctor Manhattan (a god-like being with blue skin, created by a nuclear accident), and Ozymandias (the world's smartest man, who has retired to run a corporation). The plotter is Ozymandias. He has created a giant alien squid, teleported it into New York City, killing three million people, in order to unite the world against a common enemy (preventing nuclear war). Rorschach refuses to keep the secret; Doctor Manhattan kills him. The novel ends with the remaining heroes agreeing to lie. Moore's graphic novel, published in 1986-87, won a Hugo Award. It is considered one of the greatest comics ever written. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1442239711m/472331.jpg",
     numberOfPages: 548,
@@ -2306,7 +2306,7 @@ const books = [
     name: "The Name of the Wind",
     author: "Patrick Rothfuss",
     description:
-      "A popular fantasy title by Patrick Rothfuss, published in 2007, it continues to be discussed and recommended by readers.",
+      "Kvothe, the most famous (and infamous) man in the world, now hides as a simple innkeeper. A chronicler arrives, and Kvothe agrees to tell his story: his childhood as an orphan, his journey to the University (the only place that teaches magic, or 'sympathy'), his hunt for the Chandrian (the seven legendary demons who killed his parents), his love for Denna (a mysterious, beautiful woman who vanishes and reappears), his growing power, and his downfall. The novel is told in a frame story: Kvothe's past (in the first person) and Kvothe's present (in the third person). The novel ends with Kvothe being expelled from the University (for calling the wind and almost killing a classmate). Rothfuss's debut novel, published in 2007, was a bestseller and won the Quill Award. It is the first of a planned trilogy (The Kingkiller Chronicle), but the third book has been delayed for over a decade. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1472068073m/186074.jpg",
     numberOfPages: 303,
@@ -2318,7 +2318,7 @@ const books = [
     name: "Outliers: The Story of Success",
     author: "Malcolm Gladwell",
     description:
-      "A popular non-fiction title by Malcolm Gladwell, since 2008, it has been praised for its storytelling and lasting appeal.",
+      "Gladwell argues that success is not just about talent and hard work; it is also about luck, timing, culture, and opportunity. He introduces the '10,000-Hour Rule': to master any skill, you need 10,000 hours of practice. The Beatles accumulated 10,000 hours in Hamburg, playing eight-hour sets seven days a week. Bill Gates accumulated 10,000 hours programming at a high school computer club. But they also had unique opportunities: Gates's school had a computer in 1968, when most colleges did not. The book also explores the role of cultural legacy: why Asian students are good at math (rice farming requires patience and precision), why plane crashes are often caused by cultural deference (co-pilots too polite to correct captains), and why Jewish lawyers from immigrant families dominated New York law (garment industry skills translated to legal negotiation). Gladwell's second book, published in 2008, was a bestseller and also criticized for oversimplifying complex data. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1344266315m/3228917.jpg",
     numberOfPages: 298,
@@ -2330,7 +2330,7 @@ const books = [
     name: "Moby-Dick or, The Whale",
     author: "Herman Melville, Andrew Delbanco, Tom Quirk",
     description:
-      "A widely read classics work by Herman Melville, Andrew Delbanco, Tom Quirk, since 1851, it has been praised for its storytelling and lasting appeal.",
+      "Ishmael, a schoolteacher who goes to sea to cure his melancholy, signs onto the Pequod, a whaling ship commanded by Captain Ahab. Ahab is a monomaniac: he lost his leg to Moby-Dick, a giant white sperm whale, and he has sworn revenge. He nails a gold doubloon to the mast, promising it to the first man who sights the whale. The novel is encyclopedic: chapters on the biology of whales, the history of whaling, the anatomy of a ship, the classification of whale species. Ishmael describes the diverse crew: Queequeg (a Polynesian harpooner, his best friend), Starbuck (the rational first mate), Stubb (the jovial second mate), Flask (the third mate), and Fedallah (Ahab's mysterious, dark-haired harpooner). Ahab finds Moby-Dick. He harpoons him, the whale drags him down, and he harpoons him again. The whale rams the Pequod, sinking it. Only Ishmael survives, clinging to Queequeg's coffin (which doubles as a lifebuoy). Melville's novel, published in 1851, was a commercial failure, selling only 3,000 copies. It was rediscovered in the 20th century as one of the greatest American novels. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327940656m/153747.jpg",
     numberOfPages: 589,
@@ -2342,7 +2342,7 @@ const books = [
     name: "The Guernsey Literary and Potato Peel Pie Society",
     author: "Mary Ann Shaffer, Annie Barrows",
     description:
-      "A celebrated work of historical fiction from Mary Ann Shaffer, Annie Barrows, since its release in 2008, it has earned a large readership worldwide.",
+      "In 1946, London writer Juliet Ashton receives a letter from Dawsey Adams, a farmer on the island of Guernsey, who found her name inside a book by Charles Lamb. He tells her about the Guernsey Literary and Potato Peel Pie Society, a book club formed during the German occupation as a cover for a forbidden roast pig dinner. The society includes eccentric members: Isola (who makes potato peel pie), Eben (the oldest), Amelia (the housekeeper), and Elizabeth (the founder, who was sent to a concentration camp and died). Juliet travels to Guernsey, falls in love with Dawsey, and decides to write a book about the society. The novel is epistolary (told through letters). Shaffer, a former editor and librarian, wrote the novel as her debut; she died before its publication. Her niece, Annie Barrows, completed it. The novel, published in 2008, was a bestseller and adapted into a film. Since its release, it has earned a large readership worldwide.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1351979318m/2728527.jpg",
     numberOfPages: 686,
@@ -2354,7 +2354,7 @@ const books = [
     name: "Fight Club",
     author: "Chuck Palahniuk",
     description:
-      "A celebrated work of fiction from Chuck Palahniuk, since 1996, it has been praised for its storytelling and lasting appeal.",
+      "The unnamed narrator, a recall specialist for a car company, suffers from insomnia. He attends support groups for testicular cancer and tuberculosis (even though he has neither) just to cry. He meets Marla Singer, a 'faker' like him. His apartment explodes (mystery gas leak). He moves in with Tyler Durden, a charismatic soap salesman he met on a nude beach. They start Fight Club: a secret, bare-knuckle boxing club where men beat each other to feel alive. The club grows into Project Mayhem, a terrorist organization that aims to destroy civilization by erasing credit card debt, blowing up art museums, and cutting the testicles of politicians. The narrator realizes that he is Tyler Durden: he has dissociative identity disorder (split personality). Tyler is his alter ego. He shoots himself to kill Tyler, but he survives. Palahniuk's novel, published in 1996, was adapted into a cult classic film by David Fincher (starring Brad Pitt and Edward Norton). The novel explores masculinity, consumerism, and the desire for authenticity. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1357128997m/5759.jpg",
     numberOfPages: 166,
@@ -2366,7 +2366,7 @@ const books = [
     name: "Dead Until Dark",
     author: "Charlaine Harris",
     description:
-      "A celebrated work of fantasy from Charlaine Harris, since its release in 2001, it has earned a large readership worldwide.",
+      "The first book of the Sookie Stackhouse series (adapted into the HBO series True Blood) introduces Sookie Stackhouse, a telepathic waitress in small-town Louisiana. She hears everyone's thoughts constantly, which makes dating impossible. When vampire Bill Compton walks into the bar where she works, she cannot hear his thoughts; he is a welcome silence. They fall in love. But a serial killer is murdering women who have relationships with vampires. Sookie becomes the next target. The killer is her brother's friend, who is trying to protect Sookie from vampires. Sookie kills him. Harris's novel, published in 2001, launched a 13-book series. It blends romance, mystery, horror, and humor. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1468560853m/301082.jpg",
     numberOfPages: 237,
@@ -2378,7 +2378,7 @@ const books = [
     name: "The Color Purple",
     author: "Alice Walker",
     description:
-      "A widely read fiction work by Alice Walker, first published in 1982, it has become a favorite among readers of the genre.",
+      "Celie, a poor, uneducated, black teenager in rural Georgia, writes letters to God. She is raped by her father (she calls him Pa) and gives birth to two children, who are taken from her. She is married off to Albert, a widower who beats her and forces her to raise his children. She loves her sister, Nettie, who runs away and becomes a missionary in Africa. Albert hides Nettie's letters for years. Celie is befriended by Shug Avery, a blues singer and Albert's mistress. Shug teaches Celie to love herself, to have sex (she has never enjoyed it), and to leave Albert. Celie starts a business making pants. She is reunited with Nettie and her children. The novel is written in dialect, in letters to God (later to Nettie). It won the Pulitzer Prize and was adapted into a film (directed by Steven Spielberg, starring Whoopi Goldberg and Oprah Winfrey). Since its release in 1982, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Color+Purple",
@@ -2391,7 +2391,7 @@ const books = [
     name: "Marley and Me: Life and Love With the World's Worst Dog",
     author: "John Grogan",
     description:
-      "A popular non-fiction title by John Grogan, first published in 2005, it has become a favorite among readers of the genre.",
+      "John and Jenny Grogan, a young married couple in South Florida, adopt a Labrador retriever puppy they name Marley. Marley is the 'world's worst dog': he fails obedience school, eats drywall, chews through a couch, swallows a gold necklace, attacks the furniture, and flunks out of training. He is also loving, loyal, and joyful. The memoir follows the Grogans through their lives: moves to Pennsylvania, the births of their three children, John's career as a journalist. Marley is with them through all of it. When Marley is old, sick, and dying, the family puts him to sleep. The book, published in 2005, spent over 70 weeks on the New York Times bestseller list. It was adapted into a film starring Owen Wilson and Jennifer Aniston. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1308858322m/12691.jpg",
     numberOfPages: 535,
@@ -2403,7 +2403,7 @@ const books = [
     name: "And Then There Were None",
     author: "Agatha Christie",
     description:
-      "An acclaimed mystery book written by Agatha Christie, since 1939, it has been praised for its storytelling and lasting appeal.",
+      "Ten strangers are invited to a mansion on a private island off the coast of Devon. They are accused of murder (their hosts play a recording listing each of their crimes). One by one, they are killed in ways that mirror the nursery rhyme 'Ten Little Soldiers' (which hangs in each bedroom). The guests lock themselves in their rooms, but the killer strikes anyway. The murders continue until no one is left alive. The novel ends with a confession: the killer was Judge Wargrave, the tenth person, who faked his own death. He committed the murders because he had a 'passion for justice' and wanted to punish those who escaped the law. He then shot himself. Christie's novel, published in 1939, is her best-selling work (over 100 million copies). It has been adapted into numerous films, TV series, and stage plays. The original title was Ten Little Niggers; it was changed for the US market. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1391120695m/16299.jpg",
     numberOfPages: 201,
@@ -2415,7 +2415,7 @@ const books = [
     name: "The Lost Symbol",
     author: "Dan Brown",
     description:
-      "A widely read fiction work by Dan Brown, since 2009, it has been praised for its storytelling and lasting appeal.",
+      "The third Robert Langdon novel takes place entirely in Washington, D.C., over twelve hours. Langdon is summoned to the Capitol to deliver a lecture, but he arrives to find a severed hand tattooed with five mysterious symbols—and a call from a man who claims to be his friend Peter Solomon, the head of the Smithsonian, but who has actually been kidnapped. The caller is Mal'akh, a tattooed, self-mutilated Mason who has infiltrated the highest levels of Freemasonry. He believes that the Ancient Mysteries (the secret of human divinity) are hidden in Washington's architecture. Langdon races through the Capitol, the Library of Congress, the Washington Monument, the Supreme Court, and the Temple Room of the House of the Temple (the Masonic headquarters). He discovers that the 'Lost Symbol' is not a physical object; it is a spiritual concept: the idea that humans can become gods through knowledge. Mal'akh, who is actually Peter's estranged son, demands that Peter reveal the Masonic pyramid's secret. When Peter refuses, Mal'akh kills himself in a ritual sacrifice. Brown's novel, published in 2009, sold over five million copies on its first day. It received mixed reviews: critics complained that Brown recycled the same plot, but fans loved the puzzles and history. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358274396m/6411961.jpg",
     numberOfPages: 400,
@@ -2427,7 +2427,7 @@ const books = [
     name: "Hush, Hush",
     author: "Becca Fitzpatrick",
     description:
-      "An acclaimed young adult book written by Becca Fitzpatrick, released in 2009, it remains a frequently recommended read in its category.",
+      "Nora Grey, a high school junior in rural Maine, is paired with Patch Cipriano for a biology project. Patch is mysterious, dangerous, and irresistibly attractive. He seems to know everything about her; she knows nothing about him. Nora discovers that Patch is a fallen angel who was banished from heaven for rebelling against God. He is Nephilim (half-angel, half-human). He needs to kill a human to earn his wings back. He has chosen Nora. But he falls in love with her. He refuses to kill her, and he is killed by a rival fallen angel, Chauncey. Nora, who has discovered she is also descended from angels, brings Patch back to life by sacrificing her own guardian angel. The novel, published in 2009, was a bestseller and the first of a four-book series (Hush, Hush, Crescendo, Silence, Finale). It was criticized for its similarities to Twilight (dangerous supernatural love interest, clumsy heroine, sexual tension) and for its depiction of a stalkerish relationship as romantic. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1358261334m/6339664.jpg",
     numberOfPages: 153,
@@ -2439,7 +2439,7 @@ const books = [
     name: "Beautiful Disaster",
     author: "Jamie McGuire",
     description:
-      "An acclaimed romance book written by Jamie McGuire, first published in 2011, it has become a favorite among readers of the genre.",
+      "Abby Abernathy, a good girl from a gambling family, attends Eastern University to escape her father. She meets Travis 'Mad Dog' Maddox, a tattooed, bare-knuckle boxer who sleeps with a different woman every night and has never had a girlfriend. They bet on who can make the other fall in love first. Abby wins the bet (Travis falls for her), but she also falls for him. Their relationship is intense, jealous, and volatile: Travis destroys a bar when he thinks Abby is cheating on him; Abby runs to her ex-boyfriend; Travis follows her, begs her, and threatens to kill himself. They marry. The novel, self-published in 2011, became a phenomenon through word-of-mouth, selling over a million copies. It was picked up by Atria Books (Simon & Schuster) in 2012. It has been praised for its chemistry and criticized for its glorification of abusive behavior (Travis is possessive, controlling, and violent). A sequel, Walking Disaster, tells the same story from Travis's perspective. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1358259032m/11505797.jpg",
     numberOfPages: 665,
@@ -2451,7 +2451,7 @@ const books = [
     name: "A Christmas Carol",
     author: "Charles Dickens",
     description:
-      "A celebrated work of classics from Charles Dickens, first published in 1843, it has become a favorite among readers of the genre.",
+      "Ebenezer Scrooge, a miserly, cold-hearted businessman in Victorian London, despises Christmas: 'Bah! Humbug!' He refuses to donate to charity, forces his underpaid clerk Bob Cratchit to work on Christmas Day, and yells at his nephew Fred for inviting him to dinner. On Christmas Eve, he is visited by the ghost of his dead partner, Jacob Marley, who is bound in chains forged by his own greed. Marley warns that Scrooge will suffer the same fate unless he changes. Scrooge is visited by three spirits: the Ghost of Christmas Past (who shows him his lonely childhood, his lost love, and the joy of Fezziwig's parties), the Ghost of Christmas Present (who shows him the Cratchit family, their sick son Tiny Tim, and the indifference of the poor), and the Ghost of Christmas Yet to Come (who shows him his own death, unmourned, and Tiny Tim's grave). Scrooge wakes up on Christmas morning a changed man. He sends a turkey to the Cratchits, raises Bob's salary, and celebrates Christmas with his nephew. Dickens's novella, published in 1843, was written to raise awareness of child poverty in England. It has never gone out of print and has been adapted into countless films, plays, and TV specials. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1406512317m/5326.jpg",
     numberOfPages: 688,
@@ -2463,7 +2463,7 @@ const books = [
     name: "Interview with the Vampire",
     author: "Anne Rice",
     description:
-      "A widely read fantasy work by Anne Rice, published in 1976, it continues to be discussed and recommended by readers.",
+      "In a San Francisco bar, a young reporter interviews Louis de Pointe du Lac, a 200-year-old vampire. Louis tells his story: in 1791, on a plantation outside New Orleans, he is a grieving, suicidal young man after his brother's death. He is turned into a vampire by Lestat de Lioncourt, a flamboyant, cruel, hedonistic vampire who wants a companion. Louis is reluctant; he refuses to kill humans, feeding instead on rats and chickens. Lestat, frustrated, turns a young girl, Claudia, into a vampire (she is permanently five years old). Claudia loves Louis and hates Lestat. She kills Lestat (or so she thinks) by cutting his throat and throwing him in a swamp. Louis and Claudia flee to Europe. In Paris, they meet the Théâtre des Vampires, a coven led by Armand, a 400-year-old vampire with a cherubic face. The coven kills Claudia for violating vampire law (she murdered her maker). Louis burns the theater, killing the coven, and returns to New Orleans. The novel ends with Louis refusing to turn the reporter, who reveals he has read the entire manuscript and wants to be turned anyway. Rice's novel, published in 1976, revived the vampire genre. It was adapted into a film starring Tom Cruise (Lestat), Brad Pitt (Louis), and Kirsten Dunst (Claudia). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1380631642m/43763.jpg",
     numberOfPages: 408,
@@ -2475,7 +2475,7 @@ const books = [
     name: "The Selection",
     author: "Kiera Cass",
     description:
-      "A widely read young adult work by Kiera Cass, released in 2012, it remains a frequently recommended read in its category.",
+      "In the dystopian kingdom of Illea (formerly the United States), a caste system ranks citizens from One (royals) to Eight (homeless). America Singer, a Five (artist), is selected for the Selection: a competition among 35 young women to win the heart of Prince Maxon. She enters reluctantly, expecting to be eliminated quickly. She is in love with Aspen, a Six who works as a janitor. But she falls in love with Maxon. Maxon, unlike his cruel father, wants to abolish the caste system. America, with her wit and honesty, helps him. She is the last contestant standing, but she refuses to marry him until he changes the caste system. The novel ends with her accepting his proposal. Cass's novel, published in 2012, launched a five-book series (The Selection, The Elite, The One, The Heir, The Crown). It was compared to The Hunger Games but described as 'lighter' and 'more romantic.' Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1322103400m/10507293.jpg",
     numberOfPages: 390,
@@ -2487,7 +2487,7 @@ const books = [
     name: "One for the Money",
     author: "Janet Evanovich",
     description:
-      "One of Janet Evanovich's best-known mystery books, since its release in 1994, it has earned a large readership worldwide.",
+      "Stephanie Plum, a lingerie buyer who has been laid off, is desperate for money. She blackmails her cousin, Vinnie Plum, a bail bondsman, into giving her a job as a bounty hunter. Her first assignment: bring in Joe Morelli, a former vice cop accused of murder. Morelli is also the man who took Stephanie's virginity in a bakery (when she was 16) and then ran over her dog. The novel follows Stephanie's chaotic, often hilarious attempts to catch Morelli. She is helped by Ranger, a mysterious, sexy, and highly competent bounty hunter who becomes her mentor. She is threatened by a boxer named Ramirez, who is killed by Morelli. She catches Morelli, who is then released (he is innocent). Evanovich's novel, published in 1994, is the first of a 29-book (and counting) series. It has been praised for its humor, its colorful cast of characters (Grandma Mazur, who loves funerals), and its New Jersey setting. It was adapted into a film starring Katherine Heigl (which bombed). Since its release, it has earned a large readership worldwide.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1316730230m/6853.jpg",
     numberOfPages: 621,
@@ -2499,7 +2499,7 @@ const books = [
     name: "The Immortal Life of Henrietta Lacks",
     author: "Rebecca Skloot",
     description:
-      "An acclaimed non-fiction book written by Rebecca Skloot, published in 2010, it continues to be discussed and recommended by readers.",
+      "Henrietta Lacks, a poor black tobacco farmer in Virginia, died of cervical cancer in 1951. Without her knowledge or consent, doctors at Johns Hopkins Hospital took a sample of her tumor. Her cells—named HeLa—were the first human cells to survive and reproduce indefinitely in a lab. They have been used in countless medical breakthroughs: the polio vaccine, chemotherapy, cloning, gene mapping, and in vitro fertilization. They have been bought and sold billions of times. But Henrietta's family never knew. They could not afford health insurance. They could not afford to visit her grave. Skloot, a science journalist, spent a decade researching Henrietta's life and the story of her cells. She interviewed family members, who were suspicious and distrustful of white researchers (rightly so). She helped them understand the science. The book, published in 2010, was a bestseller and won the National Academies Communication Award. It raised ethical questions about informed consent, medical research, and the exploitation of black bodies. It was adapted into an HBO film. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1327878144m/6493208.jpg",
     numberOfPages: 228,
@@ -2511,7 +2511,7 @@ const books = [
     name: "The Silence of the Lambs",
     author: "Thomas Harris",
     description:
-      "An acclaimed horror book written by Thomas Harris, released in 1988, it remains a frequently recommended read in its category.",
+      "Clarice Starling, an FBI trainee, is assigned to interview Dr. Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial killer who is serving multiple life sentences. The FBI hopes Lecter will provide insight into Buffalo Bill, a serial killer who skins his female victims. Lecter is willing to help, but only if Starling shares details of her childhood. The novel follows two parallel plots: Starling's pursuit of Buffalo Bill (she deciphers his clues, finds his house, and kills him in the dark) and Lecter's escape (he kills his guards, skins one, and escapes). Harris's novel, published in 1988, was adapted into a film that won five Academy Awards (including Best Picture, Best Actor, Best Actress). It is the sequel to Red Dragon (1981) and was followed by Hannibal (1999) and Hannibal Rising (2006). Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1390426249m/23807.jpg",
     numberOfPages: 197,
@@ -2523,7 +2523,7 @@ const books = [
     name: "Vampire Academy",
     author: "Richelle Mead",
     description:
-      "A celebrated work of contemporary from Richelle Mead, since its release in 2007, it has earned a large readership worldwide.",
+      "Rose Hathaway, a half-human, half-vampire guardian (a Dhampir), and her best friend, Lissa Dragomir, a vampire princess (a Moroi), have run away from their school, St. Vladimir's Academy. They are caught and returned. Lissa is the last of the Dragomir royal line; she is being hunted by the Strigoi, the evil, undead vampires who killed her family. Rose is training to become Lissa's guardian. At school, she falls in love with Dimitri Belikov, her instructor (seven years older). They bond over their shared responsibility to protect Lissa. The novel's climax: a Strigoi attacks the school; Rose and Dimitri kill it. The novel, published in 2007, launched a six-book series (Vampire Academy, Frostbite, Shadow Kiss, Blood Promise, Spirit Bound, Last Sacrifice). It was adapted into a film that bombed (but the books were bestsellers). Mead's world-building distinguishes Moroi (good, magic-using vampires) from Strigoi (evil, undead) and introduces Dhampirs (guardians). Since its release, it has earned a large readership worldwide.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1361098973m/345627.jpg",
     numberOfPages: 229,
@@ -2535,7 +2535,7 @@ const books = [
     name: "Blink: The Power of Thinking Without Thinking",
     author: "Malcolm Gladwell",
     description:
-      "A celebrated work of non-fiction from Malcolm Gladwell, since its release in 2005, it has earned a large readership worldwide.",
+      "Gladwell's second book explores the power of 'thin-slicing'—making rapid, intuitive judgments in the blink of an eye. He argues that these judgments are often better than conscious reasoning, but they can also be biased and wrong. The book is structured around examples. Good thin-slicing: The Getty Museum purchased a kouros (ancient Greek statue) for $10 million; experts immediately knew it was fake (it 'looked wrong'), but they could not explain why. The fire chief who evacuated his team seconds before a building collapsed because he 'felt' something was wrong. The marriage expert who can predict divorce by watching a couple argue for 15 minutes. Bad thin-slicing: Warren Harding, a handsome, tall, 'presidential-looking' man, was elected president despite being a terrible candidate. The police who shot an unarmed man 41 times because they misinterpreted his 'aggressive' body language. The car salesman who charges white customers more than black customers (implicit bias). Gladwell's book, published in 2005, was a bestseller and also criticized for oversimplifying psychological research. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Blink:+The+Power+of+Thinking+Without+Thinking",
@@ -2548,7 +2548,7 @@ const books = [
     name: "Atonement",
     author: "Ian McEwan",
     description:
-      "A popular historical fiction title by Ian McEwan, released in 2001, it remains a frequently recommended read in its category.",
+      "In 1935, on a hot summer day at a sprawling English country estate, thirteen-year-old Briony Tallis witnesses a series of events she does not understand. She sees her older sister Cecilia strip to her slip and jump into a fountain with Robbie Turner, the housekeeper's son (they are flirting). She finds a sexually explicit letter Robbie wrote to Cecilia. She sees Cecilia and Robbie having sex in the library. That night, her cousin Lola is raped. Briony, who wants to be a writer and believes she understands human motivation, identifies Robbie as the rapist. Robbie is arrested and imprisoned. The novel's second section follows Robbie during World War II: he is released from prison to join the army and retreats to Dunkirk, where he waits to be evacuated. He dreams of Cecilia, who has become a nurse and has cut ties with her family. The third section follows Briony, who has become a nurse and has realized her mistake (the rapist was Paul Marshall, her cousin's fiancé). Briony wants to confess, but Robbie dies of septicemia on the beach, and Cecilia dies in the bombing of London. The final section reveals that Briony's novel, which we have just read, is her attempt to atone: she gives Robbie and Cecilia the happy ending they never had. McEwan's novel, published in 2001, won the National Book Critics Circle Award and was adapted into an Oscar-winning film. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1320449708m/6867.jpg",
     numberOfPages: 731,
@@ -2560,7 +2560,7 @@ const books = [
     name: "The Metamorphosis",
     author: "Franz Kafka, Stanley Corngold",
     description:
-      "One of Franz Kafka, Stanley Corngold's best-known classics books, first published in 1915, it has become a favorite among readers of the genre.",
+      "Gregor Samsa, a traveling salesman who hates his job but supports his parents and sister, wakes up one morning to find himself transformed into a monstrous insect (a 'ungeheures Ungeziefer'—a 'monstrous vermin'). He is not horrified; he is worried about missing his train. His family is horrified. His father pelts him with apples (one lodges in his back). His sister, Grete, initially feeds him, but she eventually stops. Gregor, unable to speak, cannot explain himself. He hears his family discussing their finances and his sister's future. He dies of starvation. His family, relieved, takes a trolley ride to the countryside. Kafka's novella, published in 1915, is a classic of existential literature. It has been interpreted as an allegory for depression, disability, otherness, family guilt, and the dehumanization of modern work. The word 'Kafkaesque' has entered the English language to describe absurd, nightmarish, bureaucratic situations. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1359061917m/485894.jpg",
     numberOfPages: 643,
@@ -2572,7 +2572,7 @@ const books = [
     name: "The Titan's Curse",
     author: "Rick Riordan",
     description:
-      "A widely read fantasy work by Rick Riordan, published in 2007, it continues to be discussed and recommended by readers.",
+      "The third book of the Percy Jackson series opens with Percy, Annabeth, Thalia (a daughter of Zeus, turned into a tree, now resurrected), and Grover (the satyr) on a mission to rescue two demigods, Bianca and Nico di Angelo. They succeed, but Annabeth is captured by Atlas, the Titan who holds up the sky. The quest becomes: save Annabeth and find the cursed sword of Artemis's lieutenant, Zoë Nightshade. The group (Percy, Thalia, Zoë, Bianca, and Grover) travels west, fighting monsters: a Nemean lion, a skeleton army, and a giant boar. Bianca sacrifices herself to kill a giant robot. Percy holds up the sky so Artemis can fight Atlas. Zoë, wounded by her father, dies. Artemis kills Atlas. Thalia, given a choice, joins Artemis's Hunters (becoming immortal, forswearing men) rather than risk the prophecy that she or Percy would destroy Olympus. Nico, learning he is a son of Hades, blames Percy for Bianca's death and runs away. Riordan's third novel, published in 2007, introduces the prophecy that will drive the rest of the series: 'A half-blood of the eldest gods shall reach sixteen against all odds, and see the world in endless sleep. The hero's soul, cursed blade shall reap.' Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1361038385m/561456.jpg",
     numberOfPages: 425,
@@ -2584,7 +2584,7 @@ const books = [
     name: "Ready Player One",
     author: "Ernest Cline",
     description:
-      "A widely read science fiction work by Ernest Cline, since its release in 2011, it has earned a large readership worldwide.",
+      "In 2045, the world is a dystopian wasteland: poverty, famine, and war. Most people escape into the OASIS, a massive virtual reality simulation. Its creator, James Halliday, dies and leaves a video will: he has hidden an Easter egg in the OASIS. The first person to find it inherits his $240 billion fortune and control of the OASIS. Wade Watts, a teenager living in a trailer stack, spends his life searching for the egg. He is a 'gunter' (egg-hunter). He deciphers Halliday's clues, which are based on 1980s pop culture (video games, movies, music). He becomes the first person to find the Copper Key. He becomes famous. The novel follows Wade and his friends (Aech, Art3mis, Shoto, Daito) as they race against the villainous corporation IOI (Innovative Online Industries), which wants to monetize the OASIS. They solve the three gates, find the egg, and Wade wins. He shares the prize with his friends. Cline's debut novel, published in 2011, was a bestseller and adapted into a film by Steven Spielberg. It is a love letter to the 1980s. Since its release, it has earned a large readership worldwide.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1500930947m/9969571.jpg",
     numberOfPages: 651,
@@ -2596,7 +2596,7 @@ const books = [
     name: "The Art of Racing in the Rain",
     author: "Garth Stein",
     description:
-      "A popular fiction title by Garth Stein, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "Enzo, a philosophical dog who believes in the Mongolian tradition that dogs are reincarnated as humans, tells the story of his master, Denny Swift, a race car driver. Denny, a mechanic for a Ferrari dealership in Seattle, is a gentle, patient, loving man. He marries Eve, and they have a daughter, Zoë. Enzo loves them all. But Eve is diagnosed with brain cancer. Denny's in-laws, the wealthy, manipulative, and racist Trouts, blame Denny for Eve's illness. They sue for custody of Zoë, accusing Denny of sexually abusing her. Denny, who has lost his job and his house, fights back. He wins custody. Eve dies. Enzo, old and sick, dies. The novel ends with Denny, now a professional driver in Italy, driving with a new dog, also named Enzo (the reincarnation). Stein's novel, published in 2008, was a bestseller and adapted into a film starring Milo Ventimiglia and Amanda Seyfried. It explores themes of loyalty, love, loss, and the metaphorical relationship between racing and life (the rain is adversity; the art is learning to drive through it). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1377206302m/3153910.jpg",
     numberOfPages: 442,
@@ -2608,7 +2608,7 @@ const books = [
     name: "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
     author: "Erik Larson, Tony Goldwyn",
     description:
-      "An acclaimed non-fiction book written by Erik Larson, Tony Goldwyn, published in 2003, it continues to be discussed and recommended by readers.",
+      "Larson's non-fiction book tells two parallel stories set in Chicago at the 1893 World's Columbian Exposition. The first story is that of Daniel Burnham, the visionary architect who designed the fair (the White City). Against impossible odds—a flooded river, labor strikes, a destroyed building, a murdered mayor—Burnham built a gleaming, neo-classical city that inspired a generation and changed American architecture. The second story is that of H. H. Holmes, a serial killer who built a hotel (the 'Murder Castle') near the fair. The hotel had gas lines, trapdoors, soundproof rooms, a dissection table, a kiln, and a basement filled with acid. Holmes confessed to 27 murders (he may have killed over 200). He was hanged. The fair was a triumph of American ingenuity (it introduced the Ferris Wheel, the zipper, the electric light, and Cracker Jack). But it also featured a serial killer who preyed on vulnerable young women drawn to the fair. Larson's book, published in 2003, was a bestseller and won the Edgar Award. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1312066724m/21996.jpg",
     numberOfPages: 627,
@@ -2620,7 +2620,7 @@ const books = [
     name: "Bared to You",
     author: "Sylvia Day",
     description:
-      "A widely read romance work by Sylvia Day, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "Eva Tramell, a marketing executive in New York, meets Gideon Cross, a beautiful, damaged, and incredibly wealthy CEO. They are immediately attracted to each other. They both have traumatic pasts: Eva was sexually abused by her stepfather; Gideon was sexually abused by his mother's boyfriend. They bond over their shared trauma, their intense sexuality, and their fear of intimacy. The novel follows their relationship through jealousy, possessiveness, fights, and make-ups. They break up; they get back together. Day's novel, published in 2012, is the first of the Crossfire series (five books). It was marketed as 'Fifty Shades for grown-ups' (the writing is better, the trauma is more realistic, and the BDSM elements are less central). It was a bestseller, selling over a million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1477803272m/13572249.jpg",
     numberOfPages: 354,
@@ -2632,7 +2632,7 @@ const books = [
     name: "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
     author: "C.S. Lewis, Pauline Baynes",
     description:
-      "A popular children title by C.S. Lewis, Pauline Baynes, first published in 1956, it has become a favorite among readers of the genre.",
+      "This boxed set contains all seven books of The Chronicles of Narnia: The Magician's Nephew (the creation of Narnia), The Lion, the Witch and the Wardrobe (the most famous), The Horse and His Boy, Prince Caspian, The Voyage of the Dawn Treader, The Silver Chair, and The Last Battle (the destruction of Narnia). The series follows children from our world who are transported to Narnia, a magical land of talking animals, mythical creatures, and the great lion Aslan, who is the son of the Emperor-Over-the-Sea (Jesus). The books are Christian allegories: The Lion, the Witch and the Wardrobe is the story of sacrifice and resurrection; The Last Battle is the Apocalypse (the end of the world). The series has sold over 100 million copies and has been adapted into films, TV series, and stage plays. It has been praised for its imagination and criticized for its sexism (Susan is excluded from heaven because she likes lipstick and nylons) and racism (the Calormenes are dark-skinned and evil). Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1449868701m/11127.jpg",
     numberOfPages: 634,
@@ -2644,7 +2644,7 @@ const books = [
     name: "Twilight: The Complete Illustrated Movie Companion",
     author: "Mark Cotta Vaz",
     description:
-      "A widely read young adult work by Mark Cotta Vaz, released in 2000, it remains a frequently recommended read in its category.",
+      "This companion book to the 2008 film Twilight includes interviews with the cast and crew, behind-the-scenes photographs, concept art, costume designs, set designs, and a detailed account of the film's production. It covers the casting process (Robert Pattinson and Kristen Stewart were not the first choices; the director, Catherine Hardwicke, fought for them), the location scouting (the forests of Oregon stood in for Forks, Washington), the creation of the Cullen house (built on a soundstage in Portland), and the special effects (vampire speed and strength, the sparkling skin). The book also includes a summary of the novel and a biography of Stephenie Meyer. Published in 2008, the same year as the film, the companion book was a bestseller for fans of the series. Since its release, it has become a popular young adult work.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1352539022m/3609760.jpg",
     numberOfPages: 619,
@@ -2653,13 +2653,13 @@ const books = [
   },
   {
     id: 221,
-    name: 'A Child Called "It"',
+    name: "A Child Called 'It'",
     author: "Dave Pelzer",
     description:
-      "A widely read non-fiction work by Dave Pelzer, since 1995, it has been praised for its storytelling and lasting appeal.",
+      "Dave Pelzer's memoir of his childhood in Daly City, California, where his alcoholic mother subjected him to horrific abuse: she stabbed him, forced him to eat his own vomit, made him sit in a bathtub of bleach and ammonia, denied him food (he ate out of the garbage), and called him 'It' instead of his name. His father, a firefighter, was absent. His brothers were treated well. His teachers suspected but never acted. He was rescued at age twelve when a school nurse noticed his bruises. He was placed in foster care. The book, published in 1995, was a bestseller, spending over 200 weeks on the New York Times list. It has been criticized: some social workers say the abuse was too severe to be plausible; Pelzer's brothers have disputed his account. The book is the first of a trilogy (A Child Called 'It', The Lost Boy, A Man Named Dave). Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage:
-      'https://placehold.co/400x600/333333/ffffff?text=A+Child+Called+"It"',
+      "https://placehold.co/400x600/333333/ffffff?text=A+Child+Called+'It'",
     numberOfPages: 610,
     publishDate: "1995-01-01",
     language: "English",
@@ -2669,7 +2669,7 @@ const books = [
     name: "The Bourne Identity",
     author: "Robert Ludlum",
     description:
-      "A popular fiction title by Robert Ludlum, published in 1980, it continues to be discussed and recommended by readers.",
+      "A man is found floating in the Mediterranean Sea, shot twice in the back, with a capsule containing a microfilm embedded in his hip. He has no memory of who he is. The only clue: a Swiss bank account number. He travels to Zurich, where he discovers the account contains millions of dollars and a passport with the name Jason Bourne. He is being hunted by assassins. He is Jason Bourne, a top CIA assassin who was set up by his agency. The novel follows Bourne as he tries to recover his memory, evade his hunters, and discover the truth. He is aided by Marie St. Jacques, a Canadian economist he meets on a train. They fall in love. He kills Carlos the Jackal, the world's most dangerous assassin, who was hunting him. Ludlum's novel, published in 1980, was a bestseller and adapted into a film starring Matt Damon (which changed the plot significantly). It was followed by two sequels (The Bourne Supremacy, The Bourne Ultimatum) and later books by other authors. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1335860740m/7869.jpg",
     numberOfPages: 364,
@@ -2681,7 +2681,7 @@ const books = [
     name: "Artemis Fowl",
     author: "Eoin Colfer",
     description:
-      "One of Eoin Colfer's best-known fantasy books, first published in 2001, it has become a favorite among readers of the genre.",
+      "Artemis Fowl II, a twelve-year-old criminal mastermind from a family of Irish thieves, has discovered that fairies are real. They live underground, with advanced technology (plasma rifles, retinal scanners, holographic projections). They are managed by the LEP (Lower Elements Police). Artemis kidnaps Holly Short, a LEP officer, and holds her for ransom: one ton of gold. He also wants the Book, the fairy holy book, which contains fairy secrets. The novel follows the battle of wits between Artemis and the fairies, led by Commander Root (tough, cigar-smoking) and his tech genius Foaly (a centaur). Artemis wins: he gets the gold and escapes. But in a twist, he gives the gold back (he only wanted to prove he could). Colfer's novel, published in 2001, launched an eight-book series (and a spin-off, The Fowl Twins). It was adapted into a film (on Disney+) that received mixed reviews. The series has been praised for its antihero protagonist (Artemis is a villain who slowly becomes a hero). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327945104m/249747.jpg",
     numberOfPages: 745,
@@ -2693,7 +2693,7 @@ const books = [
     name: "Fallen",
     author: "Lauren Kate",
     description:
-      "A widely read young adult work by Lauren Kate, since its release in 2009, it has earned a large readership worldwide.",
+      "Luce Price, a seventeen-year-old girl, is sent to Sword & Cross, a reform school in Savannah, Georgia, after a boy she was kissing died in a mysterious fire (she was accused of arson). The school is a former prison, with iron gates, stone walls, and guards. Luce meets Daniel Grigori, a brooding, beautiful, and inexplicably hostile boy. She is drawn to him; he seems to know her. She discovers that she and Daniel are angels (he is a fallen angel; she is a mortal who has been reincarnated). They have loved each other for centuries, but every time they kiss, she dies in a fire. The curse is broken when Luce, having died, is reborn as an angel. Kate's novel, published in 2009, is the first of a four-book series (Fallen, Torment, Passion, Rapture). It was adapted into a film starring Addison Timlin and Jeremy Irvine (released in 2016 to negative reviews). Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1440619649m/6487308.jpg",
     numberOfPages: 686,
@@ -2705,7 +2705,7 @@ const books = [
     name: "East of Eden",
     author: "John Steinbeck",
     description:
-      "A popular classics title by John Steinbeck, released in 1952, it remains a frequently recommended read in its category.",
+      "Steinbeck's sprawling family saga, set in California's Salinas Valley, follows two families: the Trasks and the Hamiltons (based on Steinbeck's own family). The novel retells the story of Cain and Abel: Charles and Adam Trask; Cal and Aron Trask. Adam, a gentle, idealistic man, marries Cathy, a cruel, manipulative prostitute who is described as a 'monster.' Cathy gives birth to twin sons, Cal and Aron, then shoots Adam and runs away. She becomes a brothel owner. Cal, the 'bad' son, is jealous of Aron, the 'good' son. Cal discovers that his mother is still alive and takes Aron to see her; Aron is so disturbed that he enlists in the army and dies in World War I. Adam has a stroke. On his deathbed, he whispers the word 'timshel'—the Hebrew word that means 'thou mayest' (you have a choice). Cal, who has believed he is predestined to be evil, is freed. Steinbeck's novel, published in 1952, was a bestseller and adapted into a film starring James Dean. Steinbeck considered it his masterpiece. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1441547516m/4406.jpg",
     numberOfPages: 285,
@@ -2717,7 +2717,7 @@ const books = [
     name: "Dark Places",
     author: "Gillian Flynn",
     description:
-      "A celebrated work of mystery from Gillian Flynn, since 2009, it has been praised for its storytelling and lasting appeal.",
+      "Libby Day, the sole survivor of the 1985 murder of her mother and two sisters in rural Kansas, is now a depressed, angry thirty-one-year-old living on donations. She testified at age seven that her brother, Ben, committed the murders. Ben is in prison. Libby, running out of money, is contacted by the Kill Club, a group of amateur detectives who believe Ben is innocent. She agrees to investigate her family's murders. She discovers the truth: her mother was part of a satanic cult; the cult leader, who was obsessed with the occult, committed the murders. Ben is released. The novel is told in alternating chapters: Libby's present-day investigation (first person) and the day of the murders (third person, told from the perspectives of her mother, brother, and sister). Flynn's second novel, published in 2009, was a bestseller and adapted into a film starring Charlize Theron. It explores themes of poverty, trauma, and the unreliability of memory. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1354988288m/5886881.jpg",
     numberOfPages: 436,
@@ -2729,7 +2729,7 @@ const books = [
     name: "The Client",
     author: "John Grisham",
     description:
-      "A widely read fiction work by John Grisham, released in 1993, it remains a frequently recommended read in its category.",
+      "Mark Sway, an eleven-year-old boy, and his younger brother Ricky, are smoking in the woods near their trailer home in Memphis. They witness the suicide of a Mafia lawyer, Jerome Clifford, who has just shot himself. Before he dies, Clifford tells Mark where the body of a murdered senator is hidden. The FBI wants Mark to testify. The Mafia wants him dead. Mark hires a lawyer, Reggie Love, a fifty-two-year-old divorce attorney who has recently passed the bar. Reggie protects Mark. The novel follows the legal battle: Mark claims attorney-client privilege; the judge threatens to jail him; Reggie negotiates a deal. The Mafia tries to kill Mark (they poison Ricky, who survives). Mark is placed in witness protection. Grisham's novel, published in 1993, was his third bestseller. It was adapted into a film starring Susan Sarandon, Tommy Lee Jones, and Brad Renfro. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Client",
     numberOfPages: 386,
@@ -2741,7 +2741,7 @@ const books = [
     name: "The Nanny Diaries",
     author: "Emma McLaughlin, Nicola Kraus",
     description:
-      "An acclaimed fiction book written by Emma McLaughlin, Nicola Kraus, published in 2002, it continues to be discussed and recommended by readers.",
+      "Nan (short for Nanny), a twenty-one-year-old anthropology student at NYU, takes a job as a nanny for the X family on Park Avenue. Mrs. X is an entitled, demanding, negligent mother who treats Nan as a servant. Mr. X is an absent, cheating husband. Their son, Grayer, is a neglected four-year-old who is alternately charming and difficult. Nan's life becomes a series of humiliations: Mrs. X makes her iron the shoelaces, clean the cat vomit, and shop for organic food on a limited budget. Mrs. X refuses to pay her on time. Nan falls in love with Harvard Hottie, a neighbor. The novel ends with Nan quitting, Grayer crying, and Mrs. X screaming. The novel, published in 2002, was based on the authors' own experiences as nannies (they worked for a real Park Avenue family). It was a bestseller and adapted into a film starring Scarlett Johansson. It was criticized for its portrayal of wealthy mothers (Mrs. X is a caricature) but praised for its humor. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Nanny+Diaries",
@@ -2754,7 +2754,7 @@ const books = [
     name: "Alice's Adventures in Wonderland & Through the Looking-Glass",
     author: "Lewis Carroll, John Tenniel, Martin Gardner",
     description:
-      "A widely read classics work by Lewis Carroll, John Tenniel, Martin Gardner, since its release in 1865, it has earned a large readership worldwide.",
+      "This volume contains both of Lewis Carroll's Alice novels. In Alice's Adventures in Wonderland (1865), Alice follows a white rabbit down a hole and finds herself in a bizarre world where animals talk, size changes, and logic is abandoned. She meets the Mad Hatter (who has tea with the March Hare and the Dormouse), the Cheshire Cat (who grins and disappears), and the Queen of Hearts (who shouts 'Off with her head!'). In Through the Looking-Glass (1871), Alice steps through a mirror into a world that is a giant chessboard. She meets Tweedledum and Tweedledee, Humpty Dumpty, the Lion and the Unicorn, and the White Knight. The novels are filled with nonsense, wordplay, and satire of Victorian society. They have been adapted into countless films (most famously Disney's 1951 animated version and Tim Burton's 2010 live-action version). They are considered classics of children's literature, though adults appreciate their philosophical depth and linguistic inventiveness. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327872220m/24213.jpg",
     numberOfPages: 153,
@@ -2766,7 +2766,7 @@ const books = [
     name: "Persuasion",
     author: "Jane Austen, James Kinsley, Deidre Shauna Lynch",
     description:
-      "An acclaimed classics book written by Jane Austen, James Kinsley, Deidre Shauna Lynch, published in 1817, it continues to be discussed and recommended by readers.",
+      "Anne Elliot, at twenty-seven, is considered a 'spinster' by her vain, foolish father and her older sister. Eight years ago, she was persuaded by her surrogate mother, Lady Russell, to break off her engagement to Frederick Wentworth, a handsome, ambitious naval officer who was poor at the time. He has now returned from the Napoleonic Wars a wealthy captain. Anne, who still loves him, watches as he flirts with younger, prettier women. The novel follows their slow reconciliation. Wentworth, who believed Anne was weak and easily persuaded, learns that she was acting out of duty and that she has suffered. He writes her a letter: 'You pierce my soul. I am half agony, half hope. I have loved none but you.' They marry. Austen's novel, published posthumously in 1817, is the most mature of her works. It explores themes of regret, second chances, the pressure to conform, and the value of constancy. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Persuasion",
     numberOfPages: 565,
@@ -2778,7 +2778,7 @@ const books = [
     name: "Sarah's Key",
     author: "Tatiana de Rosnay",
     description:
-      "A popular historical fiction title by Tatiana de Rosnay, since its release in 2007, it has earned a large readership worldwide.",
+      "The novel alternates between two stories: Sarah's in 1942, and Julia's in 2009. In July 1942, the French police round up over 13,000 Jewish families in Paris (the Vel' d'Hiv roundup). Sarah Starzynski, a ten-year-old girl, locks her younger brother Michel in a secret cupboard in their apartment, promising to return. She does not know she is being sent to a concentration camp. She escapes from the camp, returns to Paris, and finds Michel dead. She never forgives herself. In 2009, Julia Jarmond, an American journalist living in Paris, is assigned to write about the 60th anniversary of the roundup. She discovers that the apartment where her husband's family has lived for 60 years was once occupied by the Starzynski family. Julia investigates, learns the truth, and leaves her husband (who is anti-Semitic). The novel, published in 2007, was a bestseller and adapted into a film starring Kristin Scott Thomas. It exposed many French readers to the truth of the Vel' d'Hiv roundup (which the French government had long denied). Since its release, it has earned a large readership worldwide.",
     genre: "Historical Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Sarah's+Key",
     numberOfPages: 576,
@@ -2790,7 +2790,7 @@ const books = [
     name: "The Gunslinger",
     author: "Stephen King",
     description:
-      "A popular fantasy title by Stephen King, published in 1982, it continues to be discussed and recommended by readers.",
+      "The first book of the Dark Tower series (King's magnum opus, seven books plus a later-added eighth) introduces Roland Deschain, the last gunslinger, in a desert that is a decaying version of our world. Roland pursues the Man in Black, a sorcerer who is also Walter O'Dim, a recurring villain in King's universe. The novel is a mix of Western, fantasy, and horror. Roland has a single goal: to reach the Dark Tower, the nexus of all universes, whose existence holds reality together. Along the way, he meets Jake Chambers, a boy from New York City who has been killed in our world but exists in Roland's. Roland, obsessed with his quest, lets Jake fall to his death rather than abandon his chase. The novel ends with Roland catching the Man in Black, who tells Roland his future (in a long flashback) and then dies. King's novel, published in 1982 (revised in 2003), is the first in the series. It was criticized for its dense, dreamlike prose, but fans consider it a masterpiece. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1375776480m/43615.jpg",
     numberOfPages: 473,
@@ -2802,7 +2802,7 @@ const books = [
     name: "Love in the Time of Cholera",
     author: "Gabriel García Márquez, Edith Grossman",
     description:
-      "A widely read historical fiction work by Gabriel García Márquez, Edith Grossman, released in 1985, it remains a frequently recommended read in its category.",
+      "Florentino Ariza, a poor, romantic telegraph operator, falls in love with Fermina Daza, a beautiful, haughty schoolgirl. They exchange letters for years. She rejects him. She marries Dr. Juvenal Urbino, a wealthy, respected physician who has cured a cholera epidemic. Florentino waits. He has 622 affairs (he keeps a list), but he remains 'faithful' to Fermina. Fifty-one years, nine months, and four days later, Dr. Urbino dies (he falls from a ladder trying to catch his parrot). Florentino, now seventy-six, visits Fermina and repeats his promise: 'I have waited for this opportunity for more than half a century. I love you.' They sail on a riverboat, and Florentino orders the captain to fly a flag warning of cholera (so they will not have to dock). They sail forever. Márquez's novel, published in 1985, is the opposite of One Hundred Years of Solitude: it is linear, focused on love rather than solitude, and set in a realistic (if romanticized) Caribbean port. It has been adapted into a film. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1327124987m/9712.jpg",
     numberOfPages: 151,
@@ -2814,7 +2814,7 @@ const books = [
     name: "Speak",
     author: "Laurie Halse Anderson",
     description:
-      "A popular young adult title by Laurie Halse Anderson, released in 1999, it remains a frequently recommended read in its category.",
+      "Melinda Sordino, a ninth grader, calls the police to break up a party at the end of the summer. No one knows why. Her friends abandon her; she is bullied; she stops talking. The novel follows her first year of high school, told in a series of first-person vignettes. She takes an art class and chooses a tree as her year-long project. She cannot draw the tree; she cannot make it come alive. She is raped by Andy Evans, a senior, at the party. She is silent. When Andy tries to rape her again, she fights back, screaming. She finds her voice. Anderson's novel, published in 1999, was a bestseller and won the Printz Award. It has been adapted into a film and a graphic novel. It has been banned in some schools for its depiction of rape and its use of the word 'penis.' Since its release, it remains a frequently recommended read in its category for its honest portrayal of trauma and recovery.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1310121762m/439288.jpg",
     numberOfPages: 557,
@@ -2826,7 +2826,7 @@ const books = [
     name: "The Husband's Secret",
     author: "Liane Moriarty",
     description:
-      "A widely read mystery work by Liane Moriarty, since its release in 2013, it has earned a large readership worldwide.",
+      "Cecilia Fitzpatrick, a successful Tupperware distributor and perfect mother, finds a letter in her attic. The letter is from her husband, John-Paul, to be opened only in the event of his death. He is not dead. She opens it anyway. The letter reveals that he killed his lover's daughter seventeen years ago. He was driving; he hit a girl; he left her to die. The girl, Janie, was the daughter of Rachel, a school secretary. Rachel, who never knew who killed her daughter, is about to discover the truth. The novel follows the consequences: Cecilia must decide whether to turn her husband in; Rachel must decide whether to kill him. In the end, John-Paul dies (from a bee sting, an accident), and the secret dies with him. Rachel learns the truth but cannot prove it. Moriarty's novel, published in 2013, was a bestseller and adapted into a film (to be released). It explores themes of marriage, motherhood, and the question: what would you do if you discovered your spouse was a murderer? Since its release, it has earned a large readership worldwide.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1460577225m/17802724.jpg",
     numberOfPages: 162,
@@ -2838,7 +2838,7 @@ const books = [
     name: "Into Thin Air: A Personal Account of the Mount Everest Disaster",
     author: "Jon Krakauer",
     description:
-      "A popular non-fiction title by Jon Krakauer, released in 1997, it remains a frequently recommended read in its category.",
+      "In May 1996, Krakauer, a journalist and mountaineer, was assigned by Outside magazine to climb Mount Everest and write about the commercialization of the mountain. He was part of a guided expedition led by Rob Hall, a New Zealander who had summited Everest four times. Another expedition, led by Scott Fischer, was also on the mountain. On May 10, 1996, Krakauer summited and descended. But a storm hit that afternoon, trapping climbers above 26,000 feet. By the time the storm ended, five climbers were dead (including Hall and Fischer), and three more would die later. Krakauer's account, published as an article and then expanded into a book (1997), is a harrowing, minute-by-minute reconstruction of the disaster. He blames the guides' ambition (they wanted to get their clients to the summit regardless of the weather) and the clients' inexperience (some did not know how to use oxygen tanks). He also blames himself (he helped summon a climber, which may have contributed to the rescue delay). The book was a bestseller and adapted into a TV film. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1463384482m/1898.jpg",
     numberOfPages: 531,
@@ -2850,7 +2850,7 @@ const books = [
     name: "Carrie",
     author: "Stephen King",
     description:
-      "A widely read horror work by Stephen King, published in 1974, it continues to be discussed and recommended by readers.",
+      "Carrie White, a shy, awkward, bullied teenager, has telekinetic powers. She is abused at home by her religious fanatic mother, Margaret, who believes that menstruation is a curse from God. At school, she is mocked. Her first period occurs in the locker room, and her classmates throw tampons at her, screaming 'Plug it up!' The class is punished. One popular girl, Sue Snell, feels guilty and asks her boyfriend, Tommy Ross, to take Carrie to the prom. Another girl, Chris Hargensen, who was banned from the prom for her role in the locker room, plots revenge. At the prom, Chris and her boyfriend dump pig's blood on Carrie. Carrie snaps. She uses her telekinesis to lock the doors, electrocute the teachers, and burn the gymnasium. She kills 444 students. She returns home, confronts her mother, and kills her. She then kills herself. Sue is the only survivor. King's first novel, published in 1974, was rejected by 30 publishers. It was a bestseller and adapted into two films (Brian De Palma's 1976 version starring Sissy Spacek, and a 2013 remake). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Horror",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Carrie",
     numberOfPages: 549,
@@ -2862,7 +2862,7 @@ const books = [
     name: "Running with Scissors",
     author: "Augusten Burroughs",
     description:
-      "A celebrated work of biography from Augusten Burroughs, first published in 2002, it has become a favorite among readers of the genre.",
+      "Augusten Burroughs's memoir of his bizarre childhood. His parents divorce. His mother, a poet who is diagnosed with paranoid schizophrenia, sends him to live with her psychiatrist, Dr. Finch, a man who wears a bathrobe and conducts therapy sessions on a Barcalounger. The Finch household is chaotic: Dr. Finch's children include a drug-addicted daughter, a son who runs away, and a daughter who has a relationship with Augusten. Augusten, at twelve, is legally adopted by Dr. Finch. He is sexually abused by Neil, the adopted son of Dr. Finch's mistress. He drops out of school. He moves to New York City at seventeen. The memoir, published in 2002, was a bestseller and adapted into a film (starring Annette Bening, Brian Cox, and Joseph Cross). It has been criticized for its factual accuracy (Burroughs has admitted to exaggerating and inventing events). Since its release, it has become a favorite among readers of the genre.",
     genre: "Biography",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Running+with+Scissors",
@@ -2875,7 +2875,7 @@ const books = [
     name: "World War Z: An Oral History of the Zombie War",
     author: "Max Brooks",
     description:
-      "An acclaimed horror book written by Max Brooks, released in 2006, it remains a frequently recommended read in its category.",
+      "Ten years after the zombie apocalypse (called the Great Panic), a UN employee interviews survivors around the world. The novel is presented as a series of first-person accounts: a Chinese doctor describes the first outbreak; an Australian fighter pilot describes the Battle of Yonkers (where the US Army was destroyed); a British soldier describes the 'smoking' of zombies (they are not dead, they are infected); a Japanese otaku (computer geek) describes the 'feral' children who survived; a Russian priest describes the cannibalism; a French scientist describes the vaccine. The zombies are slow, not fast (Brooks criticizes fast zombies as unrealistic). The war is won not by military force but by human ingenuity: the 'Redeker Plan' (evacuating to safe zones), the 'Lobo' (a shovel designed for killing zombies), and the 'Great Panic' itself (which eliminated the weak). Brooks's novel, published in 2006, was a bestseller and adapted into a film starring Brad Pitt (which changed almost everything except the title). Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1386328204m/8908.jpg",
     numberOfPages: 199,
@@ -2887,7 +2887,7 @@ const books = [
     name: "Inferno",
     author: "Dan Brown",
     description:
-      "A popular fiction title by Dan Brown, first published in 2013, it has become a favorite among readers of the genre.",
+      "The fourth Robert Langdon novel opens with Langdon waking up in a Florence hospital with a head wound and no memory of the last two days. He is being hunted by a female assassin. He escapes with Dr. Sienna Brooks, the doctor treating him. Langdon discovers he has been implanted with a modified version of Dante's The Divine Comedy (Inferno), with clues to a deadly biological weapon: a plague that will kill half of the world's population. The plague's creator, Bertrand Zobrist, a brilliant geneticist, believes that overpopulation is destroying the planet. He has created a virus that will randomly sterilize humans. Langdon races through Florence, Venice, and Istanbul, decoding Dante's references. He discovers that the virus has already been released. But the virus is not deadly; it is a 'vegan' virus that will temporarily cause infertility. The head of the World Health Organization, who orchestrated the hunt for Langdon, is arrested. Brown's novel, published in 2013, was a bestseller and adapted into a film starring Tom Hanks. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1397093185m/17212231.jpg",
     numberOfPages: 202,
@@ -2899,7 +2899,7 @@ const books = [
     name: "Number the Stars",
     author: "Lois Lowry",
     description:
-      "A popular fiction title by Lois Lowry, since its release in 1989, it has earned a large readership worldwide.",
+      "Set in 1943 Copenhagen, the novel follows ten-year-old Annemarie Johansen and her best friend, Ellen Rosen. The Nazis are rounding up Danish Jews. The Rosens are Jewish. They flee to the Johansens' apartment, and Ellen pretends to be Annemarie's dead sister, Lise. The Nazis search the apartment; they find a photograph of Lise as a child (blonde, like Ellen) and leave. Annemarie's mother takes the Rosens to the coast, where a fisherman will smuggle them to neutral Sweden. Annemarie delivers a hidden packet to the fisherman; it is a handkerchief treated with a chemical that ruins German dogs' sense of smell. The Rosens escape. The novel, based on a true story (the Danish resistance saved 99% of Denmark's Jewish population), was published in 1989 and won the Newbery Medal. It has been adapted into a film and a stage play. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1370917812m/47281.jpg",
     numberOfPages: 405,
@@ -2911,7 +2911,7 @@ const books = [
     name: "Along Came a Spider",
     author: "James Patterson",
     description:
-      "A popular mystery title by James Patterson, published in 1993, it continues to be discussed and recommended by readers.",
+      "The first book of the Alex Cross series introduces the Washington, D.C., detective and psychologist. Two children, the daughter of a famous actress and the son of the Secretary of the Treasury, are kidnapped from an elite private school. The kidnapper, Gary Soneji, is a teacher at the school. He wants fame, not money. He leaves a riddle: 'Along came a spider.' Alex Cross works with Jezzie Flanagan, a Secret Service agent assigned to protect the children. They solve the riddle (the 'spider' is a code for the kidnapping), track Soneji to a cabin in the woods, and rescue the girl. The boy is already dead. Soneji is captured. Patterson's novel, published in 1993, launched a 28-book (and counting) series. It was adapted into a film starring Morgan Freeman. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Along+Came+a+Spider",
@@ -2924,7 +2924,7 @@ const books = [
     name: "Misery",
     author: "Stephen King",
     description:
-      "A popular horror title by Stephen King, since its release in 1987, it has earned a large readership worldwide.",
+      "Paul Sheldon, a best-selling author of romance novels (the Misery Chastain series), crashes his car in a blizzard in rural Colorado. He is rescued by Annie Wilkes, a former nurse who claims to be his 'number one fan.' Annie is also insane. She is furious that Paul killed Misery in his latest book. She forces Paul to write a new novel, Misery's Return, using a typewriter. She cuts off his foot with an axe when he tries to escape. She cuts off his thumb with a blowtorch. Paul finishes the novel; Annie is arrested; Paul is rescued. King's novel, published in 1987, was inspired by a dream King had on a plane. It was adapted into an Oscar-winning film starring Kathy Bates and James Caan. Since its release, it has become a favorite among readers of the genre.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1270545451m/10614.jpg",
     numberOfPages: 532,
@@ -2936,7 +2936,7 @@ const books = [
     name: "Sharp Objects",
     author: "Gillian Flynn",
     description:
-      "An acclaimed mystery book written by Gillian Flynn, first published in 2006, it has become a favorite among readers of the genre.",
+      "Camille Preaker, a journalist for a Chicago newspaper, is sent back to her hometown of Wind Gap, Missouri, to cover the murders of two young girls. Camille has recently been released from a psychiatric hospital (she cuts words into her skin). Her mother, Adora, is a cold, wealthy, hypochondriac woman. Her half-sister, Amma, is a thirteen-year-old who is alternately sweet and monstrous. Camille investigates the murders; she discovers that the killer is her mother, who has Munchausen syndrome by proxy (she makes her children sick to get attention). Adora has been poisoning her daughters with rat poison. Amma, who has escaped, is the killer. She killed the two girls to protect her mother's secret. Amma is arrested. Flynn's debut novel, published in 2006, was a bestseller and adapted into an HBO miniseries starring Amy Adams. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1423241485m/66559.jpg",
     numberOfPages: 559,
@@ -2948,7 +2948,7 @@ const books = [
     name: "Bridge to Terabithia",
     author: "Katherine Paterson",
     description:
-      "A celebrated work of young adult from Katherine Paterson, since 1977, it has been praised for its storytelling and lasting appeal.",
+      "Jess Aarons, a fifth grader in rural Virginia, wants to be the fastest runner in his grade. He loses to Leslie Burke, a new girl who is an 'outsider' (her parents are wealthy writers; she doesn't own a TV). They become friends. They discover a rope swing over a creek in the woods and create Terabithia, a magical kingdom where they are king and queen. They fight imaginary trolls, giants, and the 'evil force' of the world. On a rainy day, Jess goes to Washington, D.C., with his teacher. Leslie goes to Terabithia alone. The rope breaks; she falls, hits her head, and drowns. Jess must cope with his grief. Paterson's novel, published in 1977, won the Newbery Medal. It was inspired by her son's best friend, Lisa Hill, who was struck by lightning and died. The novel has been adapted into a film and a stage play. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327880087m/2839.jpg",
     numberOfPages: 358,
@@ -2960,7 +2960,7 @@ const books = [
     name: "Marked",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "A widely read young adult work by P.C. Cast, Kristin Cast, first published in 2007, it has become a favorite among readers of the genre.",
+      "The first book of the House of Night series (12 books) introduces Zoey Redbird, a sixteen-year-old who is 'Marked' by a Tracker—a silver outline of a crescent moon on her forehead. She is a fledgling vampire. She is sent to the House of Night, a boarding school in Tulsa, Oklahoma, where she must pass four years of classes (Vampire Soc 101, Equestrian Studies) to become an adult vampire. She discovers she is special: she has affinity for all five elements (air, fire, water, earth, spirit), can talk to animals, and is the mate of the god of vampires, Kalona. The novel follows Zoey's adjustment to the House of Night, her conflict with the High Priestess (who is evil), and her love triangle with two boys, Erik and Heath. Cast's series, written with her daughter, was a bestseller, selling over 20 million copies. It has been criticized for its poor writing and its 'mean girl' culture. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1317067002m/30183.jpg",
     numberOfPages: 570,
@@ -2972,7 +2972,7 @@ const books = [
     name: "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
     author: "Stephen R. Covey",
     description:
-      "An acclaimed non-fiction book written by Stephen R. Covey, since 1989, it has been praised for its storytelling and lasting appeal.",
+      "Covey's self-help book presents a principle-centered, character-based approach to personal and professional effectiveness. The 7 habits are: 1. Be Proactive (take responsibility for your life). 2. Begin with the End in Mind (define your mission and goals). 3. Put First Things First (prioritize and execute). 4. Think Win-Win (seek mutual benefit in relationships). 5. Seek First to Understand, Then to Be Understood (listen empathically). 6. Synergize (value differences to create new solutions). 7. Sharpen the Saw (renew yourself). The book is based on Covey's PhD in religious education and his experience teaching at Brigham Young University. It has sold over 25 million copies worldwide since its publication in 1989. It has been praised for its holistic approach and criticized for being overly simplistic and business-focused. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1421842784m/36072.jpg",
     numberOfPages: 291,
@@ -2985,7 +2985,7 @@ const books = [
     author:
       "William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey",
     description:
-      "A popular classics title by William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey, published in 1595, it continues to be discussed and recommended by readers.",
+      "Four lovers—Hermia and Lysander (who love each other), Demetrius (who loves Hermia), and Helena (who loves Demetrius)—flee into the forest outside Athens to escape the law (Hermia's father wants her to marry Demetrius). In the same forest, a group of amateur actors (the 'rude mechanicals') are rehearsing a play for the Duke's wedding. The forest is also inhabited by fairies: Oberon and Titania, the king and queen, who are quarreling over a changeling boy. Oberon orders his servant, Puck, to use a love potion on Titania (so she will fall in love with the first thing she sees) and on Demetrius (so he will love Helena). Puck mistakes Lysander for Demetrius, and both men fall in love with Helena. Chaos ensues. Oberon orders Puck to fix the mistake. In the end, Demetrius loves Helena, Lysander loves Hermia, Titania loves Oberon, and the actors perform their play (which is terrible). Shakespeare's comedy, written around 1595, is one of his most popular. It explores themes of love, madness, and the nature of reality. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327874534m/1622.jpg",
     numberOfPages: 200,
@@ -2997,7 +2997,7 @@ const books = [
     name: "Extremely Loud and Incredibly Close",
     author: "Jonathan Safran Foer",
     description:
-      "A celebrated work of fiction from Jonathan Safran Foer, since its release in 2005, it has earned a large readership worldwide.",
+      "Oskar Schell, a nine-year-old inventor, amateur entomologist, and amateur tambourinist, is grieving the death of his father in the 9/11 attacks. He finds a key in his father's closet, in a vase labeled 'Black.' He believes the key is a treasure hunt his father planned for him. He sets out to find the lock. He meets a cast of New Yorkers, all of whom are also grieving, including a mute who cannot speak and his grandmother who survived the Dresden firebombing. The key belongs to a man named William Black, whose father died of a heart attack when William was a child. The lock is a safe-deposit box at a bank, containing a photo of the Twin Towers. Oskar is disappointed. The novel is experimental: it includes photographs, drawings, typographical tricks, and a flipbook. Foer's second novel, published in 2005, was a bestseller and adapted into a film starring Tom Hanks and Sandra Bullock. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327879967m/4588.jpg",
     numberOfPages: 324,
@@ -3009,7 +3009,7 @@ const books = [
     name: "Wonder",
     author: "R.J. Palacio",
     description:
-      "An acclaimed young adult book written by R.J. Palacio, published in 2012, it continues to be discussed and recommended by readers.",
+      "August 'Auggie' Pullman, a ten-year-old boy with a facial deformity (mandibulofacial dysostosis, a form of Treacher Collins syndrome), has been homeschooled his whole life. He is about to start fifth grade at Beecher Prep, a private school in Manhattan. The novel follows his first year. Auggie is bullied (a boy calls him 'the zombie'), befriended (Summer, a girl who sits with him), betrayed (Jack, who makes fun of him to fit in), and accepted (the entire school cheers for him at graduation). The novel is told from multiple perspectives: Auggie, his sister Via (who feels neglected), his friends Jack and Summer, his sister's boyfriend Justin, and his bully, Julian. Palacio's novel, published in 2012, was a bestseller and adapted into a film starring Jacob Tremblay, Julia Roberts, and Owen Wilson. The novel's slogan, 'Choose Kind,' became a movement. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1309285027m/11387515.jpg",
     numberOfPages: 501,
@@ -3021,7 +3021,7 @@ const books = [
     name: "The Cat in the Hat",
     author: "Dr. Seuss",
     description:
-      "A popular children title by Dr. Seuss, released in 1957, it remains a frequently recommended read in its category.",
+      "Two children, Sally and her brother (the narrator), are stuck inside on a rainy day. Their mother is out. A giant cat in a red-and-white-striped hat appears. He performs tricks: he balances a fishbowl, a book, a rake, a cake, and other objects on a ball. He introduces Thing One and Thing Two, two chaos agents who fly kites in the house. The children's pet fish protests. The children, bored, do not stop him. The Cat destroys the house. But then the Cat returns with a cleaning machine and cleans everything. Their mother returns and asks, 'What did you do?' The narrator lies: 'Nothing.' Seuss's book, published in 1957, was a response to a Life magazine article that criticized children's primers (Dick and Jane) for being boring. Seuss was given a list of 250 words and told to write a book using them. The book was a success, revolutionizing children's literature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1468890477m/233093.jpg",
     numberOfPages: 411,
@@ -3033,7 +3033,7 @@ const books = [
     name: "Cinder",
     author: "Marissa Meyer",
     description:
-      "A popular young adult title by Marissa Meyer, published in 2012, it continues to be discussed and recommended by readers.",
+      "The first book of the Lunar Chronicles series is a science fiction retelling of Cinderella. Linh Cinder, a cyborg mechanic in New Beijing, lives with her cruel stepmother, her two stepsisters, and her android, Iko. She is the best mechanic in the city. She meets Prince Kai, who asks her to fix his android. They fall in love. Meanwhile, a plague (letumosis) is sweeping the world; the only hope is a vaccine from the evil Queen Levana of Luna (the moon). Cinder discovers she is not a cyborg; she is a Lunar. She is the lost princess Selene, the true heir to the Lunar throne. She escapes her stepmother, joins a revolution, and vows to take back her kingdom. Meyer's novel, published in 2012, launched a four-book series (Cinder, Scarlet, Cress, Winter). It has been praised for its inventive world-building and its feminist retelling of the fairy tale. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1470056948m/11235712.jpg",
     numberOfPages: 394,
@@ -3045,7 +3045,7 @@ const books = [
     name: "The Cuckoo's Calling",
     author: "Robert Galbraith, J.K. Rowling",
     description:
-      "A popular mystery title by Robert Galbraith, J.K. Rowling, published in 2013, it continues to be discussed and recommended by readers.",
+      "The first book of the Cormoran Strike series (written by J.K. Rowling under the pseudonym Robert Galbraith). Cormoran Strike, a former military policeman turned private detective, is down on his luck: he is in debt, his girlfriend has left him, and he is living in his office. Lula Landry, a famous supermodel, has fallen from her penthouse balcony. The police rule it suicide. Her brother, John Bristow, hires Strike to investigate. Strike's temporary secretary, Robin Ellacott, helps him. Strike discovers that Lula was murdered: she was pushed from the balcony by her boyfriend, a drug dealer. He was not the killer; the killer was Bristow, who killed Lula to inherit her trust fund. The novel, published in 2013 under a male pseudonym, was initially ignored. When Rowling's identity was revealed (by a lawyer's wife), it became a bestseller. It was adapted into a TV series. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1358716559m/16160797.jpg",
     numberOfPages: 720,
@@ -3057,7 +3057,7 @@ const books = [
     name: "Shiver",
     author: "Maggie Stiefvater",
     description:
-      "An acclaimed young adult book written by Maggie Stiefvater, first published in 2009, it has become a favorite among readers of the genre.",
+      "Grace Brisbane, a teenage girl in Minnesota, was attacked by wolves when she was twelve. A wolf with yellow eyes saved her. She has been watching that wolf ever since. She recognizes him in Sam Roth, a boy her age who sometimes is human, sometimes wolf. Sam is a werewolf. He turns into a wolf when it is cold; he turns human when it is warm. He is losing the ability to turn human. Grace and Sam fall in love. Grace is bitten by another wolf, and she discovers she is also a werewolf. The novel, published in 2009, is the first of the Wolves of Mercy Falls trilogy (Shiver, Linger, Forever). Stiefvater's writing is lyrical and atmospheric. The novel explores themes of love, identity, and the nature of humanity. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1409283154m/6068551.jpg",
     numberOfPages: 321,
@@ -3069,7 +3069,7 @@ const books = [
     name: "Atlas Shrugged",
     author: "Ayn Rand, Leonard Peikoff",
     description:
-      "One of Ayn Rand, Leonard Peikoff's best-known fiction books, first published in 1957, it has become a favorite among readers of the genre.",
+      "In a dystopian America where the government has taken over the economy, the 'men of the mind'—the inventors, the creators, the businessmen—are disappearing. They have been secretly gathered by John Galt, an inventor who has created a motor that runs on static electricity. Galt is leading a strike: the producers are refusing to work until the government collapses. The novel follows Dagny Taggart, the vice president of Taggart Transcontinental railroad, who is trying to keep the economy running. She falls in love with Galt. The government, desperate, captures Galt and tortures him. The novel ends with the government collapsing, Galt giving a 60-page speech (the longest in literature), and the strikers returning to rebuild civilization. Rand's novel, published in 1957, is her magnum opus and the foundational text of Objectivism (her philosophy of rational self-interest). It has sold over 7 million copies. It has been praised by businessmen (Alan Greenspan) and criticized by academics (it is badly written, long, and simplistic). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1405868167m/662.jpg",
     numberOfPages: 362,
@@ -3081,7 +3081,7 @@ const books = [
     name: "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
     author: "Greg Mortenson, David Oliver Relin",
     description:
-      "A celebrated work of non-fiction from Greg Mortenson, David Oliver Relin, published in 2006, it continues to be discussed and recommended by readers.",
+      "In 1993, Greg Mortenson, a mountaineer, fails to summit K2 (the second-highest mountain). He stumbles into a remote Pakistani village, Korphe. The children are writing their lessons in the dirt with sticks. Mortenson promises to build them a school. He returns to the US, raises money, and builds a bridge and a school in Korphe. He goes on to build over 170 schools in Pakistan and Afghanistan, focusing on girls' education. The book, published in 2006, was a bestseller and became required reading for US military officers in Afghanistan. In 2011, a 60 Minutes investigation revealed that much of the book was fabricated: Mortenson never got lost, he did not build the schools he claimed, and he used charity money for personal expenses. Mortenson admitted to fabricating some events but defended the book's central truth. The book was later withdrawn and republished with corrections. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1395407074m/49436.jpg",
     numberOfPages: 713,
@@ -3093,7 +3093,7 @@ const books = [
     name: "Alice in Wonderland",
     author: "Jane Carruth, Lewis Carroll, Rene Cloke",
     description:
-      "One of Jane Carruth, Lewis Carroll, Rene Cloke's best-known classics books, published in 1865, it continues to be discussed and recommended by readers.",
+      "This is a retelling or illustrated edition of Lewis Carroll's Alice's Adventures in Wonderland. Alice, a young girl, follows a white rabbit down a hole and finds herself in a bizarre world where animals talk, size changes, and logic is abandoned. She meets the Mad Hatter (who has tea with the March Hare and the Dormouse), the Cheshire Cat (who grins and disappears), and the Queen of Hearts (who shouts 'Off with her head!'). She grows and shrinks, swims in a pool of her own tears, and finally wakes up. Carroll's novel, published in 1865, is a classic of children's literature. It has been adapted into countless films (most famously Disney's 1951 animated version and Tim Burton's 2010 live-action version). The novel is filled with wordplay, nonsense, and satire of Victorian society. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Alice+in+Wonderland",
@@ -3106,7 +3106,7 @@ const books = [
     name: "The Shadow of the Wind",
     author: "Carlos Ruiz Zafón, Lucia Graves",
     description:
-      "An acclaimed fiction book written by Carlos Ruiz Zafón, Lucia Graves, published in 2001, it continues to be discussed and recommended by readers.",
+      "In 1945 Barcelona, ten-year-old Daniel Sempere is taken by his father to the Cemetery of Forgotten Books, a labyrinth of rare and forgotten books. He chooses The Shadow of the Wind by Julián Carax. He falls in love with it. He tries to find other books by Carax—and discovers that someone is burning all of them. Daniel investigates Carax's life: his love for a beautiful woman, his friendship with a man who betrayed him, his death in a fire. The novel is a mystery, a love story, and a tribute to the power of books. Zafón's novel, published in 2001, was a bestseller and won numerous awards. It is the first of a four-book series (The Cemetery of Forgotten Books). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1344545047m/1232.jpg",
     numberOfPages: 292,
@@ -3118,7 +3118,7 @@ const books = [
     name: "The Scorch Trials",
     author: "James Dashner",
     description:
-      "A celebrated work of young adult from James Dashner, since its release in 2010, it has earned a large readership worldwide.",
+      "The second book of the Maze Runner series begins immediately after the end of the first book. Thomas and the other survivors of the Maze are taken to a dormitory, where they expect to be safe. Instead, they are told that they are not safe. They must cross the Scorch, a burned, desolate wasteland filled with Cranks (people infected with the Flare virus, who have become zombie-like). They have two weeks to cross. They are chased by WCKD (the organization that created the Maze). They discover that the world outside is not safe: the Flare has killed most of the population. The survivors are being used as guinea pigs. Thomas learns that he is not just a subject; he helped design the Maze. He has had his memory wiped. The novel ends with Thomas and his friends escaping WCKD and heading to the Safe Haven. Dashner's novel, published in 2010, was adapted into a film. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Scorch+Trials",
@@ -3131,7 +3131,7 @@ const books = [
     name: "How to Win Friends and Influence People",
     author: "Dale Carnegie",
     description:
-      "A widely read non-fiction work by Dale Carnegie, since its release in 1936, it has earned a large readership worldwide.",
+      "Carnegie's self-help book, first published in 1936, has sold over 30 million copies. It is based on his experience teaching public speaking and human relations. The book is divided into four sections: Fundamental Techniques in Handling People (don't criticize, give honest appreciation, arouse an eager want), Six Ways to Make People Like You (become genuinely interested in others, smile, remember names, be a good listener, talk in terms of the other person's interests, make them feel important), How to Win People to Your Way of Thinking (avoid arguments, respect opinions, admit fault, get the other person to say 'yes,' let them think the idea is theirs), and Be a Leader (begin with praise, call attention to mistakes indirectly, ask questions instead of giving orders). Carnegie's principles are based on common sense and psychology. The book has been praised by businessmen, politicians, and celebrities. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1442726934m/4865.jpg",
     numberOfPages: 500,
@@ -3143,7 +3143,7 @@ const books = [
     name: "Under the Tuscan Sun",
     author: "Frances Mayes",
     description:
-      "A celebrated work of travel from Frances Mayes, first published in 1996, it has become a favorite among readers of the genre.",
+      "Frances Mayes, a poet and professor of creative writing at San Francisco State University, buys a dilapidated villa (Bramasole) in Cortona, Italy. The memoir follows her renovation of the villa: she hires local workers, plants olive trees and roses, cooks Italian food, and adapts to Italian culture. She also explores Tuscany: she visits markets, festivals, and hill towns. The book is a meditation on slowing down, savoring life, and finding joy in simple pleasures. It is also a cookbook (recipes are included). Mayes's memoir, published in 1996, was a bestseller and adapted into a film starring Diane Lane. It launched a travel-writing genre (the expat-moves-to-Italy memoir) and inspired countless readers to buy property in Tuscany. Since its release, it has become a favorite among readers of the genre.",
     genre: "Travel",
     coverPage: "https://images.gr-assets.com/books/1320524083m/480479.jpg",
     numberOfPages: 476,
@@ -3155,7 +3155,7 @@ const books = [
     name: "Big Little Lies",
     author: "Liane Moriarty",
     description:
-      "One of Liane Moriarty's best-known mystery books, released in 2014, it remains a frequently recommended read in its category.",
+      "The novel opens with a murder. We do not know who died or who killed them. We know that a school trivia night ended in disaster. The novel follows three women: Madeline, a divorced mother who is feuding with her ex-husband's new wife; Celeste, a beautiful, wealthy mother who is being abused by her husband; and Jane, a young single mother who is being stalked by her son's bully's father. The novel alternates between the women's present and the police interviews after the murder. The murder victim is Perry, Celeste's husband. The killer is Bonnie, Madeline's husband's ex-wife. Bonnie pushes Perry down the stairs when she sees him attacking Celeste. The women protect Bonnie: they claim he fell. Moriarty's novel, published in 2014, was a bestseller and adapted into an Emmy-winning HBO miniseries starring Reese Witherspoon, Nicole Kidman, and Shailene Woodley. Since its release, it remains a frequently recommended read in its category.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1492239430m/19486412.jpg",
     numberOfPages: 414,
@@ -3167,7 +3167,7 @@ const books = [
     name: "Ella Enchanted",
     author: "Gail Carson Levine",
     description:
-      "A celebrated work of fantasy from Gail Carson Levine, since its release in 1997, it has earned a large readership worldwide.",
+      "A retelling of Cinderella. Ella of Frell, a wealthy merchant's daughter, is given the 'gift' of obedience by a fairy named Lucinda: she must obey any direct command. This is a curse. She is forced to obey her mean stepsisters, her stepmother, and even her friend Areida (who commands her to leave). She goes to the ball, where she meets Prince Char. They fall in love. Char asks her to marry him; she cannot accept because she would have to obey him. She hunts down Lucinda, forces her to break the curse, and marries Char. Levine's novel, published in 1997, won the Newbery Honor. It was adapted into a film starring Anne Hathaway. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1410727190m/24337.jpg",
     numberOfPages: 170,
@@ -3179,7 +3179,7 @@ const books = [
     name: "The Sun Also Rises",
     author: "Ernest Hemingway",
     description:
-      "An acclaimed classics book written by Ernest Hemingway, published in 1926, it continues to be discussed and recommended by readers.",
+      "Jake Barnes, an American journalist in Paris, is a veteran of World War I. He was wounded in the war and is impotent. He loves Lady Brett Ashley, a beautiful, charismatic, promiscuous Englishwoman who loves him but cannot be with him because of his impotence. The novel follows their circle: Robert Cohn, a wealthy, insecure Jewish writer; Bill Gorton, Jake's friend; Mike Campbell, Brett's fiancé; and Pedro Romero, a young bullfighter. They travel to Pamplona, Spain, for the Festival of San Fermín (the running of the bulls). Brett sleeps with Romero. Jake watches. The novel ends with Brett asking Jake to come to her hotel room: 'Oh, Jake,' Brett said, 'we could have had such a damned good time together.' Jake replies, 'Yes, isn't it pretty to think so?' Hemingway's first novel, published in 1926, introduced the Lost Generation. It is written in his spare, understated, 'iceberg' style. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1331828228m/3876.jpg",
     numberOfPages: 573,
@@ -3189,9 +3189,9 @@ const books = [
   {
     id: 265,
     name: "A Tree Grows in Brooklyn",
-    author: "Betty  Smith",
+    author: "Betty Smith",
     description:
-      "A celebrated work of classics from Betty  Smith, since its release in 1943, it has earned a large readership worldwide.",
+      "Francie Nolan, an eleven-year-old girl in Williamsburg, Brooklyn, in the 1910s, grows up poor. Her father, Johnny, is a charming, alcoholic singing waiter. Her mother, Katie, is a practical, hardworking cleaner. Her little brother, Neeley, is favored. Francie loves to read: she reads one book a day from the library. She wants to go to school, but her parents cannot afford to send her. She works, saves money, and eventually goes to college. The novel follows Francie's life from age 11 to 17, through her father's death, her mother's remarriage, and her own graduation from high school. Betty Smith's semi-autobiographical novel, published in 1943, was a bestseller and adapted into a film. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327883484m/14891.jpg",
     numberOfPages: 535,
@@ -3203,7 +3203,7 @@ const books = [
     name: "Kiss the Girls",
     author: "James Patterson",
     description:
-      "A popular mystery title by James Patterson, released in 1995, it remains a frequently recommended read in its category.",
+      "The second book of the Alex Cross series introduces two serial killers: Casanova, who kidnaps and imprisons young women in a secret basement; and The Gentleman Caller, who murders young women in Los Angeles. Alex Cross, investigating the kidnapping of his niece, Naomi, travels to Durham, North Carolina. He works with Kate McTiernan, a doctor who escaped from Casanova. They discover that Casanova and The Gentleman Caller are the same man: a forensic psychologist named William Rudolph. He has been collecting women for years. Alex kills him. Patterson's novel, published in 1995, was a bestseller and adapted into a film starring Morgan Freeman. Since its release, it remains a frequently recommended read in its category.",
     genre: "Mystery",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Kiss+the+Girls",
     numberOfPages: 213,
@@ -3215,7 +3215,7 @@ const books = [
     name: "The Nightingale",
     author: "Kristin Hannah",
     description:
-      "An acclaimed historical fiction book written by Kristin Hannah, released in 2015, it remains a frequently recommended read in its category.",
+      "The novel follows two sisters in France during World War II. Vianne Mauriac, a schoolteacher in the small town of Carriveau, sends her husband off to war, then is forced to billet a German officer in her home. She protects her daughter, Sophie, and her Jewish friend, Rachel, whose family is deported. Her sister, Isabelle Rossignol, is a rebellious eighteen-year-old who joins the Resistance. She leads downed Allied pilots across the Pyrenees into Spain. She is captured, tortured, and sent to a concentration camp. She survives. Vianne, at the end of the war, discovers that her husband has died. The novel is told in flashback: an old woman (Vianne) is dying and tells her son the story of her life. Hannah's novel, published in 2015, was a bestseller and is being adapted into a film. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1451446316m/21853621.jpg",
     numberOfPages: 738,
@@ -3227,7 +3227,7 @@ const books = [
     name: "Never Let Me Go",
     author: "Kazuo Ishiguro",
     description:
-      "A popular fiction title by Kazuo Ishiguro, since its release in 2005, it has earned a large readership worldwide.",
+      "Kathy H., a thirty-one-year-old 'carer,' tells her story in flashback. She grew up at Hailsham, a boarding school in England. The students are told they are special, but they are not told why. They are clones. They are being raised to donate their organs to 'normal' humans. Kathy and her friends, Tommy and Ruth, grow up, fall in love, and watch each other die. Ruth dies. Tommy dies. Kathy donates her organs and 'completes.' Ishiguro's novel, published in 2005, was adapted into a film starring Carey Mulligan, Keira Knightley, and Andrew Garfield. The novel is a science fiction dystopia disguised as a boarding school story. It explores themes of mortality, identity, and the ethics of cloning. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1353048590m/6334.jpg",
     numberOfPages: 665,
@@ -3239,7 +3239,7 @@ const books = [
     name: "P.S. I Love You",
     author: "Cecelia Ahern",
     description:
-      "A celebrated work of romance from Cecelia Ahern, since its release in 2003, it has earned a large readership worldwide.",
+      "Holly Kennedy, a thirty-year-old Irishwoman, loses her husband Gerry to a brain tumor. She is devastated. Before he died, Gerry wrote her ten letters, each to be opened on a different month. The letters guide her: buy a lamp, sing karaoke, go to Ireland, and, finally, fall in love again. The novel follows Holly through her first year of widowhood. She meets Daniel, a bartender. She falls in love. Ahern's debut novel, published in 2003, was a bestseller and adapted into a film starring Hilary Swank and Gerard Butler. The film changed the ending: Holly does not fall in love; she is learning to be alone. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=P.S.+I+Love+You",
@@ -3252,7 +3252,7 @@ const books = [
     name: "Rebecca",
     author: "Daphne du Maurier, Sally Beauman",
     description:
-      "A popular classics title by Daphne du Maurier, Sally Beauman, since its release in 1938, it has earned a large readership worldwide.",
+      "A young woman (the narrator is never named) marries Maxim de Winter, a wealthy widower, after a brief courtship in Monte Carlo. She returns with him to Manderley, his estate in Cornwall. The house is dominated by the memory of Rebecca, Maxim's first wife, who died in a sailing accident. The housekeeper, Mrs. Danvers, adored Rebecca and torments the new Mrs. de Winter. She keeps Rebecca's room as a shrine. She convinces the narrator to wear Rebecca's dress to a ball. The narrator discovers the truth: Maxim did not love Rebecca. Rebecca was cruel, promiscuous, and manipulative. She told Maxim she was pregnant with another man's child. Maxim shot her, then sank her boat. The 'accident' was a murder. The narrator is relieved: Maxim loved her, not Rebecca. Mrs. Danvers sets fire to Manderley. The novel ends with the narrator and Maxim living in a hotel, dreaming of Manderley. Du Maurier's novel, published in 1938, won the National Book Award. It was adapted into an Oscar-winning film by Alfred Hitchcock. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327871977m/12873.jpg",
     numberOfPages: 543,
@@ -3264,7 +3264,7 @@ const books = [
     name: "Flowers for Algernon",
     author: "Daniel Keyes",
     description:
-      "An acclaimed fiction book written by Daniel Keyes, published in 1966, it continues to be discussed and recommended by readers.",
+      "Charlie Gordon, a thirty-two-year-old man with an IQ of 68, works as a janitor at a bakery. He volunteers for an experimental surgery that has already been performed on a mouse, Algernon. The surgery triples his IQ. He becomes a genius. He falls in love with his teacher, Alice Kinnian. He discovers that his 'friends' at the bakery were mocking him. He discovers that his parents, who abandoned him, are ashamed of him. He discovers that the surgery is temporary: Algernon is deteriorating. Charlie writes his own progress reports. As his intelligence fades, his writing becomes simpler. He says goodbye to Alice. He returns to the bakery. He is fired. He writes his final report: 'P.S. please if you get a chanse put some flowers on Algernons grave in the bak yard.' Keyes's novel, published in 1959 as a short story and expanded in 1966, won the Hugo and Nebula awards. It was adapted into a film (Charly) starring Cliff Robertson. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1367141311m/18373.jpg",
     numberOfPages: 592,
@@ -3274,9 +3274,9 @@ const books = [
   {
     id: 272,
     name: "Like Water for Chocolate",
-    author: "Laura Esquivel, Thomas  Christensen, Carol Christensen",
+    author: "Laura Esquivel, Thomas Christensen, Carol Christensen",
     description:
-      "A popular fiction title by Laura Esquivel, Thomas  Christensen, Carol Christensen, first published in 1989, it has become a favorite among readers of the genre.",
+      "Tita de la Garza, the youngest daughter in a Mexican family, is forbidden to marry. Tradition dictates that the youngest daughter must care for her mother until she dies. Tita falls in love with Pedro, who marries her older sister, Rosaura, to be near Tita. Tita expresses her emotions through her cooking. The novel is structured as a series of recipes, each chapter beginning with a recipe. When Tita weeps into the wedding cake batter, everyone who eats it is overcome with longing. When she cooks quail in rose petal sauce, she makes her sister Rosaura vomit. When she makes chabela wedding cake, she burns down the ranch. The novel ends with Tita and Pedro finally making love; they die. Esquivel's novel, published in 1989, was a bestseller and adapted into an Oscar-nominated film. It is a classic of magical realism. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Like+Water+for+Chocolate",
@@ -3289,7 +3289,7 @@ const books = [
     name: "Snow Flower and the Secret Fan",
     author: "Lisa See",
     description:
-      "A widely read historical fiction work by Lisa See, published in 2005, it continues to be discussed and recommended by readers.",
+      "In 19th-century China, Lily, a girl from a poor family, is matched as an old-same (a lifelong friend) with Snow Flower, a girl from a wealthy family. They communicate through nu shu, a secret women's writing. They exchange a fan with messages. Lily marries a wealthy farmer; Snow Flower marries a butcher, a humiliation. Snow Flower's husband dies. She is sent to live in the countryside. Lily, who has been manipulated by her mother-in-law into believing Snow Flower is a prostitute, abandons her friend. Snow Flower dies. Lily's marriage falls apart. She raises Snow Flower's daughter, Beautiful Moon. The novel, published in 2005, was a bestseller and adapted into a film. See's novel explores footbinding, arranged marriage, and the bonds between women in pre-communist China. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1327880508m/1103.jpg",
     numberOfPages: 634,
@@ -3301,7 +3301,7 @@ const books = [
     name: "The Godfather",
     author: "Mario Puzo, Robert Thompson, Peter Bart",
     description:
-      "A celebrated work of fiction from Mario Puzo, Robert Thompson, Peter Bart, published in 1969, it continues to be discussed and recommended by readers.",
+      "The novel follows the Corleone family, a Mafia dynasty in New York City. Don Vito Corleone, the Godfather, is the head of the family. He is wise, ruthless, and loyal to his friends. He refuses to sell narcotics, so his rival, Virgil 'The Turk' Sollozzo, tries to murder him. Vito's son, Michael, a war hero who has tried to stay out of the family business, kills Sollozzo and a police captain. Michael flees to Sicily. His oldest son, Sonny, is killed. Vito dies of a heart attack. Michael returns to New York and becomes the new Godfather. He murders all of his rivals in a baptism scene. Puzo's novel, published in 1969, was a bestseller and adapted into a film widely considered one of the greatest ever made (directed by Francis Ford Coppola, starring Marlon Brando and Al Pacino). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1394988109m/22034.jpg",
     numberOfPages: 150,
@@ -3313,7 +3313,7 @@ const books = [
     name: "An Abundance of Katherines",
     author: "John Green",
     description:
-      "A widely read young adult work by John Green, published in 2006, it continues to be discussed and recommended by readers.",
+      "Colin Singleton, a child prodigy who has just graduated high school, has been dumped by 19 girls named Katherine. He is devastated. His best friend, Hassan, a lazy, overweight Muslim who loves Judge Judy, takes Colin on a road trip. They end up in Gutshot, Tennessee, the 'Archduke of Nothing.' They work for a textile mill owner, Hollis, who hires them to interview the town's elderly residents. Colin, trying to understand his romantic failures, develops a mathematical formula to predict the length of relationships. The formula works for the Katherines, but not for Lindsey Lee Wells, a girl Colin falls in love with. He learns that love is not predictable. Green's novel, published in 2006, was a finalist for the Printz Award. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1360206426m/49750.jpg",
     numberOfPages: 690,
@@ -3325,7 +3325,7 @@ const books = [
     name: "Foundation",
     author: "Isaac Asimov",
     description:
-      "An acclaimed science fiction book written by Isaac Asimov, published in 1951, it continues to be discussed and recommended by readers.",
+      "Hari Seldon, a mathematician who has developed 'psychohistory' (a statistical science that predicts the future of large populations), predicts that the Galactic Empire will fall in 300 years, leading to 30,000 years of barbarism. To shorten the dark age to 1,000 years, Seldon creates the Foundation, a group of scientists and engineers, and sends them to the planet Terminus, at the edge of the galaxy. The novel follows the Foundation through four crises, each predicted by Seldon's holographic recordings. The Foundation uses technology (nuclear power, advanced weaponry) to defeat neighboring kingdoms. Asimov's novel, published in 1951, is a fix-up of eight short stories published in Astounding Science Fiction in the 1940s. It won the Hugo Award for Best All-Time Series in 1966. It is considered one of the greatest science fiction novels ever written. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1417900846m/29579.jpg",
     numberOfPages: 404,
@@ -3337,7 +3337,7 @@ const books = [
     name: "The Ocean at the End of the Lane",
     author: "Neil Gaiman",
     description:
-      "A widely read fiction work by Neil Gaiman, since its release in 2013, it has earned a large readership worldwide.",
+      "An unnamed narrator returns to his childhood home in Sussex for a funeral. He visits the farm at the end of the lane, where his childhood friend Lettie Hempstock lived. He remembers: when he was seven, a lodger stole their family car and killed himself in it. He finds a coin and gives it to the Hempstock women, who are witches. The coin summons a creature called the hunger bird, which escapes. The creature possesses the narrator's family: his father tries to kill him; his stepmother is a monster. Lettie, an eleven-year-old girl who is actually much older, fights the hunger bird. She sacrifices herself to save the narrator. She becomes the 'ocean at the end of the lane' (a pond that is actually an ocean). The narrator grows up, forgets, and returns. Gaiman's novel, published in 2013, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1497098563m/15783514.jpg",
     numberOfPages: 308,
@@ -3349,7 +3349,7 @@ const books = [
     name: "A Light in the Attic",
     author: "Shel Silverstein",
     description:
-      "One of Shel Silverstein's best-known poetry books, since 1981, it has been praised for its storytelling and lasting appeal.",
+      "This collection of 135 poems and drawings, published in 1981, is the sequel to Where the Sidewalk Ends. The poems are funny, subversive, and poignant. Highlights include 'Homework Machine' (a child builds a machine to do his homework), 'Boa Constrictor' (a child is eaten by a snake), 'Little Abigail and the Beautiful Pony' (a child dies because her parents won't buy her a pony), 'Ladies First' (a princess declines a parachute because a lady must go first, then falls to her death), and 'The Monkey' (a child's toy monkey tells him that he is 'ugly' and 'stupid'). The poems use simple language and playful rhythms to explore loss, loneliness, joy, greed, and wonder. Silverstein's distinctive line drawings are integral to the experience. The book spent over two years on the New York Times bestseller list. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Poetry",
     coverPage: "https://images.gr-assets.com/books/1427169918m/30118.jpg",
     numberOfPages: 261,
@@ -3361,7 +3361,7 @@ const books = [
     name: "Harry Potter and the Cursed Child - Parts One and Two",
     author: "John Tiffany, Jack Thorne, J.K. Rowling",
     description:
-      "An acclaimed fantasy book written by John Tiffany, Jack Thorne, J.K. Rowling, first published in 2016, it has become a favorite among readers of the genre.",
+      "This is a script of the stage play, not a novel. It is the eighth story in the Harry Potter series, set 19 years after the end of The Deathly Hallows. Harry Potter is now an overworked Ministry of Magic employee. His son, Albus Severus Potter, is about to start Hogwarts. Albus is Sorted into Slytherin (like his father's enemy, Draco Malfoy), and he befriends Scorpius Malfoy, Draco's son. Albus and Scorpius travel back in time using a Time-Turner. They accidentally change the past: Cedric Diggory becomes a Death Eater; Ron and Hermione never marry. The novel follows their attempts to fix the timeline. The central conflict is between Harry and Albus: Harry is a famous hero; Albus feels he can never live up to him. The play, which opened in London in 2016, won nine Olivier Awards. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1470082995m/29056083.jpg",
     numberOfPages: 714,
@@ -3373,7 +3373,7 @@ const books = [
     name: "Delirium",
     author: "Lauren Oliver",
     description:
-      "A widely read romance work by Lauren Oliver, first published in 2011, it has become a favorite among readers of the genre.",
+      "In a dystopian Portland, Maine, love is a disease. It is called amor deliria nervosa, and it is cured by a procedure at age eighteen. Lena Haloway, a girl who has lost her mother to the 'disease' (she killed herself after her love was cured), cannot wait to be cured. Then she meets Alex, a boy from the Wilds, the forest outside the city where the 'Invalid' live. Alex is immune to the cure. He shows Lena what love feels like. She falls in love. She decides to escape with him to the Wilds. They are caught; Alex is killed (or so she thinks). She escapes. The novel, published in 2011, is the first of a trilogy (Delirium, Pandemonium, Requiem). It has been adapted into a TV pilot (not picked up). Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1327890411m/11614718.jpg",
     numberOfPages: 278,
@@ -3385,7 +3385,7 @@ const books = [
     name: "The Pelican Brief",
     author: "John Grisham",
     description:
-      "One of John Grisham's best-known mystery books, since 1992, it has been praised for its storytelling and lasting appeal.",
+      "Darby Shaw, a law student at Tulane University, writes a legal brief that she calls 'The Pelican Brief.' She theorizes that two Supreme Court justices were murdered because of a secret oil deal. The brief is passed to her professor, then to an FBI agent, then to the White House. The people implicated in the brief—who are being blackmailed—want her dead. They kill her boyfriend. She goes into hiding. She is helped by a journalist, Gray Grantham. They discover the truth: the President's chief of staff, who is being blackmailed over a bribe, is the killer. The novel, published in 1992, was adapted into a film starring Julia Roberts and Denzel Washington. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Pelican+Brief",
@@ -3398,7 +3398,7 @@ const books = [
     name: "Coraline",
     author: "Neil Gaiman",
     description:
-      "A popular fantasy title by Neil Gaiman, since its release in 2002, it has earned a large readership worldwide.",
+      "Coraline Jones, a bored, curious girl, moves into a new apartment. She finds a small door that opens onto a brick wall. She unlocks it, and the wall is gone. She enters a parallel world that is almost identical to her own, but with button eyes. The Other Mother, who is a beldam (a witch), wants to keep Coraline forever, sewing buttons over her eyes. Coraline must save her real parents, who have been kidnapped by the Other Mother. She plays a game: she must find the souls of three ghost children. She wins. She locks the door. Gaiman's novella, published in 2002, won the Hugo and Nebula awards. It was adapted into a stop-motion film directed by Henry Selick. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1493497435m/17061.jpg",
     numberOfPages: 407,
@@ -3410,7 +3410,7 @@ const books = [
     name: "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
     author: "Terry Pratchett, Neil Gaiman",
     description:
-      "A celebrated work of fantasy from Terry Pratchett, Neil Gaiman, published in 1990, it continues to be discussed and recommended by readers.",
+      "The Antichrist is born. The angel Aziraphale and the demon Crowley, who have lived on Earth since the Garden of Eden, have grown fond of it. They do not want the Apocalypse to happen. They try to influence the Antichrist's upbringing, but the baby is swapped by a Satanic nun at a British hospital. The Antichrist, Adam Young, grows up in a village called Tadfield, unaware of his powers. The novel follows the forces of Heaven and Hell as they prepare for the End Times, while Aziraphale and Crowley try to sabotage them. Adam, eleven years old, decides he does not want to destroy the world. He rewrites reality, sending the Four Horsemen of the Apocalypse (War, Famine, Pollution, Death) back to where they came from. Pratchett and Gaiman's novel, published in 1990, was a bestseller and adapted into an Amazon Prime miniseries starring Michael Sheen and David Tennant. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1392528568m/12067.jpg",
     numberOfPages: 264,
@@ -3422,7 +3422,7 @@ const books = [
     name: "On the Road",
     author: "Jack Kerouac",
     description:
-      "A widely read classics work by Jack Kerouac, first published in 1955, it has become a favorite among readers of the genre.",
+      "The novel is a semi-autobiographical account of Kerouac's travels across America in the late 1940s. The narrator, Sal Paradise (Kerouac), meets Dean Moriarty (Neal Cassady), a wild, charismatic, womanizing ex-convict. They drive across the country, from New York to Denver to San Francisco to Mexico. They take drugs, drink alcohol, have sex, listen to jazz, and talk about life. The novel is written in a spontaneous, stream-of-consciousness style that Kerouac called 'spontaneous prose' (he wrote it on a single roll of teletype paper). The novel, published in 1957, was a bestseller and made Kerouac the voice of the Beat Generation. It has been praised for its energy and criticized for its misogyny. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1413588576m/70401.jpg",
     numberOfPages: 457,
@@ -3434,7 +3434,7 @@ const books = [
     name: "The Rosie Project",
     author: "Graeme Simsion",
     description:
-      "A celebrated work of contemporary from Graeme Simsion, since 2013, it has been praised for its storytelling and lasting appeal.",
+      "Don Tillman, a forty-year-old genetics professor at the University of Melbourne, has Asperger's syndrome (though the novel never explicitly says so). He is socially awkward, rigid, and brilliant. He creates a 16-page questionnaire, the 'Wife Project,' to find the perfect partner. He meets Rosie Jarman, a woman who fails his questionnaire (she smokes, drinks, is vegetarian, and is a bartender). He agrees to help her find her biological father (the 'Father Project'). They fall in love. The novel, published in 2013, was a bestseller and won the Australian Book Industry Awards Book of the Year. It was adapted into a film starring Henry Golding. Since its release, it has become a favorite among readers of the genre.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1371651741m/16181775.jpg",
     numberOfPages: 346,
@@ -3446,7 +3446,7 @@ const books = [
     name: "The Lucky One",
     author: "Nicholas Sparks",
     description:
-      "An acclaimed romance book written by Nicholas Sparks, released in 2008, it remains a frequently recommended read in its category.",
+      "U.S. Marine Logan Thibault finds a photograph of a woman in the desert in Iraq. He wins a poker game; his friends attribute his luck to the photograph. He survives multiple attacks. He returns to the United States, tracks down the woman (Elizabeth Green, a divorced mother), and takes a job at her dog kennel. They fall in love. Her ex-husband, Keith, a local deputy sheriff, is jealous and violent. Keith tries to kill Logan; Logan kills Keith in self-defense. The novel, published in 2008, was adapted into a film starring Zac Efron. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1420816338m/3063499.jpg",
     numberOfPages: 378,
@@ -3458,7 +3458,7 @@ const books = [
     name: "The Fountainhead",
     author: "Ayn Rand, Leonard Peikoff",
     description:
-      "A celebrated work of fiction from Ayn Rand, Leonard Peikoff, first published in 1943, it has become a favorite among readers of the genre.",
+      "Howard Roark, an architect, is expelled from his university for refusing to design in the traditional style. He believes in his own vision. He works as a draftsman, then as a stonecutter. He is hired by a wealthy man, then blacklisted. He is sued for plagiarism (his design is stolen by a rival). He is acquitted. He dynamites a housing project that has been altered from his design. He is acquitted again. The novel follows Roark's battle against the 'second-handers'—the mediocrities who conform, compromise, and steal. He is contrasted with Peter Keating, a successful architect who succeeds by flattering others; and Ellsworth Toohey, a critic who promotes mediocrity. Roark's ally is Dominique Francon, a woman who marries Keating to punish herself for loving Roark. She divorces him and marries Roark. Rand's novel, published in 1943, was a bestseller. It is the second book of her 'romantic realism' series (after The Fountainhead, before Atlas Shrugged). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1491163636m/2122.jpg",
     numberOfPages: 160,
@@ -3470,7 +3470,7 @@ const books = [
     name: "The Hunt for Red October",
     author: "Tom Clancy",
     description:
-      "A celebrated work of fiction from Tom Clancy, released in 1984, it remains a frequently recommended read in its category.",
+      "The novel introduces Jack Ryan, a CIA analyst and former Marine. Marko Ramius, the captain of a Soviet nuclear submarine, the Red October, wants to defect to the United States. He kills the political officer and sails to the US. The Soviet navy chases him. The US navy, unsure whether Ramius is defecting or attacking, sends the USS Dallas, a nuclear submarine, to intercept. Jack Ryan, the CIA's lead analyst, figures out that Ramius is defecting. He is flown to the USS Dallas and negotiates the defection. The Red October docks in Norfolk, Virginia. Ramius defects. Clancy's first novel, published in 1984, was a bestseller and adapted into a film starring Sean Connery and Alec Baldwin. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1281995542m/19691.jpg",
     numberOfPages: 621,
@@ -3482,7 +3482,7 @@ const books = [
     name: "Watership Down",
     author: "Richard Adams",
     description:
-      "A popular classics title by Richard Adams, released in 1972, it remains a frequently recommended read in its category.",
+      "A group of rabbits, fleeing the destruction of their warren, set out to find a new home. Led by Hazel, Fiver (a visionary rabbit), and Bigwig (a strong fighter), they encounter predators (foxes, cats, birds), other rabbit warrens (one fascist, one militaristic), and humans (who trap and poison them). They find a new home on Watership Down. The novel, published in 1972, was a bestseller and won the Carnegie Medal. It was adapted into an animated film (1978) and a Netflix miniseries (2018). The rabbits have their own language (Lapine) and mythology (the legend of El-ahrairah, the Prince of Rabbits). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1405136931m/76620.jpg",
     numberOfPages: 398,
@@ -3494,7 +3494,7 @@ const books = [
     name: "Is Everyone Hanging Out Without Me? (And Other Concerns)",
     author: "Mindy Kaling",
     description:
-      "An acclaimed non-fiction book written by Mindy Kaling, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Mindy Kaling's collection of humorous essays. She writes about her childhood in Cambridge, Massachusetts (the daughter of Indian immigrants), her friendship with B.J. Novak (they met at Dartmouth, dated, broke up, and remained friends), her early career as a writer for The Office (she was the only woman in the writers' room for the first season), her own show (The Mindy Project), and her struggles with weight, relationships, and being single. The essays are short, funny, and self-deprecating. Kaling is honest about her insecurities (she feels unattractive next to her co-star, Ellie Kemper) and her ambition (she wanted to be a writer on Saturday Night Live). The book, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1443264638m/10335308.jpg",
     numberOfPages: 390,
@@ -3506,7 +3506,7 @@ const books = [
     name: "Cutting for Stone",
     author: "Abraham Verghese",
     description:
-      "A celebrated work of fiction from Abraham Verghese, since its release in 2009, it has earned a large readership worldwide.",
+      "The novel follows the lives of identical twin brothers, born conjoined, in Ethiopia. Their mother, a nun, dies giving birth to them. Their father, a British surgeon, flees. The boys are adopted by Dr. Hemlatha, a mission hospital surgeon. One brother, Shiva, becomes a genius inventor of surgical instruments. The other brother, Marion, becomes a surgeon. The novel follows their lives through Ethiopia's political turmoil (Haile Selassie is overthrown, the Derg takes over) and their immigration to the United States. Marion falls in love with Genet, a woman who is also his sister (she is the daughter of his adopted father). She dies. The novel is named after a passage in Hippocrates: 'Cutting for stone' refers to a surgery for bladder stones that involves cutting the perineum. Verghese's novel, published in 2009, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327931601m/3591262.jpg",
     numberOfPages: 179,
@@ -3518,7 +3518,7 @@ const books = [
     name: "The Voyage of the Dawn Treader",
     author: "C.S. Lewis, Pauline Baynes",
     description:
-      "An acclaimed classics book written by C.S. Lewis, Pauline Baynes, released in 1951, it remains a frequently recommended read in its category.",
+      "The third book (fifth in chronological order) of The Chronicles of Narnia. Edmund and Lucy Pevensie, along with their priggish cousin Eustace Scrubb, are pulled into a painting of a ship into Narnia. They join King Caspian on the Dawn Treader, sailing east to find the seven lost lords of Narnia. They visit the Lone Islands (where they are captured by slave traders), the Island of the Duffers (where Eustace is turned into a dragon), the Island of Death Water (where anything dipped in the pool becomes gold), and the Island of the Star (where they meet a retired star, Ramandu). They sail to the end of the world, where Aslan tells Edmund and Lucy they will not return to Narnia. The novel, published in 1952, was adapted into a film (2010). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1343185059m/140225.jpg",
     numberOfPages: 206,
@@ -3530,7 +3530,7 @@ const books = [
     name: "Treasure Island",
     author: "Robert Louis Stevenson",
     description:
-      "A widely read classics work by Robert Louis Stevenson, since its release in 1882, it has earned a large readership worldwide.",
+      "Jim Hawkins, a young boy who runs his family's inn on the coast of England, finds a map in a dead pirate's chest. The map leads to Treasure Island. Jim joins Dr. Livesey and Squire Trelawney on a voyage to find the treasure. The crew includes Long John Silver, a one-legged cook with a parrot on his shoulder, who is secretly a pirate. Silver leads a mutiny. Jim, hiding on the island, befriends Ben Gunn, a marooned pirate who has already found the treasure. The loyal crew escapes, takes the treasure, and returns to England. Long John Silver escapes. Stevenson's novel, published in 1882, created many pirate tropes: the 'X marks the spot' map, the one-legged pirate, the parrot, the black spot, and the 'Yo-ho-ho and a bottle of rum' song. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1485248909m/295.jpg",
     numberOfPages: 660,
@@ -3542,7 +3542,7 @@ const books = [
     name: "The Son of Neptune",
     author: "Rick Riordan",
     description:
-      "An acclaimed fantasy book written by Rick Riordan, first published in 2011, it has become a favorite among readers of the genre.",
+      "The second book of The Heroes of Olympus series follows Percy Jackson, who has lost his memory and been sent to Camp Jupiter, the Roman camp. He is treated as a hero (he defeated the Gorgons), but he does not know why. He befriends Hazel Levesque (daughter of Pluto) and Frank Zhang (son of Mars). Together, they go on a quest to free Thanatos, the god of death, who has been chained. They travel to Alaska, defeat the giant Alcyoneus, free Thanatos, and return to Camp Jupiter. Percy, reunited with his memory, contacts Camp Half-Blood. The novel, published in 2011, introduces the Roman aspect of the Greek gods (Jupiter, Juno, Mars, etc.). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1464201114m/9520360.jpg",
     numberOfPages: 413,
@@ -3554,7 +3554,7 @@ const books = [
     name: "11/22/63",
     author: "Stephen King",
     description:
-      "One of Stephen King's best-known fiction books, published in 2011, it continues to be discussed and recommended by readers.",
+      "Jake Epping, a high school English teacher in Maine, is shown a portal to the past by his friend, Al, who runs a diner. The portal leads to 1958. Al wants Jake to go back and stop the assassination of John F. Kennedy. Jake agrees. He lives in the past for five years, teaching high school, falling in love with Sadie, a librarian, and tracking Lee Harvey Oswald. He saves Kennedy. He returns to the present to find the world changed: a nuclear war, a destroyed America. The past does not want to be changed; the universe 'pushes back' (bad luck, illness, accidents). Jake goes back again, lets Oswald kill Kennedy, and returns to the present. The past is restored. He visits Sadie, who is an old woman. She does not remember him. King's novel, published in 2011, was a bestseller and adapted into a Hulu miniseries starring James Franco. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327876792m/10644930.jpg",
     numberOfPages: 529,
@@ -3566,7 +3566,7 @@ const books = [
     name: "The Very Hungry Caterpillar Board Book",
     author: "Eric Carle",
     description:
-      "One of Eric Carle's best-known children books, published in 1969, it continues to be discussed and recommended by readers.",
+      "A baby caterpillar hatches from an egg on a Sunday. He is hungry. He eats through one apple on Monday, two pears on Tuesday, three plums on Wednesday, four strawberries on Thursday, five oranges on Friday, and a large feast on Saturday (chocolate cake, ice cream, a pickle, Swiss cheese, salami, a lollipop, cherry pie, sausage, a cupcake, and a watermelon). He gets a stomachache. He eats a green leaf on Sunday and feels better. He builds a cocoon, stays inside for two weeks, and emerges as a beautiful butterfly. Carle's board book, published in 1969, has sold over 30 million copies. It has been translated into 60 languages. It is a classic of children's literature. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327878225m/4948.jpg",
     numberOfPages: 184,
@@ -3578,7 +3578,7 @@ const books = [
     name: "Cat's Cradle",
     author: "Kurt Vonnegut Jr.",
     description:
-      "A popular fiction title by Kurt Vonnegut Jr., published in 1963, it continues to be discussed and recommended by readers.",
+      "The narrator, John (or Jonah), is writing a book about the day the atomic bomb was dropped on Hiroshima. He interviews Felix Hoenikker, one of the scientists who developed the bomb. Hoenikker is dead. His children, Newton, Angela, and Frank, each have a piece of Hoenikker's last invention: ice-nine, a crystal that instantly turns any water it touches into solid ice. The narrator travels to the island of San Lorenzo, a fictional Caribbean island, where Frank is the adopted son of the dictator. The dictator dies; the narrator becomes president. The plane carrying the Hoenikker children crashes; ice-nine is released, freezing the ocean. The world ends. Vonnegut's novel, published in 1963, is a satire of science, religion, and the arms race. It introduced the concept of the 'granfalloon' (a false karass, or a meaningless group). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327867150m/135479.jpg",
     numberOfPages: 521,
@@ -3590,7 +3590,7 @@ const books = [
     name: "The Time Machine",
     author: "H.G. Wells, Greg Bear, Carlo Pagetti",
     description:
-      "An acclaimed classics book written by H.G. Wells, Greg Bear, Carlo Pagetti, since its release in 1895, it has earned a large readership worldwide.",
+      "A Victorian scientist (the Time Traveller) builds a machine that can travel through time. He travels to the year 802,701 AD. He finds two species: the Eloi, small, beautiful, childlike people who live above ground; and the Morlocks, ape-like, subterranean creatures who eat the Eloi. The Time Traveller explores the future: he travels 30 million years into the future, where the Earth is dying, and 150 million years, where the Earth is still and silent. He returns to his own time. Wells's novella, published in 1895, invented the concept of time travel in fiction. It was adapted into two films (George Pal's 1960 version and the 2002 version starring Guy Pearce). Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327942880m/2493.jpg",
     numberOfPages: 156,
@@ -3602,7 +3602,7 @@ const books = [
     name: "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
     author: "Todd Burpo, Lynn Vincent",
     description:
-      "A popular non-fiction title by Todd Burpo, Lynn Vincent, since 2010, it has been praised for its storytelling and lasting appeal.",
+      "Colton Burpo, the four-year-old son of a pastor, nearly dies of a ruptured appendix. He survives. Months later, he tells his parents about his experience: he went to heaven. He met Jesus (who has blue eyes and 'markers' on his hands), God (who sits on a throne), and the Holy Spirit (a blue blur). He met his great-grandfather, who died before he was born; his sister, who was miscarried; and John the Baptist. He learned that Jesus rides a rainbow horse. His father, Todd, wrote the book to share his son's story. The book, published in 2010, was a bestseller, selling over 10 million copies. It has been criticized for its theology and for profiting from a child's trauma. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Heaven+is+for+Real:+A+Little+Boy's+Astounding+Story+of+His+Trip+to+Heaven+and+Back",
@@ -3615,7 +3615,7 @@ const books = [
     name: "The Boy in the Striped Pajamas",
     author: "John Boyne",
     description:
-      "One of John Boyne's best-known historical fiction books, published in 2006, it continues to be discussed and recommended by readers.",
+      "Bruno, a nine-year-old German boy, returns from school to find his family's maid packing his belongings. His father, a Nazi officer, has been promoted; the family is moving to Out-With (Auschwitz). Bruno hates his new house; he has no friends. He explores the fence at the edge of the property. He meets Shmuel, a boy his age who wears striped pajamas. They become friends, separated by the fence. Bruno's father is the commandant of the camp. Bruno, wanting to help Shmuel find his missing father, crawls under the fence, puts on a pair of striped pajamas, and enters the camp. He is herded into a gas chamber with Shmuel and dies. The novel, published in 2006, was a bestseller and adapted into a film. It has been criticized for its historical inaccuracies (the gas chambers were in hidden areas, not in a barracks that would be accessible to a child). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1366228171m/39999.jpg",
     numberOfPages: 355,
@@ -3627,7 +3627,7 @@ const books = [
     name: "Heart of Darkness",
     author: "Joseph Conrad",
     description:
-      "A popular classics title by Joseph Conrad, since its release in 1899, it has earned a large readership worldwide.",
+      "Charles Marlow, a sailor, tells his crew about his journey up the Congo River to find Kurtz, a brilliant ivory trader who has gone mad. The journey takes months. Marlow sees the brutality of Belgian colonialism: African laborers are worked to death, chained, and beaten. Kurtz's station is a wasteland: human heads on stakes, rotting corpses, and Kurtz himself, dying of disease. Kurtz has written a report for the International Society for the Suppression of Savage Customs, ending with the words 'Exterminate all the brutes!' Kurtz dies, whispering, 'The horror! The horror!' Marlow returns to Europe, lies to Kurtz's fiancée, and tells her Kurtz's last words were her name. Conrad's novella, published in 1899, is a classic of colonial literature. It was adapted into the film Apocalypse Now (set in Vietnam). Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1392799983m/4900.jpg",
     numberOfPages: 386,
@@ -3639,7 +3639,7 @@ const books = [
     name: "Safe Haven",
     author: "Nicholas Sparks",
     description:
-      "An acclaimed romance book written by Nicholas Sparks, since its release in 2010, it has earned a large readership worldwide.",
+      "Katie, a young woman with a secret past, moves to Southport, North Carolina. She is hiding from an abusive husband. She works as a waitress and lives a quiet life. She meets Alex, a widowed father of two. They fall in love. Her husband, Kevin, tracks her down, kidnaps her, and tries to kill her. Alex saves her. Sparks's novel, published in 2010, was adapted into a film starring Julianne Hough and Josh Duhamel. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1344268800m/7812659.jpg",
     numberOfPages: 421,
@@ -3651,7 +3651,7 @@ const books = [
     name: "The Secret",
     author: "Rhonda Byrne",
     description:
-      "A popular self-help title by Rhonda Byrne, first published in 2006, it has become a favorite among readers of the genre.",
+      "Byrne's self-help book presents the law of attraction: positive thoughts attract positive experiences; negative thoughts attract negative experiences. The universe will give you what you ask for. The book includes testimonials from 'law of attraction' teachers (Jack Canfield, John Gray, Bob Proctor, etc.). Byrne's documentary film (also called The Secret) was released in 2006, followed by the book in 2006. The book sold over 30 million copies. It has been criticized for pseudoscience and for blaming victims (cancer patients attracted their illness). Since its release, it has become a favorite among readers of the genre.",
     genre: "Self-Help",
     coverPage: "https://images.gr-assets.com/books/1482865039m/52529.jpg",
     numberOfPages: 657,
@@ -3663,7 +3663,7 @@ const books = [
     name: "I Know This Much Is True",
     author: "Wally Lamb",
     description:
-      "A celebrated work of fiction from Wally Lamb, since its release in 1998, it has earned a large readership worldwide.",
+      "Dominick Birdsey, a forty-year-old house painter in Connecticut, is the twin brother of Thomas, a paranoid schizophrenic. The novel alternates between Dominick's present (trying to get Thomas released from a mental hospital) and his past (his childhood, his marriage, his mother's death). Dominick discovers a manuscript written by his grandfather, who was a Sicilian immigrant. He learns that his family has a history of mental illness. He forgives his stepfather. Thomas dies. Dominick finds peace. Lamb's novel, published in 1998, was a bestseller and an Oprah's Book Club selection. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1373532198m/227711.jpg",
     numberOfPages: 378,
@@ -3675,7 +3675,7 @@ const books = [
     name: "Pet Sematary",
     author: "Stephen King",
     description:
-      "An acclaimed horror book written by Stephen King, published in 1983, it continues to be discussed and recommended by readers.",
+      "Louis Creed, a doctor, moves with his wife Rachel and their two children, Gage and Ellie, to Ludlow, Maine. Behind their house is a pet cemetery (misspelled 'sematary') and beyond it, an ancient Micmac burial ground. Jud Crandall, their elderly neighbor, warns Louis not to go there. The family's cat, Church, is hit by a truck. Jud, who loves the family, takes Louis to the burial ground. Church returns, but he is different: he is mean, smelly, and dead-eyed. Louis's son, Gage, is hit by a truck. Louis, mad with grief, digs up Gage and buries him in the Micmac ground. Gage returns as a monster, kills Jud and Rachel, and attacks Louis. Louis sets Gage on fire. Rachel returns from the burial ground, changed. King's novel, published in 1983, is one of his darkest. He wrote it in 1979 but shelved it because he found it too disturbing. It was adapted into two films (1989 and 2019). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1308894674m/10583.jpg",
     numberOfPages: 207,
@@ -3687,7 +3687,7 @@ const books = [
     name: "She's Come Undone",
     author: "Wally Lamb",
     description:
-      "A celebrated work of fiction from Wally Lamb, since its release in 1992, it has earned a large readership worldwide.",
+      "Delores Price, a four-year-old, is kissed by a babysitter. She is raped by the neighbor's son. She is abandoned by her father. She is rejected by her mother. She grows up fat, lonely, and angry. She escapes into television and food. She is institutionalized. She loses 100 pounds. She marries a man who abuses her. She divorces him. She finds love with a man who is kind. Lamb's first novel, published in 1992, was a bestseller and an Oprah's Book Club selection. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1408313457m/5203.jpg",
     numberOfPages: 552,
@@ -3699,7 +3699,7 @@ const books = [
     name: "The Wise Man's Fear",
     author: "Patrick Rothfuss",
     description:
-      "A widely read fantasy work by Patrick Rothfuss, since its release in 2011, it has earned a large readership worldwide.",
+      "The second book of The Kingkiller Chronicle continues the story of Kvothe. He is a student at the University, studying magic (sympathy). He is expelled for calling the wind. He travels to the court of a wealthy nobleman, Maer Alveron. He heals the Maer from a poisoning. He travels to the Adem, a warrior culture that does not speak (they communicate with gestures). He learns their martial arts. He returns to the Maer's court. He discovers that the Maer's wife is a murderer. He returns to the University. The book is over 1,000 pages. It was published in 2011. The third book of the trilogy has not yet been published (as of 2025). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1452624392m/1215032.jpg",
     numberOfPages: 174,
@@ -3711,7 +3711,7 @@ const books = [
     name: "Can You Keep a Secret?",
     author: "Sophie Kinsella",
     description:
-      "A celebrated work of romance from Sophie Kinsella, since its release in 2003, it has earned a large readership worldwide.",
+      "Emma Corrigan, a junior marketing associate, is terrified of flying. On a turbulent flight, she confesses her secrets to the stranger next to her: she stole a pair of underwear from her roommate; she lied on her resume; she hates her boss; she is a virgin. The plane lands. The stranger turns out to be Jack Harper, the CEO of her company. He knows her secrets. He torments her. They fall in love. Kinsella's novel, published in 2003, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1330464293m/33724.jpg",
     numberOfPages: 575,
@@ -3723,7 +3723,7 @@ const books = [
     name: "City of Fallen Angels",
     author: "Cassandra Clare",
     description:
-      "A widely read fantasy work by Cassandra Clare, first published in 2011, it has become a favorite among readers of the genre.",
+      "The fourth book of The Mortal Instruments series. Jace and Clary are dating. Simon (Clary's ex-boyfriend, now a vampire) is being haunted by the ghost of a boy he killed. A new enemy, Sebastian (Clary's brother, thought dead), is killing Shadowhunters. He wants to take over the world. He kidnaps Simon. Jace, Clary, and the Shadowhunters rescue him. Sebastian escapes. Clare's novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1369452302m/6752378.jpg",
     numberOfPages: 338,
@@ -3735,7 +3735,7 @@ const books = [
     name: "Good in Bed",
     author: "Jennifer Weiner",
     description:
-      "An acclaimed fiction book written by Jennifer Weiner, published in 2001, it continues to be discussed and recommended by readers.",
+      "Cannie Shapiro, a plus-size journalist in Philadelphia, discovers that her ex-boyfriend has written a column about their relationship, focusing on her weight. She is devastated. She writes an advice column about her experience. She becomes famous. She falls in love with her editor, Max. She becomes pregnant. She gives birth to a daughter. Weiner's first novel, published in 2001, was a bestseller and launched a series (Little Earthquakes, In Her Shoes). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327936464m/14748.jpg",
     numberOfPages: 471,
@@ -3747,7 +3747,7 @@ const books = [
     name: "The Thorn Birds",
     author: "Colleen McCullough",
     description:
-      "A widely read fiction work by Colleen McCullough, first published in 1977, it has become a favorite among readers of the genre.",
+      "The novel follows three generations of the Cleary family in the Australian outback. The central story is the forbidden love between Meggie Cleary and Father Ralph de Bricassart, a Catholic priest. Ralph loves Meggie, but he loves ambition more. He becomes a cardinal. Meggie marries Luke O'Neill, a poor farmer who marries her for her money. She divorces him. Ralph, dying, confesses his love for Meggie. McCullough's novel, published in 1977, was a bestseller and adapted into a TV miniseries. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1391416796m/3412.jpg",
     numberOfPages: 319,
@@ -3759,7 +3759,7 @@ const books = [
     name: "The Graveyard Book",
     author: "Neil Gaiman, Dave McKean",
     description:
-      "A popular fantasy title by Neil Gaiman, Dave McKean, since its release in 2008, it has earned a large readership worldwide.",
+      "A toddler escapes a murderer who has killed his family. He wanders into a graveyard. The ghosts adopt him, name him Nobody 'Bod' Owens, and give him the Freedom of the Graveyard (the ability to walk through walls, fade into shadows, and haunt). He grows up, learning from ghosts: a Roman centurion teaches him history; a witch teaches him magic; a vampire teaches him flight. The murderer, the man Jack, is still hunting him. Bod defeats him. He leaves the graveyard to live in the world of the living. Gaiman's novel, published in 2008, won the Newbery Medal and the Hugo Award. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1303859949m/2213661.jpg",
     numberOfPages: 339,
@@ -3771,7 +3771,7 @@ const books = [
     name: "The Light Between Oceans",
     author: "M.L. Stedman",
     description:
-      "A celebrated work of fiction from M.L. Stedman, published in 2012, it continues to be discussed and recommended by readers.",
+      "Tom Sherbourne, a lighthouse keeper on Janus Rock, off the coast of Australia, returns from World War I haunted by his experiences. He marries Isabel Graysmark. Isabel has two miscarriages. A boat washes ashore with a dead man and a crying baby. Isabel wants to keep the baby. Tom, against his conscience, agrees. He knows the baby's mother is alive. Years later, Tom discovers that the baby's mother is Hannah Potts, whose husband drowned. Tom tells Hannah the truth. Isabel goes to prison. Tom is arrested. Hannah forgives them. Stedman's debut novel, published in 2012, was a bestseller and adapted into a film starring Michael Fassbender and Alicia Vikander. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1336683021m/13158800.jpg",
     numberOfPages: 182,
@@ -3783,7 +3783,7 @@ const books = [
     name: "Inkheart",
     author: "Cornelia Funke, Anthea Bell",
     description:
-      "A popular young adult title by Cornelia Funke, Anthea Bell, published in 2003, it continues to be discussed and recommended by readers.",
+      "Meggie Folchart, a twelve-year-old girl, lives with her father, Mortimer, a bookbinder. She discovers that her father has a secret: when he reads aloud, he can bring characters from books into the real world. He has done this twice: bringing Capricorn and Basta, villains from a book called Inkheart, into the world. His wife, Resa, was pulled into the book. The villains, now in the real world, want Mortimer to bring the Shadow, the ultimate monster, from the book. Meggie, who has inherited her father's power, rescues her mother and defeats the villains. Funke's novel, published in 2003, was a bestseller and adapted into a film (starring Brendan Fraser). It is the first of a trilogy (Inkheart, Inkspell, Inkdeath). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1328866790m/28194.jpg",
     numberOfPages: 532,
@@ -3795,7 +3795,7 @@ const books = [
     name: "Who Moved My Cheese?",
     author: "Spencer Johnson, Kenneth H. Blanchard",
     description:
-      "A popular non-fiction title by Spencer Johnson, Kenneth H. Blanchard, published in 1998, it continues to be discussed and recommended by readers.",
+      "A business parable about change. Four characters live in a maze: Sniff (who sniffs out change), Scurry (who scurries to adapt), Hem (who denies change), and Haw (who learns to adapt). They search for cheese (happiness, success). The cheese is moved. Sniff and Scurry find new cheese. Hem refuses to move. Haw learns to move and finds new cheese. Johnson's book, published in 1998, has sold over 25 million copies. It is often given to employees during corporate reorganizations. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Who+Moved+My+Cheese?",
@@ -3808,7 +3808,7 @@ const books = [
     name: "A Walk in the Woods",
     author: "Bill Bryson",
     description:
-      "A widely read non-fiction work by Bill Bryson, first published in 1997, it has become a favorite among readers of the genre.",
+      "Bryson, a humorist, decides to hike the Appalachian Trail, 2,200 miles from Georgia to Maine. He is joined by his friend, Stephen Katz, who is out of shape, has a drinking problem, and shows up with a bag of Snickers bars. They hike for months, encountering bears, mosquitoes, freezing rain, and strange hikers. They skip a section (the book is only half the trail). Bryson also writes about the trail's history (it was built by the Civilian Conservation Corps), its ecology (deer, bears, snakes), and its dangers (polluted water, violent hikers). The book, published in 1998, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Walk+in+the+Woods",
@@ -3821,7 +3821,7 @@ const books = [
     name: "I Know Why the Caged Bird Sings",
     author: "Maya Angelou",
     description:
-      "A popular non-fiction title by Maya Angelou, first published in 1969, it has become a favorite among readers of the genre.",
+      "The first volume of Maya Angelou's autobiography. She is born in St. Louis, raised in Stamps, Arkansas, by her grandmother, and raped at age eight by her mother's boyfriend. She stops speaking for five years (believing that her voice killed the man, who was later murdered). She moves to San Francisco, becomes a teenage mother, and works as a fry cook, a dancer, and a prostitute. She discovers literature and finds her voice. Angelou's memoir, published in 1969, was a bestseller and nominated for the National Book Award. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1327957927m/13214.jpg",
     numberOfPages: 509,
@@ -3833,7 +3833,7 @@ const books = [
     name: "Orphan Train",
     author: "Christina Baker Kline",
     description:
-      "An acclaimed historical fiction book written by Christina Baker Kline, first published in 2013, it has become a favorite among readers of the genre.",
+      "The novel alternates between two stories: Molly, a foster child in 2011 Maine, and Vivian, a ninety-one-year-old woman who was an orphan train rider in the 1920s. Vivian, born Niamh (Irish for 'daughter of God'), is sent from New York City to the Midwest on a train with other orphans. She is placed with a family that treats her as a servant. She is abused. She runs away. She changes her name. Molly, who has also been abused, is assigned to help Vivian clean out her attic. They bond. The novel, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1362409483m/15818107.jpg",
     numberOfPages: 724,
@@ -3845,7 +3845,7 @@ const books = [
     name: "City of Lost Souls",
     author: "Cassandra Clare",
     description:
-      "One of Cassandra Clare's best-known fantasy books, published in 2012, it continues to be discussed and recommended by readers.",
+      "The fifth book of The Mortal Instruments series. Clary and Jace are dating. Jace is possessed by the demon Lilith. He is forced to kill Shadowhunters. Clary, Simon, and the others search for a way to free him. They discover that Sebastian (Clary's evil brother) is still alive. Sebastian kidnaps Jace. They rescue him. Clare's novel, published in 2012, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1460477703m/8755776.jpg",
     numberOfPages: 515,
@@ -3857,7 +3857,7 @@ const books = [
     name: "Where'd You Go, Bernadette",
     author: "Maria Semple",
     description:
-      "A popular fiction title by Maria Semple, published in 2012, it continues to be discussed and recommended by readers.",
+      "Bernadette Fox, a brilliant architect who has given up her career, lives in Seattle with her husband Elgin (a Microsoft executive) and her daughter Bee (a teenager). Bernadette is agoraphobic, eccentric, and hated by the other mothers at Bee's private school. She disappears before a family trip to Antarctica. Bee investigates. The novel is told through emails, letters, memos, and FBI documents. Bernadette is found living in a shack in Antarctica. Semple's novel, published in 2012, was a bestseller and adapted into a film starring Cate Blanchett. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1338822317m/13526165.jpg",
     numberOfPages: 239,
@@ -3869,7 +3869,7 @@ const books = [
     name: "Where the Red Fern Grows",
     author: "Wilson Rawls",
     description:
-      "A widely read classics work by Wilson Rawls, published in 1961, it continues to be discussed and recommended by readers.",
+      "Billy Colman, a ten-year-old boy in the Ozarks, wants two coonhounds. He works for two years, selling vegetables, fishing, and trapping, to earn $50. He buys two pups, Old Dan and Little Ann. They become the best coonhunting team in the area. They tree a mountain lion; Old Dan is killed. Little Ann dies of grief. A red fern grows between their graves (a Cherokee legend says that only an angel can plant a red fern). Rawls's novel, published in 1961, was a bestseller and adapted into two films (1974 and 2003). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1166154337m/10365.jpg",
     numberOfPages: 350,
@@ -3881,7 +3881,7 @@ const books = [
     name: "Neverwhere",
     author: "Neil Gaiman",
     description:
-      "A popular fantasy title by Neil Gaiman, since 1996, it has been praised for its storytelling and lasting appeal.",
+      "Richard Mayhew, a young London businessman, stops to help a bleeding girl on the street. His life unravels. He becomes invisible to his boss, his fiancée, and his friends. He follows the girl, Door, into London Below, a magical underground city beneath the streets of London. He meets the Marquis de Carabas (a trickster), Hunter (a bodyguard), and the Angel Islington (a treacherous angel). They fight monsters and hunt Door's family's killers. Richard returns to London Above, where he is restored. Gaiman's novel, published in 1996, was adapted into a BBC TV series and a radio play. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1348747943m/14497.jpg",
     numberOfPages: 607,
@@ -3893,7 +3893,7 @@ const books = [
     name: "The Unbearable Lightness of Being",
     author: "Milan Kundera, Michael Henry Heim",
     description:
-      "One of Milan Kundera, Michael Henry Heim's best-known fiction books, released in 1984, it remains a frequently recommended read in its category.",
+      "The novel is a philosophical exploration of Nietzsche's idea of eternal return. Tomas, a Czech surgeon, loves women and has a mistress, Sabina. He marries Tereza, a waitress who is his opposite (she is heavy, he is light). They flee Prague after the Soviet invasion of 1968. They move to Switzerland, then return to Czechoslovakia. Tomas becomes a window washer. Tereza becomes a photographer. They die in a car crash. Kundera's novel, published in 1984, was a bestseller and adapted into a film. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1265401884m/9717.jpg",
     numberOfPages: 522,
@@ -3905,7 +3905,7 @@ const books = [
     name: "Fangirl",
     author: "Rainbow Rowell",
     description:
-      "An acclaimed young adult book written by Rainbow Rowell, first published in 2013, it has become a favorite among readers of the genre.",
+      "Cath Avery, a Simon Snow fanfiction writer (Simon Snow is a parody of Harry Potter), starts college. She is separated from her twin sister, Wren, who wants to be independent. Cath is shy, anxious, and obsessed with Simon Snow. She writes fanfiction as a way to cope. She falls in love with Levi, her boyfriend's roommate. She meets her favorite author, who is a fraud. She learns to balance her love of fanfiction with her own writing. Rowell's novel, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1499565420m/16068905.jpg",
     numberOfPages: 570,
@@ -3917,7 +3917,7 @@ const books = [
     name: "A Prayer for Owen Meany",
     author: "John Irving",
     description:
-      "One of John Irving's best-known fiction books, published in 1989, it continues to be discussed and recommended by readers.",
+      "John Wheelwright, a teacher in Canada, tells the story of his childhood in New Hampshire. His best friend is Owen Meany, a small, fragile boy with a high-pitched voice who believes he is God's instrument. Owen accidentally kills John's mother with a baseball (he hit a foul ball; she was hit in the head). Owen predicts his own death. He enlists in the army, is sent to Vietnam, and dies saving a group of orphans. Irving's novel, published in 1989, was a bestseller and adapted into a film (Simon Birch). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1260470010m/4473.jpg",
     numberOfPages: 191,
@@ -3929,7 +3929,7 @@ const books = [
     name: "White Oleander",
     author: "Janet Fitch",
     description:
-      "An acclaimed fiction book written by Janet Fitch, first published in 1999, it has become a favorite among readers of the genre.",
+      "Astrid Magnussen, a twelve-year-old girl in Los Angeles, is sent to a series of foster homes after her mother, Ingrid, a poet, is sentenced to life in prison for murdering her lover. Astrid is abused by a foster mother, starved by a religious fanatic, and raped by a foster brother. She survives. She becomes an artist. She visits her mother, who is bitter and unreformed. Fitch's novel, published in 1999, was a bestseller and adapted into a film starring Michelle Pfeiffer and Renée Zellweger. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1501159524m/32234.jpg",
     numberOfPages: 625,
@@ -3941,7 +3941,7 @@ const books = [
     name: "Legend",
     author: "Marie Lu",
     description:
-      "A widely read young adult work by Marie Lu, first published in 2011, it has become a favorite among readers of the genre.",
+      "In a dystopian Los Angeles, the Republic is at war with the Colonies. June, a fifteen-year-old prodigy who scored a perfect 1500 on her trial, is being trained as an officer. Day, a fifteen-year-old fugitive who is the Republic's most wanted criminal, is trying to save his sick brother. June's brother, Metias, is murdered. June blames Day. She hunts him. They fall in love. Day is innocent. The real killer is the Republic's commander. Lu's novel, published in 2011, is the first of a trilogy (Legend, Prodigy, Champion). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1501368160m/9275658.jpg",
     numberOfPages: 413,
@@ -3953,7 +3953,7 @@ const books = [
     name: "Nineteen Minutes",
     author: "Jodi Picoult",
     description:
-      "One of Jodi Picoult's best-known fiction books, first published in 2007, it has become a favorite among readers of the genre.",
+      "Peter Houghton, a seventeen-year-old boy who has been bullied for years, walks into his high school with a gun. He kills ten students and a teacher, and wounds many others. The novel follows the shooting, the trial, and the aftermath. Josie Cormier, Peter's former best friend (who is now the girlfriend of one of his victims), testifies against him. She was present during the shooting but claims not to remember. She tells the truth: she helped him. Picoult's novel, published in 2007, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Nineteen+Minutes",
@@ -3966,7 +3966,7 @@ const books = [
     name: "The Last Lecture",
     author: "Randy Pausch, Jeffrey Zaslow",
     description:
-      "A popular non-fiction title by Randy Pausch, Jeffrey Zaslow, released in 2008, it remains a frequently recommended read in its category.",
+      "Randy Pausch, a computer science professor at Carnegie Mellon, is diagnosed with pancreatic cancer. He is given six months to live. He delivers a 'last lecture' (a series that asks professors to imagine what wisdom they would impart if they were dying). The lecture, titled 'Really Achieving Your Childhood Dreams,' becomes a viral video. This book expands on it. He discusses his childhood dreams: being in zero gravity, playing in the NFL, being a Disney Imagineer. He achieved them. He gives advice: 'Brick walls are there for a reason: they let us prove how badly we want things.' He dies in 2008. The book, published in 2008, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1388075896m/2318271.jpg",
     numberOfPages: 493,
@@ -3978,7 +3978,7 @@ const books = [
     name: "The Eye of the World",
     author: "Robert Jordan",
     description:
-      "A celebrated work of fantasy from Robert Jordan, first published in 1990, it has become a favorite among readers of the genre.",
+      "The first book of The Wheel of Time series (14 books). Rand al'Thor, a farmer in the Two Rivers, is told by Moiraine, an Aes Sedai (a female wizard), that he is the Dragon Reborn, the prophesied hero who will save the world from the Dark One. He is hunted by Trollocs (monsters) and Fades (shadow creatures). He flees with his friends Mat, Perrin, and Egwene. They travel across the world, meet the Ogier (giant, long-living beings), and reach the Eye of the World, a pool of pure power. Rand defeats the Dark One's lieutenant. Jordan's novel, published in 1990, launched a best-selling series that was completed by Brandon Sanderson after Jordan's death in 2007. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1337818095m/228665.jpg",
     numberOfPages: 418,
@@ -3990,7 +3990,7 @@ const books = [
     name: "The Pact",
     author: "Jodi Picoult",
     description:
-      "A popular fiction title by Jodi Picoult, released in 1998, it remains a frequently recommended read in its category.",
+      "Emily Gold, a teenage girl, is found shot in the head. Her boyfriend, Chris Harte, is found holding the gun. He confesses to a murder-suicide pact. He says he killed her. He is arrested. The novel follows the trial. Emily's mother, a detective, discovers the truth: Emily killed herself. Chris, who had promised to kill her, tried to stop her. She shot herself. He held the gun. Picoult's novel, published in 1998, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1410754561m/10916.jpg",
     numberOfPages: 454,
@@ -4002,7 +4002,7 @@ const books = [
     name: "The Magician's Nephew",
     author: "C.S. Lewis",
     description:
-      "A widely read children work by C.S. Lewis, since 1953, it has been praised for its storytelling and lasting appeal.",
+      "The prequel to The Lion, the Witch and the Wardrobe. Digory Kirke and Polly Plummer find magic rings that transport them to the Wood between the Worlds. They enter a dying world of Charn. Digory rings a bell that wakes Jadis, the evil queen who destroyed her world. They return to London with Jadis, who causes chaos. They escape to a new world, Narnia, which is being created by Aslan. Aslan sends Digory to fetch an apple from a garden. He resists Jadis's temptation. He returns the apple. Aslan gives him an apple for his dying mother. Lewis's novel, published in 1955, is the sixth book in the Chronicles of Narnia but chronologically the first. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1308814770m/65605.jpg",
     numberOfPages: 216,
@@ -4014,7 +4014,7 @@ const books = [
     name: "Still Alice",
     author: "Lisa Genova",
     description:
-      "A widely read contemporary work by Lisa Genova, since its release in 2007, it has earned a large readership worldwide.",
+      "Alice Howland, a fifty-year-old psychology professor at Harvard, is diagnosed with early-onset Alzheimer's disease. The novel follows her decline: she forgets words, gets lost on her runs, and forgets her children's names. She plans her suicide (she leaves instructions on her computer). She forgets the plan. She is moved to a nursing home. Genova, a neuroscientist, wrote the novel to raise awareness of Alzheimer's. It was self-published in 2007, then picked up by Simon & Schuster. It was adapted into an Oscar-winning film (Julianne Moore won Best Actress). Since its release, it has become a favorite among readers of the genre.",
     genre: "Contemporary",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Still+Alice",
     numberOfPages: 259,
@@ -4026,7 +4026,7 @@ const books = [
     name: "Reflected in You",
     author: "Sylvia Day",
     description:
-      "An acclaimed romance book written by Sylvia Day, published in 2012, it continues to be discussed and recommended by readers.",
+      "The second book of the Crossfire series. Eva and Gideon are dating. They break up. They get back together. Gideon's ex-girlfriend is murdered. Eva is a suspect. Gideon's mother is murdered. Eva's ex-boyfriend is a suspect. The novel ends with Eva and Gideon deciding to marry. Day's novel, published in 2012, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1477802540m/13596809.jpg",
     numberOfPages: 545,
@@ -4038,7 +4038,7 @@ const books = [
     name: "James and the Giant Peach",
     author: "Roald Dahl, Quentin Blake",
     description:
-      "A popular children title by Roald Dahl, Quentin Blake, published in 1961, it continues to be discussed and recommended by readers.",
+      "James Henry Trotter, a four-year-old boy, is orphaned when his parents are eaten by an escaped rhinoceros. He is sent to live with his aunts, Spiker and Sponge, who are cruel. He is given a bag of magic crystals by a mysterious man. He spills the crystals under a peach tree. A giant peach grows. James crawls inside the peach and meets human-sized insects: Mr. Centipede (who has 42 legs), Mrs. Ladybug, Mr. Grasshopper, the Glowworm, the Earthworm, and the Silkworm. The peach rolls into the Atlantic Ocean. They are attacked by sharks; James lures them away with the Earthworm as bait. They float over New York City. The peach lands on the spire of the Empire State Building. The insects become famous. Dahl's novel, published in 1961, was adapted into a film (produced by Tim Burton) and a musical. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1320412586m/6689.jpg",
     numberOfPages: 655,
@@ -4050,7 +4050,7 @@ const books = [
     name: "1st to Die",
     author: "James Patterson",
     description:
-      "One of James Patterson's best-known mystery books, published in 2001, it continues to be discussed and recommended by readers.",
+      "The first book of the Women's Murder Club series. Lindsay Boxer, a San Francisco homicide inspector, is investigating a series of bridal couple murders (the killer kills the bride and groom on their wedding night). She is joined by Cindy Thomas (a reporter), Claire Washburn (a medical examiner), and Jill Bernhardt (a prosecutor). The killer is a man who is HIV-positive; he kills to spread his disease. Lindsay shoots him. Patterson's novel, published in 2001, launched a 20-plus book series. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=1st+to+Die",
     numberOfPages: 337,
@@ -4062,7 +4062,7 @@ const books = [
     name: "The Ultimate Hitchhiker's Guide to the Galaxy",
     author: "Douglas Adams",
     description:
-      "A widely read science fiction work by Douglas Adams, released in 1996, it remains a frequently recommended read in its category.",
+      "This omnibus edition collects all five books of the Hitchhiker's Guide to the Galaxy series: The Hitchhiker's Guide to the Galaxy, The Restaurant at the End of the Universe, Life, the Universe and Everything, So Long, and Thanks for All the Fish, and Mostly Harmless. The series follows Arthur Dent, the last human survivor of Earth's destruction, and his adventures across the galaxy with Ford Prefect (an alien), Zaphod Beeblebrox (the two-headed president of the galaxy), Trillian (the only other human), and Marvin the Paranoid Android. Adams's series, published between 1979 and 1992, is a classic of comic science fiction. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1404613595m/13.jpg",
     numberOfPages: 304,
@@ -4074,7 +4074,7 @@ const books = [
     name: "One Day",
     author: "David Nicholls",
     description:
-      "A celebrated work of fiction from David Nicholls, since its release in 2009, it has earned a large readership worldwide.",
+      "The novel follows Emma Morley and Dexter Mayhew on July 15th (St. Swithin's Day) for twenty years. In 1988, they graduate from university and spend the night together. They do not become lovers; they become friends. The novel follows them as they grow up: Emma becomes a teacher, then a writer; Dexter becomes a TV presenter, then an alcoholic. They marry other people. They get divorced. They finally get together, only to have Emma killed in a car accident. Nicholls's novel, published in 2009, was a bestseller and adapted into a film starring Anne Hathaway. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327873020m/6280118.jpg",
     numberOfPages: 485,
@@ -4086,7 +4086,7 @@ const books = [
     name: "Goodnight Moon",
     author: "Margaret Wise Brown, Clement Hurd",
     description:
-      "A popular children title by Margaret Wise Brown, Clement Hurd, published in 1947, it continues to be discussed and recommended by readers.",
+      "A young bunny, in his bedroom, says goodnight to everything in the room: 'Goodnight room, goodnight moon, goodnight cow jumping over the moon, goodnight light and the red balloon, goodnight bears, goodnight chairs...' The illustrations slowly darken as the book progresses. The book, published in 1947, has sold over 48 million copies. It is a classic bedtime story. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Children",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Goodnight+Moon",
     numberOfPages: 520,
@@ -4098,7 +4098,7 @@ const books = [
     name: "I Am Number Four",
     author: "Pittacus Lore",
     description:
-      "A celebrated work of young adult from Pittacus Lore, first published in 2010, it has become a favorite among readers of the genre.",
+      "The first book of the Lorien Legacies series. Nine alien children (Lorien) escape the destruction of their planet, sent to Earth. They are being hunted by the Mogadorians, who destroyed their planet. They are protected by a charm: they can only be killed in order (numbers 1, 2, and 3 are dead). Number Four is John Smith. He lives in Ohio, falls in love with a human (Sarah), and is hunted. He kills his Mogadorian hunter. The novel, published in 2010, was a bestseller and adapted into a film. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1305807140m/7747374.jpg",
     numberOfPages: 674,
@@ -4110,7 +4110,7 @@ const books = [
     name: "The Iliad",
     author: "Homer, Robert Fagles, Frédéric Mugler, Bernard Knox",
     description:
-      "One of Homer, Robert Fagles, Frédéric Mugler, Bernard Knox's best-known classics books, published in 750, it continues to be discussed and recommended by readers.",
+      "The epic poem of the Trojan War. The Greek army, led by Agamemnon, has besieged Troy for nine years. Agamemnon steals Achilles's slave, Briseis. Achilles, the greatest Greek warrior, withdraws from battle. Without him, the Greeks lose. Achilles's friend, Patroclus, wears Achilles's armor and fights; he is killed by Hector, the Trojan prince. Achilles, mad with grief, returns to battle. He kills Hector. He drags Hector's body behind his chariot for nine days. He returns the body to Hector's father, Priam. The poem ends with Hector's funeral. Homer's epic, composed around the 8th century BCE, is the foundational text of Western literature. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Iliad",
     numberOfPages: 313,
@@ -4122,7 +4122,7 @@ const books = [
     name: "The Casual Vacancy",
     author: "J.K. Rowling",
     description:
-      "One of J.K. Rowling's best-known fiction books, published in 2012, it continues to be discussed and recommended by readers.",
+      "Rowling's first novel for adults. Barry Fairbrother, a member of the parish council in the small town of Pagford, dies. His seat (the 'casual vacancy') must be filled by election. The novel follows the townspeople: the wealthy, snobbish Mollisons; the working-class Price family (an abused wife, a drug-addicted son); the teenage lovers Krystal and Fats; and the social worker who tries to help them. The election becomes a referendum on a housing project (the Fields) that Barry supported. The novel ends with Krystal dying of an overdose. Rowling's novel, published in 2012, was a bestseller but received mixed reviews. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358266832m/13497818.jpg",
     numberOfPages: 216,
@@ -4134,7 +4134,7 @@ const books = [
     name: "The Runaway Jury",
     author: "John Grisham",
     description:
-      "A widely read fiction work by John Grisham, published in 1996, it continues to be discussed and recommended by readers.",
+      "A tobacco company, Pynex, is sued by the widow of a man who died of lung cancer. The trial is in Biloxi, Mississippi. The jury is manipulated by both sides: the tobacco company hires a jury consultant (Rankin Fitch); the plaintiff's lawyer (Wendall Rohr) is helped by a mysterious juror (Nicholas Easter). Nicholas is a con man who has infiltrated the jury. He blackmails both sides: he will fix the verdict for $10 million. The tobacco company pays. The jury finds for the plaintiff. Nicholas disappears. Grisham's novel, published in 1996, was adapted into a film starring John Cusack, Gene Hackman, and Dustin Hoffman. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Runaway+Jury",
@@ -4147,7 +4147,7 @@ const books = [
     name: "Naked",
     author: "David Sedaris",
     description:
-      "A celebrated work of humor from David Sedaris, released in 1997, it remains a frequently recommended read in its category.",
+      "Sedaris's second collection of humorous essays. He writes about his father's obsession with a nudist colony, his mother's cancer, his own OCD (he checks light switches), his job as a Macy's elf, and his move to New York City. The most famous essay, 'The Drama Bug,' describes his childhood obsession with performing. He writes about his Greek grandmother, who doesn't speak English, and his brother's drug addiction. The book, published in 1997, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Humor",
     coverPage: "https://images.gr-assets.com/books/1394178867m/4138.jpg",
     numberOfPages: 314,
@@ -4159,7 +4159,7 @@ const books = [
     name: "Eldest",
     author: "Christopher Paolini",
     description:
-      "An acclaimed young adult book written by Christopher Paolini, first published in 2005, it has become a favorite among readers of the genre.",
+      "The second book of the Inheritance Cycle. Eragon, the Dragon Rider, and his dragon, Saphira, travel to the elven capital, Ellesméra, to train. He learns magic, swordsmanship, and the history of the Riders. His cousin, Roran, leads the villagers of Carvahall to the coast, where they flee to Surda (the rebel kingdom). The Empire attacks the Varden (the rebel army). Eragon joins the battle, defeats the enemy's leader, Murtagh (who has a red dragon), and learns that Murtagh is his brother. Paolini's novel, published in 2005, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1387119654m/45978.jpg",
     numberOfPages: 223,
@@ -4171,7 +4171,7 @@ const books = [
     name: "The Wonderful Wizard of Oz",
     author: "L. Frank Baum, W.W. Denslow",
     description:
-      "A popular classics title by L. Frank Baum, W.W. Denslow, since 1900, it has been praised for its storytelling and lasting appeal.",
+      "Dorothy Gale, a girl from Kansas, is swept away by a cyclone to the land of Oz. She meets the Scarecrow (who wants brains), the Tin Woodman (who wants a heart), and the Cowardly Lion (who wants courage). They travel to the Emerald City to ask the Wizard of Oz to send Dorothy home. The Wizard is a fraud, a man from Omaha who uses tricks. He gives the Scarecrow bran (brains), the Tin Woodman a silk heart (stuffed with sawdust), and the Lion a medal (courage). Dorothy kills the Wicked Witch of the West with a bucket of water. Glinda, the Good Witch of the South, tells Dorothy that the silver shoes (which she has been wearing) can take her home. Baum's novel, published in 1900, was adapted into the classic film The Wizard of Oz (1939). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1398003737m/236093.jpg",
     numberOfPages: 236,
@@ -4183,7 +4183,7 @@ const books = [
     name: "Prince Caspian",
     author: "C.S. Lewis",
     description:
-      "One of C.S. Lewis's best-known classics books, first published in 1951, it has become a favorite among readers of the genre.",
+      "The second book (published order) of The Chronicles of Narnia. The Pevensie children (Peter, Susan, Edmund, Lucy) are pulled back into Narnia. 1,000 years have passed in Narnian time. Narnia is ruled by the Telmarines, who have driven the talking animals into hiding. Prince Caspian, the rightful king, flees from his uncle, Miraz. The children help Caspian defeat Miraz and become king. Susan and Peter are told they will not return to Narnia. Lewis's novel, published in 1951, was adapted into a film. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1308814880m/121749.jpg",
     numberOfPages: 581,
@@ -4195,7 +4195,7 @@ const books = [
     name: "We Were Liars",
     author: "E. Lockhart",
     description:
-      "An acclaimed young adult book written by E. Lockhart, published in 2014, it continues to be discussed and recommended by readers.",
+      "Cadence Sinclair Eastman, a seventeen-year-old from a wealthy, privileged family, spends her summers on a private island off Cape Cod. She is the leader of the Liars: her cousins, Johnny and Mirren, and Gat, the nephew of her aunt's boyfriend. She has an accident: she falls off a dock, hits her head, and suffers a traumatic brain injury. She cannot remember the summer she was fifteen. She returns to the island to remember. The truth: the Liars burned down the family mansion to protest their grandfather's control; Mirren, Johnny, and Gat died in the fire. Cadence survived. Lockhart's novel, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1402749479m/16143347.jpg",
     numberOfPages: 327,
@@ -4207,7 +4207,7 @@ const books = [
     name: "'Salem's Lot",
     author: "Stephen King",
     description:
-      "One of Stephen King's best-known horror books, since its release in 1975, it has earned a large readership worldwide.",
+      "Ben Mears, a writer, returns to his hometown of Jerusalem's Lot ('Salem's Lot), Maine, to write a book about the Marsten House, a haunted mansion where a murderer once lived. The house is sold to a mysterious man, Richard Straker, and his partner, Kurt Barlow, who never appears in public. People start dying. Ben discovers that Barlow is a vampire. He assembles a group of townspeople to kill the vampires. They kill Barlow. The vampires, without a master, become disorganized. Ben burns down the town. King's second novel, published in 1975, was a bestseller and adapted into two TV miniseries (1979 and 2004). Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1327891565m/11590.jpg",
     numberOfPages: 576,
@@ -4219,7 +4219,7 @@ const books = [
     name: "Fear and Loathing in Las Vegas",
     author: "Hunter S. Thompson, Ralph Steadman",
     description:
-      "An acclaimed fiction book written by Hunter S. Thompson, Ralph Steadman, since 1971, it has been praised for its storytelling and lasting appeal.",
+      "Raoul Duke (Thompson's alter ego) and his attorney, Dr. Gonzo, drive to Las Vegas to cover the Mint 400 motorcycle race. They have a suitcase full of drugs: LSD, mescaline, cocaine, marijuana, ether, and amyl nitrate. The novel follows their drug-fueled hallucinations: they see lizards, bats, and giant reptiles; they attack waitresses; they crash their car. Duke is actually in Las Vegas to cover a district attorneys' conference on drugs. He gives a speech about the failure of the drug war. Thompson's novel, published in 1971, is the classic of Gonzo journalism (a style where the reporter is part of the story). It was adapted into a film starring Johnny Depp. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1394204569m/7745.jpg",
     numberOfPages: 390,
@@ -4231,7 +4231,7 @@ const books = [
     name: "Clockwork Prince",
     author: "Cassandra Clare",
     description:
-      "A celebrated work of fantasy from Cassandra Clare, first published in 2011, it has become a favorite among readers of the genre.",
+      "The second book of The Infernal Devices series. Tessa, Will, and Jem continue to hunt the Magister, the villain who created the clockwork monsters. Will's curse is revealed: he is forcing everyone away because he believes he is a danger to them. Jem is dying (he is a drug addict, addicted to a substance that keeps him alive). Tessa falls in love with both of them. Clare's novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1460477747m/10025305.jpg",
     numberOfPages: 450,
@@ -4243,7 +4243,7 @@ const books = [
     name: "Yes Please",
     author: "Amy Poehler",
     description:
-      "A popular non-fiction title by Amy Poehler, released in 2014, it remains a frequently recommended read in its category.",
+      "Amy Poehler's memoir. She writes about her childhood in Massachusetts (her mother was a teacher; her father was a truck driver), her early improv days in Chicago (with Tina Fey), her years on Saturday Night Live (including the 2008 election, when she played Hillary Clinton), and her show Parks and Recreation (which she co-created). She writes about her divorce from Will Arnett, her sons, and her advice: 'Great people do things before they're ready.' The book, published in 2014, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1402815435m/20910157.jpg",
     numberOfPages: 730,
@@ -4255,7 +4255,7 @@ const books = [
     name: "Othello",
     author: "William Shakespeare",
     description:
-      "A popular classics title by William Shakespeare, released in 1603, it remains a frequently recommended read in its category.",
+      "Othello, a Moorish general in the Venetian army, has secretly married Desdemona, the daughter of a senator. Iago, Othello's ensign, is jealous of Cassio, who has been promoted over him. Iago plots to destroy Othello: he convinces Othello that Desdemona is having an affair with Cassio. Othello smothers Desdemona. Emilia, Iago's wife, reveals the truth. Iago kills Emilia. Othello kills himself. Iago is arrested. Shakespeare's tragedy, written around 1603, explores themes of jealousy, racism, and manipulation. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1459795105m/12996.jpg",
     numberOfPages: 410,
@@ -4267,7 +4267,7 @@ const books = [
     name: "Beloved",
     author: "Toni Morrison",
     description:
-      "A popular fiction title by Toni Morrison, since its release in 1987, it has earned a large readership worldwide.",
+      "Sethe, a former slave, lives in Cincinnati with her daughter, Denver. Their house is haunted by the ghost of Sethe's baby, whom she killed (she cut her throat) to save her from slavery. Paul D, a fellow former slave, arrives and drives the ghost away. A young woman, Beloved, appears. Beloved is the reincarnation of Sethe's baby. She seduces Paul D and drains Sethe's life. Sethe, exhausted, dies. Morrison's novel, published in 1987, won the Pulitzer Prize. It was inspired by the true story of Margaret Garner, a slave who killed her daughter. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Beloved",
     numberOfPages: 599,
@@ -4279,7 +4279,7 @@ const books = [
     name: "Graceling",
     author: "Kristin Cashore",
     description:
-      "One of Kristin Cashore's best-known fantasy books, since its release in 2008, it has earned a large readership worldwide.",
+      "Katsa, a young woman in the Seven Kingdoms, is Graced (born with an extraordinary skill). Her Grace is killing. She is used as a thug by her uncle, the king. She meets Po, a prince from a neighboring kingdom, who is Graced with mind-reading. They fall in love. She discovers that the king of another kingdom, Leck, has a Grace: he can mind-control anyone. She kills him. Cashore's novel, published in 2008, was a bestseller and launched a series (Graceling, Fire, Bitterblue). Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1331548394m/3236307.jpg",
     numberOfPages: 401,
@@ -4291,7 +4291,7 @@ const books = [
     name: "The Bad Beginning",
     author: "Lemony Snicket, Brett Helquist",
     description:
-      "One of Lemony Snicket, Brett Helquist's best-known fiction books, since its release in 1999, it has earned a large readership worldwide.",
+      "The first book of A Series of Unfortunate Events. The Baudelaire orphans—Violet (fourteen, an inventor), Klaus (twelve, a reader), and Sunny (an infant who bites things)—are told that their parents have died in a fire. They are sent to live with Count Olaf, a distant relative who is an actor and a villain. He tries to steal their fortune. He forces Violet to marry him. The children escape. Snicket's novel, published in 1999, was a bestseller and adapted into a film (2004) and a Netflix series (2017-2019). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1490085391m/78411.jpg",
     numberOfPages: 438,
@@ -4303,7 +4303,7 @@ const books = [
     name: "All Quiet on the Western Front",
     author: "Erich Maria Remarque, A.W. Wheen",
     description:
-      "A celebrated work of classics from Erich Maria Remarque, A.W. Wheen, since its release in 1929, it has earned a large readership worldwide.",
+      "Paul Bäumer, a nineteen-year-old German soldier, tells the story of his experience in World War I. He and his classmates enlist, inspired by their teacher. They are sent to the front. One by one, they die: Müller is shot; Kat, their mentor, is killed; Paul, the last of his class, is killed in October 1918—on a day so quiet that the army report says 'All quiet on the Western Front.' Remarque's novel, published in 1929, was a bestseller and adapted into an Oscar-winning film (1930). It was banned in Nazi Germany. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1441227765m/355697.jpg",
     numberOfPages: 484,
@@ -4315,7 +4315,7 @@ const books = [
     name: "Oh, The Places You'll Go!",
     author: "Dr. Seuss",
     description:
-      "A widely read children work by Dr. Seuss, published in 1990, it continues to be discussed and recommended by readers.",
+      "Dr. Seuss's graduation gift to young people. The book follows a young reader as they leave the nest and enter the world. 'You're on your own. And you know what you know. And YOU are the guy who'll decide where to go.' They encounter obstacles: 'You can get all hung up in a prickly perch. And your gang will fly on. You'll be left in a Lurch.' They learn to persevere: 'But on you will go though the weather be foul. On you will go though your enemies prowl.' The book, published in 1990, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1421708635m/191139.jpg",
     numberOfPages: 407,
@@ -4327,7 +4327,7 @@ const books = [
     name: "And the Mountains Echoed",
     author: "Khaled Hosseini",
     description:
-      "One of Khaled Hosseini's best-known historical fiction books, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "The novel spans generations and continents, from a village in Afghanistan to Paris to San Francisco. It begins with a fairy tale told by a father to his children, about a demon who takes a child. The novel follows the consequences: a father sells his daughter, Pari, to a wealthy family. Her brother, Abdullah, spends his life searching for her. They are reunited when they are old. Hosseini's third novel, published in 2012, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1358190204m/16115612.jpg",
     numberOfPages: 688,
@@ -4339,7 +4339,7 @@ const books = [
     name: "Do Androids Dream of Electric Sheep?",
     author: "Philip K. Dick, Roger Zelazny",
     description:
-      "One of Philip K. Dick, Roger Zelazny's best-known science fiction books, first published in 1968, it has become a favorite among readers of the genre.",
+      "In a post-apocalyptic San Francisco, most humans have emigrated to Mars. Rick Deckard, a bounty hunter, is assigned to retire (kill) six Nexus-6 androids, who have escaped from Mars and are indistinguishable from humans. He uses a Voight-Kampff test (measuring empathy) to identify them. He falls in love with Rachael Rosen, an android. He kills her. Dick's novel, published in 1968, was adapted into the film Blade Runner (1982). Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1435458683m/7082.jpg",
     numberOfPages: 625,
@@ -4351,7 +4351,7 @@ const books = [
     name: "Oliver Twist",
     author: "Charles Dickens, George Cruikshank, Philip Horne",
     description:
-      "A widely read classics work by Charles Dickens, George Cruikshank, Philip Horne, first published in 1838, it has become a favorite among readers of the genre.",
+      "Oliver Twist, an orphan born in a workhouse, is sold to an undertaker. He runs away to London. He is taken in by Fagin, a criminal who trains boys to be pickpockets. Oliver is arrested, then released, then kidnapped. He is saved by Mr. Brownlow, a wealthy man who is his grandfather. The novel's most famous line: 'Please, sir, I want some more.' Dickens's novel, published in 1838, exposed the cruelty of the workhouse system. It was adapted into a film (Oliver!, 1968) and a musical. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327868529m/18254.jpg",
     numberOfPages: 154,
@@ -4363,7 +4363,7 @@ const books = [
     name: "The Screwtape Letters",
     author: "C.S. Lewis",
     description:
-      "An acclaimed fiction book written by C.S. Lewis, since its release in 1942, it has earned a large readership worldwide.",
+      "A senior demon, Screwtape, writes letters to his nephew, Wormwood, a junior tempter. Screwtape advises Wormwood on how to tempt his patient (a British man) away from God. The patient is an ordinary man: he falls in love, he goes to war, he converts to Christianity. Screwtape despairs: 'The safest road to Hell is the gradual one—the gentle slope, soft underfoot, without sudden turnings, without milestones, without signposts.' The patient dies in an air raid; he goes to heaven. Lewis's novel, published in 1942, is a satire of the Christian life. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1347801873m/11149.jpg",
     numberOfPages: 609,
@@ -4375,7 +4375,7 @@ const books = [
     name: "Anna and the French Kiss",
     author: "Stephanie Perkins",
     description:
-      "A popular young adult title by Stephanie Perkins, first published in 2010, it has become a favorite among readers of the genre.",
+      "Anna Oliphant, a seventeen-year-old girl from Atlanta, is sent to the School of America in Paris (SOAP) for her senior year. She is angry: she has to leave her boyfriend, her best friend, and her movie theater job. She meets Étienne St. Clair, a British-French-American boy who is charming, witty, and beautiful. He has a girlfriend. They become friends. They fall in love. He breaks up with his girlfriend. They get together. Perkins's novel, published in 2010, was a bestseller and the first of a trilogy (Anna and the French Kiss, Lola and the Boy Next Door, Isla and the Happily Ever After). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1358271931m/6936382.jpg",
     numberOfPages: 450,
@@ -4387,7 +4387,7 @@ const books = [
     name: "How the Grinch Stole Christmas!",
     author: "Dr. Seuss",
     description:
-      "One of Dr. Seuss's best-known children books, first published in 1957, it has become a favorite among readers of the genre.",
+      "The Grinch, a green, furry creature who lives on Mount Crumpit, hates Christmas. He watches the Whos of Whoville celebrate with presents, feasts, and singing. He decides to steal Christmas. He dresses as Santa, descends into Whoville, and steals all the presents, the food, and the Christmas trees. He expects the Whos to cry. Instead, they sing. He learns that Christmas is not about presents; it's about community and joy. He returns everything and joins the feast. Seuss's book, published in 1957, was adapted into a classic TV special (1966) and a film starring Jim Carrey (2000). Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327958149m/113946.jpg",
     numberOfPages: 201,
@@ -4397,9 +4397,9 @@ const books = [
   {
     id: 365,
     name: "V for Vendetta",
-    author: "Alan Moore, David   Lloyd",
+    author: "Alan Moore, David Lloyd",
     description:
-      "One of Alan Moore, David   Lloyd's best-known graphic novel books, since 1990, it has been praised for its storytelling and lasting appeal.",
+      "In a dystopian Britain ruled by the fascist Norsefire party, a mysterious anarchist, V (who wears a Guy Fawkes mask), fights the government. He rescues Evey Hammond, a young woman, and recruits her. He bombs the Old Bailey, the Houses of Parliament, and a broadcast tower. He is captured and killed. Evey carries on his work. Moore's graphic novel, published in 1990 (collected edition), was adapted into a film (2005) starring Natalie Portman. Since its release, it has become a favorite among readers of the genre.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1343668985m/5805.jpg",
     numberOfPages: 747,
@@ -4411,7 +4411,7 @@ const books = [
     name: "John Adams",
     author: "David McCullough",
     description:
-      "One of David McCullough's best-known history books, first published in 2001, it has become a favorite among readers of the genre.",
+      "McCullough's biography of John Adams, the second president of the United States. Adams was a lawyer, a revolutionary, a diplomat, and a president. He was brilliant, principled, and abrasive. He hated slavery (he never owned a slave). He defended British soldiers after the Boston Massacre. He was the primary author of the Massachusetts Constitution. He served as a diplomat in France and the Netherlands. He was the first vice president. He was the second president. He lost the election to Thomas Jefferson. He and Jefferson reconciled in old age, dying on the same day (July 4, 1826, the 50th anniversary of the Declaration of Independence). McCullough's biography, published in 2001, won the Pulitzer Prize and was adapted into an HBO miniseries. Since its release, it has become a favorite among readers of the genre.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1478144278m/2203.jpg",
     numberOfPages: 531,
@@ -4423,7 +4423,7 @@ const books = [
     name: "Odd Thomas",
     author: "Dean Koontz",
     description:
-      "A celebrated work of horror from Dean Koontz, since its release in 2003, it has earned a large readership worldwide.",
+      "Odd Thomas, a twenty-year-old fry cook in Pico Mundo, California, can see the dead (they linger until they are avenged) and bodachs (shadow creatures that appear before mass death). A bodach horde appears before a shooting. Odd identifies the shooter. He prevents the massacre, but his girlfriend, Stormy, is killed. Koontz's novel, published in 2003, was a bestseller and the first of a seven-book series. It was adapted into a film starring Anton Yelchin. Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Odd+Thomas",
     numberOfPages: 609,
@@ -4435,7 +4435,7 @@ const books = [
     name: "The Subtle Knife",
     author: "Philip Pullman",
     description:
-      "A celebrated work of fantasy from Philip Pullman, released in 1997, it remains a frequently recommended read in its category.",
+      "The second book of His Dark Materials. Will Parry, a twelve-year-old boy from Oxford, England, stumbles into a window into another world (he has been looking for his father, an explorer who disappeared). He meets Lyra (the protagonist of The Golden Compass). Together, they search for Will's father. Will acquires the subtle knife, a blade that can cut between worlds. Pullman's novel, published in 1997, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1451271814m/119324.jpg",
     numberOfPages: 156,
@@ -4447,7 +4447,7 @@ const books = [
     name: "Stargirl",
     author: "Jerry Spinelli",
     description:
-      "A widely read young adult work by Jerry Spinelli, since 2000, it has been praised for its storytelling and lasting appeal.",
+      "Leo Borlock, a tenth grader at Mica High School in Arizona, is an ordinary boy. Stargirl Caraway, a new student, is extraordinary: she wears pioneer dresses, carries a ukulele, and sings 'Happy Birthday' to strangers. She is mocked, then adored, then mocked again. Leo, who loves her, asks her to be more normal. She tries, but she loses herself. She leaves Mica. Leo, years later, writes her story. Spinelli's novel, published in 2000, was a bestseller and adapted into a Disney+ film (2020). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1335947642m/22232.jpg",
     numberOfPages: 508,
@@ -4459,7 +4459,7 @@ const books = [
     name: "The Red Pyramid",
     author: "Rick Riordan",
     description:
-      "One of Rick Riordan's best-known fantasy books, first published in 2010, it has become a favorite among readers of the genre.",
+      "The first book of The Kane Chronicles series. Carter and Sadie Kane, a brother and sister who have been raised separately, accidentally summon the Egyptian god Set, who destroys their father's house and unleashes the gods. They discover they are descendants of the pharaohs. They travel across the world to stop Set from destroying the world. Riordan's novel, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1366227978m/7090447.jpg",
     numberOfPages: 527,
@@ -4471,7 +4471,7 @@ const books = [
     name: "Stranger in a Strange Land",
     author: "Robert A. Heinlein",
     description:
-      "A popular science fiction title by Robert A. Heinlein, since its release in 1961, it has earned a large readership worldwide.",
+      "Michael Valentine Smith, a human raised by Martians, returns to Earth. He has Martian abilities: telepathy, telekinesis, and the ability to 'grok' (understand deeply). He founds a Martian-influenced religion based on 'water-sharing' (a sexual ritual). He is killed by a mob. Heinlein's novel, published in 1961, was a bestseller and won the Hugo Award. It coined the word 'grok.' Since its release, it has earned a large readership worldwide.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1156897088m/350.jpg",
     numberOfPages: 195,
@@ -4483,7 +4483,7 @@ const books = [
     name: "Dress Your Family in Corduroy and Denim",
     author: "David Sedaris",
     description:
-      "One of David Sedaris's best-known humor books, released in 2004, it remains a frequently recommended read in its category.",
+      "Sedaris's fourth collection of essays. He writes about his father's obsession with tools, his mother's dementia, his brother's sexual awakening, and his own relationship with his partner, Hugh. Highlights include 'Six to Eight Black Men' (about Dutch Christmas traditions), 'The Understudy' (about a performance of The Nutcracker), and 'Possession' (about his addiction to antiques). The book, published in 2004, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Humor",
     coverPage: "https://images.gr-assets.com/books/1352983006m/10176.jpg",
     numberOfPages: 189,
@@ -4495,7 +4495,7 @@ const books = [
     name: "The BFG",
     author: "Roald Dahl, Quentin Blake",
     description:
-      "A celebrated work of children from Roald Dahl, Quentin Blake, since its release in 1982, it has earned a large readership worldwide.",
+      "Sophie, an orphan girl, is snatched from her bed by a giant. The giant is the BFG (Big Friendly Giant), who blows dreams into children's windows. He is a vegetarian (he eats snozzcumbers, a vile-tasting vegetable). He is hunted by nine mean giants who eat humans. Sophie and the BFG travel to Buckingham Palace, ask the Queen for help, and capture the mean giants. Dahl's novel, published in 1982, was adapted into a film directed by Steven Spielberg (2016). Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327872673m/6319.jpg",
     numberOfPages: 161,
@@ -4507,7 +4507,7 @@ const books = [
     name: "A Short History of Nearly Everything",
     author: "Bill Bryson",
     description:
-      "A popular history title by Bill Bryson, published in 2003, it continues to be discussed and recommended by readers.",
+      "Bryson's science book explains the history of the universe, the Earth, and life, in accessible, humorous prose. He covers the Big Bang, the formation of the solar system, the creation of the Earth, the evolution of life, the extinction of the dinosaurs, the rise of humans, and the history of science. He interviews scientists and visits their labs. The book, published in 2003, was a bestseller and won the Aventis Prize. Since its release, it continues to be discussed and recommended by readers.",
     genre: "History",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Short+History+of+Nearly+Everything",
@@ -4520,7 +4520,7 @@ const books = [
     name: "The Call of the Wild",
     author: "Jack London",
     description:
-      "One of Jack London's best-known classics books, since 1903, it has been praised for its storytelling and lasting appeal.",
+      "Buck, a large, gentle dog living on a California estate, is stolen, sold, and shipped to Alaska during the Klondike Gold Rush. He is beaten into submission, trained as a sled dog, and learns to survive in the wilderness. He kills the lead dog, becomes the leader, and is sold to a gold seeker. He is sold again. His final master, John Thornton, treats him with kindness. Thornton is killed by Yeehats (Native Americans). Buck avenges him and joins a wolf pack. London's novel, published in 1903, is a classic of adventure literature. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1452291694m/1852.jpg",
     numberOfPages: 469,
@@ -4532,7 +4532,7 @@ const books = [
     name: "The Death Cure",
     author: "James Dashner",
     description:
-      "A widely read young adult work by James Dashner, since its release in 2011, it has earned a large readership worldwide.",
+      "The third book of the Maze Runner series. Thomas and the survivors of the Scorch are taken to WCKD headquarters. They discover that WCKD has been studying them to find a cure for the Flare. They are immune. WCKD wants to dissect their brains. Thomas and his friends escape. They find the Safe Haven. Dashner's novel, published in 2011, was adapted into a film. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1303997647m/7864437.jpg",
     numberOfPages: 182,
@@ -4544,7 +4544,7 @@ const books = [
     name: "Stardust",
     author: "Neil Gaiman",
     description:
-      "An acclaimed fantasy book written by Neil Gaiman, since 1999, it has been praised for its storytelling and lasting appeal.",
+      "Tristran Thorn, a young man from the English village of Wall, promises to retrieve a fallen star for his beloved, Victoria. He crosses the wall into the magical land of Faerie. The star is not a rock; it is a woman, Yvaine. He is not the only one looking for her: three witches (who want to eat her heart) and the sons of the Lord of Stormhold (who want her to inherit the throne) are also hunting her. Tristran and Yvaine fall in love. Gaiman's novel, published in 1999, was adapted into a film (2007) starring Claire Danes and Charlie Cox. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1459127484m/16793.jpg",
     numberOfPages: 645,
@@ -4556,7 +4556,7 @@ const books = [
     name: "The Namesake",
     author: "Jhumpa Lahiri",
     description:
-      "A widely read fiction work by Jhumpa Lahiri, published in 2003, it continues to be discussed and recommended by readers.",
+      "The novel follows the Ganguli family, Bengali immigrants in Massachusetts. Ashoke and Ashima, an arranged couple, have a son, Gogol (named after the Russian author, whose book saved Ashoke's life in a train crash). Gogol hates his name. He changes it to Nikhil. He dates white women. He marries a Bengali woman. He divorces. He reconciles with his family. Lahiri's novel, published in 2003, was a bestseller and adapted into a film (2006). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1480106986m/33917.jpg",
     numberOfPages: 253,
@@ -4568,7 +4568,7 @@ const books = [
     name: "A Discovery of Witches",
     author: "Deborah Harkness",
     description:
-      "An acclaimed fantasy book written by Deborah Harkness, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the All Souls trilogy. Diana Bishop, a historian and a witch, calls up a magical manuscript, Ashmole 782, from the Bodleian Library. She does not realize she has summoned a lost alchemical text that vampires and daemons have been searching for centuries. She is pursued by Matthew Clairmont, a vampire geneticist. They fall in love. They travel to the past. Harkness's novel, published in 2011, was a bestseller and adapted into a TV series. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1322168805m/8667848.jpg",
     numberOfPages: 308,
@@ -4580,7 +4580,7 @@ const books = [
     name: "Norwegian Wood",
     author: "Haruki Murakami, Jay Rubin",
     description:
-      "A celebrated work of fiction from Haruki Murakami, Jay Rubin, first published in 1987, it has become a favorite among readers of the genre.",
+      "Toru Watanabe, a student in Tokyo, remembers his youth. His best friend, Kizuki, kills himself. Toru falls in love with Kizuki's girlfriend, Naoko. Naoko is unstable; she enters a sanatorium. Toru meets Midori, a vibrant, outgoing woman. He is torn between his love for Naoko (who represents death) and his desire for Midori (who represents life). Naoko kills herself. Toru calls Midori. Murakami's novel, published in 1987, was a bestseller in Japan and adapted into a film (2010). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Norwegian+Wood",
     numberOfPages: 317,
@@ -4592,7 +4592,7 @@ const books = [
     name: "Where the Heart Is",
     author: "Billie Letts",
     description:
-      "An acclaimed fiction book written by Billie Letts, released in 1995, it remains a frequently recommended read in its category.",
+      "Novalee Nation, a seventeen-year-old girl, is abandoned by her boyfriend at a Walmart in Sequoyah, Oklahoma. She is seven months pregnant. She lives in the Walmart for months, until she gives birth. She becomes famous. She meets an elderly photographer, Moses Whitecotton, who becomes her friend. She falls in love with Forney Hull, the town's librarian. Letts's novel, published in 1995, was a bestseller and adapted into a film (2000) starring Natalie Portman. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327959469m/5168.jpg",
     numberOfPages: 569,
@@ -4604,7 +4604,7 @@ const books = [
     name: "Will Grayson, Will Grayson",
     author: "John Green, David Levithan",
     description:
-      "A popular young adult title by John Green, David Levithan, released in 2010, it remains a frequently recommended read in its category.",
+      "Two teenage boys named Will Grayson live in the suburbs of Chicago. One Will (by Green) is straight, loves a girl named Jane, and has a gay best friend, Tiny Cooper. The other Will (by Levithan) is gay, depressed, and has no friends. They meet in an adult video store. They become friends. Tiny produces a musical about his life. The musical brings them together. Green and Levithan's novel, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1368393890m/6567017.jpg",
     numberOfPages: 577,
@@ -4616,7 +4616,7 @@ const books = [
     name: "A Million Little Pieces",
     author: "James Frey",
     description:
-      "A widely read non-fiction work by James Frey, released in 2003, it remains a frequently recommended read in its category.",
+      "Frey's memoir of his addiction to alcohol and drugs. He is 23 years old, with a hole in his cheek, four broken teeth, and a broken nose. He enters a rehabilitation clinic. He resists the 12-step program. He meets a woman, Lilly, and they fall in love. He quits. The book, published in 2003, was a bestseller and selected for Oprah's Book Club. In 2006, it was revealed that much of the book was fabricated: Frey had never been a fugitive, had never been in jail, and had never had his teeth pulled without anesthesia. Oprah Winfrey publicly confronted him. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1483206985m/1241.jpg",
     numberOfPages: 730,
@@ -4628,7 +4628,7 @@ const books = [
     name: "Frostbite",
     author: "Richelle Mead",
     description:
-      "A popular young adult title by Richelle Mead, published in 2008, it continues to be discussed and recommended by readers.",
+      "The second book of the Vampire Academy series. Rose and Lissa, the Moroi princess, are sent to a ski resort for safety. A Strigoi (evil vampire) attacks. Rose kills the Strigoi. She almost dies. Dimitri, her instructor, saves her. Mead's novel, published in 2008, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361098960m/2282133.jpg",
     numberOfPages: 576,
@@ -4640,7 +4640,7 @@ const books = [
     name: "Quiet: The Power of Introverts in a World That Can't Stop Talking",
     author: "Susan Cain",
     description:
-      "A widely read non-fiction work by Susan Cain, released in 2012, it remains a frequently recommended read in its category.",
+      "Cain's non-fiction book argues that Western society (especially the United States) undervalues introverts. She traces the 'Extrovert Ideal' (the belief that the ideal self is gregarious, alpha, and comfortable in the spotlight) to Dale Carnegie and the rise of the self-help industry. She explores the biology of introversion (it is hereditary), the culture of introverts (they are often Asian or Jewish), and the benefits of introverts (they are more creative, more careful, and better leaders). The book, published in 2012, was a bestseller and led to a TED talk (viewed over 20 million times). Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1328562861m/8520610.jpg",
     numberOfPages: 351,
@@ -4652,7 +4652,7 @@ const books = [
     name: "Island of the Blue Dolphins",
     author: "Scott O'Dell",
     description:
-      "An acclaimed young adult book written by Scott O'Dell, published in 1960, it continues to be discussed and recommended by readers.",
+      "Karana, a Native American girl, is left alone on an island off the coast of California. She is 12 years old. She survives for 18 years. She builds a shelter, makes weapons, hunts, and gathers food. She tames a wild dog. She is rescued by a ship. O'Dell's novel, published in 1960, won the Newbery Medal. It is based on the true story of Juana Maria, a Nicoleño woman who lived alone on San Nicolas Island for 18 years. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1475166260m/233818.jpg",
     numberOfPages: 358,
@@ -4664,7 +4664,7 @@ const books = [
     name: "The Crucible",
     author: "Arthur Miller, Christopher Bigsby",
     description:
-      "A widely read classics work by Arthur Miller, Christopher Bigsby, published in 1953, it continues to be discussed and recommended by readers.",
+      "A play about the Salem witch trials. John Proctor, a farmer, has an affair with Abigail Williams, a young woman who works for him. Abigail, jealous of Proctor's wife, accuses her of witchcraft. A group of girls follow her lead, accusing innocent people. Proctor confesses to the affair to discredit Abigail. He is arrested and sentenced to hang. He refuses to sign a false confession. He is executed. Miller's play, published in 1953, was an allegory for McCarthyism (the anti-communist witch hunts of the 1950s). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1447764813m/17250.jpg",
     numberOfPages: 310,
@@ -4676,7 +4676,7 @@ const books = [
     name: "Hatchet",
     author: "Gary Paulsen",
     description:
-      "An acclaimed young adult book written by Gary Paulsen, first published in 1986, it has become a favorite among readers of the genre.",
+      "Brian Robeson, a thirteen-year-old boy, is flying from New York to Canada to visit his father. The pilot has a heart attack and dies. Brian crash-lands the plane in a lake in the Canadian wilderness. He is alone. He has only a hatchet (his mother gave it to him). He learns to make fire, to fish, to hunt, and to build a shelter. He is rescued after 54 days. Paulsen's novel, published in 1986, won the Newbery Honor. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Hatchet",
     numberOfPages: 242,
@@ -4688,7 +4688,7 @@ const books = [
     name: "The Final Empire",
     author: "Brandon Sanderson",
     description:
-      "An acclaimed fantasy book written by Brandon Sanderson, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Mistborn trilogy. In a world where the Lord Ruler (a god-like tyrant) has ruled for 1,000 years, a street urchin named Vin discovers that she is a Mistborn (she can ingest and 'burn' metals to gain superpowers). She joins Kelsier's crew of thieves to overthrow the Lord Ruler. They succeed. Sanderson's novel, published in 2006, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1480717416m/68428.jpg",
     numberOfPages: 523,
@@ -4700,7 +4700,7 @@ const books = [
     name: "The Strange Case of Dr. Jekyll and Mr. Hyde",
     author: "Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon",
     description:
-      "An acclaimed classics book written by Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon, since its release in 1886, it has earned a large readership worldwide.",
+      "Dr. Henry Jekyll, a respected London physician, creates a potion that separates his good self from his evil self. His evil self, Edward Hyde, is smaller, younger, and more violent. Hyde murders a man. Jekyll tries to stop transforming, but the transformations become involuntary. He kills himself. Stevenson's novella, published in 1886, is a classic of Gothic literature. It explores the duality of human nature. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1318116526m/51496.jpg",
     numberOfPages: 283,
@@ -4712,7 +4712,7 @@ const books = [
     name: "The Lorax",
     author: "Dr. Seuss",
     description:
-      "A widely read children work by Dr. Seuss, first published in 1971, it has become a favorite among readers of the genre.",
+      "The Lorax, a creature who 'speaks for the trees,' confronts the Once-ler, a greedy industrialist who is cutting down all the Truffula trees to make Thneeds (a versatile fabric). The Once-ler ignores the Lorax. The last tree falls. The animals leave. The Lorax leaves. The Once-ler, now old and alone, gives a boy the last Truffula seed. Seuss's book, published in 1971, is an environmental fable. It has been adapted into a film (2012). Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327879938m/7784.jpg",
     numberOfPages: 714,
@@ -4724,7 +4724,7 @@ const books = [
     name: "Diary of a Wimpy Kid",
     author: "Jeff Kinney",
     description:
-      "One of Jeff Kinney's best-known humor books, published in 2004, it continues to be discussed and recommended by readers.",
+      "The first book of the Diary of a Wimpy Kid series (16 books and counting). Greg Heffley, a middle school student, keeps a diary (which he calls a 'journal'). He describes his attempts to become popular: he joins the safety patrol, runs for class president, and avoids his brother Rodrick (who torments him). The book is illustrated with cartoon drawings. Kinney's book, published in 2004 (online) and 2007 (print), was a bestseller and adapted into a film (2010). Since its release, it has become a favorite among readers of the genre.",
     genre: "Humor",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Diary+of+a+Wimpy+Kid",
@@ -4737,7 +4737,7 @@ const books = [
     name: "Throne of Glass",
     author: "Sarah J. Maas",
     description:
-      "A celebrated work of young adult from Sarah J. Maas, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Throne of Glass series (8 books and counting). Celaena Sardothien, a teenage assassin, is serving a life sentence in the salt mines of Endovier. She is offered a deal: compete in a tournament to become the King's Champion (the royal assassin), and after four years, she will be freed. She competes against 23 other assassins and thieves. She wins. Maas's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1495278054m/7896527.jpg",
     numberOfPages: 529,
@@ -4749,7 +4749,7 @@ const books = [
     name: "Shadow Kiss",
     author: "Richelle Mead",
     description:
-      "A celebrated work of young adult from Richelle Mead, since its release in 2008, it has earned a large readership worldwide.",
+      "The third book of the Vampire Academy series. Rose and Dimitri are in love, but they cannot be together (he is her instructor). The Academy is attacked by Strigoi. Dimitri is turned into a Strigoi. Rose vows to save him. Mead's novel, published in 2008, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361099049m/2802316.jpg",
     numberOfPages: 299,
@@ -4761,7 +4761,7 @@ const books = [
     name: "For Whom the Bell Tolls",
     author: "Ernest Hemingway",
     description:
-      "A popular classics title by Ernest Hemingway, released in 1940, it remains a frequently recommended read in its category.",
+      "Robert Jordan, an American demolition expert, is fighting for the Republican side in the Spanish Civil War. He is assigned to blow up a bridge behind enemy lines. He meets Maria, a young woman who was raped by fascists. They fall in love. He blows up the bridge. He is wounded. He tells Maria to leave. He waits for the fascist cavalry to kill him. Hemingway's novel, published in 1940, was a bestseller and adapted into a film (1943). The title is from John Donne's meditation: 'No man is an island... any man's death diminishes me, because I am involved in mankind; and therefore never send to know for whom the bell tolls; it tolls for thee.' Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1492591524m/46170.jpg",
     numberOfPages: 315,
@@ -4773,7 +4773,7 @@ const books = [
     name: "Hotel on the Corner of Bitter and Sweet",
     author: "Jamie Ford",
     description:
-      "A celebrated work of historical fiction from Jamie Ford, since its release in 2009, it has earned a large readership worldwide.",
+      "In 1986, Henry Lee, a Chinese-American man, visits the Panama Hotel in Seattle. The hotel's new owner has discovered a stash of Japanese artifacts in the basement, left by families who were sent to internment camps during World War II. Henry remembers the 1940s: his best friend was Keiko Okabe, a Japanese-American girl. They were separated when Keiko was sent to an internment camp. Henry's father, a Chinese nationalist who hates the Japanese, forbids the friendship. Henry searches the basement for Keiko's items. He finds her address. He writes to her. They reunite. Ford's novel, published in 2009, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Historical Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Hotel+on+the+Corner+of+Bitter+and+Sweet",
@@ -4786,7 +4786,7 @@ const books = [
     name: "Perfume: The Story of a Murderer",
     author: "Patrick Süskind, John E. Woods",
     description:
-      "A widely read fiction work by Patrick Süskind, John E. Woods, published in 1985, it continues to be discussed and recommended by readers.",
+      "Jean-Baptiste Grenouille, born in the slums of 18th-century Paris, has a superhuman sense of smell. He can identify any odor. He has no personal scent of his own. He becomes an apprentice to a perfumer. He becomes obsessed with capturing the scent of a young virgin. He kills her. He distills her scent. He kills 24 more virgins. He is caught and sentenced to death. At his execution, he uses his perfume to make the crowd adore him. He returns to Paris and is eaten alive by a mob. Süskind's novel, published in 1985, was a bestseller and adapted into a film (2006). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1409112276m/343.jpg",
     numberOfPages: 652,
@@ -4798,7 +4798,7 @@ const books = [
     name: "Fast Food Nation: The Dark Side of the All-American Meal",
     author: "Eric Schlosser",
     description:
-      "One of Eric Schlosser's best-known non-fiction books, released in 2001, it remains a frequently recommended read in its category.",
+      "Schlosser's non-fiction book exposes the fast food industry. He traces the history of fast food (from McDonald's to Burger King). He visits slaughterhouses, where workers are injured (they cut off fingers, they fall into vats), meat is contaminated (with E. coli and salmonella), and animals are abused. He describes the marketing to children (Happy Meals, toy tie-ins), the exploitation of teenage workers (minimum wage, no benefits), and the effects on public health (obesity, diabetes). The book, published in 2001, was a bestseller and inspired the documentary Super Size Me (2004). Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Fast+Food+Nation:+The+Dark+Side+of+the+All-American+Meal",
@@ -4811,7 +4811,7 @@ const books = [
     name: "The Tales of Beedle the Bard",
     author: "J.K. Rowling",
     description:
-      "A widely read fantasy work by J.K. Rowling, published in 2007, it continues to be discussed and recommended by readers.",
+      "A collection of fairy tales for wizarding children, mentioned in Harry Potter and the Deathly Hallows. The book includes five tales: 'The Wizard and the Hopping Pot,' 'The Fountain of Fair Fortune,' 'The Warlock's Hairy Heart,' 'Babbitty Rabbitty and Her Cackling Stump,' and 'The Tale of the Three Brothers.' The book also includes commentary by Albus Dumbledore. Rowling wrote the book by hand, and only seven copies were made. One was sold at auction for nearly £2 million. It was published for the general public in 2007. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1373467575m/3950967.jpg",
     numberOfPages: 472,
@@ -4823,7 +4823,7 @@ const books = [
     name: "Neuromancer",
     author: "William Gibson",
     description:
-      "A widely read fiction work by William Gibson, since 1984, it has been praised for its storytelling and lasting appeal.",
+      "Case, a computer hacker, is hired by a mysterious employer to steal a code from a powerful artificial intelligence. He is assisted by Molly, a 'street samurai' with razor blades under her nails. He discovers that the AI, Wintermute, wants to merge with another AI to become a superintelligence. He helps it. Gibson's novel, published in 1984, won the Hugo, Nebula, and Philip K. Dick awards. It coined the term 'cyberspace' and invented the cyberpunk genre. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1167348726m/22328.jpg",
     numberOfPages: 547,
@@ -4835,7 +4835,7 @@ const books = [
     name: "A Farewell to Arms",
     author: "Ernest Hemingway",
     description:
-      "A widely read classics work by Ernest Hemingway, since 1929, it has been praised for its storytelling and lasting appeal.",
+      "Frederic Henry, an American ambulance driver in the Italian army during World War I, is wounded. He falls in love with Catherine Barkley, a British nurse. He returns to the front, deserts, and flees to Switzerland with Catherine. She dies in childbirth. Hemingway's novel, published in 1929, was a bestseller. It is based on his own experience as an ambulance driver. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1313714836m/10799.jpg",
     numberOfPages: 314,
@@ -4847,7 +4847,7 @@ const books = [
     name: "The Tell-Tale Heart and Other Writings",
     author: "Edgar Allan Poe",
     description:
-      "One of Edgar Allan Poe's best-known classics books, since 1843, it has been praised for its storytelling and lasting appeal.",
+      "A collection of Poe's most famous stories and poems. The title story, 'The Tell-Tale Heart,' is about a murderer who is haunted by the sound of his victim's beating heart. Other stories include 'The Fall of the House of Usher,' 'The Masque of the Red Death,' 'The Pit and the Pendulum,' and 'The Cask of Amontillado.' Poems include 'The Raven,' 'Annabel Lee,' and 'The Bells.' Poe's work, published in the 1840s, is a classic of Gothic and horror literature. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327936583m/391729.jpg",
     numberOfPages: 564,
@@ -4859,7 +4859,7 @@ const books = [
     name: "The Art of War",
     author: "Sun Tzu, Thomas Cleary",
     description:
-      "A celebrated work of non-fiction from Sun Tzu, Thomas Cleary, since its release in 500, it has earned a large readership worldwide.",
+      "A Chinese military treatise written in the 5th century BCE. It contains 13 chapters, each on a different aspect of warfare: planning, waging war, attack by stratagem, tactical dispositions, energy, weak points and strong, maneuvering, variation of tactics, the army on the march, terrain, the nine situations, the attack by fire, and the use of spies. The book has influenced military leaders, politicians, and business executives. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1453417993m/10534.jpg",
     numberOfPages: 634,
@@ -4871,7 +4871,7 @@ const books = [
     name: "Defending Jacob",
     author: "William Landay",
     description:
-      "One of William Landay's best-known fiction books, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "Andy Barber, an assistant district attorney in a Boston suburb, is assigned to prosecute a murder case. The victim is a 14-year-old boy, stabbed to death in a park. The killer is Andy's own son, Jacob. Andy is forced to defend him. The novel follows the trial. Jacob is acquitted. Andy discovers that Jacob is guilty. Landay's novel, published in 2012, was a bestseller and adapted into an Apple TV+ miniseries (2021). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1329612158m/11367726.jpg",
     numberOfPages: 373,
@@ -4883,7 +4883,7 @@ const books = [
     name: "Breakfast of Champions",
     author: "Kurt Vonnegut Jr.",
     description:
-      "A widely read classics work by Kurt Vonnegut Jr., published in 1973, it continues to be discussed and recommended by readers.",
+      "Kilgore Trout, a science fiction writer, is invited to a festival in Midland City, Ohio. Dwayne Hoover, a car dealer who is going insane, reads one of Trout's novels and believes it is a message from God. He attacks people. Vonnegut himself appears as a character. The novel, published in 1973, is a satire of American culture. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327934446m/4980.jpg",
     numberOfPages: 680,
@@ -4895,7 +4895,7 @@ const books = [
     name: "The New Drawing on the Right Side of the Brain",
     author: "Betty Edwards",
     description:
-      "One of Betty Edwards's best-known science books, published in 1979, it continues to be discussed and recommended by readers.",
+      "Edwards's art instruction book argues that drawing is a teachable skill. She explains that the left hemisphere of the brain (the 'verbal, analytic' side) interferes with drawing. To draw well, you need to access the right hemisphere (the 'visual, perceptual' side). She provides exercises: drawing a vase (which is also a face), drawing an upside-down image, and drawing a pure contour. The book, first published in 1979 (revised in 1999), has sold over 2.5 million copies. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+New+Drawing+on+the+Right+Side+of+the+Brain",
@@ -4908,7 +4908,7 @@ const books = [
     name: "Bel Canto",
     author: "Ann Patchett",
     description:
-      "A widely read fiction work by Ann Patchett, since its release in 2001, it has earned a large readership worldwide.",
+      "In an unnamed South American country, a Japanese industrialist hosts a lavish party at the vice-president's mansion. The guest of honor is Roxane Coss, an American soprano. Terrorists storm the mansion, take everyone hostage, and demand the release of their imprisoned comrades. The siege lasts for months. The hostages and the terrorists bond over music. The government storms the mansion; most of the hostages are killed. Patchett's novel, published in 2001, won the PEN/Faulkner Award. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1352997328m/5826.jpg",
     numberOfPages: 402,
@@ -4920,7 +4920,7 @@ const books = [
     name: "Guns, Germs, and Steel: The Fates of Human Societies",
     author: "Jared Diamond",
     description:
-      "One of Jared Diamond's best-known history books, first published in 1997, it has become a favorite among readers of the genre.",
+      "Diamond's Pulitzer Prize-winning non-fiction book asks: why did Eurasian societies conquer Native American, African, and Australian societies, not the reverse? He argues that geography, not biology, explains inequality. Eurasia had more domesticable animals (horses, cows, pigs), more domesticable plants (wheat, barley), and an east-west axis (similar latitudes, so crops and animals could spread). The Americas had a north-south axis (different climates), fewer domesticable animals (only llamas), and fewer domesticable plants. Agriculture led to population density, which led to germs (to which Eurasians had immunity), writing (which Eurasians developed), and technology (which Eurasians invented). Diamond's book, published in 1997, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1453215833m/1842.jpg",
     numberOfPages: 725,
@@ -4932,7 +4932,7 @@ const books = [
     name: "Fried Green Tomatoes at the Whistle Stop Cafe",
     author: "Fannie Flagg",
     description:
-      "A widely read fiction work by Fannie Flagg, released in 1987, it remains a frequently recommended read in its category.",
+      "Evelyn Couch, a middle-aged woman in a nursing home, meets Ninny Threadgoode, an elderly woman who tells her stories about Whistle Stop, Alabama, in the 1920s-1940s. The stories focus on Idgie Threadgoode (Ninny's sister-in-law) and Ruth Jamison, who run the Whistle Stop Cafe. They serve fried green tomatoes, barbecue, and coffee. Idgie and Ruth are lovers. They are also involved in a murder: they kill Ruth's abusive husband and hide the body. Flagg's novel, published in 1987, was adapted into an Oscar-nominated film (1991). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Fried+Green+Tomatoes+at+the+Whistle+Stop+Cafe",
@@ -4945,7 +4945,7 @@ const books = [
     name: "Things Fall Apart",
     author: "Chinua Achebe",
     description:
-      "An acclaimed fiction book written by Chinua Achebe, since 1958, it has been praised for its storytelling and lasting appeal.",
+      "Okonkwo, a wealthy, powerful warrior in the Igbo village of Umuofia in Nigeria, is afraid of becoming like his father (a lazy debtor). He works hard, takes three wives, and earns the title of a great wrestler. He kills a boy who calls him 'father.' He is exiled for seven years. During his exile, British missionaries arrive in Umuofia. They convert his son, Nwoye, to Christianity. Okonkwo returns, finds his village divided, and kills a white messenger. He hangs himself. Achebe's novel, published in 1958, is a classic of postcolonial literature. It was one of the first African novels to be published in English. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1352082529m/37781.jpg",
     numberOfPages: 616,
@@ -4957,7 +4957,7 @@ const books = [
     name: "The Undomestic Goddess",
     author: "Sophie Kinsella",
     description:
-      "A celebrated work of romance from Sophie Kinsella, released in 2005, it remains a frequently recommended read in its category.",
+      "Samantha Sweeting, a high-powered corporate lawyer, has a breakdown. She forgets to check a clause in a contract, costing her firm £50 million. She flees London, gets on a train, and ends up in the countryside. A wealthy couple mistakes her for a housekeeper. She has no domestic skills. She burns water. She learns to cook, clean, and garden. She falls in love with the gardener. She returns to law, then quits. Kinsella's novel, published in 2005, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Undomestic+Goddess",
@@ -4970,7 +4970,7 @@ const books = [
     name: "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
     author: "Gary Chapman",
     description:
-      "A popular non-fiction title by Gary Chapman, since 1990, it has been praised for its storytelling and lasting appeal.",
+      "Chapman's self-help book argues that people express and receive love in five ways: words of affirmation, quality time, receiving gifts, acts of service, and physical touch. If you and your partner speak different 'languages,' you will not feel loved. He provides quizzes to identify your love language. The book, published in 1992, has sold over 20 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1369401342m/567795.jpg",
     numberOfPages: 405,
@@ -4982,7 +4982,7 @@ const books = [
     name: "The Three Musketeers",
     author: "Alexandre Dumas",
     description:
-      "An acclaimed classics book written by Alexandre Dumas, published in 1844, it continues to be discussed and recommended by readers.",
+      "D'Artagnan, a young Gascon, travels to Paris to join the Musketeers. He befriends Athos (a nobleman with a secret), Porthos (a glutton), and Aramis (a wannabe priest). They serve King Louis XIII and fight Cardinal Richelieu's guards. They travel to England to retrieve diamonds from the Duke of Buckingham. Dumas's novel, published in 1844, is a classic of adventure literature. It has been adapted into countless films. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1320436982m/7190.jpg",
     numberOfPages: 526,
@@ -4994,7 +4994,7 @@ const books = [
     name: "Little Bee",
     author: "Chris Cleave",
     description:
-      "An acclaimed historical fiction book written by Chris Cleave, since 2008, it has been praised for its storytelling and lasting appeal.",
+      "Little Bee, a Nigerian teenage refugee, is detained in a British immigration detention center. She is about to be deported. She calls Sarah O'Rourke, a British magazine editor she met on a beach in Nigeria two years earlier. On that beach, Sarah, on vacation with her husband Andrew, encountered Little Bee and her sister, who were fleeing from oil-company thugs. Andrew, trying to save the girls, cut off his own finger. He later committed suicide. Sarah helps Little Bee escape. Little Bee is captured and killed. Cleave's novel, published in 2008, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1344401905m/6948436.jpg",
     numberOfPages: 598,
@@ -5006,7 +5006,7 @@ const books = [
     name: "Evermore",
     author: "Alyson Noel",
     description:
-      "One of Alyson Noel's best-known young adult books, first published in 2009, it has become a favorite among readers of the genre.",
+      "The first book of the Immortals series. Ever Bloom, a sixteen-year-old girl, is the sole survivor of a car crash that killed her parents and her sister. She gains psychic powers: she can read minds, see auras, and hear people's thoughts. She meets Damen Auguste, a mysterious boy who is immune to her powers. He is an immortal (a 600-year-old alchemist). They fall in love. Noel's novel, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1362336360m/3975774.jpg",
     numberOfPages: 153,
@@ -5018,7 +5018,7 @@ const books = [
     name: "The Witches",
     author: "Roald Dahl, Quentin Blake",
     description:
-      "A celebrated work of children from Roald Dahl, Quentin Blake, published in 1983, it continues to be discussed and recommended by readers.",
+      "A young boy (the narrator) and his grandmother (a retired witch hunter) go to a hotel in England. The hotel is hosting the annual meeting of the Royal Society for the Prevention of Cruelty to Children—which is actually a convention of witches. The witches (led by the Grand High Witch) plan to turn all children into mice. The boy is turned into a mouse. He steals the witches' formula, pours it into their soup, and turns them all into mice. Dahl's novel, published in 1983, was adapted into a film (1990) and a musical. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1351707720m/6327.jpg",
     numberOfPages: 626,
@@ -5030,7 +5030,7 @@ const books = [
     name: "The Thirteenth Tale",
     author: "Diane Setterfield",
     description:
-      "One of Diane Setterfield's best-known fiction books, published in 2006, it continues to be discussed and recommended by readers.",
+      "Margaret Lea, a biographer, is summoned by Vida Winter, a famous author who is dying. Miss Winter tells Margaret her life story: she is one of twins, raised in a haunted house; her sister died; she ran away; she changed her name. The story is not true: Miss Winter is not an orphan; she is a murderer. Setterfield's debut novel, published in 2006, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1346267826m/40440.jpg",
     numberOfPages: 619,
@@ -5042,7 +5042,7 @@ const books = [
     name: "Spirit Bound",
     author: "Richelle Mead",
     description:
-      "One of Richelle Mead's best-known young adult books, published in 2010, it continues to be discussed and recommended by readers.",
+      "The fifth book of the Vampire Academy series. Rose, a guardian, is in love with Dimitri, who has been turned into a Strigoi (evil vampire). She finds a way to restore him: she kills him (stakes him), and he returns to his human self. Mead's novel, published in 2010, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1291168967m/6479259.jpg",
     numberOfPages: 559,
@@ -5054,7 +5054,7 @@ const books = [
     name: "Blood Promise",
     author: "Richelle Mead",
     description:
-      "A widely read young adult work by Richelle Mead, first published in 2009, it has become a favorite among readers of the genre.",
+      "The fourth book of the Vampire Academy series. Rose travels to Siberia to find Dimitri, who has been turned into a Strigoi. She finds him, but she cannot save him. She kills him (stakes him). She returns home. Mead's novel, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1442530605m/5996153.jpg",
     numberOfPages: 281,
@@ -5066,7 +5066,7 @@ const books = [
     name: "Message in a Bottle",
     author: "Nicholas Sparks",
     description:
-      "A popular romance title by Nicholas Sparks, published in 1998, it continues to be discussed and recommended by readers.",
+      "Theresa Osborne, a divorced mother and a journalist, finds a message in a bottle on a Cape Cod beach. The message is a love letter from a man named Garrett to his dead wife, Catherine. She publishes the letter. Garrett reads it, contacts her, and they fall in love. Garrett dies in a storm at sea. Sparks's second novel, published in 1998, was adapted into a film (1999) starring Kevin Costner. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1163789140m/3478.jpg",
     numberOfPages: 524,
@@ -5078,7 +5078,7 @@ const books = [
     name: "The Paris Wife",
     author: "Paula McLain",
     description:
-      "A widely read historical fiction work by Paula McLain, published in 2011, it continues to be discussed and recommended by readers.",
+      "A novel about Ernest Hemingway's first wife, Hadley Richardson. They meet in Chicago, marry, and move to Paris. Hadley supports Hemingway as he writes his first novel, The Sun Also Rises. She loses a suitcase containing his manuscripts. They divorce (Hemingway has an affair). The novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1320545874m/8683812.jpg",
     numberOfPages: 666,
@@ -5090,7 +5090,7 @@ const books = [
     name: "Harry Potter Boxset (Harry Potter, #1-7)",
     author: "J.K. Rowling",
     description:
-      "A celebrated work of fiction from J.K. Rowling, first published in 1998, it has become a favorite among readers of the genre.",
+      "A boxed set of all seven Harry Potter novels: Harry Potter and the Sorcerer's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix, Harry Potter and the Half-Blood Prince, and Harry Potter and the Deathly Hallows. The series follows the orphaned wizard Harry Potter as he attends Hogwarts School of Witchcraft and Wizardry, makes friends, battles the dark wizard Lord Voldemort, and discovers the power of love and sacrifice. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1392579059m/862041.jpg",
     numberOfPages: 191,
@@ -5102,7 +5102,7 @@ const books = [
     name: "The Elite",
     author: "Kiera Cass",
     description:
-      "One of Kiera Cass's best-known young adult books, first published in 2013, it has become a favorite among readers of the genre.",
+      "The second book of The Selection series. America Singer is one of six finalists in the Selection, a competition to win the heart of Prince Maxon. She is in love with Maxon, but she is also in love with Aspen, her ex-boyfriend. She is torn. She chooses Maxon. Cass's novel, published in 2013, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1391454595m/16248068.jpg",
     numberOfPages: 471,
@@ -5114,7 +5114,7 @@ const books = [
     name: "The Name of the Rose",
     author: "Umberto Eco, William Weaver, Seán Barrett",
     description:
-      "A celebrated work of fiction from Umberto Eco, William Weaver, Seán Barrett, first published in 1980, it has become a favorite among readers of the genre.",
+      "In 1327, William of Baskerville, a Franciscan friar, and his novice, Adso of Melk, travel to a Benedictine monastery in northern Italy. Monks are dying under mysterious circumstances. William investigates, uncovering a secret library, a forbidden book (Aristotle's lost treatise on comedy), and a murderer. The killer is the blind librarian, Jorge, who has been poisoning the pages of the book. Eco's novel, published in 1980, was a bestseller and adapted into a film (1986) starring Sean Connery. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1415375471m/119073.jpg",
     numberOfPages: 205,
@@ -5126,7 +5126,7 @@ const books = [
     name: "Go Ask Alice",
     author: "Beatrice Sparks, Anonymous",
     description:
-      "A celebrated work of fiction from Beatrice Sparks, Anonymous, published in 1971, it continues to be discussed and recommended by readers.",
+      "A diary of a teenage girl who becomes addicted to drugs. She is an anonymous fifteen-year-old. She is introduced to LSD and marijuana at a party. She runs away. She becomes a prostitute. She returns home. She dies of an overdose. The book, published in 1971, was a bestseller and adapted into a TV film (1973). It was later revealed to be a hoax: it was written by Beatrice Sparks, a Mormon therapist. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327870536m/46799.jpg",
     numberOfPages: 289,
@@ -5138,7 +5138,7 @@ const books = [
     name: "A Confederacy of Dunces",
     author: "John Kennedy Toole, Walker Percy",
     description:
-      "A widely read fiction work by John Kennedy Toole, Walker Percy, first published in 1980, it has become a favorite among readers of the genre.",
+      "Ignatius J. Reilly, an overweight, slothful, medievalist living with his mother in New Orleans, is forced to find a job. He works as a hot dog vendor, a filing clerk, and a worker at a pants factory. He causes chaos wherever he goes. The novel, published in 1980 (11 years after Toole's suicide), won the Pulitzer Prize. Toole's mother found the manuscript and persuaded Walker Percy to publish it. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1436747103m/310612.jpg",
     numberOfPages: 262,
@@ -5150,7 +5150,7 @@ const books = [
     name: "The Importance of Being Earnest",
     author: "Oscar Wilde",
     description:
-      "One of Oscar Wilde's best-known classics books, since its release in 1895, it has earned a large readership worldwide.",
+      "A play about mistaken identities, love, and the hypocrisy of Victorian society. Jack Worthing has invented a brother named Ernest (so he can escape to London to see his beloved, Gwendolen). Algernon Moncrieff has invented a friend named Bunbury (so he can escape to the country). Both men pretend to be Ernest. The play ends with Jack discovering that he was actually named Ernest at birth. Wilde's play, published in 1895, is a classic of comedy. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Importance+of+Being+Earnest",
@@ -5163,7 +5163,7 @@ const books = [
     name: "The Mark of Athena",
     author: "Rick Riordan",
     description:
-      "A popular fantasy title by Rick Riordan, since its release in 2012, it has earned a large readership worldwide.",
+      "The third book of The Heroes of Olympus series. The Greek and Roman demigods (Percy, Annabeth, Jason, Piper, Leo, Frank, and Hazel) must sail to Rome to find the Mark of Athena, a statue that will unite the two camps. Annabeth goes alone, following the mark. She finds the statue. Riordan's novel, published in 2012, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1464201354m/12127750.jpg",
     numberOfPages: 376,
@@ -5175,7 +5175,7 @@ const books = [
     name: "The Color of Magic",
     author: "Terry Pratchett",
     description:
-      "A widely read fantasy work by Terry Pratchett, released in 1983, it remains a frequently recommended read in its category.",
+      "The first book of the Discworld series (41 books). Discworld is a flat world balanced on the backs of four elephants, who stand on the back of a giant turtle. The novel follows Rincewind, a failed wizard, and Twoflower, the Discworld's first tourist. They travel across Discworld, encountering dragons, trolls, and a magical luggage (a chest with hundreds of legs). Pratchett's novel, published in 1983, launched a best-selling series. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1407111017m/34497.jpg",
     numberOfPages: 408,
@@ -5187,7 +5187,7 @@ const books = [
     name: "Kafka on the Shore",
     author: "Haruki Murakami, Philip Gabriel",
     description:
-      "One of Haruki Murakami, Philip Gabriel's best-known fiction books, released in 2002, it remains a frequently recommended read in its category.",
+      "The novel follows two parallel stories: Kafka Tamura, a fifteen-year-old boy who runs away from home to escape his father's prophecy (that he will kill his father and sleep with his mother and sister); and Nakata, an elderly man who can talk to cats. Their stories converge. Kafka kills his father (possibly). Nakata helps him. Murakami's novel, published in 2002, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Kafka+on+the+Shore",
@@ -5200,7 +5200,7 @@ const books = [
     name: "Red Dragon",
     author: "Thomas Harris",
     description:
-      "An acclaimed horror book written by Thomas Harris, since its release in 1981, it has earned a large readership worldwide.",
+      "The first book of the Hannibal Lecter series. Will Graham, an FBI profiler, is hunting a serial killer who murders families during full moons (the Tooth Fairy). He visits Hannibal Lecter, a brilliant psychiatrist who is also a cannibalistic serial killer, in prison for advice. Lecter helps him, then betrays him. Graham catches the killer. Harris's novel, published in 1981, was adapted into two films (Manhunter, 1986, and Red Dragon, 2002). Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Red+Dragon",
     numberOfPages: 410,
@@ -5212,7 +5212,7 @@ const books = [
     name: "I, Robot",
     author: "Isaac Asimov",
     description:
-      "A celebrated work of science fiction from Isaac Asimov, published in 1950, it continues to be discussed and recommended by readers.",
+      "A collection of short stories about robots. Asimov introduces the Three Laws of Robotics: 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2) A robot must obey the orders given it by human beings except where such orders would conflict with the First Law. 3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law. The stories explore the unintended consequences of these laws. Asimov's book, published in 1950, was adapted into a film (2004) starring Will Smith. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1388321463m/41804.jpg",
     numberOfPages: 363,
@@ -5224,7 +5224,7 @@ const books = [
     name: "Dark Lover",
     author: "J.R. Ward",
     description:
-      "A celebrated work of romance from J.R. Ward, released in 2005, it remains a frequently recommended read in its category.",
+      "The first book of the Black Dagger Brotherhood series (20 books and counting). Wrath, the last purebred vampire, is the king of his race. He meets Beth, a half-vampire who is unaware of her heritage. They fall in love. He turns her into a vampire. Ward's novel, published in 2005, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1429676285m/42899.jpg",
     numberOfPages: 668,
@@ -5236,7 +5236,7 @@ const books = [
     name: "Crescendo",
     author: "Becca Fitzpatrick",
     description:
-      "One of Becca Fitzpatrick's best-known young adult books, released in 2010, it remains a frequently recommended read in its category.",
+      "The second book of the Hush, Hush series. Nora and Patch are dating. Patch's past catches up with him: his ex-girlfriend, a fallen angel, wants him back. Nora's father, who was murdered, was a Nephilim (half-angel). She investigates his death. Fitzpatrick's novel, published in 2010, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1362408146m/7791997.jpg",
     numberOfPages: 531,
@@ -5248,7 +5248,7 @@ const books = [
     name: "Before I Fall",
     author: "Lauren Oliver",
     description:
-      "A widely read young adult work by Lauren Oliver, since its release in 2010, it has earned a large readership worldwide.",
+      "Samantha Kingston, a popular high school senior, dies in a car crash on February 12. She wakes up on February 12 again. She relives the same day seven times. Each time, she changes something. She learns to be kind. She sacrifices herself to save a girl. Oliver's debut novel, published in 2010, was a bestseller and adapted into a film (2017). Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361044695m/6482837.jpg",
     numberOfPages: 336,
@@ -5260,7 +5260,7 @@ const books = [
     name: "The God of Small Things",
     author: "Arundhati Roy",
     description:
-      "An acclaimed fiction book written by Arundhati Roy, since its release in 1997, it has earned a large readership worldwide.",
+      "The novel follows the twins, Rahel and Estha, in Kerala, India, in 1969. Their English cousin, Sophie Mol, visits and drowns. Their mother, Ammu, falls in love with a Untouchable, Velutha. The police beat him. The children, forced to testify, lie. Velutha dies. The novel, published in 1997, won the Booker Prize. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1436217001m/9777.jpg",
     numberOfPages: 434,
@@ -5272,7 +5272,7 @@ const books = [
     name: "The Invention of Wings",
     author: "Sue Monk Kidd",
     description:
-      "A popular historical fiction title by Sue Monk Kidd, published in 2014, it continues to be discussed and recommended by readers.",
+      "The novel follows two women in 19th-century Charleston, South Carolina: Sarah Grimké, a white abolitionist and feminist, and Handful, her slave. Sarah teaches Handful to read. Handful, whose mother is a skilled seamstress, tries to escape. She is caught and punished. Sarah moves to Philadelphia, becomes a Quaker, and speaks against slavery. Handful escapes. Kidd's novel, published in 2014, was a bestseller and an Oprah's Book Club selection. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1386699861m/18079776.jpg",
     numberOfPages: 322,
@@ -5284,7 +5284,7 @@ const books = [
     name: "What Alice Forgot",
     author: "Liane Moriarty",
     description:
-      "A popular fiction title by Liane Moriarty, first published in 2009, it has become a favorite among readers of the genre.",
+      "Alice Love, a thirty-nine-year-old mother, falls off a spin bike and hits her head. She wakes up thinking she is twenty-nine. She has forgotten ten years of her life: her marriage to Nick (they are separated), her three children (she thought she had none), her strained relationship with her sister (they are close), and her business (she is a successful event planner). She pieces together her life. She reconciles with Nick. Moriarty's novel, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1377159022m/6469165.jpg",
     numberOfPages: 693,
@@ -5296,7 +5296,7 @@ const books = [
     name: "A Brief History of Time",
     author: "Stephen Hawking, Cao Chi, Phạm Văn Thiều",
     description:
-      "A widely read science work by Stephen Hawking, Cao Chi, Phạm Văn Thiều, released in 1987, it remains a frequently recommended read in its category.",
+      "Hawking's non-fiction book explains cosmology for the general public. He covers the Big Bang, black holes, light cones, string theory, the arrow of time, and the search for a unified theory. The book, published in 1987, has sold over 25 million copies. It spent 237 weeks on the London Sunday Times bestseller list. Since its release, it remains a frequently recommended read in its category.",
     genre: "Science",
     coverPage: "https://images.gr-assets.com/books/1333578746m/3869.jpg",
     numberOfPages: 613,
@@ -5308,7 +5308,7 @@ const books = [
     name: "Fall of Giants",
     author: "Ken Follett",
     description:
-      "A celebrated work of historical fiction from Ken Follett, since 2010, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Century Trilogy. The novel follows five families (American, English, German, Russian, and Welsh) through World War I and the Russian Revolution. It covers the sinking of the Lusitania, the Battle of the Somme, the Easter Rising in Ireland, and the Bolshevik Revolution. Follett's novel, published in 2010, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1470384630m/7315573.jpg",
     numberOfPages: 743,
@@ -5320,7 +5320,7 @@ const books = [
     name: "Under the Dome",
     author: "Stephen King",
     description:
-      "A widely read horror work by Stephen King, released in 2009, it remains a frequently recommended read in its category.",
+      "The town of Chester's Mill, Maine, is sealed off by an invisible, indestructible dome. The dome traps the residents. They run out of food, water, and electricity. The town's selectman, Big Jim Rennie, a meth dealer, takes control. He executes people. A small group of residents discovers that the dome was created by aliens as a human experiment. They shut it down. King's novel, published in 2009, was adapted into a TV series (2013-2015). Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1268982908m/6320534.jpg",
     numberOfPages: 698,
@@ -5332,7 +5332,7 @@ const books = [
     name: "Snow Crash",
     author: "Neal Stephenson",
     description:
-      "An acclaimed science fiction book written by Neal Stephenson, released in 1992, it remains a frequently recommended read in its category.",
+      "Hiro Protagonist (a hacker and pizza delivery driver) and Y.T. (a skateboarding courier) investigate a drug called Snow Crash, which is a computer virus that affects humans (it crashes their brains). They discover that Snow Crash is ancient Sumerian (it is the god Enki's language). The novel, published in 1992, coined the term 'avatar' (a virtual representation of a user). Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1477624625m/830.jpg",
     numberOfPages: 421,
@@ -5344,7 +5344,7 @@ const books = [
     name: "Just Listen",
     author: "Sarah Dessen",
     description:
-      "An acclaimed young adult book written by Sarah Dessen, released in 2006, it remains a frequently recommended read in its category.",
+      "Annabel Greene, a former model, is ostracized by her best friend, Sophie. She meets Owen, a boy who is obsessed with music. He helps her confront the truth: at a party, Sophie's boyfriend tried to rape her; Sophie blames her. Dessen's novel, published in 2006, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1358270741m/51738.jpg",
     numberOfPages: 741,
@@ -5356,7 +5356,7 @@ const books = [
     name: "Winnie-the-Pooh",
     author: "A.A. Milne, Ernest H. Shepard",
     description:
-      "One of A.A. Milne, Ernest H. Shepard's best-known fiction books, released in 1926, it remains a frequently recommended read in its category.",
+      "A collection of stories about Winnie-the-Pooh, a teddy bear, and his friends in the Hundred Acre Wood: Piglet, Eeyore, Tigger, Rabbit, Owl, Kanga, and Roo. Pooh gets stuck in Rabbit's door, Piglet meets a Heffalump, Eeyore loses his tail, and Tigger bounces. Milne's book, published in 1926, has become a classic of children's literature. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Winnie-the-Pooh",
@@ -5369,7 +5369,7 @@ const books = [
     name: "Before I Go to Sleep",
     author: "S.J. Watson",
     description:
-      "A widely read fiction work by S.J. Watson, published in 2011, it continues to be discussed and recommended by readers.",
+      "Christine Lucas, a forty-year-old woman, wakes up every day with no memory of her past. She has amnesia (anterograde and retrograde). She keeps a journal, written by her doctor, that tells her: her husband, Ben, is not who he says he is. Her real husband is dead. She was attacked and raped by a man named Mike. Watson's debut novel, published in 2011, was a bestseller and adapted into a film (2014) starring Nicole Kidman. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358353512m/9736930.jpg",
     numberOfPages: 385,
@@ -5381,7 +5381,7 @@ const books = [
     name: "A Study in Scarlet",
     author: "Arthur Conan Doyle",
     description:
-      "One of Arthur Conan Doyle's best-known classics books, since 1887, it has been praised for its storytelling and lasting appeal.",
+      "The first Sherlock Holmes novel. Dr. John Watson, a former army doctor, meets Sherlock Holmes, a brilliant detective. They investigate a murder in an abandoned house: the victim is an American; there is no wound, only the word 'RACHE' ('revenge' in German) written in blood. The murderer is Jefferson Hope, a cab driver whose fiancée was forced to marry another man. Doyle's novel, published in 1887, introduced the character of Sherlock Holmes. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Study+in+Scarlet",
@@ -5394,7 +5394,7 @@ const books = [
     name: "Brisingr",
     author: "Christopher Paolini",
     description:
-      "A popular fantasy title by Christopher Paolini, since 2008, it has been praised for its storytelling and lasting appeal.",
+      "The third book of the Inheritance Cycle. Eragon, the Dragon Rider, continues his training. He learns the secrets of the Riders. He forges a new sword (Brisingr, meaning 'fire' in the ancient language). He defeats the Empire's army. Paolini's novel, published in 2008, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Brisingr",
     numberOfPages: 409,
@@ -5406,7 +5406,7 @@ const books = [
     name: "The Purpose Driven Life: What on Earth Am I Here for?",
     author: "Rick Warren",
     description:
-      "A popular non-fiction title by Rick Warren, since 2002, it has been praised for its storytelling and lasting appeal.",
+      "Warren's Christian self-help book argues that life is about purpose, not happiness. He describes five purposes: worship (living for God), fellowship (belonging to a church), discipleship (becoming like Christ), ministry (serving others), and mission (sharing the gospel). The book, published in 2002, has sold over 30 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Purpose+Driven+Life:+What+on+Earth+Am+I+Here+for?",
@@ -5419,7 +5419,7 @@ const books = [
     name: "Betrayed",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "A widely read young adult work by P.C. Cast, Kristin Cast, first published in 2007, it has become a favorite among readers of the genre.",
+      "The second book of the House of Night series. Zoey, the new High Priestess at the House of Night, discovers that her boyfriend, Heath, has been marked. She must save him. Cast's novel, published in 2007, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Betrayed",
     numberOfPages: 376,
@@ -5431,7 +5431,7 @@ const books = [
     name: "Storm Front",
     author: "Jim Butcher",
     description:
-      "One of Jim Butcher's best-known fantasy books, released in 2000, it remains a frequently recommended read in its category.",
+      "The first book of The Dresden Files series (17 books and counting). Harry Dresden, a wizard and private investigator in Chicago, is hired to find a missing husband. He is also hired by the police to solve a double murder (magic was used). He discovers that the same man is behind both cases. He kills him. Butcher's novel, published in 2000, launched a best-selling series. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1419456275m/47212.jpg",
     numberOfPages: 592,
@@ -5443,7 +5443,7 @@ const books = [
     name: "Northanger Abbey",
     author: "Jane Austen, Alfred MacAdam",
     description:
-      "An acclaimed classics book written by Jane Austen, Alfred MacAdam, since 1817, it has been praised for its storytelling and lasting appeal.",
+      "Catherine Morland, a seventeen-year-old girl, is invited to Bath. She reads Gothic novels and imagines that General Tilney, her host, has murdered his wife. She is wrong. She falls in love with Henry Tilney. Austen's novel, published posthumously in 1817, is a parody of Gothic fiction. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Northanger+Abbey",
@@ -5456,7 +5456,7 @@ const books = [
     name: "The 5th Wave",
     author: "Rick Yancey",
     description:
-      "A widely read young adult work by Rick Yancey, since its release in 2013, it has earned a large readership worldwide.",
+      "The first book of The 5th Wave trilogy. Aliens have attacked Earth in four waves: 1) an electromagnetic pulse destroys all electronics; 2) an earthquake destroys coastal cities; 3) a plague kills most humans; 4) aliens (who look human) infiltrate. The fifth wave is extinction. Cassie Sullivan, a sixteen-year-old girl, is fighting to survive. Yancey's novel, published in 2013, was a bestseller and adapted into a film (2016). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1359853842m/16101128.jpg",
     numberOfPages: 650,
@@ -5468,7 +5468,7 @@ const books = [
     name: "Cold Mountain",
     author: "Charles Frazier",
     description:
-      "One of Charles Frazier's best-known historical fiction books, since 1997, it has been praised for its storytelling and lasting appeal.",
+      "Inman, a wounded Confederate soldier, deserts the army and walks home to Cold Mountain, North Carolina, to be reunited with Ada Monroe, a woman he loves. Ada, a minister's daughter, is learning to farm. The novel, published in 1997, won the National Book Award and was adapted into an Oscar-winning film (2003). Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Cold+Mountain",
     numberOfPages: 196,
@@ -5480,7 +5480,7 @@ const books = [
     name: "If You Give a Mouse a Cookie",
     author: "Laura Joffe Numeroff, Felicia Bond",
     description:
-      "A widely read children work by Laura Joffe Numeroff, Felicia Bond, first published in 1985, it has become a favorite among readers of the genre.",
+      "A boy gives a mouse a cookie. The mouse asks for a glass of milk. Then a straw. Then a napkin. Then a mirror. Then a haircut. Then a broom. Then a mop. Then a bed. Then a story. Then a pillow. Then a glass of milk. Then a cookie. The story ends where it begins. Numeroff's book, published in 1985, has sold over 15 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1276046901m/767680.jpg",
     numberOfPages: 152,
@@ -5492,7 +5492,7 @@ const books = [
     name: "Something Blue",
     author: "Emily Giffin",
     description:
-      "A celebrated work of fiction from Emily Giffin, released in 2005, it remains a frequently recommended read in its category.",
+      "The sequel to Something Borrowed. Darcy Rhone, the beautiful, selfish best friend of Rachel (who stole her fiancé), is pregnant with the baby of her ex-boyfriend, who has left her. She moves to London, meets Ethan (Rachel's gay friend), and falls in love with him. He is not gay. She gets married. Giffin's novel, published in 2005, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Something+Blue",
     numberOfPages: 461,
@@ -5504,7 +5504,7 @@ const books = [
     name: "A Streetcar Named Desire",
     author: "Tennessee Williams",
     description:
-      "A widely read classics work by Tennessee Williams, since 1947, it has been praised for its storytelling and lasting appeal.",
+      "Blanche DuBois, a fading Southern belle, moves to New Orleans to live with her sister, Stella, and Stella's husband, Stanley Kowalski. Stanley is crude, animalistic, and violent. He rapes Blanche. She has a breakdown. She is committed to a mental hospital. Williams's play, published in 1947, won the Pulitzer Prize and was adapted into a film (1951) starring Marlon Brando. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Streetcar+Named+Desire",
@@ -5517,7 +5517,7 @@ const books = [
     name: "The Historian",
     author: "Elizabeth Kostova",
     description:
-      "A celebrated work of fiction from Elizabeth Kostova, since its release in 2005, it has earned a large readership worldwide.",
+      "A young woman discovers a book in her father's library: a history of Dracula, illustrated with woodcuts. Her father tells her that Dracula is real, and that he has been searching for his grave for years. She joins him. The novel, published in 2005, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1338298031m/10692.jpg",
     numberOfPages: 573,
@@ -5529,7 +5529,7 @@ const books = [
     name: "Station Eleven",
     author: "Emily St. John Mandel",
     description:
-      "A celebrated work of fiction from Emily St. John Mandel, released in 2014, it remains a frequently recommended read in its category.",
+      "A flu pandemic kills 99% of the world's population. The novel follows the survivors: a traveling theater company (the Symphony) that performs Shakespeare and music; a prophet who wants to destroy them; and Arthur Leander, an actor who died of a heart attack on the night of the pandemic. Mandel's novel, published in 2014, was a bestseller and adapted into an HBO miniseries (2021). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1451446835m/20170404.jpg",
     numberOfPages: 286,
@@ -5541,7 +5541,7 @@ const books = [
     name: "A Man Called Ove",
     author: "Fredrik Backman, Henning Koch",
     description:
-      "One of Fredrik Backman, Henning Koch's best-known fiction books, released in 2012, it remains a frequently recommended read in its category.",
+      "Ove, a fifty-nine-year-old grumpy widower, has been forced into retirement. He decides to kill himself. His new neighbors, a pregnant Iranian woman and her husband, keep interrupting him. He becomes friends with them. He dies of a heart attack. Backman's novel, published in 2012, was a bestseller and adapted into a film (2015) and an American remake (2022). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1405259930m/18774964.jpg",
     numberOfPages: 636,
@@ -5553,7 +5553,7 @@ const books = [
     name: "Clockwork Princess",
     author: "Cassandra Clare",
     description:
-      "One of Cassandra Clare's best-known fantasy books, since its release in 2013, it has earned a large readership worldwide.",
+      "The third book of The Infernal Devices series. Tessa, Will, and Jem are in love. Jem is dying (he is addicted to a drug that keeps him alive). Will and Tessa marry. Jem becomes a Silent Brother (a monk-like Shadowhunter). Clare's novel, published in 2013, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1436788488m/18335634.jpg",
     numberOfPages: 164,
@@ -5565,7 +5565,7 @@ const books = [
     name: "The Good Earth",
     author: "Pearl S. Buck",
     description:
-      "One of Pearl S. Buck's best-known fiction books, since its release in 1931, it has earned a large readership worldwide.",
+      "Wang Lung, a poor farmer in pre-revolutionary China, marries O-lan, a slave. They work hard, have children, and become wealthy. Wang Lung buys a concubine, neglects O-lan, and loses his connection to the land. O-lan dies. Wang Lung's sons sell the land. Buck's novel, published in 1931, won the Pulitzer Prize. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1312497600m/1078.jpg",
     numberOfPages: 611,
@@ -5577,7 +5577,7 @@ const books = [
     name: "Ways of Seeing",
     author: "John Berger",
     description:
-      "A widely read non-fiction work by John Berger, first published in 1972, it has become a favorite among readers of the genre.",
+      "Berger's non-fiction book argues that the way we see art is influenced by social and cultural assumptions. He analyzes the male gaze in European oil paintings (women are objects for male viewers). He discusses the use of publicity (advertising) to manipulate consumers. The book, published in 1972, was based on a BBC TV series. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1464018308m/2784.jpg",
     numberOfPages: 298,
@@ -5589,7 +5589,7 @@ const books = [
     name: "Dragonfly in Amber",
     author: "Diana Gabaldon",
     description:
-      "A popular historical fiction title by Diana Gabaldon, published in 1992, it continues to be discussed and recommended by readers.",
+      "The second book of the Outlander series. Claire and Jamie are in Paris, trying to stop the Jacobite rebellion. They fail. Claire returns to the 20th century. Gabaldon's novel, published in 1992, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1456114344m/5364.jpg",
     numberOfPages: 420,
@@ -5601,7 +5601,7 @@ const books = [
     name: "Holy Bible: King James Version",
     author: "Anonymous",
     description:
-      "A widely read religion work by Anonymous, first published in 1611, it has become a favorite among readers of the genre.",
+      "The King James Version of the Bible, first published in 1611. It is the authorized translation of the Christian Bible into English. It has been called the most influential book in the English language. Since its release, it has earned a large readership worldwide.",
     genre: "Religion",
     coverPage: "https://images.gr-assets.com/books/1313518530m/1923820.jpg",
     numberOfPages: 725,
@@ -5613,7 +5613,7 @@ const books = [
     name: "In Her Shoes",
     author: "Jennifer Weiner",
     description:
-      "A popular fiction title by Jennifer Weiner, since 2002, it has been praised for its storytelling and lasting appeal.",
+      "Rose and Maggie, two sisters, are opposites: Rose is a successful lawyer who is overweight and shy; Maggie is a beautiful, unemployed party girl. Rose's fiancé sleeps with Maggie; they stop speaking. They reconcile. Weiner's novel, published in 2002, was adapted into a film (2005) starring Cameron Diaz and Toni Collette. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1435252471m/14758.jpg",
     numberOfPages: 742,
@@ -5625,7 +5625,7 @@ const books = [
     name: "The Hobbit: Graphic Novel",
     author: "Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming",
     description:
-      "An acclaimed fantasy book written by Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming, since 1989, it has been praised for its storytelling and lasting appeal.",
+      "A graphic novel adaptation of J.R.R. Tolkien's The Hobbit. It follows Bilbo Baggins, a hobbit, who is recruited by the wizard Gandalf to help a company of dwarves reclaim their treasure from the dragon Smaug. The adaptation was published in 1989. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1374681632m/659469.jpg",
     numberOfPages: 680,
@@ -5637,7 +5637,7 @@ const books = [
     name: "The Brief Wondrous Life of Oscar Wao",
     author: "Junot Díaz",
     description:
-      "An acclaimed fiction book written by Junot Díaz, since its release in 2007, it has earned a large readership worldwide.",
+      "Oscar de León, a Dominican-American nerd living in New Jersey, is overweight, loves science fiction and fantasy, and cannot get a girlfriend. He is cursed by the fukú, a family curse. He returns to the Dominican Republic, falls in love with a woman named Ybón, and is killed by her boyfriend. Díaz's novel, published in 2007, won the Pulitzer Prize. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1391409748m/297673.jpg",
     numberOfPages: 319,
@@ -5649,7 +5649,7 @@ const books = [
     name: "Their Eyes Were Watching God",
     author: "Zora Neale Hurston",
     description:
-      "A widely read classics work by Zora Neale Hurston, first published in 1937, it has become a favorite among readers of the genre.",
+      "Janie Crawford, a black woman in Florida, tells her life story to her best friend. She is married at 16 to Logan Killicks, a farmer; she leaves him for Joe Starks, a mayor; he dies; she marries Tea Cake, a younger man; he is bitten by a rabid dog and goes mad; she shoots him in self-defense. Hurston's novel, published in 1937, was rediscovered in the 1970s. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1368072803m/37415.jpg",
     numberOfPages: 213,
@@ -5661,7 +5661,7 @@ const books = [
     name: "Fantastic Beasts and Where to Find Them",
     author: "Newt Scamander, J.K. Rowling, Albus Dumbledore",
     description:
-      "A celebrated work of young adult from Newt Scamander, J.K. Rowling, Albus Dumbledore, first published in 2001, it has become a favorite among readers of the genre.",
+      "A textbook about magical creatures, written by Newt Scamander, a magizoologist. The book is used by students at Hogwarts School of Witchcraft and Wizardry. The book was published in 2001 (as a charity book) and adapted into a film series (2016-2022). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1303738520m/41899.jpg",
     numberOfPages: 565,
@@ -5673,7 +5673,7 @@ const books = [
     name: "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
     author: "Malala Yousafzai, Christina Lamb",
     description:
-      "One of Malala Yousafzai, Christina Lamb's best-known non-fiction books, since its release in 2012, it has earned a large readership worldwide.",
+      "Malala Yousafzai, a Pakistani girl, wrote a blog for the BBC about her life under the Taliban. In 2012, she was shot in the head by a Taliban gunman for advocating for girls' education. She survived. She became the youngest Nobel Peace Prize laureate (2014). Her memoir, published in 2012, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1375414895m/17851885.jpg",
     numberOfPages: 313,
@@ -5685,7 +5685,7 @@ const books = [
     name: "Mansfield Park",
     author: "Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont",
     description:
-      "A widely read fiction work by Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont, first published in 1814, it has become a favorite among readers of the genre.",
+      "Fanny Price, a poor girl from a large family, is sent to live with her wealthy aunt and uncle at Mansfield Park. She is treated as an inferior. She falls in love with her cousin, Edmund. He marries her. Austen's novel, published in 1814, is her most controversial (Fanny is passive and moralistic). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1397063295m/45032.jpg",
     numberOfPages: 162,
@@ -5697,7 +5697,7 @@ const books = [
     name: "Man's Search for Meaning",
     author: "Viktor E. Frankl",
     description:
-      "A celebrated work of non-fiction from Viktor E. Frankl, since 1946, it has been praised for its storytelling and lasting appeal.",
+      "Frankl's memoir of his experience in Nazi concentration camps. He argues that the primary drive in humans is not pleasure (Freud) but the search for meaning. He develops logotherapy, a form of psychotherapy that helps patients find meaning. The book, published in 1946, has sold over 10 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1467136625m/4069.jpg",
     numberOfPages: 351,
@@ -5709,7 +5709,7 @@ const books = [
     name: "In the Woods",
     author: "Tana French",
     description:
-      "One of Tana French's best-known mystery books, published in 2007, it continues to be discussed and recommended by readers.",
+      "The first book of the Dublin Murder Squad series. Detectives Rob Ryan and Cassie Maddox investigate the murder of a twelve-year-old girl in a small Irish town. The case is connected to the disappearance of two children (Ryan among them) twenty years earlier. French's novel, published in 2007, won the Edgar Award. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1348442606m/237209.jpg",
     numberOfPages: 354,
@@ -5721,7 +5721,7 @@ const books = [
     name: "The God Delusion",
     author: "Richard Dawkins",
     description:
-      "A celebrated work of non-fiction from Richard Dawkins, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "Dawkins's argument against the existence of God. He argues that the universe is governed by natural laws, not supernatural beings. He criticizes religion for causing violence, suppressing science, and promoting irrationality. The book, published in 2006, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1347220693m/14743.jpg",
     numberOfPages: 669,
@@ -5733,7 +5733,7 @@ const books = [
     name: "Where She Went",
     author: "Gayle Forman",
     description:
-      "An acclaimed young adult book written by Gayle Forman, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "The sequel to If I Stay. It follows Adam, Mia's boyfriend, three years after Mia went to Juilliard. He is a famous musician. She is a famous cellist. They reunite. Forman's novel, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1347810457m/8492825.jpg",
     numberOfPages: 328,
@@ -5745,7 +5745,7 @@ const books = [
     name: "The World According to Garp",
     author: "John Irving",
     description:
-      "A celebrated work of fiction from John Irving, released in 1978, it remains a frequently recommended read in its category.",
+      "T.S. Garp, the son of a feminist nurse, is a writer. He writes a novel, The World According to Bensenhaver. He is shot by a woman who blames him for a murder. He dies. Irving's novel, published in 1978, won the National Book Award. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1447234581m/7069.jpg",
     numberOfPages: 215,
@@ -5757,7 +5757,7 @@ const books = [
     name: "Killing Floor",
     author: "Lee Child",
     description:
-      "A popular thriller title by Lee Child, first published in 1997, it has become a favorite among readers of the genre.",
+      "The first book of the Jack Reacher series. Jack Reacher, a former military policeman, is arrested for a murder he did not commit. He escapes, investigates, and finds the real killers (a counterfeiting ring). Child's novel, published in 1997, launched a best-selling series (27 books and counting). It was adapted into a film (2012) starring Tom Cruise. Since its release, it has become a favorite among readers of the genre.",
     genre: "Thriller",
     coverPage: "https://images.gr-assets.com/books/1399313258m/78129.jpg",
     numberOfPages: 639,
@@ -5769,7 +5769,7 @@ const books = [
     name: "Robinson Crusoe",
     author: "Daniel Defoe, Gerald McCann, Virginia Woolf",
     description:
-      "A celebrated work of classics from Daniel Defoe, Gerald McCann, Virginia Woolf, first published in 1719, it has become a favorite among readers of the genre.",
+      "Robinson Crusoe, a young Englishman, ignores his parents' advice and goes to sea. His ship is wrecked; he is the only survivor. He is stranded on a desert island for 28 years. He builds a shelter, grows crops, tames a goat, and finds a native man (Friday) whom he converts to Christianity. He is rescued. Defoe's novel, published in 1719, is considered the first English novel. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1403180114m/2932.jpg",
     numberOfPages: 534,
@@ -5782,7 +5782,7 @@ const books = [
     author:
       "Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez",
     description:
-      "An acclaimed classics book written by Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez, published in 1513, it continues to be discussed and recommended by readers.",
+      "Machiavelli's political treatise advises rulers on how to acquire and maintain power. He argues that it is better to be feared than loved, that the ends justify the means, and that a ruler should be willing to lie, cheat, and kill. The book, published in 1532, coined the term 'Machiavellian.' Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Prince",
     numberOfPages: 232,
@@ -5794,7 +5794,7 @@ const books = [
     name: "The Amber Spyglass",
     author: "Philip Pullman",
     description:
-      "An acclaimed fantasy book written by Philip Pullman, since its release in 2000, it has earned a large readership worldwide.",
+      "The third book of His Dark Materials. Lyra and Will (the boy from The Subtle Knife) travel to the world of the dead. They free the dead from the Authority (God). Lyra and Will fall in love. They are separated. Pullman's novel, published in 2000, won the Whitbread Book of the Year Award. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1329189152m/18122.jpg",
     numberOfPages: 381,
@@ -5806,7 +5806,7 @@ const books = [
     name: "Wizard's First Rule",
     author: "Terry Goodkind",
     description:
-      "A widely read fantasy work by Terry Goodkind, released in 1994, it remains a frequently recommended read in its category.",
+      "The first book of the Sword of Truth series (21 books). Richard Cypher, a woodsman, is the Seeker of Truth. He must stop Darken Rahl, a tyrant who wants to take over the world. He falls in love with Kahlan Amnell, a Mother Confessor. Goodkind's novel, published in 1994, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Wizard's+First+Rule",
@@ -5819,7 +5819,7 @@ const books = [
     name: "The Kitchen House",
     author: "Kathleen Grissom",
     description:
-      "A widely read historical fiction work by Kathleen Grissom, first published in 2010, it has become a favorite among readers of the genre.",
+      "Lavinia, a seven-year-old Irish orphan, is sold into slavery on a Virginia tobacco plantation. She is raised in the kitchen house by the slaves, who become her family. She later passes as white and marries the plantation owner's son. Grissom's novel, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1463229128m/6837103.jpg",
     numberOfPages: 493,
@@ -5831,7 +5831,7 @@ const books = [
     name: "Franny and Zooey",
     author: "J.D. Salinger",
     description:
-      "A popular fiction title by J.D. Salinger, first published in 1961, it has become a favorite among readers of the genre.",
+      "Two related stories about the Glass family. In 'Franny,' Franny Glass has a breakdown at her boyfriend's college. In 'Zooey,' Zooey Glass (her brother) comforts her. Salinger's novel, published in 1961, is a sequel to Nine Stories. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1355037988m/5113.jpg",
     numberOfPages: 422,
@@ -5843,7 +5843,7 @@ const books = [
     name: "Choke",
     author: "Chuck Palahniuk",
     description:
-      "A celebrated work of fiction from Chuck Palahniuk, published in 2001, it continues to be discussed and recommended by readers.",
+      "Victor Mancini, a sex addict, works as a historical reenactor (a colonial doctor). To pay for his mother's dementia care, he goes to restaurants, pretends to choke on his food, and lets strangers save him. He then asks for money. Palahniuk's novel, published in 2001, was adapted into a film (2008). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1403186013m/29059.jpg",
     numberOfPages: 685,
@@ -5855,7 +5855,7 @@ const books = [
     name: "The Brothers Karamazov",
     author: "Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",
     description:
-      "A popular classics title by Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky, released in 1880, it remains a frequently recommended read in its category.",
+      "The novel follows the four sons of Fyodor Karamazov, a wealthy, corrupt landowner: Dmitri (the sensualist), Ivan (the intellectual), Alyosha (the monk), and Smerdyakov (the bastard). Fyodor is murdered. Smerdyakov confesses to Ivan, then kills himself. Dmitri is convicted (he is innocent). Dostoyevsky's novel, published in 1880, is considered one of the greatest novels ever written. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1427728126m/4934.jpg",
     numberOfPages: 372,
@@ -5867,7 +5867,7 @@ const books = [
     name: "The City of Ember",
     author: "Jeanne DuPrau",
     description:
-      "A widely read young adult work by Jeanne DuPrau, since 2003, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Books of Ember series. Lina Mayfleet and Doon Harrow, two twelve-year-olds in the underground city of Ember, discover that the city is running out of food, light, and power. They find a way out: a river. They escape. DuPrau's novel, published in 2003, was adapted into a film (2008). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1397931596m/307791.jpg",
     numberOfPages: 165,
@@ -5879,7 +5879,7 @@ const books = [
     name: "The Andromeda Strain",
     author: "Michael Crichton",
     description:
-      "One of Michael Crichton's best-known science fiction books, released in 1969, it remains a frequently recommended read in its category.",
+      "A satellite crashes in Arizona, releasing a deadly microorganism from space. The organism kills nearly everyone in a nearby town. A team of scientists is assembled to study the organism. It mutates and becomes harmless. Crichton's novel, published in 1969, was adapted into a film (1971). Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Andromeda+Strain",
@@ -5892,7 +5892,7 @@ const books = [
     name: "The Green Mile",
     author: "Stephen King",
     description:
-      "One of Stephen King's best-known horror books, since its release in 1996, it has earned a large readership worldwide.",
+      "John Coffey, a giant black man, is sentenced to death for the murder of two white girls. He is sent to the Green Mile, the death row cell block at Cold Mountain Penitentiary. Paul Edgecombe, the head guard, discovers that Coffey has supernatural healing powers. Coffey heals Paul's bladder infection, revives a dead mouse, and cures the warden's wife of a brain tumor. Coffey is executed. King's novel, published in 1996 (as six serialized novellas), won the Bram Stoker Award and was adapted into an Oscar-nominated film (1999). Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1373903563m/11566.jpg",
     numberOfPages: 484,
@@ -5904,7 +5904,7 @@ const books = [
     name: "The Prophet",
     author: "Kahlil Gibran",
     description:
-      "One of Kahlil Gibran's best-known poetry books, published in 1923, it continues to be discussed and recommended by readers.",
+      "A collection of 26 poetic essays by a fictional prophet, Almustafa. He discusses love, marriage, children, work, joy, sorrow, friendship, and death. The book, published in 1923, has sold over 100 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Poetry",
     coverPage: "https://images.gr-assets.com/books/1355046521m/2547.jpg",
     numberOfPages: 486,
@@ -5916,7 +5916,7 @@ const books = [
     name: "Maus I: A Survivor's Tale: My Father Bleeds History",
     author: "Art Spiegelman",
     description:
-      "A celebrated work of graphic novel from Art Spiegelman, since its release in 1985, it has earned a large readership worldwide.",
+      "The first volume of Spiegelman's graphic novel about his father, Vladek, a Holocaust survivor. Jews are drawn as mice; Germans as cats; Poles as pigs; Americans as dogs. Vladek tells his story: he was sent to Auschwitz, where he survived by working as a tinman. The book, published in 1986, won a special Pulitzer Prize. Since its release, it has earned a large readership worldwide.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1327884972m/15196.jpg",
     numberOfPages: 538,
@@ -5928,7 +5928,7 @@ const books = [
     name: "Untamed",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "A celebrated work of young adult from P.C. Cast, Kristin Cast, published in 2008, it continues to be discussed and recommended by readers.",
+      "The fourth book of the House of Night series. Zoey, the High Priestess, has three boyfriends. She is being hunted by the High Priestess of the House of Night. She defeats her. Cast's novel, published in 2008, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1438037020m/2866718.jpg",
     numberOfPages: 633,
@@ -5940,7 +5940,7 @@ const books = [
     name: "Speaker for the Dead",
     author: "Orson Scott Card",
     description:
-      "A celebrated work of science fiction from Orson Scott Card, first published in 1986, it has become a favorite among readers of the genre.",
+      "The sequel to Ender's Game. Ender Wiggin, now thirty-five, travels to the planet Lusitania, where humans are studying the Pequeninos (piggies). He speaks for the dead. Card's novel, published in 1986, won the Hugo and Nebula awards. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1295660894m/7967.jpg",
     numberOfPages: 177,
@@ -5952,7 +5952,7 @@ const books = [
     name: "Mere Christianity",
     author: "C.S. Lewis",
     description:
-      "An acclaimed religion book written by C.S. Lewis, since its release in 1952, it has earned a large readership worldwide.",
+      "Lewis's argument for Christianity. He argues that a universal moral law (the Law of Human Nature) points to a Creator. He explains the Christian beliefs about God, sin, salvation, and the afterlife. The book, published in 1952, has sold over 10 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Religion",
     coverPage: "https://images.gr-assets.com/books/1468102872m/11138.jpg",
     numberOfPages: 734,
@@ -5964,7 +5964,7 @@ const books = [
     name: "The Secret History",
     author: "Donna Tartt",
     description:
-      "A popular fiction title by Donna Tartt, since its release in 1992, it has earned a large readership worldwide.",
+      "Richard Papen, a student at Hampden College in Vermont, joins a group of classics students. They are taught by Julian Morrow, a charismatic professor. They kill a farmer (a bacchanal). They kill a member of their group, Bunny, who threatens to expose them. Tartt's debut novel, published in 1992, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1451554846m/29044.jpg",
     numberOfPages: 550,
@@ -5976,7 +5976,7 @@ const books = [
     name: "A Heartbreaking Work of Staggering Genius",
     author: "Dave Eggers",
     description:
-      "A celebrated work of fiction from Dave Eggers, since 2000, it has been praised for its storytelling and lasting appeal.",
+      "Eggers's memoir of raising his younger brother, Toph, after both of his parents died of cancer within months of each other. He moves to Berkeley, starts a magazine (Might), and appears on MTV. The book, published in 2000, was a finalist for the Pulitzer Prize. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327714834m/4953.jpg",
     numberOfPages: 229,
@@ -5988,7 +5988,7 @@ const books = [
     name: "The Clan of the Cave Bear",
     author: "Jean M. Auel",
     description:
-      "A celebrated work of historical fiction from Jean M. Auel, since its release in 1980, it has earned a large readership worldwide.",
+      "The first book of the Earth's Children series. Ayla, a five-year-old Cro-Magnon girl, is orphaned and adopted by a Neanderthal clan. She grows up among them, but she is different (taller, smarter, and more inventive). She is expelled from the clan. Auel's novel, published in 1980, was a bestseller and adapted into a film (1986). Since its release, it has earned a large readership worldwide.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1385331302m/1295.jpg",
     numberOfPages: 298,
@@ -6000,7 +6000,7 @@ const books = [
     name: "Black Beauty",
     author: "Anna Sewell",
     description:
-      "A widely read classics work by Anna Sewell, first published in 1877, it has become a favorite among readers of the genre.",
+      "A horse tells his own story. He is born on an English farm, sold to a wealthy man, and treated well. He is sold to a drunkard, who works him too hard. He is sold to a cab driver, who works him even harder. He is retired. Sewell's novel, published in 1877, helped end the practice of bearing rein (a strap that forces a horse's head into an unnatural position). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Black+Beauty",
     numberOfPages: 264,
@@ -6012,7 +6012,7 @@ const books = [
     name: "War and Peace",
     author: "Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude",
     description:
-      "A widely read classics work by Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude, since 1869, it has been praised for its storytelling and lasting appeal.",
+      "Tolstoy's epic novel follows five aristocratic families in Russia during the Napoleonic Wars. It covers the Battle of Austerlitz, the Battle of Borodino, the French occupation of Moscow, and the Russian winter retreat. The main characters are Pierre Bezukhov (a bumbling idealist), Andrei Bolkonsky (a disillusioned intellectual), and Natasha Rostova (a passionate young woman). Tolstoy's novel, published in 1869, is over 1,200 pages. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1413215930m/656.jpg",
     numberOfPages: 315,
@@ -6024,7 +6024,7 @@ const books = [
     name: "American Psycho",
     author: "Bret Easton Ellis",
     description:
-      "A popular fiction title by Bret Easton Ellis, since its release in 1991, it has earned a large readership worldwide.",
+      "Patrick Bateman, a wealthy investment banker in 1980s New York, is a serial killer. He kills men, women, children, and animals. He describes his murders in graphic detail. He is never caught. Ellis's novel, published in 1991, was controversial (it was banned in several countries). It was adapted into a film (2000) starring Christian Bale. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1436934349m/28676.jpg",
     numberOfPages: 179,
@@ -6036,7 +6036,7 @@ const books = [
     name: "The Princess Diaries",
     author: "Meg Cabot",
     description:
-      "A widely read young adult work by Meg Cabot, first published in 2000, it has become a favorite among readers of the genre.",
+      "The first book of the Princess Diaries series (11 books). Mia Thermopolis, a fourteen-year-old high school student in New York City, discovers that she is the princess of Genovia, a small European country. She is horrified. She writes about her life in her diary. Cabot's novel, published in 2000, was adapted into a film (2001) starring Anne Hathaway. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1355011082m/38980.jpg",
     numberOfPages: 291,
@@ -6048,7 +6048,7 @@ const books = [
     name: "The No. 1 Ladies' Detective Agency",
     author: "Alexander McCall Smith",
     description:
-      "A widely read mystery work by Alexander McCall Smith, first published in 1998, it has become a favorite among readers of the genre.",
+      "The first book of The No. 1 Ladies' Detective Agency series (25 books and counting). Precious Ramotswe, a woman in Botswana, uses her inheritance to start the country's first female-owned detective agency. She solves cases involving a missing husband, a fraudulent doctor, and a missing child. McCall Smith's novel, published in 1998, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1459953654m/7061.jpg",
     numberOfPages: 197,
@@ -6060,7 +6060,7 @@ const books = [
     name: "The Walking Dead, Vol. 01: Days Gone Bye",
     author: "Robert Kirkman, Tony Moore",
     description:
-      "A widely read graphic novel work by Robert Kirkman, Tony Moore, since 2004, it has been praised for its storytelling and lasting appeal.",
+      "The first volume of The Walking Dead comic series. Rick Grimes, a sheriff's deputy, wakes up from a coma to find the world overrun by zombies. He searches for his family. Kirkman's comic, published in 2004, was adapted into a TV series (2010-2022). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1389233242m/138398.jpg",
     numberOfPages: 522,
@@ -6072,7 +6072,7 @@ const books = [
     name: "2001: A Space Odyssey",
     author: "Arthur C. Clarke",
     description:
-      "One of Arthur C. Clarke's best-known science fiction books, since 1968, it has been praised for its storytelling and lasting appeal.",
+      "A novel based on Stanley Kubrick's film. A mysterious black monolith appears on Earth, on the Moon, and in orbit around Jupiter. A spaceship, the Discovery One, is sent to Jupiter. The ship's computer, HAL 9000, goes insane and kills the crew. The sole survivor, Dave Bowman, reaches Jupiter and is transformed into a star child. Clarke's novel, published in 1968, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=2001:+A+Space+Odyssey",
@@ -6085,7 +6085,7 @@ const books = [
     name: "Redeeming Love",
     author: "Francine Rivers",
     description:
-      "An acclaimed religion book written by Francine Rivers, first published in 1991, it has become a favorite among readers of the genre.",
+      "A Christian romance novel based on the biblical story of Hosea. Angel, a prostitute in 1850s California, is sold into prostitution as a child. Michael Hosea, a farmer, marries her. She runs away. He brings her back. Rivers's novel, published in 1991, has sold over 3 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Religion",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Redeeming+Love",
     numberOfPages: 402,
@@ -6097,7 +6097,7 @@ const books = [
     name: "Left Behind",
     author: "Tim LaHaye, Jerry B. Jenkins",
     description:
-      "One of Tim LaHaye, Jerry B. Jenkins's best-known fantasy books, since its release in 1995, it has earned a large readership worldwide.",
+      "The first book of the Left Behind series (16 books). The Rapture occurs: millions of people disappear. Those left behind must survive the Tribulation (seven years of plagues, wars, and natural disasters). The novel follows Rayford Steele, an airline pilot, and Buck Williams, a journalist. LaHaye and Jenkins's novel, published in 1995, was a bestseller and adapted into a film (2000). Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1406505054m/27523.jpg",
     numberOfPages: 264,
@@ -6109,7 +6109,7 @@ const books = [
     name: "The One",
     author: "Kiera Cass",
     description:
-      "A widely read young adult work by Kiera Cass, first published in 2014, it has become a favorite among readers of the genre.",
+      "The third book of The Selection series. America Singer is one of the final two contestants in the Selection. She chooses Prince Maxon. They marry. Cass's novel, published in 2014, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1395612906m/18635016.jpg",
     numberOfPages: 239,
@@ -6121,7 +6121,7 @@ const books = [
     name: "The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",
     author: "Suzanne Collins",
     description:
-      "A popular young adult title by Suzanne Collins, published in 2010, it continues to be discussed and recommended by readers.",
+      "A boxed set of all three Hunger Games novels: The Hunger Games, Catching Fire, and Mockingjay. The series follows Katniss Everdeen, a teenage girl who volunteers for the Hunger Games to save her sister and becomes a symbol of rebellion against the Capitol. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1360094673m/7938275.jpg",
     numberOfPages: 252,
@@ -6133,7 +6133,7 @@ const books = [
     name: "Nickel and Dimed: On (Not) Getting By in America",
     author: "Barbara Ehrenreich",
     description:
-      "One of Barbara Ehrenreich's best-known non-fiction books, first published in 2001, it has become a favorite among readers of the genre.",
+      "Ehrenreich, a journalist, goes undercover as a low-wage worker. She works as a waitress in Florida, a cleaning woman in Maine, and a Walmart employee in Minnesota. She discovers that minimum wage is not enough to pay for rent, food, and health care. Her book, published in 2001, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Nickel+and+Dimed:+On+(Not)+Getting+By+in+America",
@@ -6146,7 +6146,7 @@ const books = [
     name: "Remember Me?",
     author: "Sophie Kinsella",
     description:
-      "A popular romance title by Sophie Kinsella, released in 2008, it remains a frequently recommended read in its category.",
+      "Lexi Smart, a twenty-eight-year-old woman, wakes up from a car accident with amnesia. She thinks she is twenty-five. She discovers that she has transformed from an ugly duckling into a beautiful, wealthy, married woman. She also discovers that her husband is a liar. Kinsella's novel, published in 2008, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1276963901m/1358844.jpg",
     numberOfPages: 494,
@@ -6158,7 +6158,7 @@ const books = [
     name: "The Great Hunt",
     author: "Robert Jordan",
     description:
-      "An acclaimed fantasy book written by Robert Jordan, released in 1990, it remains a frequently recommended read in its category.",
+      "The second book of The Wheel of Time series. Rand al'Thor, the Dragon Reborn, is hunted by the Dark One's servants. He finds the Horn of Valere, which summons dead heroes. Jordan's novel, published in 1990, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Great+Hunt",
     numberOfPages: 171,
@@ -6170,7 +6170,7 @@ const books = [
     name: "Postmortem",
     author: "Patricia Cornwell",
     description:
-      "A popular mystery title by Patricia Cornwell, released in 1990, it remains a frequently recommended read in its category.",
+      "The first book of the Kay Scarpetta series. Kay Scarpetta, a medical examiner in Richmond, Virginia, investigates a series of murders. The killer leaves no physical evidence. She identifies him. Cornwell's novel, published in 1990, won the Edgar Award. Since its release, it remains a frequently recommended read in its category.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1341835831m/6534.jpg",
     numberOfPages: 439,
@@ -6182,7 +6182,7 @@ const books = [
     name: "The Complete Stories and Poems",
     author: "Edgar Allan Poe",
     description:
-      "A widely read classics work by Edgar Allan Poe, released in 1849, it remains a frequently recommended read in its category.",
+      "A collection of all of Edgar Allan Poe's stories and poems. Includes 'The Tell-Tale Heart,' 'The Fall of the House of Usher,' 'The Raven,' 'Annabel Lee,' and many others. Poe's work, published in 1849, is a classic of Gothic and horror literature. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327942676m/23919.jpg",
     numberOfPages: 478,
@@ -6194,7 +6194,7 @@ const books = [
     name: "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
     author: "Corrie ten Boom, John Sherrill, Elizabeth Sherrill",
     description:
-      "A celebrated work of non-fiction from Corrie ten Boom, John Sherrill, Elizabeth Sherrill, since 1971, it has been praised for its storytelling and lasting appeal.",
+      "Corrie ten Boom's memoir of hiding Jews in her home in Haarlem, Netherlands, during World War II. She is arrested and sent to Ravensbrück concentration camp. She survives. Her book, published in 1971, has sold over 5 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1320418824m/561909.jpg",
     numberOfPages: 637,
@@ -6206,7 +6206,7 @@ const books = [
     name: "The Adventures of Sherlock Holmes",
     author: "Arthur Conan Doyle",
     description:
-      "A popular classics title by Arthur Conan Doyle, since 1892, it has been praised for its storytelling and lasting appeal.",
+      "A collection of 12 Sherlock Holmes short stories, including 'A Scandal in Bohemia' (featuring Irene Adler), 'The Red-Headed League,' and 'The Speckled Band.' Doyle's stories, published in 1892, made Holmes one of the most famous characters in literature. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Adventures+of+Sherlock+Holmes",
@@ -6219,7 +6219,7 @@ const books = [
     name: "The Prince of Tides",
     author: "Pat Conroy",
     description:
-      "An acclaimed contemporary book written by Pat Conroy, first published in 1986, it has become a favorite among readers of the genre.",
+      "Tom Wingo, a high school football coach, returns to his hometown in South Carolina to help his twin sister, Savannah, who has attempted suicide. He tells a psychiatrist about his family: his mother (who had them institutionalized), his father (who abused them), and his brother (who was killed). Conroy's novel, published in 1986, was adapted into a film (1991) starring Barbra Streisand and Nick Nolte. Since its release, it has become a favorite among readers of the genre.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1320541074m/16735.jpg",
     numberOfPages: 596,
@@ -6231,7 +6231,7 @@ const books = [
     name: "The Amazing Adventures of Kavalier & Clay",
     author: "Michael Chabon",
     description:
-      "A celebrated work of fiction from Michael Chabon, first published in 2000, it has become a favorite among readers of the genre.",
+      "Joe Kavalier, a Jewish artist, escapes from Prague to New York City. He teams up with his cousin, Sam Clay, a writer. They create a comic book character, the Escapist. The novel follows their lives from 1939 to 1954. Chabon's novel, published in 2000, won the Pulitzer Prize. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1479660066m/3985.jpg",
     numberOfPages: 505,
@@ -6243,7 +6243,7 @@ const books = [
     name: "Perfect Chemistry",
     author: "Simone Elkeles",
     description:
-      "An acclaimed romance book written by Simone Elkeles, first published in 2008, it has become a favorite among readers of the genre.",
+      "The first book of the Perfect Chemistry series. Alex Fuentes, a gang member, and Brittany Ellis, a rich, popular girl, are forced to be chemistry partners. They fall in love. Elkeles's novel, published in 2008, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1439792475m/4268157.jpg",
     numberOfPages: 700,
@@ -6255,7 +6255,7 @@ const books = [
     name: "Peter Pan",
     author: "J.M. Barrie, Michael Hague",
     description:
-      "A celebrated work of classics from J.M. Barrie, Michael Hague, since its release in 1904, it has earned a large readership worldwide.",
+      "Peter Pan, a boy who never grows up, visits the Darling children in London and takes them to Neverland, where they fight pirates (Captain Hook), mermaids, and Indians. Barrie's play (1904) was adapted into a novel (1911). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1337714526m/34268.jpg",
     numberOfPages: 243,
@@ -6267,7 +6267,7 @@ const books = [
     name: "Pretties",
     author: "Scott Westerfeld",
     description:
-      "A celebrated work of young adult from Scott Westerfeld, released in 2005, it remains a frequently recommended read in its category.",
+      "The second book of the Uglies series. Tally Youngblood has become a Pretty. She discovers that the operation that made her Pretty also made her compliant. She rebels. Westerfeld's novel, published in 2005, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Pretties",
     numberOfPages: 324,
@@ -6279,7 +6279,7 @@ const books = [
     name: "The Wind-Up Bird Chronicle",
     author: "Haruki Murakami, Jay Rubin",
     description:
-      "An acclaimed fiction book written by Haruki Murakami, Jay Rubin, first published in 1994, it has become a favorite among readers of the genre.",
+      "Toru Okada, a unemployed man in Tokyo, searches for his wife's missing cat and then for his missing wife. He meets a series of strange characters: a psychic prostitute, a teenage girl who works for a fashion designer, and a man who was tortured by the Japanese army in Manchuria. Murakami's novel, published in 1994, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327872639m/11275.jpg",
     numberOfPages: 686,
@@ -6291,7 +6291,7 @@ const books = [
     name: "The Lincoln Lawyer",
     author: "Michael Connelly",
     description:
-      "One of Michael Connelly's best-known mystery books, released in 2005, it remains a frequently recommended read in its category.",
+      "The first book of the Mickey Haller series. Mickey Haller, a defense attorney, works out of the back seat of his Lincoln Town Car. He is hired to defend a man accused of assault. The man is guilty. Haller discovers that his client is a murderer. Connelly's novel, published in 2005, was adapted into a film (2011) starring Matthew McConaughey. Since its release, it remains a frequently recommended read in its category.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1370140049m/79885.jpg",
     numberOfPages: 205,
@@ -6303,7 +6303,7 @@ const books = [
     name: "Cloud Atlas",
     author: "David Mitchell",
     description:
-      "A widely read science fiction work by David Mitchell, released in 2004, it remains a frequently recommended read in its category.",
+      "The novel consists of six nested stories, spanning from the 19th century to a post-apocalyptic future. Each story is interrupted and completed in reverse order. The stories include a notary on a Pacific voyage (19th century), a composer in Belgium (1930s), a journalist in California (1970s), a publisher in London (present day), a cloned server in Korea (future), and a tribesman in Hawaii (post-apocalyptic). Mitchell's novel, published in 2004, was adapted into a film (2012). Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1406383769m/49628.jpg",
     numberOfPages: 652,
@@ -6315,7 +6315,7 @@ const books = [
     name: "The Things They Carried",
     author: "Tim O'Brien",
     description:
-      "A widely read non-fiction work by Tim O'Brien, published in 1990, it continues to be discussed and recommended by readers.",
+      "A collection of linked short stories about a platoon of American soldiers in the Vietnam War. The title story lists the physical and emotional things the soldiers carried: guns, ammunition, rations, photographs, letters, fear, guilt, and love. O'Brien's novel, published in 1990, was a finalist for the Pulitzer Prize. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1424663847m/133518.jpg",
     numberOfPages: 338,
@@ -6327,7 +6327,7 @@ const books = [
     name: "Wall and Piece",
     author: "Banksy",
     description:
-      "An acclaimed non-fiction book written by Banksy, since 1988, it has been praised for its storytelling and lasting appeal.",
+      "A collection of street art by Banksy, the anonymous graffiti artist. Includes his famous works: a girl releasing a heart-shaped balloon, a rioter throwing a bouquet of flowers, and a rat holding a sign that says 'Because I'm Worthless.' The book, published in 2005, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1327904853m/114683.jpg",
     numberOfPages: 505,
@@ -6339,7 +6339,7 @@ const books = [
     name: "Pandemonium",
     author: "Lauren Oliver",
     description:
-      "A celebrated work of science fiction from Lauren Oliver, released in 2012, it remains a frequently recommended read in its category.",
+      "The second book of the Delirium trilogy. Lena, who escaped the cure for love (amor deliria nervosa), joins the resistance. She falls in love again. Oliver's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1310371414m/9593911.jpg",
     numberOfPages: 741,
@@ -6351,7 +6351,7 @@ const books = [
     name: "Darkly Dreaming Dexter",
     author: "Jeff Lindsay",
     description:
-      "One of Jeff Lindsay's best-known fiction books, released in 2004, it remains a frequently recommended read in its category.",
+      "The first book of the Dexter series. Dexter Morgan, a blood-spatter analyst for the Miami police, is also a serial killer. He only kills other killers. He is hunting a killer who is also hunting him. Lindsay's novel, published in 2004, was adapted into the TV series Dexter (2006-2013). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1334404607m/17231.jpg",
     numberOfPages: 369,
@@ -6363,7 +6363,7 @@ const books = [
     name: "Living Dead in Dallas",
     author: "Charlaine Harris",
     description:
-      "One of Charlaine Harris's best-known fantasy books, published in 2002, it continues to be discussed and recommended by readers.",
+      "The second book of the Sookie Stackhouse series. Sookie, the telepathic waitress, travels to Dallas to help search for a missing vampire. She is attacked by a maenad (a follower of Dionysus). Harris's novel, published in 2002, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1329501808m/110494.jpg",
     numberOfPages: 319,
@@ -6375,7 +6375,7 @@ const books = [
     name: "The Dragon Reborn",
     author: "Robert Jordan",
     description:
-      "A widely read fantasy work by Robert Jordan, first published in 1991, it has become a favorite among readers of the genre.",
+      "The third book of The Wheel of Time series. Rand al'Thor, the Dragon Reborn, is missing. His friends search for him. He attacks the Stone of Tear, a fortress that has never been taken. Jordan's novel, published in 1991, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1480096580m/34897.jpg",
     numberOfPages: 652,
@@ -6387,7 +6387,7 @@ const books = [
     name: "Gulliver's Travels",
     author: "Jonathan Swift, Robert DeMaria Jr.",
     description:
-      "A celebrated work of classics from Jonathan Swift, Robert DeMaria Jr., first published in 1726, it has become a favorite among readers of the genre.",
+      "Lemuel Gulliver, a surgeon, travels to four fantastical lands: Lilliput (where people are six inches tall), Brobdingnag (where people are 60 feet tall), Laputa (a floating island of scientists), and the land of the Houyhnhnms (where horses are rational and humans are brutes). Swift's novel, published in 1726, is a satire of human nature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1427829692m/7733.jpg",
     numberOfPages: 484,
@@ -6398,9 +6398,9 @@ const books = [
     id: 530,
     name: "Much Ado About Nothing",
     author:
-      "William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson",
+      "William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert Jackson",
     description:
-      "A popular classics title by William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson, first published in 1598, it has become a favorite among readers of the genre.",
+      "A comedy about two couples: Claudio and Hero (who are young and romantic) and Beatrice and Benedick (who are witty and antagonistic). Don John, the villain, makes Hero appear unfaithful. Claudio rejects her at the altar. She fakes her death. The truth is revealed. They marry. Shakespeare's play, written around 1598, is one of his most popular. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327885569m/12957.jpg",
     numberOfPages: 560,
@@ -6412,7 +6412,7 @@ const books = [
     name: "Beowulf",
     author: "Unknown, Seamus Heaney",
     description:
-      "An acclaimed classics book written by Unknown, Seamus Heaney, first published in 975, it has become a favorite among readers of the genre.",
+      "An epic poem in Old English. Beowulf, a Geatish hero, travels to Denmark to kill the monster Grendel, who has been attacking the mead hall of King Hrothgar. He kills Grendel, then kills Grendel's mother. He returns home, becomes king, and rules for 50 years. He kills a dragon, but is mortally wounded. Heaney's translation was published in 1999. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327878125m/52357.jpg",
     numberOfPages: 582,
@@ -6424,7 +6424,7 @@ const books = [
     name: "Batman: Year One",
     author: "Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",
     description:
-      "A widely read fiction work by Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil, released in 1987, it remains a frequently recommended read in its category.",
+      "A reboot of Batman's origin story. Bruce Wayne returns to Gotham City after 12 years of training. He becomes Batman. He battles corrupt cops, mobsters, and his future ally, Lieutenant James Gordon. Miller's graphic novel, published in 1987, was adapted into an animated film (2011). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327940389m/59980.jpg",
     numberOfPages: 361,
@@ -6436,7 +6436,7 @@ const books = [
     name: "Go Set a Watchman",
     author: "Harper Lee",
     description:
-      "A popular fiction title by Harper Lee, released in 2015, it remains a frequently recommended read in its category.",
+      "The sequel to To Kill a Mockingbird (written before it). Scout, now 26 and living in New York, returns to Maycomb to visit her father, Atticus. She discovers that Atticus is a segregationist. She is horrified. The novel, published in 2015, was controversial: many believed Lee, who was 89 and had dementia, was exploited. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1451442088m/24817626.jpg",
     numberOfPages: 588,
@@ -6448,7 +6448,7 @@ const books = [
     name: "When You Are Engulfed in Flames",
     author: "David Sedaris",
     description:
-      "A celebrated work of humor from David Sedaris, since 2008, it has been praised for its storytelling and lasting appeal.",
+      "Sedaris's sixth collection of essays. He writes about his attempt to quit smoking (he moves to Tokyo), his obsession with a dead fly in a lampshade, his childhood fear of a monster under his bed, and his relationship with Hugh. The book, published in 2008, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Humor",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=When+You+Are+Engulfed+in+Flames",
@@ -6461,7 +6461,7 @@ const books = [
     name: "Daughter of Smoke & Bone",
     author: "Laini Taylor",
     description:
-      "An acclaimed fantasy book written by Laini Taylor, since its release in 2011, it has earned a large readership worldwide.",
+      "The first book of the Daughter of Smoke & Bone trilogy. Karou, a art student in Prague, has blue hair and draws fantastic creatures. She also collects teeth for a monstrous creature named Brimstone (a wishmonger). She falls in love with Akiva, an angel. Taylor's novel, published in 2011, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1461353773m/8490112.jpg",
     numberOfPages: 621,
@@ -6473,7 +6473,7 @@ const books = [
     name: "Red Queen",
     author: "Victoria Aveyard",
     description:
-      "One of Victoria Aveyard's best-known fantasy books, since 2015, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Red Queen series. In a world divided by blood: Silver bloods have superpowers and rule; Red bloods have no powers and are servants. Mare Barrow, a Red, discovers she has powers. She is forced to pose as a lost Silver princess. Aveyard's novel, published in 2015, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1411472322m/17878931.jpg",
     numberOfPages: 184,
@@ -6485,7 +6485,7 @@ const books = [
     name: "The Power of Habit: Why We Do What We Do in Life and Business",
     author: "Charles Duhigg",
     description:
-      "A popular science title by Charles Duhigg, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Duhigg's non-fiction book explains the science of habit formation. He describes the 'habit loop': cue, routine, reward. He shows how individuals and companies can change habits by keeping the same cue and reward but changing the routine. The book, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Science",
     coverPage: "https://images.gr-assets.com/books/1366758683m/12609433.jpg",
     numberOfPages: 484,
@@ -6497,7 +6497,7 @@ const books = [
     name: "Midnight in the Garden of Good and Evil",
     author: "John Berendt",
     description:
-      "A celebrated work of non-fiction from John Berendt, since its release in 1994, it has earned a large readership worldwide.",
+      "Berendt's non-fiction book about Savannah, Georgia, and the murder of Danny Hansford (a hustler) by Jim Williams (an antiques dealer). Williams is tried four times and finally acquitted. The book also profiles Savannah's eccentrics: a drag queen, a voodoo priestess, and a man who keeps a cemetery in his backyard. Berendt's book, published in 1994, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1427166915m/386187.jpg",
     numberOfPages: 611,
@@ -6509,7 +6509,7 @@ const books = [
     name: "Hopeless",
     author: "Colleen Hoover",
     description:
-      "A celebrated work of romance from Colleen Hoover, released in 2012, it remains a frequently recommended read in its category.",
+      "Sky Davis, a teenager, is dating Dean Holder, a boy who reminds her of a repressed memory: she was kidnapped as a child. The kidnapper is Dean's father. Hoover's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1353489892m/15717943.jpg",
     numberOfPages: 323,
@@ -6521,7 +6521,7 @@ const books = [
     name: "A Little Princess",
     author: "Frances Hodgson Burnett, Nancy Bond",
     description:
-      "An acclaimed classics book written by Frances Hodgson Burnett, Nancy Bond, published in 1905, it continues to be discussed and recommended by readers.",
+      "Sara Crewe, a wealthy girl, is sent to a boarding school in London. Her father dies, leaving her penniless. She is forced to work as a servant. She is rescued by a neighbor. Burnett's novel, published in 1905, was adapted into a film (1995). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327868556m/3008.jpg",
     numberOfPages: 413,
@@ -6533,7 +6533,7 @@ const books = [
     name: "The Truth About Forever",
     author: "Sarah Dessen",
     description:
-      "A celebrated work of young adult from Sarah Dessen, since its release in 2004, it has earned a large readership worldwide.",
+      "Macy Queen, a teenager, is grieving her father's death. She meets Wes, a boy who works for a catering company. They become friends. She falls in love. Dessen's novel, published in 2004, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1362767907m/51737.jpg",
     numberOfPages: 279,
@@ -6545,7 +6545,7 @@ const books = [
     name: "The Horse and His Boy",
     author: "C.S. Lewis",
     description:
-      "A popular fantasy title by C.S. Lewis, published in 1954, it continues to be discussed and recommended by readers.",
+      "The third book (published order) of The Chronicles of Narnia. Shasta, a boy in Calormen, escapes with a talking horse, Bree. They meet Aravis, a girl, and her horse, Hwin. They travel to Narnia. Shasta is Prince Cor of Archenland. Lewis's novel, published in 1954, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1388210968m/84119.jpg",
     numberOfPages: 393,
@@ -6557,7 +6557,7 @@ const books = [
     name: "Last Sacrifice",
     author: "Richelle Mead",
     description:
-      "A celebrated work of young adult from Richelle Mead, since its release in 2010, it has earned a large readership worldwide.",
+      "The sixth book of the Vampire Academy series. Rose is accused of murdering the queen of the Moroi. She must clear her name. She discovers a long-lost Moroi princess who becomes the new queen. Mead's novel, published in 2010, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1319850978m/6527740.jpg",
     numberOfPages: 423,
@@ -6569,7 +6569,7 @@ const books = [
     name: "Little House on the Prairie",
     author: "Laura Ingalls Wilder, Garth Williams",
     description:
-      "A popular classics title by Laura Ingalls Wilder, Garth Williams, since 1935, it has been praised for its storytelling and lasting appeal.",
+      "The second book of the Little House series. Laura, her parents, and her sisters leave their log cabin in Wisconsin and move to the Kansas prairie. They live in a sod house, fight malaria, and survive a grasshopper plague. Wilder's novel, published in 1935, was adapted into a TV series (1974-1983). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Little+House+on+the+Prairie",
@@ -6580,9 +6580,9 @@ const books = [
   {
     id: 545,
     name: "The Velveteen Rabbit",
-    author: "Margery Williams Bianco, William   Nicholson",
+    author: "Margery Williams Bianco, William Nicholson",
     description:
-      "One of Margery Williams Bianco, William   Nicholson's best-known children books, since its release in 1922, it has earned a large readership worldwide.",
+      "A toy rabbit, made of velveteen, is given to a boy on Christmas. The boy loves him. The rabbit becomes real. The boy gets sick; the rabbit is thrown out; a fairy turns him into a real rabbit. Williams's book, published in 1922, has sold over 5 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Velveteen+Rabbit",
@@ -6595,7 +6595,7 @@ const books = [
     name: "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
     author: "Robert M. Pirsig",
     description:
-      "A celebrated work of philosophy from Robert M. Pirsig, since 1974, it has been praised for its storytelling and lasting appeal.",
+      "A father and his son travel across the United States on a motorcycle. The father is a former English professor who was institutionalized. He reflects on the nature of quality, technology, and reason. Pirsig's novel, published in 1974, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Philosophy",
     coverPage: "https://images.gr-assets.com/books/1410136019m/629.jpg",
     numberOfPages: 506,
@@ -6607,7 +6607,7 @@ const books = [
     name: "The War of the Worlds",
     author: "H.G. Wells, Arthur C. Clarke",
     description:
-      "One of H.G. Wells, Arthur C. Clarke's best-known classics books, since its release in 1897, it has earned a large readership worldwide.",
+      "Martians invade England. They use heat rays and poisonous gas. They destroy London. The narrator, a philosopher, hides with a curate (who goes mad) and an artilleryman (who wants to build a new society). The Martians die from Earth's bacteria. Wells's novel, published in 1897, was adapted into a radio broadcast (1938) that caused panic. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1320391644m/8909.jpg",
     numberOfPages: 485,
@@ -6619,7 +6619,7 @@ const books = [
     name: "Pretty Little Liars",
     author: "Sara Shepard",
     description:
-      "One of Sara Shepard's best-known young adult books, released in 2006, it remains a frequently recommended read in its category.",
+      "The first book of the Pretty Little Liars series (16 books). Four girls—Aria, Spencer, Hanna, and Emily—are being blackmailed by a mysterious figure named A (Alison, their dead friend). Shepard's novel, published in 2006, was adapted into a TV series (2010-2017). Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1377830522m/162085.jpg",
     numberOfPages: 254,
@@ -6631,7 +6631,7 @@ const books = [
     name: "Corduroy",
     author: "Don Freeman",
     description:
-      "One of Don Freeman's best-known children books, first published in 1948, it has become a favorite among readers of the genre.",
+      "Corduroy, a teddy bear in a department store, is missing a button. A girl, Lisa, wants to buy him, but her mother says no. Corduroy searches the store for his button. He returns. Lisa returns with her own money and buys him. Freeman's book, published in 1948, has sold over 5 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Corduroy",
     numberOfPages: 350,
@@ -6643,7 +6643,7 @@ const books = [
     name: "The Omnivore's Dilemma: A Natural History of Four Meals",
     author: "Michael Pollan",
     description:
-      "An acclaimed non-fiction book written by Michael Pollan, since its release in 2006, it has earned a large readership worldwide.",
+      "Pollan's non-fiction book asks: what should we eat? He traces four meals: a McDonald's meal (industrial), a Whole Foods meal (organic industrial), a meal from a Virginia farm (pastoral), and a meal he hunted and gathered himself (hunter-gatherer). He concludes that we should eat 'food' (not processed substances), mostly plants, and not too much. The book, published in 2006, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1393804353m/3109.jpg",
     numberOfPages: 301,
@@ -6655,7 +6655,7 @@ const books = [
     name: "Life After Life",
     author: "Kate Atkinson",
     description:
-      "A popular fiction title by Kate Atkinson, released in 2013, it remains a frequently recommended read in its category.",
+      "Ursula Todd dies repeatedly: she is born (strangled by her umbilical cord), reborn (falls out of a window), reborn (drowns), reborn (killed in a bombing), and reborn (killed by Hitler). She is a time traveler. She tries to prevent World War II. Atkinson's novel, published in 2013, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358173808m/15790842.jpg",
     numberOfPages: 595,
@@ -6667,7 +6667,7 @@ const books = [
     name: "The Rescue",
     author: "Nicholas Sparks",
     description:
-      "A popular romance title by Nicholas Sparks, since its release in 2000, it has earned a large readership worldwide.",
+      "Taylor McAden, a volunteer firefighter in North Carolina, is afraid of commitment. He rescues Denise Holden, a single mother whose son has autism. They fall in love. Sparks's novel, published in 2000, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Rescue",
     numberOfPages: 261,
@@ -6679,7 +6679,7 @@ const books = [
     name: "Needful Things",
     author: "Stephen King",
     description:
-      "A widely read fiction work by Stephen King, released in 1991, it remains a frequently recommended read in its category.",
+      "Leland Gaunt opens a new shop in Castle Rock, Maine, called Needful Things. He sells people the object they most desire, at a price: they must play a prank on a neighbor. The pranks escalate into violence. The town destroys itself. King's novel, published in 1991, was adapted into a film (1993). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1315767817m/107291.jpg",
     numberOfPages: 361,
@@ -6691,7 +6691,7 @@ const books = [
     name: "Voyager",
     author: "Diana Gabaldon",
     description:
-      "An acclaimed historical fiction book written by Diana Gabaldon, published in 1993, it continues to be discussed and recommended by readers.",
+      "The third book of the Outlander series. Claire returns through the stones to the 18th century. She finds Jamie, who did not die at Culloden. They reunite. Gabaldon's novel, published in 1993, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1483278195m/10987.jpg",
     numberOfPages: 184,
@@ -6703,7 +6703,7 @@ const books = [
     name: "Hamlet: Screenplay, Introduction And Film Diary",
     author: "Kenneth Branagh, William Shakespeare",
     description:
-      "A widely read classics work by Kenneth Branagh, William Shakespeare, published in 1996, it continues to be discussed and recommended by readers.",
+      "The screenplay of Kenneth Branagh's 1996 film adaptation of Hamlet. The film is uncut (4 hours). Branagh also writes about the making of the film. The book, published in 1996, is a companion to the film. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Hamlet:+Screenplay,+Introduction+And+Film+Diary",
@@ -6714,9 +6714,9 @@ const books = [
   {
     id: 556,
     name: "Cujo",
-    author: "Stephen King",
+    author: "Stephen King, Marie Milpois",
     description:
-      "One of Stephen King's best-known horror books, since 1981, it has been praised for its storytelling and lasting appeal.",
+      "Cujo, a friendly St. Bernard, is bitten by a rabid bat. He goes mad. He traps a woman and her son in their broken-down Ford Pinto. They die of heat exhaustion. King's novel, published in 1981, was adapted into a film (1983). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1394208144m/10603.jpg",
     numberOfPages: 453,
@@ -6728,7 +6728,7 @@ const books = [
     name: "The Virgin Suicides",
     author: "Jeffrey Eugenides",
     description:
-      "An acclaimed fiction book written by Jeffrey Eugenides, first published in 1993, it has become a favorite among readers of the genre.",
+      "The five Lisbon sisters—Therese, Mary, Bonnie, Lux, and Cecilia—are beautiful, mysterious, and suicidal. Cecilia kills herself. The others, confined to their house, also kill themselves. The novel is narrated by the neighborhood boys who watched them. Eugenides's debut novel, published in 1993, was adapted into a film (1999). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1319032910m/10956.jpg",
     numberOfPages: 295,
@@ -6740,7 +6740,7 @@ const books = [
     name: "Dead to the World",
     author: "Charlaine Harris",
     description:
-      "A popular fantasy title by Charlaine Harris, since 2004, it has been praised for its storytelling and lasting appeal.",
+      "The fourth book of the Sookie Stackhouse series. Sookie finds the vampire Eric Northman, who has amnesia. She hides him. They fall in love. Harris's novel, published in 2004, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1468561630m/140077.jpg",
     numberOfPages: 564,
@@ -6752,7 +6752,7 @@ const books = [
     name: "Tess of the D'Urbervilles",
     author: "Thomas Hardy, Tim Dolin, Margaret R. Higonnet",
     description:
-      "A widely read classics work by Thomas Hardy, Tim Dolin, Margaret R. Higonnet, since its release in 1891, it has earned a large readership worldwide.",
+      "Tess Durbeyfield, a poor country girl, is seduced (or raped) by Alec d'Urberville, a wealthy man. She bears his child, who dies. She works on a farm, falls in love with Angel Clare, and marries him. She tells him about her past; he rejects her. She kills Alec. She is executed. Hardy's novel, published in 1891, was controversial. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1497218117m/32261.jpg",
     numberOfPages: 590,
@@ -6764,7 +6764,7 @@ const books = [
     name: "Madame Bovary",
     author: "Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",
     description:
-      "A celebrated work of classics from Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall, since 1856, it has been praised for its storytelling and lasting appeal.",
+      "Emma Bovary, a doctor's wife in rural France, is bored with her marriage. She has affairs, spends lavishly, and accumulates debt. She commits suicide. Flaubert's novel, published in 1856, was prosecuted for immorality. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1335676143m/2175.jpg",
     numberOfPages: 581,
@@ -6776,7 +6776,7 @@ const books = [
     name: "The Phantom Tollbooth",
     author: "Norton Juster, Jules Feiffer",
     description:
-      "One of Norton Juster, Jules Feiffer's best-known fantasy books, since 1961, it has been praised for its storytelling and lasting appeal.",
+      "Milo, a bored boy, receives a tollbooth. He drives through it into the Lands Beyond, where he meets a watchdog named Tock, a Humbug, and a princess named Rhyme and Reason. He rescues them. Juster's novel, published in 1961, is a classic of children's literature. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Phantom+Tollbooth",
@@ -6789,7 +6789,7 @@ const books = [
     name: "The Way of Kings",
     author: "Brandon Sanderson",
     description:
-      "One of Brandon Sanderson's best-known fantasy books, first published in 2010, it has become a favorite among readers of the genre.",
+      "The first book of the Stormlight Archive series (planned for 10 books). Kaladin, a surgeon turned soldier, is enslaved. Dalinar, a highprince, has visions from a god. Shallan, a scholar, steals from her mentor. Sanderson's novel, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1388184640m/7235533.jpg",
     numberOfPages: 614,
@@ -6801,7 +6801,7 @@ const books = [
     name: "Club Dead",
     author: "Charlaine Harris",
     description:
-      "An acclaimed fantasy book written by Charlaine Harris, released in 2003, it remains a frequently recommended read in its category.",
+      "The third book of the Sookie Stackhouse series. Sookie's boyfriend, Bill, is kidnapped. She travels to Jackson, Mississippi, to find him. She is attacked by werewolves. Harris's novel, published in 2003, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1329501590m/140082.jpg",
     numberOfPages: 416,
@@ -6813,7 +6813,7 @@ const books = [
     name: "It's Kind of a Funny Story",
     author: "Ned Vizzini",
     description:
-      "A widely read young adult work by Ned Vizzini, published in 2006, it continues to be discussed and recommended by readers.",
+      "Craig Gilner, a high school student in New York City, checks himself into a psychiatric hospital. He is suicidal. He befriends the other patients. He recovers. Vizzini's novel, published in 2006, was adapted into a film (2010). Vizzini died by suicide in 2013. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1420629730m/248704.jpg",
     numberOfPages: 398,
@@ -6825,7 +6825,7 @@ const books = [
     name: "The Well of Ascension",
     author: "Brandon Sanderson",
     description:
-      "An acclaimed fantasy book written by Brandon Sanderson, since its release in 2007, it has earned a large readership worldwide.",
+      "The second book of the Mistborn trilogy. Vin, the Mistborn, and Elend Venture, the new king of the Central Dominance, must defend their kingdom from three invading armies. Sanderson's novel, published in 2007, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1480717596m/68429.jpg",
     numberOfPages: 406,
@@ -6837,7 +6837,7 @@ const books = [
     name: "After You",
     author: "Jojo Moyes",
     description:
-      "An acclaimed fiction book written by Jojo Moyes, published in 2015, it continues to be discussed and recommended by readers.",
+      "The sequel to Me Before You. Louisa Clark, the caregiver who fell in love with Will Traynor, is struggling with his death. She joins a support group. She falls in love with Sam, a paramedic. Moyes's novel, published in 2015, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1429029729m/25041504.jpg",
     numberOfPages: 616,
@@ -6849,7 +6849,7 @@ const books = [
     name: "The Language of Flowers",
     author: "Vanessa Diffenbaugh",
     description:
-      "A widely read fiction work by Vanessa Diffenbaugh, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Victoria Jones, a former foster child, ages out of the system. She uses the Victorian language of flowers to communicate. She becomes a florist. She is reunited with her foster mother. Diffenbaugh's debut novel, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1333577674m/10032672.jpg",
     numberOfPages: 569,
@@ -6861,7 +6861,7 @@ const books = [
     name: "Batman: The Dark Knight Returns",
     author: "Frank Miller, Klaus Janson, Lynn Varley",
     description:
-      "A celebrated work of graphic novel from Frank Miller, Klaus Janson, Lynn Varley, since its release in 1986, it has earned a large readership worldwide.",
+      "A dystopian Batman story. Bruce Wayne, now 55, retired, returns to crimefighting. He battles a gang called the Mutants, Two-Face, and the Joker (who kills himself). He fights Superman (who works for the government). Miller's graphic novel, published in 1986, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1327892039m/59960.jpg",
     numberOfPages: 485,
@@ -6873,7 +6873,7 @@ const books = [
     name: "The Angel Experiment",
     author: "James Patterson",
     description:
-      "A widely read young adult work by James Patterson, published in 2005, it continues to be discussed and recommended by readers.",
+      "The first book of the Maximum Ride series. Max, a fourteen-year-old girl, is one of six children who are 98% human and 2% bird (they have wings). They escape from the lab where they were created. They are hunted. Patterson's novel, published in 2005, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1339277875m/13152.jpg",
     numberOfPages: 651,
@@ -6885,7 +6885,7 @@ const books = [
     name: "High Fidelity",
     author: "Nick Hornby",
     description:
-      "A widely read fiction work by Nick Hornby, first published in 1995, it has become a favorite among readers of the genre.",
+      "Rob Fleming, a thirty-something record store owner in London, is dumped by his girlfriend. He makes a list of his top 5 breakups. He revisits his ex-girlfriends. He gets back together with his original girlfriend. Hornby's novel, published in 1995, was adapted into a film (2000) starring John Cusack. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327928082m/285092.jpg",
     numberOfPages: 407,
@@ -6897,7 +6897,7 @@ const books = [
     name: "The Guardian",
     author: "Nicholas Sparks",
     description:
-      "A celebrated work of romance from Nicholas Sparks, since its release in 2003, it has earned a large readership worldwide.",
+      "Julie Barenson, a young widow, receives a puppy from her late husband. She is protected by the dog. She falls in love with a man named Richard. Richard is a stalker. Sparks's novel, published in 2003, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1388195339m/15925.jpg",
     numberOfPages: 314,
@@ -6909,7 +6909,7 @@ const books = [
     name: "Oryx and Crake",
     author: "Margaret Atwood",
     description:
-      "One of Margaret Atwood's best-known fiction books, since 2003, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the MaddAddam trilogy. Crake, a scientist, creates a plague that kills most of humanity. He also creates the Crakers, peaceful, vegetarian, immortal humanoids. Snowman (Jimmy) is the sole survivor. Atwood's novel, published in 2003, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1494109986m/46756.jpg",
     numberOfPages: 506,
@@ -6921,7 +6921,7 @@ const books = [
     name: "Men Are from Mars, Women Are from Venus",
     author: "John Gray",
     description:
-      "A widely read non-fiction work by John Gray, since 1998, it has been praised for its storytelling and lasting appeal.",
+      "Gray's self-help book argues that men and women are so different that they might as well be from different planets. He gives advice on how to communicate: men need to listen; women need to be direct. The book, published in 1992, has sold over 50 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Men+Are+from+Mars,+Women+Are+from+Venus",
@@ -6934,7 +6934,7 @@ const books = [
     name: "Kitchen Confidential: Adventures in the Culinary Underbelly",
     author: "Anthony Bourdain",
     description:
-      "A celebrated work of non-fiction from Anthony Bourdain, since its release in 2000, it has earned a large readership worldwide.",
+      "Bourdain's memoir of his life as a chef. He writes about the brutality of kitchen work, the sexism, the racism, the drug use, and the dishonesty (don't order fish on Monday). The book, published in 2000, made Bourdain famous. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Kitchen+Confidential:+Adventures+in+the+Culinary+Underbelly",
@@ -6947,7 +6947,7 @@ const books = [
     name: "Timeline",
     author: "Michael Crichton",
     description:
-      "A celebrated work of fiction from Michael Crichton, first published in 1999, it has become a favorite among readers of the genre.",
+      "A group of graduate students travel back in time to 14th-century France to rescue their professor. They are trapped in the Hundred Years' War. Crichton's novel, published in 1999, was adapted into a film (2003). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1405420745m/7669.jpg",
     numberOfPages: 528,
@@ -6959,7 +6959,7 @@ const books = [
     name: "Candide",
     author: "Voltaire",
     description:
-      "A celebrated work of fiction from Voltaire, released in 1759, it remains a frequently recommended read in its category.",
+      "Candide, a young man, is taught by his tutor, Pangloss, that everything happens for the best in the best of all possible worlds. He is expelled from his castle, beaten, robbed, and imprisoned. He travels across Europe and South America. He concludes that we must 'cultivate our garden.' Voltaire's novella, published in 1759, is a satire of optimism. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1345060082m/19380.jpg",
     numberOfPages: 570,
@@ -6971,7 +6971,7 @@ const books = [
     name: "Tuck Everlasting",
     author: "Natalie Babbitt",
     description:
-      "An acclaimed fantasy book written by Natalie Babbitt, since its release in 1975, it has earned a large readership worldwide.",
+      "Winnie Foster, a ten-year-old girl, discovers a spring that grants immortality. The Tuck family has drunk from it. She is asked to keep the secret. Babbitt's novel, published in 1975, was adapted into a film (2002). Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1445184695m/84981.jpg",
     numberOfPages: 338,
@@ -6983,7 +6983,7 @@ const books = [
     name: "Christine",
     author: "Stephen King, Marie Milpois",
     description:
-      "An acclaimed horror book written by Stephen King, Marie Milpois, since 1983, it has been praised for its storytelling and lasting appeal.",
+      "Arnie Cunningham, a nerdy teenager, buys Christine, a 1958 Plymouth Fury. The car is evil. It kills Arnie's enemies. It kills Arnie. King's novel, published in 1983, was adapted into a film (1983). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1327270815m/10629.jpg",
     numberOfPages: 275,
@@ -6995,7 +6995,7 @@ const books = [
     name: "Are You My Mother?",
     author: "P.D. Eastman",
     description:
-      "A celebrated work of children from P.D. Eastman, released in 1960, it remains a frequently recommended read in its category.",
+      "A baby bird, just hatched, falls out of his nest while his mother is away. He asks a kitten, a dog, a cow, and a steam shovel, 'Are you my mother?' He is reunited with her. Eastman's book, published in 1960, has sold over 10 million copies. Since its release, it remains a frequently recommended read in its category.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Are+You+My+Mother?",
@@ -7008,7 +7008,7 @@ const books = [
     name: "The Story of Art",
     author: "E.H. Gombrich",
     description:
-      "A popular non-fiction title by E.H. Gombrich, released in 1950, it remains a frequently recommended read in its category.",
+      "Gombrich's survey of Western art history, from cave paintings to the 20th century. The book, first published in 1950, has sold over 8 million copies. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Story+of+Art",
@@ -7021,7 +7021,7 @@ const books = [
     name: "Scarlet",
     author: "Marissa Meyer",
     description:
-      "An acclaimed fantasy book written by Marissa Meyer, first published in 2013, it has become a favorite among readers of the genre.",
+      "The second book of the Lunar Chronicles. Scarlet Benoit, a farmer in France, searches for her missing grandmother. She is helped by Wolf, a street fighter who is part wolf (a Lunar mutation). Meyer's novel, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1470056982m/13206760.jpg",
     numberOfPages: 163,
@@ -7033,7 +7033,7 @@ const books = [
     name: "Rich Dad, Poor Dad",
     author: "Robert T. Kiyosaki",
     description:
-      "A widely read business work by Robert T. Kiyosaki, published in 1997, it continues to be discussed and recommended by readers.",
+      "Kiyosaki's self-help book contrasts two father figures: his biological father (Poor Dad), who worked hard and said 'I can't afford it,' and his best friend's father (Rich Dad), who owned businesses and said 'How can I afford it?' He argues that the wealthy buy assets (things that put money in their pockets) while the poor buy liabilities (things that take money out). The book, published in 1997, has sold over 40 million copies. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Business",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Rich+Dad,+Poor+Dad",
@@ -7046,7 +7046,7 @@ const books = [
     name: "Silence",
     author: "Becca Fitzpatrick",
     description:
-      "A popular young adult title by Becca Fitzpatrick, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "The third book of the Hush, Hush series. Nora has amnesia. She does not remember Patch. He wins her back. Fitzpatrick's novel, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1362408152m/10637766.jpg",
     numberOfPages: 421,
@@ -7058,7 +7058,7 @@ const books = [
     name: "The Magicians",
     author: "Lev Grossman",
     description:
-      "A widely read fantasy work by Lev Grossman, since its release in 2009, it has earned a large readership worldwide.",
+      "The first book of The Magicians trilogy. Quentin Coldwater, a teenager, is recruited to Brakebills, a magical college in upstate New York. He learns magic. He discovers that the magical land from his childhood books (Fillory) is real. Grossman's novel, published in 2009, was adapted into a TV series (2015-2020). Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1313772941m/6101718.jpg",
     numberOfPages: 460,
@@ -7070,7 +7070,7 @@ const books = [
     name: "Death Note, Vol. 1: Boredom",
     author: "Tsugumi Ohba, Takeshi Obata",
     description:
-      "An acclaimed horror book written by Tsugumi Ohba, Takeshi Obata, since 2004, it has been praised for its storytelling and lasting appeal.",
+      "The first volume of the Death Note manga. Light Yagami, a brilliant high school student, finds a notebook dropped by a Shinigami (death god). Anyone whose name is written in the notebook dies. Light decides to kill criminals. He is hunted by L, a mysterious detective. Ohba's manga, published in 2004, was adapted into an anime (2006-2007). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1419952134m/13615.jpg",
     numberOfPages: 374,
@@ -7082,7 +7082,7 @@ const books = [
     name: "A Great and Terrible Beauty",
     author: "Libba Bray",
     description:
-      "An acclaimed fantasy book written by Libba Bray, published in 2003, it continues to be discussed and recommended by readers.",
+      "The first book of the Gemma Doyle trilogy. Gemma Doyle, a sixteen-year-old girl in 1895, is sent to a boarding school in England after her mother dies in India. She discovers she has magical powers. Bray's novel, published in 2003, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1284558475m/3682.jpg",
     numberOfPages: 367,
@@ -7094,7 +7094,7 @@ const books = [
     name: "Everything Is Illuminated",
     author: "Jonathan Safran Foer",
     description:
-      "One of Jonathan Safran Foer's best-known fiction books, since its release in 2002, it has earned a large readership worldwide.",
+      "A young Jewish American writer (named Jonathan Safran Foer) travels to Ukraine to find Augustine, the woman who saved his grandfather from the Nazis. He is guided by Alex, a Ukrainian translator who speaks broken English. The novel, published in 2002, was adapted into a film (2005). Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1479774440m/256566.jpg",
     numberOfPages: 220,
@@ -7106,7 +7106,7 @@ const books = [
     name: "The Bourne Supremacy",
     author: "Robert Ludlum",
     description:
-      "One of Robert Ludlum's best-known fiction books, published in 1986, it continues to be discussed and recommended by readers.",
+      "The second book of the Bourne series. Jason Bourne, now living in Maine, is asked by the Chinese government to identify a killer who is using his name. Ludlum's novel, published in 1986, was adapted into a film (2004). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1335860600m/15769.jpg",
     numberOfPages: 725,
@@ -7118,7 +7118,7 @@ const books = [
     name: "Easy",
     author: "Tammara Webber",
     description:
-      "One of Tammara Webber's best-known romance books, since its release in 2012, it has earned a large readership worldwide.",
+      "Jacqueline Wallace, a college student, is raped by her ex-boyfriend. She is saved by Lucas, a fellow student. They fall in love. Webber's novel, published in 2012, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1349370267m/16056408.jpg",
     numberOfPages: 511,
@@ -7130,7 +7130,7 @@ const books = [
     name: "David Copperfield",
     author: "Charles Dickens, Jeremy Tambling",
     description:
-      "An acclaimed classics book written by Charles Dickens, Jeremy Tambling, published in 1849, it continues to be discussed and recommended by readers.",
+      "David Copperfield, the protagonist, tells his life story: his unhappy childhood, his work in a factory, his education, his marriage, and his career as a writer. Dickens's novel, published in 1849, is semi-autobiographical. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1461452762m/58696.jpg",
     numberOfPages: 451,
@@ -7142,7 +7142,7 @@ const books = [
     name: "The Absolutely True Diary of a Part-Time Indian",
     author: "Sherman Alexie, Ellen Forney",
     description:
-      "A celebrated work of young adult from Sherman Alexie, Ellen Forney, since its release in 2007, it has earned a large readership worldwide.",
+      "Arnold Spirit Jr., a Native American teenager, leaves his reservation school to attend an all-white high school. He is bullied. He succeeds. Alexie's novel, published in 2007, won the National Book Award. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327908992m/693208.jpg",
     numberOfPages: 630,
@@ -7155,7 +7155,7 @@ const books = [
     author:
       "Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",
     description:
-      "A popular fiction title by Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer, since its release in 1967, it has earned a large readership worldwide.",
+      "The Devil, disguised as Professor Woland, visits Moscow. He causes chaos. He tells the story of Pontius Pilate and Yeshua (Jesus). He reunites the Master, a writer, with his lover, Margarita. Bulgakov's novel, published posthumously in 1967, is a satire of Soviet society. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327867963m/117833.jpg",
     numberOfPages: 423,
@@ -7167,7 +7167,7 @@ const books = [
     name: "A Wizard of Earthsea",
     author: "Ursula K. Le Guin",
     description:
-      "An acclaimed fiction book written by Ursula K. Le Guin, released in 1968, it remains a frequently recommended read in its category.",
+      "The first book of the Earthsea cycle. Ged, a boy with magical powers, is sent to a school for wizards. He unleashes a shadow creature. He hunts it. Le Guin's novel, published in 1968, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1353424536m/13642.jpg",
     numberOfPages: 586,
@@ -7179,7 +7179,7 @@ const books = [
     name: "Because of Winn-Dixie",
     author: "Kate DiCamillo, Chris Sheban",
     description:
-      "One of Kate DiCamillo, Chris Sheban's best-known fiction books, published in 2000, it continues to be discussed and recommended by readers.",
+      "India Opal Buloni, a ten-year-old girl, adopts a stray dog named Winn-Dixie. The dog helps her make friends in her new town. DiCamillo's novel, published in 2000, won the Newbery Honor. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1456871914m/357664.jpg",
     numberOfPages: 152,
@@ -7191,7 +7191,7 @@ const books = [
     name: "A Separate Peace",
     author: "John Knowles",
     description:
-      "A popular classics title by John Knowles, released in 1959, it remains a frequently recommended read in its category.",
+      "Gene Forrester, a student at a New England boarding school, is jealous of his best friend, Finny. He causes Finny to fall from a tree, breaking his leg. Finny dies. Knowles's novel, published in 1959, is a classic of American literature. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Separate+Peace",
@@ -7204,7 +7204,7 @@ const books = [
     name: "The Rainmaker",
     author: "John Grisham",
     description:
-      "A popular fiction title by John Grisham, released in 1995, it remains a frequently recommended read in its category.",
+      "Rudy Baylor, a recent law school graduate, takes on a case against a corrupt insurance company that denied coverage to a man dying of leukemia. Grisham's novel, published in 1995, was adapted into a film (1997). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Rainmaker",
     numberOfPages: 641,
@@ -7217,7 +7217,7 @@ const books = [
     author:
       "Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",
     description:
-      "An acclaimed classics book written by Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford, published in 1605, it continues to be discussed and recommended by readers.",
+      "Alonso Quixano, a Spanish gentleman, reads so many chivalric romances that he goes mad. He renames himself Don Quixote, finds a horse (Rocinante), and a squire (Sancho Panza). He attacks windmills (thinking they are giants), rescues a prostitute (thinking she is a princess), and fights a lion. Cervantes's novel, published in two volumes (1605, 1615), is considered the first modern novel. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1364958765m/3836.jpg",
     numberOfPages: 237,
@@ -7229,7 +7229,7 @@ const books = [
     name: "Assassin's Apprentice",
     author: "Robin Hobb",
     description:
-      "A popular fantasy title by Robin Hobb, since its release in 1995, it has earned a large readership worldwide.",
+      "The first book of the Farseer trilogy. Fitz, the bastard son of Prince Chivalry, is trained as an assassin by his uncle, King Shrewd. Hobb's novel, published in 1995, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1320339497m/45107.jpg",
     numberOfPages: 460,
@@ -7241,7 +7241,7 @@ const books = [
     name: "The Restaurant at the End of the Universe",
     author: "Douglas Adams",
     description:
-      "An acclaimed science fiction book written by Douglas Adams, first published in 1980, it has become a favorite among readers of the genre.",
+      "The second book of the Hitchhiker's Guide to the Galaxy series. Arthur Dent, Ford Prefect, Zaphod Beeblebrox, Trillian, and Marvin the Paranoid Android travel to the Restaurant at the End of the Universe (built on the ruins of Earth after it explodes). Adams's novel, published in 1980, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Restaurant+at+the+End+of+the+Universe",
@@ -7254,7 +7254,7 @@ const books = [
     name: "Torment",
     author: "Lauren Kate",
     description:
-      "A celebrated work of young adult from Lauren Kate, released in 2010, it remains a frequently recommended read in its category.",
+      "The second book of the Fallen series. Luce, now at a new school, is haunted by her past. She uncovers the secrets of her reincarnation. Kate's novel, published in 2010, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1362339749m/7740152.jpg",
     numberOfPages: 293,
@@ -7266,7 +7266,7 @@ const books = [
     name: "The Tale of Peter Rabbit",
     author: "Beatrix Potter",
     description:
-      "A celebrated work of children from Beatrix Potter, released in 1901, it remains a frequently recommended read in its category.",
+      "Peter Rabbit, a mischievous young rabbit, disobeys his mother and sneaks into Mr. McGregor's garden. He eats too many vegetables, is chased by Mr. McGregor, loses his jacket and shoes, and barely escapes. He returns home sick and is put to bed. Potter's book, published in 1901 (self-published) and 1902 (commercial), has sold over 45 million copies. Since its release, it remains a frequently recommended read in its category.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1485118382m/19321.jpg",
     numberOfPages: 746,
@@ -7278,7 +7278,7 @@ const books = [
     name: "The Silver Chair",
     author: "C.S. Lewis, Pauline Baynes",
     description:
-      "A widely read fantasy work by C.S. Lewis, Pauline Baynes, first published in 1953, it has become a favorite among readers of the genre.",
+      "The sixth book (published order) of The Chronicles of Narnia. Eustace Scrubb (from The Voyage of the Dawn Treader) and his schoolmate Jill Pole are sent to Narnia to find Prince Rilian, the missing son of King Caspian. They are helped by Puddleglum, a gloomy marsh-wiggle. They rescue the prince from an evil witch who has kept him in an enchanted silver chair. Lewis's novel, published in 1953, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1336139237m/65641.jpg",
     numberOfPages: 364,
@@ -7290,7 +7290,7 @@ const books = [
     name: "The Hero of Ages",
     author: "Brandon Sanderson",
     description:
-      "A widely read fantasy work by Brandon Sanderson, released in 2008, it remains a frequently recommended read in its category.",
+      "The third book of the Mistborn trilogy. Vin, the Mistborn, and Elend Venture, the king, must defeat Ruin, the evil god who is trying to destroy the world. They sacrifice themselves. Sanderson's novel, published in 2008, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1480717763m/2767793.jpg",
     numberOfPages: 406,
@@ -7302,7 +7302,7 @@ const books = [
     name: "Girl, Interrupted",
     author: "Susanna Kaysen",
     description:
-      "A celebrated work of biography from Susanna Kaysen, first published in 1993, it has become a favorite among readers of the genre.",
+      "Kaysen's memoir of her 18 months in McLean Hospital, a psychiatric facility in Massachusetts, after being diagnosed with borderline personality disorder in 1967. She describes her fellow patients: Lisa (a sociopath), Daisy (who eats a raw chicken), and Polly (who burned herself). The book, published in 1993, was adapted into a film (1999) starring Winona Ryder and Angelina Jolie. Since its release, it has become a favorite among readers of the genre.",
     genre: "Biography",
     coverPage: "https://images.gr-assets.com/books/1475482930m/68783.jpg",
     numberOfPages: 742,
@@ -7314,7 +7314,7 @@ const books = [
     name: "Are You There, Vodka? It's Me, Chelsea",
     author: "Chelsea Handler",
     description:
-      "One of Chelsea Handler's best-known humor books, since its release in 2007, it has earned a large readership worldwide.",
+      "Handler's collection of humorous essays. She writes about her Irish Catholic family (her father was an alcoholic), her job as a waitress, her sex life, and her friendship with her Chihuahua, Chunk. The book, published in 2007, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Humor",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Are+You+There,+Vodka?+It's+Me,+Chelsea",
@@ -7327,7 +7327,7 @@ const books = [
     name: "Jonathan Livingston Seagull",
     author: "Richard Bach, Russell Munson",
     description:
-      "An acclaimed philosophy book written by Richard Bach, Russell Munson, released in 1970, it remains a frequently recommended read in its category.",
+      "Jonathan Livingston Seagull, a seagull, loves to fly. He is banished from his flock for flying too high. He practices, perfects his technique, and returns to teach other outcasts. Bach's novella, published in 1970, has sold over 40 million copies. Since its release, it remains a frequently recommended read in its category.",
     genre: "Philosophy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Jonathan+Livingston+Seagull",
@@ -7340,7 +7340,7 @@ const books = [
     name: "City of Heavenly Fire",
     author: "Cassandra Clare",
     description:
-      "One of Cassandra Clare's best-known fantasy books, published in 2014, it continues to be discussed and recommended by readers.",
+      "The sixth and final book of The Mortal Instruments series. Clary and Jace must defeat Sebastian, Clary's evil brother, who has become the new ruler of Hell. Clare's novel, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1460477794m/8755785.jpg",
     numberOfPages: 697,
@@ -7352,7 +7352,7 @@ const books = [
     name: "Love You Forever",
     author: "Robert Munsch, Sheila McGraw",
     description:
-      "One of Robert Munsch, Sheila McGraw's best-known children books, since 1986, it has been praised for its storytelling and lasting appeal.",
+      "A mother sings to her baby son: 'I'll love you forever, I'll like you for always, as long as I'm living, my baby you'll be.' As the son grows up, she continues to sing to him. When she is old and sick, he sings to her. Munsch's book, published in 1986, has sold over 30 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Love+You+Forever",
@@ -7365,7 +7365,7 @@ const books = [
     name: "Cell",
     author: "Stephen King",
     description:
-      "A celebrated work of horror from Stephen King, released in 2006, it remains a frequently recommended read in its category.",
+      "Clay Riddell, a graphic novelist in Boston, witnesses a phenomenon: everyone using a cell phone is turned into a violent, mindless zombie. He travels to Maine to find his son. King's novel, published in 2006, was adapted into a film (2016). Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Cell",
     numberOfPages: 352,
@@ -7377,7 +7377,7 @@ const books = [
     name: "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
     author: "Daniel James Brown",
     description:
-      "An acclaimed non-fiction book written by Daniel James Brown, since its release in 2013, it has earned a large readership worldwide.",
+      "The story of the University of Washington's eight-oared rowing crew, who won the gold medal at the 1936 Berlin Olympics. The crew members were working-class boys from the Pacific Northwest. They beat Ivy League teams, then beat the German crew in front of Hitler. Brown's book, published in 2013, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1354683116m/16158542.jpg",
     numberOfPages: 693,
@@ -7389,7 +7389,7 @@ const books = [
     name: "The Silmarillion (Middle-Earth Universe)",
     author: "J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",
     description:
-      "A widely read fiction work by J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith, published in 1977, it continues to be discussed and recommended by readers.",
+      "A collection of myths and legends that form the backstory to The Lord of the Rings. It includes the creation of the universe (the Ainulindalë), the history of the Elves (the Quenta Silmarillion), and the story of Númenor (the Akallabêth). Tolkien's book, published posthumously in 1977 (edited by his son), was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1336502583m/7332.jpg",
     numberOfPages: 269,
@@ -7401,7 +7401,7 @@ const books = [
     name: "The Drawing of the Three",
     author: "Stephen King",
     description:
-      "A celebrated work of fantasy from Stephen King, first published in 1987, it has become a favorite among readers of the genre.",
+      "The second book of the Dark Tower series. Roland, the last gunslinger, must draw three people from our world into his: Eddie Dean (a heroin addict), Odetta Holmes (a woman with dissociative identity disorder), and Jack Mort (a killer). King's novel, published in 1987, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1370918050m/5094.jpg",
     numberOfPages: 420,
@@ -7413,7 +7413,7 @@ const books = [
     name: "The Forgotten Garden",
     author: "Kate Morton",
     description:
-      "An acclaimed fiction book written by Kate Morton, since its release in 2008, it has earned a large readership worldwide.",
+      "Nell, a young girl, is found abandoned on a ship to Australia in 1913. She grows up, has a daughter, and dies. Her granddaughter, Cassandra, travels to England to discover her grandmother's past. Morton's novel, published in 2008, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1455283767m/3407877.jpg",
     numberOfPages: 292,
@@ -7425,7 +7425,7 @@ const books = [
     name: "The Trial",
     author: "Franz Kafka, Edwin Muir, Willa Muir, Max Brod",
     description:
-      "An acclaimed classics book written by Franz Kafka, Edwin Muir, Willa Muir, Max Brod, published in 1925, it continues to be discussed and recommended by readers.",
+      "Josef K., a bank clerk, is arrested for an unspecified crime. He tries to prove his innocence but is executed. Kafka's novel, published posthumously in 1925, is a classic of existential literature. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1320399438m/17690.jpg",
     numberOfPages: 720,
@@ -7437,7 +7437,7 @@ const books = [
     name: "This Lullaby",
     author: "Sarah Dessen",
     description:
-      "A widely read young adult work by Sarah Dessen, published in 2002, it continues to be discussed and recommended by readers.",
+      "Remy Starr, a cynical teenager who has watched her mother marry four times, is planning to leave for college. She meets Dexter, a musician, and falls in love. Dessen's novel, published in 2002, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1397779294m/22205.jpg",
     numberOfPages: 628,
@@ -7449,7 +7449,7 @@ const books = [
     name: "Plain Truth",
     author: "Jodi Picoult",
     description:
-      "One of Jodi Picoult's best-known fiction books, published in 2000, it continues to be discussed and recommended by readers.",
+      "Katie Fisher, an eighteen-year-old Amish woman, is accused of killing her newborn baby. She claims she did not know she was pregnant. Ellie Hathaway, a lawyer, defends her. Picoult's novel, published in 2000, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Plain+Truth",
     numberOfPages: 402,
@@ -7461,7 +7461,7 @@ const books = [
     name: "Orange Is the New Black",
     author: "Piper Kerman",
     description:
-      "An acclaimed non-fiction book written by Piper Kerman, since its release in 2010, it has earned a large readership worldwide.",
+      "Kerman's memoir of her 13 months in a federal prison for money laundering. She was involved in a drug smuggling ring ten years earlier. She describes the prison's culture, the guards, and her fellow inmates. The book, published in 2010, was adapted into a Netflix series (2013-2019). Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1320520714m/6314763.jpg",
     numberOfPages: 702,
@@ -7473,7 +7473,7 @@ const books = [
     name: "The Hound of the Baskervilles",
     author: "Arthur Conan Doyle, Anne Perry",
     description:
-      "A celebrated work of classics from Arthur Conan Doyle, Anne Perry, first published in 1902, it has become a favorite among readers of the genre.",
+      "Sherlock Holmes is called to investigate the death of Sir Charles Baskerville, who apparently was killed by a giant spectral hound. Holmes and Watson travel to Dartmoor. The hound is real (a large dog painted with phosphorus). The killer is a neighbor who wants the Baskerville estate. Doyle's novel, published in 1902, is one of the most famous Sherlock Holmes stories. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1355929358m/8921.jpg",
     numberOfPages: 314,
@@ -7485,7 +7485,7 @@ const books = [
     name: "Thinking, Fast and Slow",
     author: "Daniel Kahneman",
     description:
-      "A popular psychology title by Daniel Kahneman, published in 2011, it continues to be discussed and recommended by readers.",
+      "Kahneman, a Nobel Prize-winning psychologist, explains the two systems of the brain: System 1 (fast, intuitive, emotional) and System 2 (slow, deliberate, logical). He describes cognitive biases: the availability heuristic, the anchoring effect, loss aversion, and the planning fallacy. The book, published in 2011, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Psychology",
     coverPage: "https://images.gr-assets.com/books/1317793965m/11468377.jpg",
     numberOfPages: 726,
@@ -7497,7 +7497,7 @@ const books = [
     name: "The Mists of Avalon",
     author: "Marion Zimmer Bradley",
     description:
-      "An acclaimed fantasy book written by Marion Zimmer Bradley, released in 1982, it remains a frequently recommended read in its category.",
+      "A retelling of the Arthurian legend from the perspective of the women: Morgaine (Morgan le Fay), Gwenhwyfar (Guinevere), and Viviane (the Lady of the Lake). Bradley's novel, published in 1982, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1388857089m/402045.jpg",
     numberOfPages: 626,
@@ -7509,7 +7509,7 @@ const books = [
     name: "Are You There God? It's Me, Margaret",
     author: "Judy Blume",
     description:
-      "A popular young adult title by Judy Blume, published in 1970, it continues to be discussed and recommended by readers.",
+      "Margaret Simon, an eleven-year-old girl, moves to New Jersey. She is growing up. She wants to get her period, buy a bra, and have her first kiss. She talks to God. Blume's novel, published in 1970, has sold over 10 million copies. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Are+You+There+God?+It's+Me,+Margaret",
@@ -7522,7 +7522,7 @@ const books = [
     name: "Nights in Rodanthe",
     author: "Nicholas Sparks",
     description:
-      "A widely read romance work by Nicholas Sparks, since its release in 2002, it has earned a large readership worldwide.",
+      "Adrienne Willis, a divorced mother, travels to Rodanthe, North Carolina, to care for a friend's inn. She meets Paul Flanner, a surgeon who is trying to escape his past. They fall in love. Sparks's novel, published in 2002, was adapted into a film (2008). Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1328145638m/15926.jpg",
     numberOfPages: 519,
@@ -7534,7 +7534,7 @@ const books = [
     name: "Mr. Mercedes",
     author: "Stephen King",
     description:
-      "A widely read fiction work by Stephen King, first published in 2014, it has become a favorite among readers of the genre.",
+      "The first book of the Bill Hodges trilogy. A killer, Mr. Mercedes, drives a stolen Mercedes into a crowd of unemployed people, killing eight. Retired detective Bill Hodges pursues him. King's novel, published in 2014, was adapted into a TV series (2017-2019). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1468705326m/18775247.jpg",
     numberOfPages: 196,
@@ -7546,7 +7546,7 @@ const books = [
     name: "All Together Dead",
     author: "Charlaine Harris",
     description:
-      "A popular fantasy title by Charlaine Harris, first published in 2007, it has become a favorite among readers of the genre.",
+      "The seventh book of the Sookie Stackhouse series. Sookie attends a vampire summit. She is attacked. Harris's novel, published in 2007, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1417964062m/140075.jpg",
     numberOfPages: 672,
@@ -7558,7 +7558,7 @@ const books = [
     name: "Midwives",
     author: "Chris Bohjalian",
     description:
-      "An acclaimed fiction book written by Chris Bohjalian, published in 1997, it continues to be discussed and recommended by readers.",
+      "Sibyl Danforth, a midwife in rural Vermont, performs a emergency Cesarean section on a woman who she believes has died. The woman had not died; she was in a coma. Sibyl is charged with manslaughter. Bohjalian's novel, published in 1997, was an Oprah's Book Club selection. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Midwives",
     numberOfPages: 297,
@@ -7570,7 +7570,7 @@ const books = [
     name: "The Polar Express",
     author: "Chris Van Allsburg",
     description:
-      "A widely read children work by Chris Van Allsburg, since its release in 1985, it has earned a large readership worldwide.",
+      "A young boy, who is beginning to doubt Santa Claus, takes a magical train ride to the North Pole on Christmas Eve. Santa gives him a silver bell from his sleigh. The boy loses the bell, but Santa finds it and leaves it under the tree. The bell can only be heard by those who believe. Van Allsburg's book, published in 1985, won the Caldecott Medal and was adapted into a film (2004). Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1356707942m/420282.jpg",
     numberOfPages: 575,
@@ -7582,7 +7582,7 @@ const books = [
     name: "The True Story of the 3 Little Pigs",
     author: "Jon Scieszka, Lane Smith",
     description:
-      "One of Jon Scieszka, Lane Smith's best-known children books, released in 1989, it remains a frequently recommended read in its category.",
+      "The story of the Three Little Pigs told from the wolf's perspective. The wolf, Alexander T. Wolf, claims he was framed. He had a cold. He went to the pigs' houses to borrow a cup of sugar. He sneezed. The houses fell. The pigs died. He ate them. Scieszka's book, published in 1989, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327884731m/125507.jpg",
     numberOfPages: 246,
@@ -7594,7 +7594,7 @@ const books = [
     name: "Patriot Games",
     author: "Tom Clancy",
     description:
-      "A popular fiction title by Tom Clancy, released in 1987, it remains a frequently recommended read in its category.",
+      "The first book (chronologically) of the Jack Ryan series. Jack Ryan, a former Marine, is in London when he foils an assassination attempt on the Royal Family. He kills one of the terrorists. The terrorist's brother vows revenge. Clancy's novel, published in 1987, was adapted into a film (1992) starring Harrison Ford. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1328007145m/32682.jpg",
     numberOfPages: 635,
@@ -7606,7 +7606,7 @@ const books = [
     name: "Veronika Decides to Die",
     author: "Paulo Coelho, Margaret Jull Costa",
     description:
-      "A celebrated work of psychology from Paulo Coelho, Margaret Jull Costa, since 1998, it has been praised for its storytelling and lasting appeal.",
+      "Veronika, a twenty-four-year-old woman in Slovenia, tries to kill herself. She fails. She is placed in a mental hospital. She is told that her heart is damaged and she will die in a week. She falls in love. Coelho's novel, published in 1998, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Psychology",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Veronika+Decides+to+Die",
@@ -7619,7 +7619,7 @@ const books = [
     name: "Lean In: Women, Work, and the Will to Lead",
     author: "Sheryl Sandberg, Nell Scovell",
     description:
-      "A popular non-fiction title by Sheryl Sandberg, Nell Scovell, published in 2013, it continues to be discussed and recommended by readers.",
+      "Sandberg, the COO of Facebook, argues that women are held back by internal barriers (lack of confidence, fear of being disliked) as well as external barriers (sexism, lack of family-friendly policies). She advises women to 'lean in' to their careers, negotiate for raises, and find partners who share domestic work. The book, published in 2013, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1364250803m/16071764.jpg",
     numberOfPages: 500,
@@ -7631,7 +7631,7 @@ const books = [
     name: "Dead as a Doornail",
     author: "Charlaine Harris",
     description:
-      "An acclaimed fantasy book written by Charlaine Harris, released in 2005, it remains a frequently recommended read in its category.",
+      "The fifth book of the Sookie Stackhouse series. Sookie's brother, Jason, is suspected of being a were-panther. He is shot. Sookie investigates. Harris's novel, published in 2005, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1468562419m/170210.jpg",
     numberOfPages: 717,
@@ -7643,7 +7643,7 @@ const books = [
     name: "Shatter Me",
     author: "Tahereh Mafi",
     description:
-      "A widely read young adult work by Tahereh Mafi, released in 2011, it remains a frequently recommended read in its category.",
+      "The first book of the Shatter Me series. Juliette Ferrars, a teenager, has a deadly touch: anyone she touches dies. She is imprisoned. She is released to become a weapon. Mafi's novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1310649047m/10429045.jpg",
     numberOfPages: 449,
@@ -7655,7 +7655,7 @@ const books = [
     name: "Starship Troopers",
     author: "Robert A. Heinlein",
     description:
-      "A popular science fiction title by Robert A. Heinlein, published in 1959, it continues to be discussed and recommended by readers.",
+      "Juan Rico, a young man from Buenos Aires, joins the Mobile Infantry to fight an alien species called the Bugs. He rises through the ranks. Heinlein's novel, published in 1959, won the Hugo Award. It was adapted into a film (1997). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1406457252m/17214.jpg",
     numberOfPages: 563,
@@ -7667,7 +7667,7 @@ const books = [
     name: "I've Got Your Number",
     author: "Sophie Kinsella",
     description:
-      "A popular romance title by Sophie Kinsella, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Poppy Wyatt, a young woman in London, loses her engagement ring. She finds a discarded phone. She uses the phone to plan her wedding. The phone's owner, a businessman named Sam, keeps interrupting. They fall in love. Kinsella's novel, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1327956732m/12033455.jpg",
     numberOfPages: 428,
@@ -7679,7 +7679,7 @@ const books = [
     name: "Sophie's World",
     author: "Jostein Gaarder, Paulette Møller",
     description:
-      "A celebrated work of philosophy from Jostein Gaarder, Paulette Møller, released in 1991, it remains a frequently recommended read in its category.",
+      "Sophie Amundsen, a fourteen-year-old Norwegian girl, receives a letter asking, 'Who are you?' and another asking, 'Where does the world come from?' She begins a correspondence philosophy course. She learns the history of philosophy from the pre-Socratics to Sartre. Gaarder's novel, published in 1991, has sold over 30 million copies. Since its release, it remains a frequently recommended read in its category.",
     genre: "Philosophy",
     coverPage: "https://images.gr-assets.com/books/1343459906m/10959.jpg",
     numberOfPages: 358,
@@ -7691,7 +7691,7 @@ const books = [
     name: "The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion",
     author: "Mark Cotta Vaz",
     description:
-      "An acclaimed fantasy book written by Mark Cotta Vaz, first published in 2011, it has become a favorite among readers of the genre.",
+      "A companion book to the film The Twilight Saga: Breaking Dawn - Part 1. It includes interviews with the cast and crew, behind-the-scenes photographs, concept art, and costume designs. The book, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327904795m/11260526.jpg",
     numberOfPages: 488,
@@ -7703,7 +7703,7 @@ const books = [
     name: "The Martian Chronicles",
     author: "Ray Bradbury",
     description:
-      "One of Ray Bradbury's best-known science fiction books, released in 1950, it remains a frequently recommended read in its category.",
+      "A collection of linked short stories about the colonization of Mars. The first expeditions kill the Martians. The Martians die of chickenpox. Humans move in, destroy the environment, and then return to Earth. Bradbury's novel, published in 1950, is a classic of science fiction. Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1374049948m/76778.jpg",
     numberOfPages: 456,
@@ -7715,7 +7715,7 @@ const books = [
     name: "A Visit from the Goon Squad",
     author: "Jennifer Egan",
     description:
-      "One of Jennifer Egan's best-known fiction books, since 2010, it has been praised for its storytelling and lasting appeal.",
+      "A collection of linked short stories about the punk rock scene in San Francisco. The stories follow characters like Bennie Salazar (a record executive), his assistant Sasha, and a kleptomaniac. Egan's novel, published in 2010, won the Pulitzer Prize. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1356844046m/7331435.jpg",
     numberOfPages: 239,
@@ -7725,9 +7725,9 @@ const books = [
   {
     id: 639,
     name: "Heidi",
-    author: "Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",
+    author: "Johanna Spyri, Angelo Rinaldi, Beverly Cleary",
     description:
-      "A widely read classics work by Johanna Spyri, Angelo  Rinaldi, Beverly Cleary, published in 1880, it continues to be discussed and recommended by readers.",
+      "Heidi, a young orphan girl, is sent to live with her grandfather in the Swiss Alps. She loves the mountains. She is sent to Frankfurt to be a companion to a sick girl, Clara. She becomes ill. She returns to the mountains. Clara visits and learns to walk. Spyri's novel, published in 1880, has sold over 50 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Heidi",
     numberOfPages: 717,
@@ -7739,7 +7739,7 @@ const books = [
     name: "Prey",
     author: "Michael Crichton",
     description:
-      "An acclaimed science fiction book written by Michael Crichton, since 2002, it has been praised for its storytelling and lasting appeal.",
+      "Jack Forman, a computer programmer, investigates a group of nanorobots that have escaped a laboratory. They are reproducing and evolving. They can mimic human faces. They kill. Crichton's novel, published in 2002, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Science Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Prey",
     numberOfPages: 737,
@@ -7751,7 +7751,7 @@ const books = [
     name: "The Last Battle",
     author: "C.S. Lewis",
     description:
-      "A widely read fiction work by C.S. Lewis, published in 1956, it continues to be discussed and recommended by readers.",
+      "The seventh and final book (published order) of The Chronicles of Narnia. The false god Tash is worshipped alongside Aslan. The dwarves refuse to be saved. The world ends. The faithful find themselves in a new Narnia, which is the true Narnia. Lewis's novel, published in 1956, won the Carnegie Medal. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1308814830m/84369.jpg",
     numberOfPages: 457,
@@ -7763,7 +7763,7 @@ const books = [
     name: "World Without End",
     author: "Ken Follett",
     description:
-      "A widely read historical fiction work by Ken Follett, first published in 2007, it has become a favorite among readers of the genre.",
+      "The sequel to The Pillars of the Earth. The novel follows the descendants of the Kingsbridge characters in the 14th century, through the Hundred Years' War, the plague, and the Peasants' Revolt. Follett's novel, published in 2007, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=World+Without+End",
@@ -7776,7 +7776,7 @@ const books = [
     name: "Chosen",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "One of P.C. Cast, Kristin Cast's best-known young adult books, published in 2008, it continues to be discussed and recommended by readers.",
+      "The third book of the House of Night series. Zoey, the High Priestess, has been cheating on her boyfriend. She is attacked by a rogue vampire. Cast's novel, published in 2008, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1393192825m/1326258.jpg",
     numberOfPages: 211,
@@ -7788,7 +7788,7 @@ const books = [
     name: "Slammed",
     author: "Colleen Hoover",
     description:
-      "A celebrated work of young adult from Colleen Hoover, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "Layken, a teenager, moves to Michigan after her father's death. She falls in love with Will, a slam poet. She discovers he is her teacher. Hoover's novel, published in 2012, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1328530463m/13372690.jpg",
     numberOfPages: 535,
@@ -7800,7 +7800,7 @@ const books = [
     name: "Beastly",
     author: "Alex Flinn",
     description:
-      "A celebrated work of young adult from Alex Flinn, since its release in 2007, it has earned a large readership worldwide.",
+      "A modern retelling of Beauty and the Beast. Kyle Kingsbury, a wealthy, handsome teenager, is cursed by a witch to become ugly. He must find someone to love him. Flinn's novel, published in 2007, was adapted into a film (2011). Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1334260193m/544891.jpg",
     numberOfPages: 234,
@@ -7812,7 +7812,7 @@ const books = [
     name: "The Canterbury Tales",
     author: "Geoffrey Chaucer, Nevill Coghill",
     description:
-      "One of Geoffrey Chaucer, Nevill Coghill's best-known poetry books, first published in 1390, it has become a favorite among readers of the genre.",
+      "A collection of 24 stories told by pilgrims traveling to Canterbury Cathedral. The pilgrims include a knight, a miller, a nun, a merchant, a doctor, and a pardoner. Chaucer's tales, written between 1387 and 1400, are a classic of English literature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Poetry",
     coverPage: "https://images.gr-assets.com/books/1261208589m/2696.jpg",
     numberOfPages: 618,
@@ -7824,7 +7824,7 @@ const books = [
     name: "Baby Proof",
     author: "Emily Giffin",
     description:
-      "One of Emily Giffin's best-known romance books, first published in 2006, it has become a favorite among readers of the genre.",
+      "Claudia and Ben agree not to have children. Ben changes his mind. They divorce. Claudia falls in love with a married man. Giffin's novel, published in 2006, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1361466583m/42149.jpg",
     numberOfPages: 335,
@@ -7836,7 +7836,7 @@ const books = [
     name: "Inheritance",
     author: "Christopher Paolini",
     description:
-      "A widely read fantasy work by Christopher Paolini, published in 2011, it continues to be discussed and recommended by readers.",
+      "The fourth and final book of the Inheritance Cycle. Eragon, the Dragon Rider, and his dragon, Saphira, defeat King Galbatorix. Paolini's novel, published in 2011, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Inheritance",
     numberOfPages: 253,
@@ -7848,7 +7848,7 @@ const books = [
     name: "1Q84",
     author: "Haruki Murakami, Jay Rubin, Philip Gabriel",
     description:
-      "A widely read fiction work by Haruki Murakami, Jay Rubin, Philip Gabriel, released in 2009, it remains a frequently recommended read in its category.",
+      "The novel is set in Tokyo in 1984 (1Q84 refers to an alternate 1984). Aomame, a fitness instructor and assassin, and Tengo, a writer, are searching for each other. They discover two moons. Murakami's novel, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1483103331m/10357575.jpg",
     numberOfPages: 292,
@@ -7860,7 +7860,7 @@ const books = [
     name: "Uncle Tom's Cabin",
     author: "Harriet Beecher Stowe",
     description:
-      "A popular classics title by Harriet Beecher Stowe, since 1852, it has been praised for its storytelling and lasting appeal.",
+      "Uncle Tom, a long-suffering slave, is sold away from his family. He is beaten to death by his master, Simon Legree. Stowe's novel, published in 1852, was the best-selling novel of the 19th century. It inflamed the abolitionist movement. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1414349231m/46787.jpg",
     numberOfPages: 414,
@@ -7872,7 +7872,7 @@ const books = [
     name: "The Phantom of the Opera",
     author: "Gaston Leroux, Alexander Teixeira de Mattos",
     description:
-      "A popular classics title by Gaston Leroux, Alexander Teixeira de Mattos, since its release in 1909, it has earned a large readership worldwide.",
+      "A masked figure, the Phantom, haunts the Paris Opera House. He falls in love with Christine Daaé, a young singer. He kidnaps her. She unmasks him. He dies. Leroux's novel, published in 1909, was adapted into a musical (1986) by Andrew Lloyd Webber. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327867727m/480204.jpg",
     numberOfPages: 581,
@@ -7884,7 +7884,7 @@ const books = [
     name: "Definitely Dead",
     author: "Charlaine Harris",
     description:
-      "A widely read fantasy work by Charlaine Harris, released in 2006, it remains a frequently recommended read in its category.",
+      "The sixth book of the Sookie Stackhouse series. Sookie's cousin, Hadley, has been murdered. Sookie travels to New Orleans to claim her inheritance. She is attacked by a vampire. Harris's novel, published in 2006, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1468562748m/140079.jpg",
     numberOfPages: 170,
@@ -7896,7 +7896,7 @@ const books = [
     name: "Blindness",
     author: "José Saramago, Giovanni Pontiero",
     description:
-      "An acclaimed fiction book written by José Saramago, Giovanni Pontiero, since 1995, it has been praised for its storytelling and lasting appeal.",
+      "An epidemic of 'white blindness' sweeps a city. The blind are quarantined in an abandoned mental hospital. They are abandoned by the government. They form a new society. A woman who can see leads them. Saramago's novel, published in 1995, won the Nobel Prize in Literature (1998). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327866409m/2526.jpg",
     numberOfPages: 742,
@@ -7908,7 +7908,7 @@ const books = [
     name: "Freedom",
     author: "Jonathan Franzen",
     description:
-      "A widely read fiction work by Jonathan Franzen, published in 2010, it continues to be discussed and recommended by readers.",
+      "The novel follows the Berglund family: Walter (an environmentalist), Patty (a former athlete), and their children, Joey and Jessica. Walter's best friend, Richard (a rock star), has an affair with Patty. Franzen's novel, published in 2010, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1316729686m/7905092.jpg",
     numberOfPages: 731,
@@ -7920,7 +7920,7 @@ const books = [
     name: "Crossed",
     author: "Ally Condie",
     description:
-      "A celebrated work of young adult from Ally Condie, first published in 2011, it has become a favorite among readers of the genre.",
+      "The second book of the Matched trilogy. Cassia, now a rebel, searches for Ky, who has been sent to the war front. She finds him. Condie's novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1374335939m/15812814.jpg",
     numberOfPages: 271,
@@ -7932,7 +7932,7 @@ const books = [
     name: "I'd Tell You I Love You, But Then I'd Have to Kill You",
     author: "Ally Carter",
     description:
-      "An acclaimed young adult book written by Ally Carter, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Gallagher Girls series. Cammie Morgan, a student at the Gallagher Academy for Exceptional Young Women (a spy school), is on a mission. She falls in love with a local boy. Carter's novel, published in 2006, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1334491180m/852470.jpg",
     numberOfPages: 564,
@@ -7944,7 +7944,7 @@ const books = [
     name: "The White Tiger",
     author: "Aravind Adiga",
     description:
-      "An acclaimed fiction book written by Aravind Adiga, first published in 2008, it has become a favorite among readers of the genre.",
+      "Balram Halwai, a poor Indian man, writes a letter to the Chinese premier describing how he escaped poverty. He killed his employer, a wealthy man, and stole his money. Adiga's novel, published in 2008, won the Booker Prize. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+White+Tiger",
@@ -7957,7 +7957,7 @@ const books = [
     name: "The Corrections",
     author: "Jonathan Franzen",
     description:
-      "An acclaimed fiction book written by Jonathan Franzen, since 2001, it has been praised for its storytelling and lasting appeal.",
+      "The novel follows the Lambert family: Alfred (the father, who has Parkinson's), Enid (the mother, who wants her family to have one last Christmas together), Gary (the oldest son, a depressed banker), Chip (the middle son, a failed academic), and Denise (the daughter, a chef). Franzen's novel, published in 2001, won the National Book Award. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1355011305m/3805.jpg",
     numberOfPages: 309,
@@ -7969,7 +7969,7 @@ const books = [
     name: "Dreams from My Father: A Story of Race and Inheritance",
     author: "Barack Obama",
     description:
-      "An acclaimed biography book written by Barack Obama, published in 1995, it continues to be discussed and recommended by readers.",
+      "Obama's memoir, first published in 1995 (before he was elected to the Senate). He writes about his childhood in Hawaii and Indonesia, his search for his father (a Kenyan economist), and his work as a community organizer in Chicago. The book, published in 1995, was a bestseller after Obama's 2004 keynote address at the Democratic National Convention. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Biography",
     coverPage: "https://images.gr-assets.com/books/1352340675m/88061.jpg",
     numberOfPages: 711,
@@ -7981,7 +7981,7 @@ const books = [
     name: "Congo",
     author: "Michael Crichton",
     description:
-      "A widely read fiction work by Michael Crichton, first published in 1980, it has become a favorite among readers of the genre.",
+      "An expedition travels to the Congo to find a lost diamond mine. They are attacked by gorillas. They discover that the gorillas have been trained to kill. Crichton's novel, published in 1980, was adapted into a film (1995). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Congo",
     numberOfPages: 633,
@@ -7993,7 +7993,7 @@ const books = [
     name: "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
     author: "Judith Viorst, Ray Cruz",
     description:
-      "One of Judith Viorst, Ray Cruz's best-known children books, since its release in 1972, it has earned a large readership worldwide.",
+      "Alexander wakes up with gum in his hair. He drops his sweater in the sink. He is forced to sit in the middle of the car. He has a terrible, horrible, no good, very bad day. He considers moving to Australia. Viorst's book, published in 1972, has sold over 5 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1405259744m/46677.jpg",
     numberOfPages: 165,
@@ -8005,7 +8005,7 @@ const books = [
     name: "Interpreter of Maladies",
     author: "Jhumpa Lahiri",
     description:
-      "An acclaimed fiction book written by Jhumpa Lahiri, first published in 1999, it has become a favorite among readers of the genre.",
+      "A collection of nine short stories about Indian and Indian-American characters. Stories include 'A Temporary Matter' (about a couple whose marriage is falling apart), 'When Mr. Pirzada Came to Dine' (about a family hosting a Pakistani man during the 1971 war), and the title story (about an interpreter who translates for a doctor). Lahiri's collection, published in 1999, won the Pulitzer Prize. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Interpreter+of+Maladies",
@@ -8018,7 +8018,7 @@ const books = [
     name: "A People's History of the United States",
     author: "Howard Zinn",
     description:
-      "A widely read history work by Howard Zinn, first published in 1980, it has become a favorite among readers of the genre.",
+      "Zinn's history of the United States from the perspective of the oppressed: Native Americans, African Americans, women, and workers. He argues that Columbus was a murderer, that the American Revolution was a class war, and that the Civil War was not about slavery (it was about economics). The book, first published in 1980, has sold over 2 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1494279423m/2767.jpg",
     numberOfPages: 373,
@@ -8030,7 +8030,7 @@ const books = [
     name: "Breakfast at Tiffany's",
     author: "Truman Capote",
     description:
-      "A widely read classics work by Truman Capote, since its release in 1958, it has earned a large readership worldwide.",
+      "Holly Golightly, a nineteen-year-old party girl in New York City, is searching for a rich husband. She is friends with a writer, who narrates the story. She is involved with a drug dealer. She flees to Brazil. Capote's novella, published in 1958, was adapted into a film (1961) starring Audrey Hepburn. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1477015353m/251688.jpg",
     numberOfPages: 633,
@@ -8042,7 +8042,7 @@ const books = [
     name: "The Passage",
     author: "Justin Cronin",
     description:
-      "A widely read horror work by Justin Cronin, released in 2010, it remains a frequently recommended read in its category.",
+      "The first book of The Passage trilogy. A government experiment creates a virus that turns humans into vampires (virals). A 12-year-old girl, Amy, is the only one who is immune. She saves humanity. Cronin's novel, published in 2010, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1327874267m/6690798.jpg",
     numberOfPages: 732,
@@ -8054,7 +8054,7 @@ const books = [
     name: "Anansi Boys",
     author: "Neil Gaiman",
     description:
-      "One of Neil Gaiman's best-known fantasy books, published in 2005, it continues to be discussed and recommended by readers.",
+      "Fat Charlie Nancy, a London accountant, learns that his father was Anansi, the spider god (the trickster). His brother, Spider, arrives and takes over his life. Gaiman's novel, published in 2005, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1479778049m/2744.jpg",
     numberOfPages: 341,
@@ -8066,7 +8066,7 @@ const books = [
     name: "Along for the Ride",
     author: "Sarah Dessen",
     description:
-      "A widely read young adult work by Sarah Dessen, released in 2009, it remains a frequently recommended read in its category.",
+      "Auden, a teenager, spends the summer with her father and his new family. She meets Eli, a boy who is also sleepless. They fall in love. Dessen's novel, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1479692098m/5664985.jpg",
     numberOfPages: 298,
@@ -8078,7 +8078,7 @@ const books = [
     name: "Everything I Never Told You",
     author: "Celeste Ng",
     description:
-      "A widely read fiction work by Celeste Ng, released in 2014, it remains a frequently recommended read in its category.",
+      "Lydia Lee, a Chinese-American teenager, is found dead in a lake. Her family is torn apart. Her mother, Marilyn, wanted to be a doctor. Her father, James, wanted to fit in. Her brother, Nath, is jealous. Her sister, Hannah, watches. Ng's debut novel, published in 2014, won the Amazon Book of the Year award. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1386795198m/18693763.jpg",
     numberOfPages: 720,
@@ -8090,7 +8090,7 @@ const books = [
     name: "The House of the Spirits",
     author: "Isabel Allende, Magda Bogin",
     description:
-      "An acclaimed fiction book written by Isabel Allende, Magda Bogin, published in 1982, it continues to be discussed and recommended by readers.",
+      "The novel follows four generations of the Trueba family in an unnamed South American country. Esteban Trueba is a conservative landowner. His wife, Clara, is clairvoyant. Their daughter, Blanca, falls in love with a peasant. Their granddaughter, Alba, is a feminist. Allende's novel, published in 1982, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358615501m/9328.jpg",
     numberOfPages: 410,
@@ -8102,7 +8102,7 @@ const books = [
     name: "The Dead Zone",
     author: "Stephen King",
     description:
-      "A widely read thriller work by Stephen King, first published in 1979, it has become a favorite among readers of the genre.",
+      "Johnny Smith, a schoolteacher, wakes from a five-year coma with psychic abilities. He can see the past and future by touching people. He discovers that a presidential candidate will start a nuclear war. He assassinates him. King's novel, published in 1979, was adapted into a film (1983) and a TV series (2002-2007). Since its release, it has become a favorite among readers of the genre.",
     genre: "Thriller",
     coverPage: "https://images.gr-assets.com/books/1283509622m/11573.jpg",
     numberOfPages: 161,
@@ -8114,7 +8114,7 @@ const books = [
     name: "The Mysterious Affair at Styles",
     author: "Agatha Christie, Ροζίτα Σώκου",
     description:
-      "A widely read mystery work by Agatha Christie, Ροζίτα Σώκου, first published in 1920, it has become a favorite among readers of the genre.",
+      "The first Hercule Poirot novel. The wealthy Emily Inglethorp is poisoned. Her husband, Alfred, is suspected. Poirot proves that the killer is her stepson, John. Christie's novel, published in 1920, introduced the detective Hercule Poirot. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Mysterious+Affair+at+Styles",
@@ -8127,7 +8127,7 @@ const books = [
     name: "Murder on the Orient Express",
     author: "Agatha Christie",
     description:
-      "An acclaimed mystery book written by Agatha Christie, released in 1934, it remains a frequently recommended read in its category.",
+      "Hercule Poirot is a passenger on the Orient Express. The train is stopped by a snowdrift. A passenger, Ratchett, is murdered. Poirot discovers that Ratchett is a murderer who escaped justice. All of the passengers killed him. Christie's novel, published in 1934, was adapted into films (1974, 2017). Since its release, it remains a frequently recommended read in its category.",
     genre: "Mystery",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Murder+on+the+Orient+Express",
@@ -8140,7 +8140,7 @@ const books = [
     name: "Americanah",
     author: "Chimamanda Ngozi Adichie",
     description:
-      "A celebrated work of fiction from Chimamanda Ngozi Adichie, since its release in 2013, it has earned a large readership worldwide.",
+      "Ifemelu, a Nigerian woman, moves to the United States. She blogs about race. Her high school sweetheart, Obinze, tries to join her but is deported. She returns to Nigeria. They reunite. Adichie's novel, published in 2013, won the National Book Critics Circle Award. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1356654499m/15796700.jpg",
     numberOfPages: 648,
@@ -8152,7 +8152,7 @@ const books = [
     name: "Suzanne's Diary for Nicholas",
     author: "James Patterson",
     description:
-      "A celebrated work of romance from James Patterson, first published in 2001, it has become a favorite among readers of the genre.",
+      "Katie, a book editor, falls in love with Matt. He leaves her. She finds a diary written by Suzanne, Matt's deceased wife. The diary is addressed to their son, Nicholas. Patterson's novel, published in 2001, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Suzanne's+Diary+for+Nicholas",
@@ -8165,7 +8165,7 @@ const books = [
     name: "Firestarter",
     author: "Stephen King",
     description:
-      "A popular horror title by Stephen King, since 1980, it has been praised for its storytelling and lasting appeal.",
+      "Andy McGee and his daughter, Charlie, have psychic powers: Andy can persuade people; Charlie can start fires with her mind. They are hunted by a government agency. King's novel, published in 1980, was adapted into a film (1984) and a TV series (2002). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1394208032m/233667.jpg",
     numberOfPages: 599,
@@ -8177,7 +8177,7 @@ const books = [
     name: "Entwined with You",
     author: "Sylvia Day",
     description:
-      "An acclaimed romance book written by Sylvia Day, since its release in 2013, it has earned a large readership worldwide.",
+      "The third book of the Crossfire series. Eva and Gideon are engaged. They are stalked by Eva's ex-boyfriend and Gideon's ex-girlfriend. Day's novel, published in 2013, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1362526983m/15731779.jpg",
     numberOfPages: 298,
@@ -8189,7 +8189,7 @@ const books = [
     name: "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
     author: "Christopher McDougall",
     description:
-      "A widely read non-fiction work by Christopher McDougall, released in 2009, it remains a frequently recommended read in its category.",
+      "McDougall travels to Mexico's Copper Canyons to find the Tarahumara, a tribe of long-distance runners. He learns that they run 100 miles without injury. He argues that modern running shoes cause injuries; humans evolved to run barefoot. The book, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1320531983m/6289283.jpg",
     numberOfPages: 317,
@@ -8201,7 +8201,7 @@ const books = [
     name: "The Storied Life of A.J. Fikry",
     author: "Gabrielle Zevin",
     description:
-      "An acclaimed fiction book written by Gabrielle Zevin, published in 2014, it continues to be discussed and recommended by readers.",
+      "A.J. Fikry, a bookseller on a small island, is depressed. His wife has died; his rare book is stolen. A toddler is left in his store. He adopts her. Zevin's novel, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1404582137m/18293427.jpg",
     numberOfPages: 544,
@@ -8213,7 +8213,7 @@ const books = [
     name: "Madeline",
     author: "Ludwig Bemelmans",
     description:
-      "An acclaimed children book written by Ludwig Bemelmans, released in 1939, it remains a frequently recommended read in its category.",
+      "Madeline, a little girl in a Paris boarding school, gets appendicitis. She is taken to the hospital. Her friends visit her. She shows them her scar. Bemelmans's book, published in 1939, won the Caldecott Honor. Since its release, it remains a frequently recommended read in its category.",
     genre: "Children",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Madeline",
     numberOfPages: 730,
@@ -8225,7 +8225,7 @@ const books = [
     name: "Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century",
     author: "Napoleon Hill",
     description:
-      "A popular non-fiction title by Napoleon Hill, released in 1937, it remains a frequently recommended read in its category.",
+      "Hill's self-help book, first published in 1937, is based on his study of over 500 wealthy men (including Andrew Carnegie and Henry Ford). He argues that success comes from desire, faith, persistence, and a mastermind group. The book has sold over 20 million copies. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Think+and+Grow+Rich:+The+Landmark+Bestseller+-+Now+Revised+and+Updated+for+the+21st+Century",
@@ -8238,7 +8238,7 @@ const books = [
     name: "Little House in the Big Woods",
     author: "Laura Ingalls Wilder, Garth Williams",
     description:
-      "A widely read classics work by Laura Ingalls Wilder, Garth Williams, since 1932, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Little House series. Laura Ingalls lives with her family in a log cabin in Wisconsin. They hunt, fish, grow crops, and make maple syrup. Wilder's novel, published in 1932, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1475195170m/8337.jpg",
     numberOfPages: 490,
@@ -8250,7 +8250,7 @@ const books = [
     name: "Jonathan Strange & Mr Norrell",
     author: "Susanna Clarke",
     description:
-      "A celebrated work of fantasy from Susanna Clarke, first published in 2004, it has become a favorite among readers of the genre.",
+      "In 19th-century England, magic has been forgotten. Mr. Norrell, a magician, brings a young woman back to life. He is joined by Jonathan Strange. They compete. Clarke's novel, published in 2004, was a bestseller and adapted into a TV series (2015). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1357027589m/14201.jpg",
     numberOfPages: 304,
@@ -8262,7 +8262,7 @@ const books = [
     name: "A Bend in the Road",
     author: "Nicholas Sparks",
     description:
-      "A celebrated work of romance from Nicholas Sparks, released in 2001, it remains a frequently recommended read in its category.",
+      "Miles Ryan, a sheriff's deputy, is killed by a hit-and-run driver. His son, Jonah, is left without a father. The driver is Sarah's husband. Sparks's novel, published in 2001, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Bend+in+the+Road",
@@ -8275,7 +8275,7 @@ const books = [
     name: "The House of Hades",
     author: "Rick Riordan",
     description:
-      "An acclaimed fantasy book written by Rick Riordan, since its release in 2013, it has earned a large readership worldwide.",
+      "The fourth book of The Heroes of Olympus series. Percy and Annabeth fall into Tartarus (the underworld). They escape. Riordan's novel, published in 2013, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1464201430m/12127810.jpg",
     numberOfPages: 535,
@@ -8285,9 +8285,9 @@ const books = [
   {
     id: 685,
     name: "Gone",
-    author: "Michael  Grant",
+    author: "Michael Grant",
     description:
-      "An acclaimed young adult book written by Michael  Grant, published in 2008, it continues to be discussed and recommended by readers.",
+      "The first book of the Gone series. In the small town of Perdido Beach, California, everyone over the age of 15 disappears. The children develop superpowers. They are trapped inside a dome. Grant's novel, published in 2008, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1357796831m/2536134.jpg",
     numberOfPages: 389,
@@ -8299,7 +8299,7 @@ const books = [
     name: "The Wedding",
     author: "Nicholas Sparks",
     description:
-      "An acclaimed romance book written by Nicholas Sparks, released in 2003, it remains a frequently recommended read in its category.",
+      "Wilson Lewis, a lawyer, has been married to his wife, Jane, for 30 years. He has neglected her. He plans a second wedding to prove his love. Sparks's novel, published in 2003, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1385738787m/3466.jpg",
     numberOfPages: 151,
@@ -8311,7 +8311,7 @@ const books = [
     name: "1776",
     author: "David McCullough",
     description:
-      "A popular history title by David McCullough, released in 2005, it remains a frequently recommended read in its category.",
+      "McCullough's history of the year 1776, when the American colonies declared independence from Britain. He focuses on George Washington, the Continental Army, and the battles of Boston, New York, and Trenton. The book, published in 2005, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1306787560m/1067.jpg",
     numberOfPages: 424,
@@ -8323,7 +8323,7 @@ const books = [
     name: "Under the Banner of Heaven: A Story of Violent Faith",
     author: "Jon Krakauer",
     description:
-      "An acclaimed non-fiction book written by Jon Krakauer, since its release in 2003, it has earned a large readership worldwide.",
+      "Krakauer's non-fiction book examines the murder of Brenda Lafferty and her baby daughter by her brothers-in-law, who were fundamentalist Mormons. He also explores the history of the Church of Jesus Christ of Latter-day Saints and its violent offshoots. The book, published in 2003, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1356441391m/10847.jpg",
     numberOfPages: 750,
@@ -8335,7 +8335,7 @@ const books = [
     name: "Beautiful Ruins",
     author: "Jess Walter",
     description:
-      "A widely read fiction work by Jess Walter, released in 2012, it remains a frequently recommended read in its category.",
+      "In 1962, a hotel owner on the Italian coast falls in love with an American actress. In the present, the actress's daughter investigates. Walter's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1338161553m/11447921.jpg",
     numberOfPages: 294,
@@ -8347,7 +8347,7 @@ const books = [
     name: "The Audacity of Hope: Thoughts on Reclaiming the American Dream",
     author: "Barack Obama",
     description:
-      "A celebrated work of non-fiction from Barack Obama, since its release in 2006, it has earned a large readership worldwide.",
+      "Obama's second book, published in 2006, before he was elected president. He discusses his political philosophy, the role of government, and the need for bipartisanship. The book was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Audacity+of+Hope:+Thoughts+on+Reclaiming+the+American+Dream",
@@ -8360,7 +8360,7 @@ const books = [
     name: "On Writing: A Memoir of the Craft",
     author: "Stephen King",
     description:
-      "A celebrated work of non-fiction from Stephen King, published in 1999, it continues to be discussed and recommended by readers.",
+      "King's memoir and writing guide. He describes his childhood, his early writing attempts, his alcoholism, and the accident that nearly killed him (a van hit him while he was walking). He gives advice: 'The road to hell is paved with adverbs.' The book, published in 2000, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1436735207m/10569.jpg",
     numberOfPages: 505,
@@ -8372,7 +8372,7 @@ const books = [
     name: "Firefly Lane",
     author: "Kristin Hannah",
     description:
-      "A celebrated work of fiction from Kristin Hannah, first published in 2008, it has become a favorite among readers of the genre.",
+      "The novel follows the friendship of Tully Hart (a popular girl) and Kate Mularkey (an outcast) from childhood to adulthood. They work together at a TV station. Kate dies of cancer. Hannah's novel, published in 2008, was a bestseller and adapted into a Netflix series (2021). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1362435448m/1472878.jpg",
     numberOfPages: 702,
@@ -8384,7 +8384,7 @@ const books = [
     name: "Sphere",
     author: "Michael Crichton",
     description:
-      "A celebrated work of science fiction from Michael Crichton, published in 1987, it continues to be discussed and recommended by readers.",
+      "A spacecraft is discovered at the bottom of the Pacific Ocean. It is 300 years old. It contains a mysterious sphere. Psychologists are sent to investigate. Crichton's novel, published in 1987, was adapted into a film (1998). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Sphere",
     numberOfPages: 540,
@@ -8396,7 +8396,7 @@ const books = [
     name: "Love the One You're With",
     author: "Emily Giffin",
     description:
-      "One of Emily Giffin's best-known fiction books, since its release in 2008, it has earned a large readership worldwide.",
+      "Ellen, a married woman, runs into her ex-boyfriend, Leo. She questions her marriage. She stays with her husband. Giffin's novel, published in 2008, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1361466590m/2120652.jpg",
     numberOfPages: 466,
@@ -8408,7 +8408,7 @@ const books = [
     name: "The Silkworm",
     author: "Robert Galbraith, J.K. Rowling",
     description:
-      "A celebrated work of mystery from Robert Galbraith, J.K. Rowling, first published in 2014, it has become a favorite among readers of the genre.",
+      "The second book of the Cormoran Strike series. Strike is hired to find a missing novelist. The novelist is found dead, murdered in a way that mimics the death in his unpublished manuscript. Rowling's novel, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1392577290m/18214414.jpg",
     numberOfPages: 554,
@@ -8420,7 +8420,7 @@ const books = [
     name: "The Vampire Lestat",
     author: "Anne Rice",
     description:
-      "An acclaimed horror book written by Anne Rice, since its release in 1985, it has earned a large readership worldwide.",
+      "The second book of the Vampire Chronicles. Lestat de Lioncourt, the vampire from Interview with the Vampire, tells his story: his human life in 18th-century France, his transformation, his travels, and his encounters with other vampires. Rice's novel, published in 1985, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1347515742m/43814.jpg",
     numberOfPages: 410,
@@ -8432,7 +8432,7 @@ const books = [
     name: "State of Wonder",
     author: "Ann Patchett",
     description:
-      "A celebrated work of fiction from Ann Patchett, first published in 2011, it has become a favorite among readers of the genre.",
+      "Dr. Marina Singh, a pharmaceutical researcher, is sent to the Amazon to find her colleague, Dr. Annick Swenson, who is developing a fertility drug. She discovers a tribe of women who can bear children into their 70s. Patchett's novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1454428541m/9118135.jpg",
     numberOfPages: 544,
@@ -8444,7 +8444,7 @@ const books = [
     name: "The Silver Linings Playbook",
     author: "Matthew Quick",
     description:
-      "An acclaimed fiction book written by Matthew Quick, since 2008, it has been praised for its storytelling and lasting appeal.",
+      "Pat Peoples, a man with bipolar disorder, is released from a mental hospital. He moves back in with his parents. He is convinced that a movie will reunite him with his estranged wife. He meets Tiffany, a woman with her own mental illness. Quick's novel, published in 2008, was adapted into an Oscar-winning film (2012). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358277412m/13539044.jpg",
     numberOfPages: 239,
@@ -8456,7 +8456,7 @@ const books = [
     name: "Twenty Thousand Leagues Under the Sea",
     author: "Jules Verne, Anthony Bonner",
     description:
-      "A celebrated work of classics from Jules Verne, Anthony Bonner, released in 1869, it remains a frequently recommended read in its category.",
+      "Professor Pierre Aronnax, his servant Conseil, and a harpooner named Ned Land are captured by Captain Nemo, the commander of the submarine Nautilus. They travel 20,000 leagues under the sea. Verne's novel, published in 1870, is a classic of science fiction. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1494979127m/33507.jpg",
     numberOfPages: 214,
@@ -8468,7 +8468,7 @@ const books = [
     name: "The Constant Princess",
     author: "Philippa Gregory",
     description:
-      "One of Philippa Gregory's best-known historical fiction books, published in 2005, it continues to be discussed and recommended by readers.",
+      "A novel about Catherine of Aragon, the first wife of Henry VIII. She was married to his older brother, Arthur, who died. She married Henry. He divorced her. Gregory's novel, published in 2005, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1355932704m/16181.jpg",
     numberOfPages: 743,
@@ -8480,7 +8480,7 @@ const books = [
     name: "Mrs. Dalloway",
     author: "Virginia Woolf, Maureen Howard",
     description:
-      "A celebrated work of classics from Virginia Woolf, Maureen Howard, released in 1925, it remains a frequently recommended read in its category.",
+      "Clarissa Dalloway, a wealthy London socialite, is preparing for a party. The novel follows her thoughts and memories over the course of a single day. She is visited by Peter Walsh, a former suitor, and hears about the suicide of Septimus Smith, a shell-shocked veteran. Woolf's novel, published in 1925, is a classic of modernist literature. It explores themes of mental illness, aging, and the nature of time. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1479336522m/14942.jpg",
     numberOfPages: 684,
@@ -8492,7 +8492,7 @@ const books = [
     name: "The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared",
     author: "Jonas Jonasson, Rod Bradbury",
     description:
-      "A popular fiction title by Jonas Jonasson, Rod Bradbury, published in 2009, it continues to be discussed and recommended by readers.",
+      "Allan Karlsson, a 100-year-old man, climbs out of the window of his nursing home and disappears. He has a suitcase full of money and a talent for being in the wrong place at the right time. He has met Mao, Franco, Stalin, and Truman. Jonasson's novel, published in 2009, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1334848488m/13486632.jpg",
     numberOfPages: 668,
@@ -8504,7 +8504,7 @@ const books = [
     name: "Bag of Bones",
     author: "Stephen King",
     description:
-      "A celebrated work of horror from Stephen King, since its release in 1998, it has earned a large readership worldwide.",
+      "Mike Noonan, a novelist, is grieving his wife's death. He moves to their summer house in Maine. He discovers a ghost and a young woman. King's novel, published in 1998, was a bestseller and adapted into a TV miniseries (2011). Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1365592796m/10589.jpg",
     numberOfPages: 343,
@@ -8516,7 +8516,7 @@ const books = [
     name: "The Cider House Rules",
     author: "John Irving",
     description:
-      "One of John Irving's best-known fiction books, since its release in 1985, it has earned a large readership worldwide.",
+      "Homer Wells, an orphan, is raised and trained as a doctor by Dr. Wilbur Larch, who performs illegal abortions. Homer leaves the orphanage, works at an apple orchard, and falls in love. He returns to the orphanage. Irving's novel, published in 1985, won the National Book Award and was adapted into an Oscar-winning film (1999). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327962519m/4687.jpg",
     numberOfPages: 244,
@@ -8528,7 +8528,7 @@ const books = [
     name: "Thinner",
     author: "Richard Bachman, Stephen King",
     description:
-      "One of Richard Bachman, Stephen King's best-known horror books, released in 1984, it remains a frequently recommended read in its category.",
+      "Billy Halleck, an obese lawyer, accidentally hits a Gypsy woman with his car. Her father curses him: he begins to lose weight uncontrollably. He will die. He kills the Gypsy. King's novel (written under the pseudonym Richard Bachman), published in 1984, was adapted into a film (1996). Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1346947063m/10605.jpg",
     numberOfPages: 521,
@@ -8540,7 +8540,7 @@ const books = [
     name: "Around the World in Eighty Days",
     author: "Jules Verne, Michael Glencross, Brian W. Aldiss",
     description:
-      "A celebrated work of classics from Jules Verne, Michael Glencross, Brian W. Aldiss, since 1872, it has been praised for its storytelling and lasting appeal.",
+      "Phileas Fogg, a wealthy Englishman, bets his club that he can travel around the world in 80 days. He takes his valet, Passepartout. They travel by train, ship, and elephant. They rescue a princess. Fogg wins the bet. Verne's novel, published in 1872, has been adapted into countless films and TV shows. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1308815551m/54479.jpg",
     numberOfPages: 517,
@@ -8552,7 +8552,7 @@ const books = [
     name: "Walk Two Moons",
     author: "Sharon Creech",
     description:
-      "An acclaimed young adult book written by Sharon Creech, since 1994, it has been praised for its storytelling and lasting appeal.",
+      "Salamanca Tree Hiddle, a 13-year-old girl, travels with her grandparents to Idaho to find her mother, who left her. She tells the story of her friend Phoebe, whose mother also left. Creech's novel, published in 1994, won the Newbery Medal. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1389035862m/53496.jpg",
     numberOfPages: 302,
@@ -8564,7 +8564,7 @@ const books = [
     name: "Eleven Minutes",
     author: "Paulo Coelho, Margaret Jull Costa",
     description:
-      "One of Paulo Coelho, Margaret Jull Costa's best-known fiction books, first published in 2003, it has become a favorite among readers of the genre.",
+      "Maria, a young Brazilian woman, is disappointed by love. She moves to Geneva and becomes a prostitute. She meets a painter, Ralf, and falls in love. Coelho's novel, published in 2003, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1358266987m/1430.jpg",
     numberOfPages: 655,
@@ -8576,7 +8576,7 @@ const books = [
     name: "Nine Stories",
     author: "J.D. Salinger",
     description:
-      "A popular contemporary title by J.D. Salinger, first published in 1953, it has become a favorite among readers of the genre.",
+      "A collection of nine short stories by J.D. Salinger, including 'A Perfect Day for Bananafish' (about a man who kills himself), 'Uncle Wiggily in Connecticut' (about a woman's memories), and 'For Esmé—with Love and Squalor' (about a soldier and a girl). Salinger's collection, published in 1953, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Contemporary",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Nine+Stories",
     numberOfPages: 530,
@@ -8588,7 +8588,7 @@ const books = [
     name: "Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",
     author: "Julie Powell",
     description:
-      "An acclaimed non-fiction book written by Julie Powell, first published in 2005, it has become a favorite among readers of the genre.",
+      "Powell's memoir of her year-long project: cooking every recipe in Julia Child's Mastering the Art of French Cooking. She blogs about it. She becomes famous. The book, published in 2005, was adapted into a film (2009) starring Meryl Streep and Amy Adams. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Julie+and+Julia:+365+Days,+524+Recipes,+1+Tiny+Apartment+Kitchen:+How+One+Girl+Risked+Her+Marriage,+Her+Job,+and+Her+Sanity+to+Master+the+Art+of+Living",
@@ -8601,7 +8601,7 @@ const books = [
     name: "Unwind",
     author: "Neal Shusterman",
     description:
-      "A popular young adult title by Neal Shusterman, since 2007, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Unwind dystology. After a second civil war over abortion, a compromise is reached: parents can 'unwind' their children between the ages of 13 and 18, meaning their organs will be donated. Connor, Risa, and Lev flee their unwindings. Shusterman's novel, published in 2007, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1297677706m/764347.jpg",
     numberOfPages: 181,
@@ -8613,7 +8613,7 @@ const books = [
     name: "Drums of Autumn",
     author: "Diana Gabaldon",
     description:
-      "A popular historical fiction title by Diana Gabaldon, released in 1996, it remains a frequently recommended read in its category.",
+      "The fourth book of the Outlander series. Claire and Jamie travel to America. They settle in North Carolina. They build a home. Their daughter, Brianna, travels through the stones to join them. Gabaldon's novel, published in 1996, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1500688941m/10988.jpg",
     numberOfPages: 681,
@@ -8625,7 +8625,7 @@ const books = [
     name: "Prodigy",
     author: "Marie Lu",
     description:
-      "A celebrated work of young adult from Marie Lu, first published in 2013, it has become a favorite among readers of the genre.",
+      "The second book of the Legend series. Day and June are fugitives. They join the Patriots, a rebel group. They are betrayed. Lu's novel, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1336254717m/13414446.jpg",
     numberOfPages: 246,
@@ -8637,7 +8637,7 @@ const books = [
     name: "King Lear",
     author: "William Shakespeare",
     description:
-      "A widely read classics work by William Shakespeare, since its release in 1603, it has earned a large readership worldwide.",
+      "King Lear, an aging king, divides his kingdom among his three daughters: Goneril, Regan, and Cordelia. He asks them to declare their love. Cordelia refuses. Lear disowns her. Goneril and Regan betray him. He goes mad. He is reunited with Cordelia. She is hanged. He dies. Shakespeare's tragedy, written around 1606, is one of his most complex. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1331563731m/12938.jpg",
     numberOfPages: 729,
@@ -8649,7 +8649,7 @@ const books = [
     name: "Death of a Salesman",
     author: "Arthur Miller",
     description:
-      "An acclaimed classics book written by Arthur Miller, since 1949, it has been praised for its storytelling and lasting appeal.",
+      "Willy Loman, a 60-year-old traveling salesman, is fired. He has dedicated his life to success and popularity, but he has achieved neither. He kills himself for the insurance money. Miller's play, published in 1949, won the Pulitzer Prize. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1469024140m/12898.jpg",
     numberOfPages: 730,
@@ -8661,7 +8661,7 @@ const books = [
     name: "The Choice",
     author: "Nicholas Sparks",
     description:
-      "One of Nicholas Sparks's best-known romance books, released in 2007, it remains a frequently recommended read in its category.",
+      "Travis Parker, a veterinarian, falls in love with his new neighbor, Gabby. They marry. She is in a car accident and becomes paralyzed. Sparks's novel, published in 2007, was adapted into a film (2016). Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1385739133m/531350.jpg",
     numberOfPages: 436,
@@ -8673,7 +8673,7 @@ const books = [
     name: "The Hunger Games: Official Illustrated Movie Companion",
     author: "Kate Egan",
     description:
-      "An acclaimed non-fiction book written by Kate Egan, first published in 2012, it has become a favorite among readers of the genre.",
+      "A companion book to the 2012 film The Hunger Games. It includes interviews with the cast and crew, behind-the-scenes photographs, concept art, and costume designs. The book, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1363678804m/11742691.jpg",
     numberOfPages: 607,
@@ -8685,7 +8685,7 @@ const books = [
     name: "The Sound and the Fury",
     author: "William Faulkner",
     description:
-      "A celebrated work of fiction from William Faulkner, since 1929, it has been praised for its storytelling and lasting appeal.",
+      "The novel follows the Compson family in Mississippi. It is told in four sections: by Benjy, a mentally disabled man; by Quentin, his brother; by Jason, his brother; and by Dilsey, their black servant. Faulkner's novel, published in 1929, won the Nobel Prize in Literature. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1433089995m/10975.jpg",
     numberOfPages: 284,
@@ -8697,7 +8697,7 @@ const books = [
     name: "A New Earth: Awakening to Your Life's Purpose",
     author: "Eckhart Tolle",
     description:
-      "A popular spirituality title by Eckhart Tolle, first published in 2005, it has become a favorite among readers of the genre.",
+      "Tolle's self-help book, a sequel to The Power of Now. He argues that the ego is the source of human suffering and that we can achieve peace by identifying with our true self (consciousness). The book, published in 2005, was a bestseller and an Oprah's Book Club selection. Since its release, it has become a favorite among readers of the genre.",
     genre: "Spirituality",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+New+Earth:+Awakening+to+Your+Life's+Purpose",
@@ -8710,7 +8710,7 @@ const books = [
     name: "Bleach, Volume 01",
     author: "Tite Kubo",
     description:
-      "One of Tite Kubo's best-known fantasy books, since its release in 2002, it has earned a large readership worldwide.",
+      "The first volume of the Bleach manga. Ichigo Kurosaki, a teenager who can see ghosts, becomes a Soul Reaper. He must protect humans from evil spirits (Hollows). Kubo's manga, published in 2002, was adapted into an anime (2004-2012). Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Bleach,+Volume+01",
@@ -8723,7 +8723,7 @@ const books = [
     name: "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
     author: "Allie Brosh",
     description:
-      "A widely read humor work by Allie Brosh, first published in 2013, it has become a favorite among readers of the genre.",
+      "Brosh's collection of autobiographical comic essays. She writes about her childhood (the 'God of Cake'), her dog (the 'Simple Dog'), her depression (the 'Depression' series), and her attempt to motivate herself (the 'Alot'). The book, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Humor",
     coverPage: "https://images.gr-assets.com/books/1409522492m/17571564.jpg",
     numberOfPages: 202,
@@ -8735,7 +8735,7 @@ const books = [
     name: "The Shadow Rising",
     author: "Robert Jordan",
     description:
-      "A widely read fantasy work by Robert Jordan, since 1992, it has been praised for its storytelling and lasting appeal.",
+      "The fourth book of The Wheel of Time series. Rand al'Thor, the Dragon Reborn, returns to the Aiel Waste. He is accepted as the Car'a'carn (the chief of chiefs). Jordan's novel, published in 1992, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1470841890m/9539.jpg",
     numberOfPages: 528,
@@ -8747,7 +8747,7 @@ const books = [
     name: "Shantaram",
     author: "Gregory David Roberts",
     description:
-      "An acclaimed fiction book written by Gregory David Roberts, published in 2003, it continues to be discussed and recommended by readers.",
+      "Lin, an Australian bank robber, escapes from prison and flees to India. He lives in a slum, works as a doctor, and joins the Bombay mafia. Roberts's novel, published in 2003, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1333482282m/33600.jpg",
     numberOfPages: 215,
@@ -8759,7 +8759,7 @@ const books = [
     name: "From Dead to Worse",
     author: "Charlaine Harris",
     description:
-      "A celebrated work of fantasy from Charlaine Harris, published in 2008, it continues to be discussed and recommended by readers.",
+      "The eighth book of the Sookie Stackhouse series. Sookie is attacked by a werewolf. The vampire king of Louisiana is killed. Harris's novel, published in 2008, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=From+Dead+to+Worse",
@@ -8772,7 +8772,7 @@ const books = [
     name: "The Waste Lands",
     author: "Stephen King, Ned Dameron",
     description:
-      "A widely read fantasy work by Stephen King, Ned Dameron, released in 1991, it remains a frequently recommended read in its category.",
+      "The third book of the Dark Tower series. Roland, Eddie, and Susannah search for Jake, a boy who died in our world but exists in Roland's. King's novel, published in 1991, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Waste+Lands",
@@ -8785,7 +8785,7 @@ const books = [
     name: "The Bone Collector",
     author: "Jeffery Deaver",
     description:
-      "A celebrated work of mystery from Jeffery Deaver, since its release in 1997, it has earned a large readership worldwide.",
+      "The first book of the Lincoln Rhyme series. Lincoln Rhyme, a quadriplegic forensic detective, is asked to help capture a serial killer who leaves cryptic clues. The killer is a taxi driver. Deaver's novel, published in 1997, was adapted into a film (1999) starring Denzel Washington. Since its release, it has earned a large readership worldwide.",
     genre: "Mystery",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Bone+Collector",
@@ -8798,7 +8798,7 @@ const books = [
     name: "The Reader",
     author: "Bernhard Schlink, Carol Brown Janeway",
     description:
-      "A celebrated work of fiction from Bernhard Schlink, Carol Brown Janeway, published in 1995, it continues to be discussed and recommended by readers.",
+      "Michael Berg, a 15-year-old German boy, has an affair with Hanna Schmitz, a 36-year-old woman. She disappears. Years later, as a law student, he sees her in court: she is being tried for war crimes (she was a guard at Auschwitz). She is illiterate. She is sentenced to life in prison. Schlink's novel, published in 1995, was adapted into a film (2008) starring Kate Winslet. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327936339m/101299.jpg",
     numberOfPages: 337,
@@ -8810,7 +8810,7 @@ const books = [
     name: "Brown Bear, Brown Bear, What Do You See?",
     author: "Bill Martin Jr., Eric Carle",
     description:
-      "An acclaimed children book written by Bill Martin Jr., Eric Carle, since its release in 1967, it has earned a large readership worldwide.",
+      "A repetitive, rhythmic book for young children. Each page asks a different animal what it sees, and the animal names another animal. The book ends with a teacher and her students. Martin and Carle's book, published in 1967, has sold over 20 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Brown+Bear,+Brown+Bear,+What+Do+You+See?",
@@ -8823,7 +8823,7 @@ const books = [
     name: "Hyperion",
     author: "Dan Simmons",
     description:
-      "One of Dan Simmons's best-known science fiction books, since its release in 1989, it has earned a large readership worldwide.",
+      "The first book of the Hyperion Cantos. Seven pilgrims travel to the Time Tombs on the planet Hyperion to meet the Shrike, a mythical creature. They tell their stories. Simmons's novel, published in 1989, won the Hugo Award. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1405546838m/77566.jpg",
     numberOfPages: 326,
@@ -8835,7 +8835,7 @@ const books = [
     name: "The Pearl",
     author: "John Steinbeck",
     description:
-      "A widely read classics work by John Steinbeck, released in 1947, it remains a frequently recommended read in its category.",
+      "Kino, a poor pearl diver in Mexico, finds a giant pearl. He dreams of wealth and education for his son. The pearl brings him only violence. His son is killed. He throws the pearl back into the sea. Steinbeck's novella, published in 1947, is based on a Mexican folk tale. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1437234939m/5308.jpg",
     numberOfPages: 510,
@@ -8847,7 +8847,7 @@ const books = [
     name: "The Exorcist",
     author: "William Peter Blatty",
     description:
-      "A widely read horror work by William Peter Blatty, since 1971, it has been praised for its storytelling and lasting appeal.",
+      "Regan MacNeil, a 12-year-old girl, is possessed by a demon. Two priests try to exorcise it. One dies. Blatty's novel, published in 1971, was adapted into a film (1973) that won an Academy Award. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1375168676m/179780.jpg",
     numberOfPages: 178,
@@ -8859,7 +8859,7 @@ const books = [
     name: "The Short Second Life of Bree Tanner: An Eclipse Novella",
     author: "Stephenie Meyer",
     description:
-      "A widely read young adult work by Stephenie Meyer, released in 2009, it remains a frequently recommended read in its category.",
+      "A novella from the Twilight series, told from the perspective of Bree Tanner, a newborn vampire who appears in Eclipse. She is killed by the Volturi. Meyer's novella, published in 2010, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1274335680m/7937462.jpg",
     numberOfPages: 675,
@@ -8871,7 +8871,7 @@ const books = [
     name: "Snow Falling on Cedars",
     author: "David Guterson",
     description:
-      "An acclaimed fiction book written by David Guterson, first published in 1994, it has become a favorite among readers of the genre.",
+      "In 1954, a Japanese-American fisherman is accused of killing a white man on an island in Puget Sound. The trial reveals the prejudice against Japanese-Americans after World War II. Guterson's novel, published in 1994, won the PEN/Faulkner Award. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1479863528m/77142.jpg",
     numberOfPages: 253,
@@ -8883,7 +8883,7 @@ const books = [
     name: "Roots: The Saga of an American Family",
     author: "Alex Haley",
     description:
-      "One of Alex Haley's best-known historical fiction books, released in 1976, it remains a frequently recommended read in its category.",
+      "Haley's novel traces his family history back to Kunta Kinte, an African taken to America as a slave in 1767. The novel spans seven generations. It won the Pulitzer Prize and was adapted into a landmark TV miniseries (1977). Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1329398936m/546018.jpg",
     numberOfPages: 155,
@@ -8895,7 +8895,7 @@ const books = [
     name: "Batman: The Killing Joke",
     author: "Alan Moore, Brian Bolland, Tim Sale",
     description:
-      "One of Alan Moore, Brian Bolland, Tim Sale's best-known graphic novel books, released in 1988, it remains a frequently recommended read in its category.",
+      "A graphic novel about the Joker. He shoots and paralyzes Batgirl. He kidnaps Commissioner Gordon. He tries to prove that anyone can go insane. Moore's graphic novel, published in 1988, was adapted into an animated film (2016). Since its release, it remains a frequently recommended read in its category.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1346331835m/96358.jpg",
     numberOfPages: 601,
@@ -8907,7 +8907,7 @@ const books = [
     name: "Invisible Man",
     author: "Ralph Ellison",
     description:
-      "A widely read classics work by Ralph Ellison, published in 1952, it continues to be discussed and recommended by readers.",
+      "An unnamed black man narrates his life: he is expelled from a Southern college, works in a paint factory, joins a Communist-like organization (the Brotherhood), and is betrayed. He becomes invisible. Ellison's novel, published in 1952, won the National Book Award. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1352854247m/16981.jpg",
     numberOfPages: 481,
@@ -8919,7 +8919,7 @@ const books = [
     name: "A Long Way Gone: Memoirs of a Boy Soldier",
     author: "Ishmael Beah",
     description:
-      "A popular non-fiction title by Ishmael Beah, released in 2007, it remains a frequently recommended read in its category.",
+      "Beah's memoir of his time as a child soldier in Sierra Leone. He was 12 when he was forced to join the army. He was addicted to drugs and taught to kill. He was rescued by UNICEF and rehabilitated. His book, published in 2007, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Long+Way+Gone:+Memoirs+of+a+Boy+Soldier",
@@ -8932,7 +8932,7 @@ const books = [
     name: "Mrs. Frisby and the Rats of NIMH",
     author: "Robert C. O'Brien",
     description:
-      "A widely read fantasy work by Robert C. O'Brien, released in 1971, it remains a frequently recommended read in its category.",
+      "Mrs. Frisby, a field mouse, needs to move her family before the farmer plows. She asks the rats of NIMH for help. The rats are intelligent (they were experimented on at the National Institute of Mental Health). O'Brien's novel, published in 1971, won the Newbery Medal. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1351191064m/9822.jpg",
     numberOfPages: 642,
@@ -8944,7 +8944,7 @@ const books = [
     name: "Different Seasons",
     author: "Stephen King",
     description:
-      "An acclaimed horror book written by Stephen King, since its release in 1982, it has earned a large readership worldwide.",
+      "A collection of four novellas, three of which were adapted into films: 'Rita Hayworth and Shawshank Redemption' (adapted as The Shawshank Redemption), 'Apt Pupil' (adapted as Apt Pupil), and 'The Body' (adapted as Stand by Me). King's collection, published in 1982, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1329662611m/39662.jpg",
     numberOfPages: 601,
@@ -8956,7 +8956,7 @@ const books = [
     name: "The Little House Collection (Little House, #1-9)",
     author: "Laura Ingalls Wilder, Garth Williams",
     description:
-      "One of Laura Ingalls Wilder, Garth Williams's best-known classics books, since its release in 1953, it has earned a large readership worldwide.",
+      "A boxed set of all nine Little House books: Little House in the Big Woods, Little House on the Prairie, Farmer Boy (about her husband's childhood), On the Banks of Plum Creek, By the Shores of Silver Lake, The Long Winter, Little Town on the Prairie, These Happy Golden Years, and The First Four Years (published posthumously). The series follows Laura Ingalls as she grows up in the American frontier. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Little+House+Collection+(Little+House,+#1-9)",
@@ -8969,7 +8969,7 @@ const books = [
     name: "The Girls' Guide to Hunting and Fishing",
     author: "Melissa Bank",
     description:
-      "An acclaimed fiction book written by Melissa Bank, since its release in 1998, it has earned a large readership worldwide.",
+      "A collection of linked short stories about Jane Rosenal, a young woman in New York City. She navigates love, work, and family. The title story is about a guide to dating. Bank's collection, published in 1998, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1309210476m/33926.jpg",
     numberOfPages: 186,
@@ -8981,7 +8981,7 @@ const books = [
     name: "Wool Omnibus",
     author: "Hugh Howey",
     description:
-      "One of Hugh Howey's best-known dystopian books, since its release in 2012, it has earned a large readership worldwide.",
+      "The first book of the Silo series. In a post-apocalyptic world, the last humans live in a giant underground silo. Juliette, an engineer, is sent outside to clean (which means death). She survives. Howey's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Dystopian",
     coverPage: "https://images.gr-assets.com/books/1349614200m/13453029.jpg",
     numberOfPages: 229,
@@ -8993,7 +8993,7 @@ const books = [
     name: "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
     author: "Christopher Moore",
     description:
-      "A celebrated work of humor from Christopher Moore, released in 2002, it remains a frequently recommended read in its category.",
+      "A humorous retelling of the life of Jesus, from the perspective of his childhood friend, Biff. The novel covers the missing years (ages 13 to 30) not mentioned in the Bible. Moore's novel, published in 2002, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Humor",
     coverPage: "https://images.gr-assets.com/books/1331419009m/28881.jpg",
     numberOfPages: 293,
@@ -9005,7 +9005,7 @@ const books = [
     name: "The Power of Now: A Guide to Spiritual Enlightenment",
     author: "Eckhart Tolle",
     description:
-      "An acclaimed spirituality book written by Eckhart Tolle, first published in 1997, it has become a favorite among readers of the genre.",
+      "Tolle's self-help book argues that human suffering is caused by identification with the ego and the mind, which dwell on the past and future. Peace comes from living in the present moment. The book, published in 1997, was a bestseller and an Oprah's Book Club selection. Since its release, it has become a favorite among readers of the genre.",
     genre: "Spirituality",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Power+of+Now:+A+Guide+to+Spiritual+Enlightenment",
@@ -9016,9 +9016,9 @@ const books = [
   {
     id: 745,
     name: "Let's Pretend This Never Happened: A Mostly True Memoir",
-    author: "Jenny  Lawson",
+    author: "Jenny Lawson",
     description:
-      "A widely read non-fiction work by Jenny  Lawson, first published in 2012, it has become a favorite among readers of the genre.",
+      "Lawson's memoir of her bizarre childhood in rural Texas (her father had a taxidermy shop, and she was raised with a pet raccoon named 'Tommy'), her struggles with depression and anxiety, and her career as a blogger. The book, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1489415716m/12868761.jpg",
     numberOfPages: 613,
@@ -9030,7 +9030,7 @@ const books = [
     name: "The Lies of Locke Lamora",
     author: "Scott Lynch",
     description:
-      "A popular fantasy title by Scott Lynch, released in 2006, it remains a frequently recommended read in its category.",
+      "The first book of the Gentleman Bastard series. Locke Lamora, a thief, leads a band of con artists in the city of Camorr. He is hunted by a mafia boss. Lynch's novel, published in 2006, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Lies+of+Locke+Lamora",
@@ -9043,7 +9043,7 @@ const books = [
     name: "Sabriel",
     author: "Garth Nix",
     description:
-      "An acclaimed young adult book written by Garth Nix, first published in 1995, it has become a favorite among readers of the genre.",
+      "The first book of the Old Kingdom series. Sabriel, a teenage girl, is a necromancer. Her father, the Abhorsen (who binds the dead), is missing. She travels into the Old Kingdom to find him. Nix's novel, published in 1995, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1293655399m/518848.jpg",
     numberOfPages: 524,
@@ -9055,7 +9055,7 @@ const books = [
     name: "Dead and Gone",
     author: "Charlaine Harris",
     description:
-      "One of Charlaine Harris's best-known fantasy books, released in 2009, it remains a frequently recommended read in its category.",
+      "The ninth book of the Sookie Stackhouse series. Sookie is kidnapped by a fairy. She escapes. Harris's novel, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Dead+and+Gone",
     numberOfPages: 376,
@@ -9067,7 +9067,7 @@ const books = [
     name: "The Storyteller",
     author: "Jodi Picoult",
     description:
-      "A widely read fiction work by Jodi Picoult, since its release in 2013, it has earned a large readership worldwide.",
+      "Sage Singer, a baker, befriends an elderly man, Josef Weber. He asks her to kill him. He is a former Nazi. Picoult's novel, published in 2013, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1356328634m/15753740.jpg",
     numberOfPages: 612,
@@ -9079,7 +9079,7 @@ const books = [
     name: "Obsidian",
     author: "Jennifer L. Armentrout",
     description:
-      "A celebrated work of young adult from Jennifer L. Armentrout, since its release in 2011, it has earned a large readership worldwide.",
+      "The first book of the Lux series. Katy, a teenager, moves to West Virginia. She discovers that her neighbors, Dee and Daemon, are aliens (Luxen). She falls in love with Daemon. Armentrout's novel, published in 2011, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1328275091m/12578077.jpg",
     numberOfPages: 599,
@@ -9091,7 +9091,7 @@ const books = [
     name: "Life, the Universe and Everything",
     author: "Douglas Adams",
     description:
-      "One of Douglas Adams's best-known science fiction books, released in 1982, it remains a frequently recommended read in its category.",
+      "The third book of the Hitchhiker's Guide to the Galaxy series. Arthur Dent is stranded on prehistoric Earth. He is rescued and travels to the planet Krikkit to stop the Krikkiters from destroying the universe. Adams's novel, published in 1982, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1333577589m/8694.jpg",
     numberOfPages: 578,
@@ -9103,7 +9103,7 @@ const books = [
     name: "Crown of Midnight",
     author: "Sarah J. Maas",
     description:
-      "An acclaimed young adult book written by Sarah J. Maas, since its release in 2013, it has earned a large readership worldwide.",
+      "The second book of the Throne of Glass series. Celaena, now the King's Champion, is ordered to kill. She refuses. She is hunted. Maas's novel, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1391580481m/17167166.jpg",
     numberOfPages: 309,
@@ -9115,7 +9115,7 @@ const books = [
     name: "Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",
     author: "Bryan Lee O'Malley",
     description:
-      "A widely read graphic novel work by Bryan Lee O'Malley, released in 2004, it remains a frequently recommended read in its category.",
+      "The first volume of the Scott Pilgrim graphic novel series. Scott Pilgrim, a 23-year-old slacker in Toronto, falls in love with Ramona Flowers. He must defeat her seven evil exes. O'Malley's comic, published in 2004, was adapted into a film (2010). Since its release, it remains a frequently recommended read in its category.",
     genre: "Graphic Novel",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Scott+Pilgrim,+Volume+1:+Scott+Pilgrim's+Precious+Little+Life",
@@ -9128,7 +9128,7 @@ const books = [
     name: "Half Broke Horses",
     author: "Jeannette Walls",
     description:
-      "A popular fiction title by Jeannette Walls, released in 2008, it remains a frequently recommended read in its category.",
+      "A novel based on the life of Walls's grandmother, Lily Casey Smith. She grew up in the Arizona desert, rode horses, became a teacher, and survived the Great Depression. Walls's novel, published in 2008, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Half+Broke+Horses",
@@ -9141,7 +9141,7 @@ const books = [
     name: "Mort",
     author: "Terry Pratchett",
     description:
-      "A popular fantasy title by Terry Pratchett, published in 1987, it continues to be discussed and recommended by readers.",
+      "The fourth book of the Discworld series. Mort, a young man, is hired as an apprentice by Death. He falls in love with a princess. Pratchett's novel, published in 1987, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Mort",
     numberOfPages: 261,
@@ -9153,7 +9153,7 @@ const books = [
     name: "The Iron King",
     author: "Julie Kagawa",
     description:
-      "A popular young adult title by Julie Kagawa, published in 2010, it continues to be discussed and recommended by readers.",
+      "The first book of the Iron Fey series. Meghan Chase, a teenager, discovers she is the daughter of the summer faery king. She must rescue her brother from the Iron King. Kagawa's novel, published in 2010, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327877670m/6644117.jpg",
     numberOfPages: 644,
@@ -9165,7 +9165,7 @@ const books = [
     name: "Lonesome Dove",
     author: "Larry McMurtry",
     description:
-      "A widely read fiction work by Larry McMurtry, since its release in 1985, it has earned a large readership worldwide.",
+      "The novel follows two retired Texas Rangers, Augustus McCrae and Woodrow Call, as they lead a cattle drive from Texas to Montana. McMurtry's novel, published in 1985, won the Pulitzer Prize. It was adapted into a TV miniseries (1989). Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1378573063m/256008.jpg",
     numberOfPages: 675,
@@ -9177,7 +9177,7 @@ const books = [
     name: "Stiff: The Curious Lives of Human Cadavers",
     author: "Mary Roach",
     description:
-      "A widely read non-fiction work by Mary Roach, since its release in 2003, it has earned a large readership worldwide.",
+      "Roach's non-fiction book explores what happens to human bodies after death. She visits a body farm, a cadaver lab, and a face-transplant surgery. She discusses crucifixion, beheading, and decomposition. The book, published in 2003, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1347656489m/32145.jpg",
     numberOfPages: 723,
@@ -9189,7 +9189,7 @@ const books = [
     name: "Bloodlines",
     author: "Richelle Mead",
     description:
-      "An acclaimed young adult book written by Richelle Mead, released in 2011, it remains a frequently recommended read in its category.",
+      "The first book of the Bloodlines series (a spin-off of Vampire Academy). Sydney, a Alchemist (a human who protects vampires), is sent to protect Jill, the Moroi princess. Mead's novel, published in 2011, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1297199431m/8709527.jpg",
     numberOfPages: 272,
@@ -9201,7 +9201,7 @@ const books = [
     name: "Ender's Shadow",
     author: "Orson Scott Card",
     description:
-      "A popular science fiction title by Orson Scott Card, since its release in 1998, it has earned a large readership worldwide.",
+      "A parallel novel to Ender's Game, told from the perspective of Bean, a child genius who is even smarter than Ender. Card's novel, published in 1998, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Ender's+Shadow",
     numberOfPages: 523,
@@ -9213,7 +9213,7 @@ const books = [
     name: "Twenties Girl",
     author: "Sophie Kinsella",
     description:
-      "An acclaimed romance book written by Sophie Kinsella, released in 2009, it remains a frequently recommended read in its category.",
+      "Lara Lington, a young woman, is haunted by the ghost of her great-aunt Sadie, who died at 27 in the 1920s. Sadie wants Lara to find her missing necklace. Kinsella's novel, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1320544759m/6063187.jpg",
     numberOfPages: 394,
@@ -9225,7 +9225,7 @@ const books = [
     name: "Schindler's List",
     author: "Thomas Keneally",
     description:
-      "One of Thomas Keneally's best-known history books, first published in 1982, it has become a favorite among readers of the genre.",
+      "A non-fiction novel about Oskar Schindler, a German businessman who saved over 1,000 Jews during the Holocaust by employing them in his factory. Keneally's novel, published in 1982, won the Booker Prize and was adapted into an Oscar-winning film (1993). Since its release, it has become a favorite among readers of the genre.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1348163457m/375013.jpg",
     numberOfPages: 549,
@@ -9237,7 +9237,7 @@ const books = [
     name: "The Bluest Eye",
     author: "Toni Morrison",
     description:
-      "A popular fiction title by Toni Morrison, published in 1970, it continues to be discussed and recommended by readers.",
+      "Pecola Breedlove, a young black girl in Ohio, prays for blue eyes. She believes that if she were beautiful, she would be loved. She is raped by her father and becomes pregnant. The baby dies. She goes mad. Morrison's debut novel, published in 1970, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Bluest+Eye",
     numberOfPages: 316,
@@ -9249,7 +9249,7 @@ const books = [
     name: "The White Queen",
     author: "Philippa Gregory",
     description:
-      "A widely read historical fiction work by Philippa Gregory, released in 2009, it remains a frequently recommended read in its category.",
+      "The first book of the Cousins' War series. The novel follows Elizabeth Woodville, the wife of King Edward IV. She is a commoner who marries a king. Gregory's novel, published in 2009, was adapted into a TV series (2013). Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+White+Queen",
@@ -9262,7 +9262,7 @@ const books = [
     name: "The Autobiography of Malcolm X",
     author: "Malcolm X, Alex Haley",
     description:
-      "A widely read biography work by Malcolm X, Alex Haley, published in 1965, it continues to be discussed and recommended by readers.",
+      "Malcolm X's autobiography, as told to Alex Haley. He describes his childhood, his criminal past, his conversion to Islam in prison, his leadership of the Nation of Islam, his break with Elijah Muhammad, his pilgrimage to Mecca, and his assassination. The book, published in 1965, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Biography",
     coverPage: "https://images.gr-assets.com/books/1434682864m/92057.jpg",
     numberOfPages: 669,
@@ -9273,9 +9273,9 @@ const books = [
     id: 766,
     name: "Preludes & Nocturnes",
     author:
-      "Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",
+      "Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen Berger",
     description:
-      "A popular graphic novel title by Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger, since 1989, it has been praised for its storytelling and lasting appeal.",
+      "The first volume of The Sandman comic series. Dream, also known as Morpheus, is captured for 70 years. He escapes and must reclaim his three symbols of power (a helm, a pouch of sand, and a ruby). Gaiman's comic, published in 1989, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1411609637m/23754.jpg",
     numberOfPages: 293,
@@ -9287,7 +9287,7 @@ const books = [
     name: "Seabiscuit: An American Legend",
     author: "Laura Hillenbrand",
     description:
-      "An acclaimed non-fiction book written by Laura Hillenbrand, first published in 1999, it has become a favorite among readers of the genre.",
+      "The story of Seabiscuit, a racehorse who became a symbol of hope during the Great Depression. He was small, lazy, and temperamental. He became the greatest racehorse of his era. Hillenbrand's book, published in 1999, was a bestseller and adapted into an Oscar-nominated film (2003). Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1171644213m/110737.jpg",
     numberOfPages: 689,
@@ -9299,7 +9299,7 @@ const books = [
     name: "Shutter Island",
     author: "Dennis Lehane",
     description:
-      "A popular mystery title by Dennis Lehane, since its release in 2003, it has earned a large readership worldwide.",
+      "U.S. Marshal Teddy Daniels is investigating the disappearance of a patient from a hospital for the criminally insane on Shutter Island. He is actually a patient. Lehane's novel, published in 2003, was adapted into a film (2010) directed by Martin Scorsese. Since its release, it has earned a large readership worldwide.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1329269081m/21686.jpg",
     numberOfPages: 518,
@@ -9311,7 +9311,7 @@ const books = [
     name: "The Complete Sherlock Holmes",
     author: "Arthur Conan Doyle",
     description:
-      "An acclaimed classics book written by Arthur Conan Doyle, first published in 1894, it has become a favorite among readers of the genre.",
+      "A collection of all 56 short stories and 4 novels about Sherlock Holmes. Includes A Study in Scarlet, The Sign of Four, The Adventures of Sherlock Holmes, The Memoirs of Sherlock Holmes, The Hound of the Baskervilles, The Return of Sherlock Holmes, The Valley of Fear, and His Last Bow. Doyle's work, published between 1887 and 1927, has never gone out of print. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1465539139m/188572.jpg",
     numberOfPages: 568,
@@ -9323,7 +9323,7 @@ const books = [
     name: "Julius Caesar",
     author: "William Shakespeare, Roma Gill",
     description:
-      "One of William Shakespeare, Roma Gill's best-known classics books, released in 1599, it remains a frequently recommended read in its category.",
+      "The play follows the conspiracy to assassinate Julius Caesar. Brutus, a friend of Caesar, is persuaded to join. He kills Caesar. Mark Antony turns the crowd against the conspirators. Brutus and Cassius kill themselves. Shakespeare's play, written in 1599, is a classic. Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1354574927m/13006.jpg",
     numberOfPages: 735,
@@ -9335,7 +9335,7 @@ const books = [
     name: "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
     author: "Erik Larson",
     description:
-      "One of Erik Larson's best-known history books, since its release in 2011, it has earned a large readership worldwide.",
+      "The story of William E. Dodd, an American historian who became the U.S. ambassador to Germany in 1933. He and his family witness the rise of the Nazis. His daughter, Martha, has affairs with a Nazi official and a Soviet spy. Larson's book, published in 2011, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1327864303m/9938498.jpg",
     numberOfPages: 334,
@@ -9347,7 +9347,7 @@ const books = [
     name: "The Republic",
     author: "Plato, Desmond Lee",
     description:
-      "A celebrated work of philosophy from Plato, Desmond Lee, since its release in 380, it has earned a large readership worldwide.",
+      "Plato's philosophical dialogue about justice, the ideal state, and the nature of reality. It includes the Allegory of the Cave. Written around 380 BCE, it is one of the most influential works of philosophy. Since its release, it has earned a large readership worldwide.",
     genre: "Philosophy",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Republic",
     numberOfPages: 329,
@@ -9359,7 +9359,7 @@ const books = [
     name: "The Taming of the Shrew",
     author: "William Shakespeare",
     description:
-      "One of William Shakespeare's best-known classics books, since 1593, it has been praised for its storytelling and lasting appeal.",
+      "Katherine, a 'shrew' (a woman who refuses to obey men), is forced to marry Petruchio, a man who 'tames' her by starving her, preventing her from sleeping, and humiliating her. She finally submits. Shakespeare's play, written around 1593, is controversial. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327935253m/47021.jpg",
     numberOfPages: 231,
@@ -9371,7 +9371,7 @@ const books = [
     name: "Cress",
     author: "Marissa Meyer",
     description:
-      "A widely read young adult work by Marissa Meyer, since 2014, it has been praised for its storytelling and lasting appeal.",
+      "The third book of the Lunar Chronicles. Cress, a computer hacker, is trapped in a satellite. She is rescued. Meyer's novel, published in 2014, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1470057005m/13206828.jpg",
     numberOfPages: 657,
@@ -9383,7 +9383,7 @@ const books = [
     name: "Just Kids",
     author: "Patti Smith",
     description:
-      "A popular non-fiction title by Patti Smith, since its release in 2010, it has earned a large readership worldwide.",
+      "Smith's memoir of her relationship with the photographer Robert Mapplethorpe. They met in Brooklyn in 1967, lived together at the Chelsea Hotel, and supported each other's art. He died of AIDS in 1989. The book, published in 2010, won the National Book Award. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1259762407m/341879.jpg",
     numberOfPages: 360,
@@ -9395,7 +9395,7 @@ const books = [
     name: "The Art Book",
     author: "Phaidon Press",
     description:
-      "One of Phaidon Press's best-known non-fiction books, since 1997, it has been praised for its storytelling and lasting appeal.",
+      "An A-to-Z guide to 500 artists, from the Middle Ages to the present. Each artist is given a double-page spread with a picture of one work and a brief description. The book, published in 1997, has sold over 3 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1411210646m/567616.jpg",
     numberOfPages: 346,
@@ -9407,7 +9407,7 @@ const books = [
     name: "Jemima J",
     author: "Jane Green",
     description:
-      "A celebrated work of romance from Jane Green, released in 2001, it remains a frequently recommended read in its category.",
+      "Jemima Jones, an overweight, lonely woman in London, is in love with her coworker, Brad. She loses weight, changes her name to 'Jemima J,' and moves to Los Angeles. Green's novel, published in 2001, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Jemima+J",
     numberOfPages: 357,
@@ -9419,7 +9419,7 @@ const books = [
     name: "The Hunchback of Notre-Dame",
     author: "Victor Hugo, Walter J. Cobb",
     description:
-      "A widely read classics work by Victor Hugo, Walter J. Cobb, first published in 1831, it has become a favorite among readers of the genre.",
+      "Quasimodo, a deformed bell-ringer, is in love with Esmeralda, a beautiful gypsy. She is accused of witchcraft and hanged. He throws the archdeacon (who tried to rape her) from the cathedral and then dies holding her body. Hugo's novel, published in 1831, was adapted into a Disney film (1996). Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Hunchback+of+Notre-Dame",
@@ -9432,7 +9432,7 @@ const books = [
     name: "A Fine Balance",
     author: "Rohinton Mistry",
     description:
-      "An acclaimed fiction book written by Rohinton Mistry, first published in 1996, it has become a favorite among readers of the genre.",
+      "The novel follows four characters in 1970s India during the Emergency: Dina, a widow; Maneck, a student; and two tailors, Ishvar and Omprakash. They are betrayed and separated. Mistry's novel, published in 1996, won the Giller Prize. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=A+Fine+Balance",
     numberOfPages: 680,
@@ -9444,7 +9444,7 @@ const books = [
     name: "Calvin and Hobbes",
     author: "Bill Watterson, G.B. Trudeau",
     description:
-      "A popular graphic novel title by Bill Watterson, G.B. Trudeau, released in 1987, it remains a frequently recommended read in its category.",
+      "A collection of the comic strip Calvin and Hobbes, about a six-year-old boy and his stuffed tiger. Watterson's comic, syndicated from 1985 to 1995, was a classic. This collection, published in 1987, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Graphic Novel",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Calvin+and+Hobbes",
@@ -9457,7 +9457,7 @@ const books = [
     name: "Specials",
     author: "Scott Westerfeld",
     description:
-      "An acclaimed young adult book written by Scott Westerfeld, first published in 2006, it has become a favorite among readers of the genre.",
+      "The third book of the Uglies series. Tally has become a Special (a beautiful, lethal enforcer). She rebels. Westerfeld's novel, published in 2006, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Specials",
     numberOfPages: 165,
@@ -9469,7 +9469,7 @@ const books = [
     name: "The Awakening",
     author: "Kate Chopin",
     description:
-      "An acclaimed classics book written by Kate Chopin, published in 1899, it continues to be discussed and recommended by readers.",
+      "Edna Pontellier, a young wife and mother in 1890s New Orleans, has an affair. She rejects her role as a mother. She commits suicide. Chopin's novel, published in 1899, was controversial. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Awakening",
     numberOfPages: 286,
@@ -9481,7 +9481,7 @@ const books = [
     name: "Hunted",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "A popular young adult title by P.C. Cast, Kristin Cast, since its release in 2009, it has earned a large readership worldwide.",
+      "The fifth book of the House of Night series. Zoey is attacked by her boyfriend, Kalona, who has revealed himself to be evil. Cast's novel, published in 2009, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1438042897m/4134071.jpg",
     numberOfPages: 340,
@@ -9493,7 +9493,7 @@ const books = [
     name: "For One More Day",
     author: "Mitch Albom",
     description:
-      "A celebrated work of fiction from Mitch Albom, released in 2006, it remains a frequently recommended read in its category.",
+      "Charley Benetto, a man whose life has fallen apart, visits his hometown and is visited by the ghost of his dead mother. They spend one day together. Albom's novel, published in 2006, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=For+One+More+Day",
@@ -9506,7 +9506,7 @@ const books = [
     name: "Clear and Present Danger",
     author: "Tom Clancy",
     description:
-      "One of Tom Clancy's best-known fiction books, released in 1989, it remains a frequently recommended read in its category.",
+      "The fourth book of the Jack Ryan series (chronologically). A drug cartel murders a friend of the President. The President sends a secret team to Colombia. Jack Ryan investigates. Clancy's novel, published in 1989, was adapted into a film (1994) starring Harrison Ford. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1291440438m/32669.jpg",
     numberOfPages: 738,
@@ -9518,7 +9518,7 @@ const books = [
     name: "Falling Up",
     author: "Shel Silverstein",
     description:
-      "A celebrated work of children from Shel Silverstein, first published in 1996, it has become a favorite among readers of the genre.",
+      "A collection of 144 poems and drawings, Silverstein's third book after Where the Sidewalk Ends and A Light in the Attic. Poems include 'The Monkey,' 'The Meehoo with an Exactlywatt,' and 'The Face in the Mirror.' The book, published in 1996, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327871908m/30120.jpg",
     numberOfPages: 514,
@@ -9530,7 +9530,7 @@ const books = [
     name: "Sh*t My Dad Says",
     author: "Justin Halpern",
     description:
-      "A celebrated work of humor from Justin Halpern, published in 2010, it continues to be discussed and recommended by readers.",
+      "A collection of quotes from Halpern's 73-year-old father. The quotes are profane, funny, and occasionally wise. Examples: 'That woman was sexy. Out of your league? Son, let women figure out why they won't screw you.' The book, published in 2010, was a bestseller and adapted into a TV series. Since its release, it remains a frequently recommended read in its category.",
     genre: "Humor",
     coverPage: "https://images.gr-assets.com/books/1370399211m/7821447.jpg",
     numberOfPages: 678,
@@ -9542,7 +9542,7 @@ const books = [
     name: "Trainspotting",
     author: "Irvine Welsh, Eric Lindor Fall",
     description:
-      "A widely read fiction work by Irvine Welsh, Eric Lindor Fall, first published in 1993, it has become a favorite among readers of the genre.",
+      "The novel follows a group of heroin addicts in Edinburgh. Characters include Renton, Sick Boy, Begbie, and Spud. The novel is written in a Scottish dialect. Welsh's novel, published in 1993, was adapted into a film (1996). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1375258001m/23955.jpg",
     numberOfPages: 515,
@@ -9554,7 +9554,7 @@ const books = [
     name: "Foundation and Empire",
     author: "Isaac Asimov",
     description:
-      "One of Isaac Asimov's best-known science fiction books, released in 1952, it remains a frequently recommended read in its category.",
+      "The second book of the Foundation series. The Galactic Empire is collapsing. The Foundation faces a new threat: the Mule, a mutant with psychic powers. Asimov's novel, published in 1952, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Science Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Foundation+and+Empire",
@@ -9567,7 +9567,7 @@ const books = [
     name: "The Four Agreements: A Practical Guide to Personal Freedom",
     author: "Miguel Ruiz",
     description:
-      "A celebrated work of non-fiction from Miguel Ruiz, first published in 1997, it has become a favorite among readers of the genre.",
+      "Ruiz's self-help book, based on Toltec wisdom, presents four agreements: Be Impeccable with Your Word, Don't Take Anything Personally, Don't Make Assumptions, and Always Do Your Best. The book, published in 1997, has sold over 10 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Four+Agreements:+A+Practical+Guide+to+Personal+Freedom",
@@ -9580,7 +9580,7 @@ const books = [
     name: "House Rules",
     author: "Jodi Picoult",
     description:
-      "A widely read mystery work by Jodi Picoult, published in 2010, it continues to be discussed and recommended by readers.",
+      "Jacob Hunt, an 18-year-old with Asperger's syndrome, is accused of murdering his tutor. His mother, Emma, defends him. Picoult's novel, published in 2010, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1290479868m/6614960.jpg",
     numberOfPages: 607,
@@ -9593,7 +9593,7 @@ const books = [
     author:
       "Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",
     description:
-      "A celebrated work of classics from Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern, first published in 1812, it has become a favorite among readers of the genre.",
+      "A collection of 210 fairy tales collected by the Brothers Grimm in the 19th century. Includes 'Cinderella,' 'Snow White,' 'Hansel and Gretel,' 'Rapunzel,' and 'Rumpelstiltskin.' The original stories are darker than the Disney versions. The collection, published in 1812, has been translated into over 100 languages. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1369540060m/22917.jpg",
     numberOfPages: 693,
@@ -9605,7 +9605,7 @@ const books = [
     name: "From the Mixed-Up Files of Mrs. Basil E. Frankweiler",
     author: "E.L. Konigsburg",
     description:
-      "A celebrated work of fiction from E.L. Konigsburg, since its release in 1967, it has earned a large readership worldwide.",
+      "Claudia Kincaid, a 12-year-old girl, runs away from home. She hides in the Metropolitan Museum of Art. She uncovers a mystery about a statue. Konigsburg's novel, published in 1967, won the Newbery Medal. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327784751m/3980.jpg",
     numberOfPages: 171,
@@ -9617,7 +9617,7 @@ const books = [
     name: "Doctor Sleep",
     author: "Stephen King",
     description:
-      "One of Stephen King's best-known horror books, first published in 2013, it has become a favorite among readers of the genre.",
+      "The sequel to The Shining. Dan Torrance, now an adult, is an alcoholic. He works at a hospice. He uses his 'shining' to comfort dying patients. He is hunted by the True Knot, a cult that feeds on the 'steam' (the shining) of children. King's novel, published in 2013, was a bestseller and adapted into a film (2019). Since its release, it has become a favorite among readers of the genre.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1362415596m/16130549.jpg",
     numberOfPages: 379,
@@ -9629,7 +9629,7 @@ const books = [
     name: "About a Boy",
     author: "Nick Hornby",
     description:
-      "A celebrated work of fiction from Nick Hornby, since its release in 1998, it has earned a large readership worldwide.",
+      "Will Freeman, a 36-year-old wealthy man, pretends to have a son to join a single-parent group. He meets Marcus, a 12-year-old boy whose mother is depressed. They become friends. Hornby's novel, published in 1998, was adapted into a film (2002) starring Hugh Grant. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1382004144m/4271.jpg",
     numberOfPages: 321,
@@ -9641,7 +9641,7 @@ const books = [
     name: "On Dublin Street",
     author: "Samantha Young",
     description:
-      "A widely read contemporary work by Samantha Young, released in 2012, it remains a frequently recommended read in its category.",
+      "Jocelyn Butler, a woman in Edinburgh, moves into an apartment on Dublin Street. She meets her landlord, Braden Carmichael. They fall in love. Young's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1490401910m/15760001.jpg",
     numberOfPages: 406,
@@ -9653,7 +9653,7 @@ const books = [
     name: "Crazy Love: Overwhelmed by a Relentless God",
     author: "Francis Chan, Danae Yankoski, Chris Tomlin",
     description:
-      "A celebrated work of non-fiction from Francis Chan, Danae Yankoski, Chris Tomlin, first published in 2008, it has become a favorite among readers of the genre.",
+      "Chan's Christian self-help book argues that most Christians are lukewarm. He calls for radical love for God. The book, published in 2008, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1328763220m/3206011.jpg",
     numberOfPages: 169,
@@ -9665,7 +9665,7 @@ const books = [
     name: "One Fish, Two Fish, Red Fish, Blue Fish",
     author: "Dr. Seuss",
     description:
-      "A widely read children work by Dr. Seuss, since its release in 1960, it has earned a large readership worldwide.",
+      "A beginner reader book about a group of strange creatures: a fish with a star on its face, a fish who is 'glad' and 'sad,' a Yink who likes to wink, a Gox who likes to box, and a Zans who opens cans. The book, published in 1960, has sold over 10 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=One+Fish,+Two+Fish,+Red+Fish,+Blue+Fish",
@@ -9678,7 +9678,7 @@ const books = [
     name: "Watchers",
     author: "Dean Koontz",
     description:
-      "A widely read fiction work by Dean Koontz, since 1987, it has been praised for its storytelling and lasting appeal.",
+      "Travis Cornell, a lonely man, finds a dog in the woods. The dog is intelligent (it has been genetically engineered). They are hunted by a monster (a failed experiment). Koontz's novel, published in 1987, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1308458930m/32423.jpg",
     numberOfPages: 740,
@@ -9690,7 +9690,7 @@ const books = [
     name: "The Story of My Life",
     author: "Helen Keller",
     description:
-      "An acclaimed non-fiction book written by Helen Keller, since 1902, it has been praised for its storytelling and lasting appeal.",
+      "Keller's autobiography. She lost her sight and hearing at 19 months. She describes her childhood, her education with Anne Sullivan, her time at Radcliffe College, and her friendships with Alexander Graham Bell and Mark Twain. The book, published in 1902, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1320429331m/821611.jpg",
     numberOfPages: 394,
@@ -9702,7 +9702,7 @@ const books = [
     name: "This is Where I Leave You",
     author: "Jonathan Tropper",
     description:
-      "An acclaimed fiction book written by Jonathan Tropper, first published in 2009, it has become a favorite among readers of the genre.",
+      "Judd Foxman, a man whose wife has left him for his boss, returns to his childhood home to sit shiva (a seven-day mourning period) for his father. He is joined by his dysfunctional family: his mother, who is writing a memoir; his brother Paul, who resents him; his brother Phillip, who is immature; and his sister Wendy, whose marriage is failing. Tropper's novel, published in 2009, was adapted into a film (2014) starring Jason Bateman. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1467397162m/6224935.jpg",
     numberOfPages: 509,
@@ -9714,7 +9714,7 @@ const books = [
     name: "Abraham Lincoln: Vampire Hunter",
     author: "Seth Grahame-Smith",
     description:
-      "A widely read fiction work by Seth Grahame-Smith, since its release in 2010, it has earned a large readership worldwide.",
+      "A mashup of biography and horror. Abraham Lincoln discovers that vampires are real and that his mother was killed by one. He vows to destroy them. He hunts vampires while also becoming president and leading the Civil War. Grahame-Smith's novel, published in 2010, was adapted into a film (2012). Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1291165397m/7108001.jpg",
     numberOfPages: 196,
@@ -9726,7 +9726,7 @@ const books = [
     name: "Fruits Basket, Vol. 1",
     author: "Natsuki Takaya, Alethea Nibley, Athena Nibley",
     description:
-      "A popular fantasy title by Natsuki Takaya, Alethea Nibley, Athena Nibley, first published in 1999, it has become a favorite among readers of the genre.",
+      "The first volume of the Fruits Basket manga. Tohru Honda, a teenage girl, is homeless. She is taken in by the Sohma family, who are cursed: they turn into animals of the Chinese zodiac when hugged by a member of the opposite sex. Takaya's manga, published in 1999, was adapted into an anime (2001) and a reboot (2019). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Fruits+Basket,+Vol.+1",
@@ -9739,7 +9739,7 @@ const books = [
     name: "The Tempest",
     author: "William Shakespeare",
     description:
-      "An acclaimed classics book written by William Shakespeare, since 1623, it has been praised for its storytelling and lasting appeal.",
+      "Prospero, a magician and the former Duke of Milan, lives on an island with his daughter, Miranda. He creates a storm (the tempest) to shipwreck his enemies. He forgives them. Shakespeare's play, written around 1610-11, is his last solo work. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327793692m/12985.jpg",
     numberOfPages: 662,
@@ -9751,7 +9751,7 @@ const books = [
     name: "Burned",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "A popular young adult title by P.C. Cast, Kristin Cast, first published in 2010, it has become a favorite among readers of the genre.",
+      "The seventh book of the House of Night series. Zoey is in a coma. Her friends try to save her. Cast's novel, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1327944437m/6917952.jpg",
     numberOfPages: 274,
@@ -9763,7 +9763,7 @@ const books = [
     name: "Wizard and Glass",
     author: "Stephen King, Dave McKean",
     description:
-      "A widely read fantasy work by Stephen King, Dave McKean, published in 1997, it continues to be discussed and recommended by readers.",
+      "The fourth book of the Dark Tower series. Roland tells his backstory: as a young man, he fell in love with Susan Delgado. She was burned at the stake. King's novel, published in 1997, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327946510m/5096.jpg",
     numberOfPages: 290,
@@ -9775,7 +9775,7 @@ const books = [
     name: "The Circle",
     author: "Dave Eggers",
     description:
-      "A celebrated work of fiction from Dave Eggers, since 2013, it has been praised for its storytelling and lasting appeal.",
+      "Mae Holland, a young woman, is hired by the Circle, a powerful tech company (a combination of Google, Facebook, and Apple). The company promotes transparency: everyone should be monitored. Mae becomes a company spokesperson. She helps destroy privacy. Eggers's novel, published in 2013, was adapted into a film (2017) starring Emma Watson and Tom Hanks. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1376419833m/18302455.jpg",
     numberOfPages: 382,
@@ -9787,7 +9787,7 @@ const books = [
     name: "The Invention of Hugo Cabret",
     author: "Brian Selznick",
     description:
-      "One of Brian Selznick's best-known historical fiction books, since its release in 2007, it has earned a large readership worldwide.",
+      "Hugo Cabret, an orphaned boy, lives in a train station in Paris. He maintains the clocks. He is trying to repair an automaton (a mechanical man) that his father was working on. Selznick's novel, published in 2007, won the Caldecott Medal and was adapted into a film (2011) directed by Martin Scorsese. Since its release, it has earned a large readership worldwide.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1422312376m/9673436.jpg",
     numberOfPages: 736,
@@ -9799,7 +9799,7 @@ const books = [
     name: "Brave New World / Brave New World Revisited",
     author: "Aldous Huxley, Christopher Hitchens",
     description:
-      "An acclaimed classics book written by Aldous Huxley, Christopher Hitchens, published in 1932, it continues to be discussed and recommended by readers.",
+      "An edition containing both Brave New World and Brave New World Revisited, a non-fiction work in which Huxley reflects on his novel 30 years later. He notes that his dystopia has become more real: technology, conditioning, and drugs (soma) are now common. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1331315450m/5479.jpg",
     numberOfPages: 318,
@@ -9811,7 +9811,7 @@ const books = [
     name: "Ouran High School Host Club, Vol. 1",
     author: "Bisco Hatori",
     description:
-      "A widely read romance work by Bisco Hatori, published in 2003, it continues to be discussed and recommended by readers.",
+      "The first volume of the Ouran High School Host Club manga. Haruhi Fujioka, a scholarship student, accidentally breaks an expensive vase. She must work for the Host Club (a group of handsome boys who entertain female students). Hatori's manga, published in 2003, was adapted into an anime (2006). Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Ouran+High+School+Host+Club,+Vol.+1",
@@ -9824,7 +9824,7 @@ const books = [
     name: "The Good Girl",
     author: "Mary Kubica",
     description:
-      "A celebrated work of mystery from Mary Kubica, since 2014, it has been praised for its storytelling and lasting appeal.",
+      "Mia Dennett, the daughter of a judge, is kidnapped. She is held in a cabin in the woods. Her captor is not a monster; he is a man trying to protect her from his partner. Kubica's novel, published in 2014, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1388340126m/18812405.jpg",
     numberOfPages: 688,
@@ -9836,7 +9836,7 @@ const books = [
     name: "Fallen Too Far",
     author: "Abbi Glines",
     description:
-      "A widely read romance work by Abbi Glines, published in 2012, it continues to be discussed and recommended by readers.",
+      "The first book of the Rosemary Beach series. Blaire, a teenager, moves in with her father's new family, including her stepbrother, Rush. They fall in love. Glines's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1349565157m/16070903.jpg",
     numberOfPages: 203,
@@ -9848,7 +9848,7 @@ const books = [
     name: "Landline",
     author: "Rainbow Rowell",
     description:
-      "A popular fiction title by Rainbow Rowell, released in 2014, it remains a frequently recommended read in its category.",
+      "Georgie McCool, a television writer, has a magic phone that allows her to call her husband in the past. She tries to save their marriage. Rowell's novel, published in 2014, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1499378092m/18081809.jpg",
     numberOfPages: 560,
@@ -9860,11 +9860,11 @@ const books = [
     name: "Tempted",
     author: "P.C. Cast, Kristin Cast",
     description:
-      "One of P.C. Cast, Kristin Cast's best-known young adult books, released in 2008, it remains a frequently recommended read in its category.",
+      "The sixth book of the House of Night series. Zoey is betrayed by her friends. She survives. Cast's novel, published in 2009, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1408633041m/6262365.jpg",
     numberOfPages: 596,
-    publishDate: "2008-01-01",
+    publishDate: "2009-01-01",
     language: "English",
   },
   {
@@ -9872,7 +9872,7 @@ const books = [
     name: "No Country for Old Men",
     author: "Cormac McCarthy",
     description:
-      "A celebrated work of fiction from Cormac McCarthy, released in 2005, it remains a frequently recommended read in its category.",
+      "Llewelyn Moss, a hunter, finds a drug deal gone wrong. He takes a suitcase of money. He is pursued by Anton Chigurh, a psychopathic killer who uses a captive bolt pistol (used to slaughter cattle). Sheriff Bell tries to save him. McCarthy's novel, published in 2005, was adapted into an Oscar-winning film (2007). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1443231179m/12497.jpg",
     numberOfPages: 560,
@@ -9884,7 +9884,7 @@ const books = [
     name: "Wolf Hall",
     author: "Hilary Mantel",
     description:
-      "A celebrated work of historical fiction from Hilary Mantel, first published in 2009, it has become a favorite among readers of the genre.",
+      "The first book of the Thomas Cromwell trilogy. The novel follows Thomas Cromwell, a lawyer and adviser to King Henry VIII. He helps the king divorce Catherine of Aragon and marry Anne Boleyn. Mantel's novel, published in 2009, won the Booker Prize. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1336576165m/6101138.jpg",
     numberOfPages: 482,
@@ -9896,7 +9896,7 @@ const books = [
     name: "Howl's Moving Castle",
     author: "Diana Wynne Jones",
     description:
-      "A celebrated work of fantasy from Diana Wynne Jones, since its release in 1986, it has earned a large readership worldwide.",
+      "Sophie Hatter, a young woman, is cursed by a witch: she becomes old. She seeks help from the wizard Howl, who lives in a moving castle. She falls in love with him. Jones's novel, published in 1986, was adapted into an animated film (2004) by Hayao Miyazaki. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1407450489m/6294.jpg",
     numberOfPages: 511,
@@ -9908,7 +9908,7 @@ const books = [
     name: "Dreamcatcher",
     author: "Stephen King, William Olivier Desmond",
     description:
-      "One of Stephen King, William Olivier Desmond's best-known horror books, published in 2001, it continues to be discussed and recommended by readers.",
+      "Four childhood friends reunite in a cabin in Maine. An alien invasion begins. King's novel, published in 2001, was adapted into a film (2003). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Horror",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Dreamcatcher",
     numberOfPages: 161,
@@ -9920,7 +9920,7 @@ const books = [
     name: "Walden",
     author: "Henry David Thoreau",
     description:
-      "A popular classics title by Henry David Thoreau, first published in 1854, it has become a favorite among readers of the genre.",
+      "Thoreau's account of his two years living in a cabin he built on Walden Pond near Concord, Massachusetts. He writes about simplicity, self-reliance, and the natural world. The book, published in 1854, is a classic of American literature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1465675526m/16902.jpg",
     numberOfPages: 693,
@@ -9932,7 +9932,7 @@ const books = [
     name: "The Remains of the Day",
     author: "Kazuo Ishiguro",
     description:
-      "One of Kazuo Ishiguro's best-known fiction books, first published in 1989, it has become a favorite among readers of the genre.",
+      "Stevens, a butler, takes a road trip through the English countryside. He reflects on his life: his devotion to his employer (a Nazi sympathizer), his missed romance with the housekeeper, and his wasted life. Ishiguro's novel, published in 1989, won the Booker Prize and was adapted into a film (1993). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327128714m/28921.jpg",
     numberOfPages: 482,
@@ -9944,7 +9944,7 @@ const books = [
     name: "The Best of Me",
     author: "Nicholas Sparks",
     description:
-      "An acclaimed romance book written by Nicholas Sparks, since its release in 2010, it has earned a large readership worldwide.",
+      "Dawson and Amanda, high school sweethearts, are separated by circumstances. Twenty years later, they meet at the funeral of a friend. They fall in love again. Sparks's novel, published in 2010, was adapted into a film (2014). Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1301685366m/10766509.jpg",
     numberOfPages: 666,
@@ -9956,7 +9956,7 @@ const books = [
     name: "The Sense of an Ending",
     author: "Julian Barnes",
     description:
-      "A widely read fiction work by Julian Barnes, since its release in 2011, it has earned a large readership worldwide.",
+      "Tony Webster, a middle-aged man, is contacted by the estate of his friend, Adrian Finn, who committed suicide 40 years earlier. He learns the truth: Adrian had an affair with Tony's girlfriend; she was pregnant; Adrian killed himself. Barnes's novel, published in 2011, won the Booker Prize. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1311704453m/10746542.jpg",
     numberOfPages: 292,
@@ -9968,7 +9968,7 @@ const books = [
     name: "A is for Alibi",
     author: "Sue Grafton",
     description:
-      "An acclaimed mystery book written by Sue Grafton, published in 1982, it continues to be discussed and recommended by readers.",
+      "The first book of the Kinsey Millhone series. Kinsey Millhone, a private investigator in California, is hired to prove that a woman convicted of poisoning her husband is innocent. Grafton's novel, published in 1982, launched a 25-book series (A is for Alibi to Y is for Yesterday). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=A+is+for+Alibi",
     numberOfPages: 614,
@@ -9980,7 +9980,7 @@ const books = [
     name: "Oedipus Rex",
     author: "Sophocles, J.E. Thomas",
     description:
-      "A widely read drama work by Sophocles, J.E. Thomas, first published in 430, it has become a favorite among readers of the genre.",
+      "Oedipus, the king of Thebes, discovers that he has killed his father and married his mother. He blinds himself. Sophocles's play, written around 430 BCE, is a classic of Greek tragedy. Since its release, it has become a favorite among readers of the genre.",
     genre: "Drama",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Oedipus+Rex",
     numberOfPages: 185,
@@ -9992,7 +9992,7 @@ const books = [
     name: "Shanghai Girls",
     author: "Lisa See",
     description:
-      "A celebrated work of historical fiction from Lisa See, released in 2009, it remains a frequently recommended read in its category.",
+      "Pearl and May, two sisters in 1930s Shanghai, are forced to marry Chinese-American men and move to Los Angeles. They face racism, poverty, and the Japanese internment. See's novel, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1327968416m/5960325.jpg",
     numberOfPages: 429,
@@ -10004,7 +10004,7 @@ const books = [
     name: "The Wind in the Willows",
     author: "Kenneth Grahame, Gillian Avery",
     description:
-      "A celebrated work of classics from Kenneth Grahame, Gillian Avery, first published in 1908, it has become a favorite among readers of the genre.",
+      "The adventures of Mole, Rat, Toad, and Badger in the English countryside. Toad, a wealthy, arrogant animal, steals a car, is imprisoned, escapes, and regains his home. Grahame's novel, published in 1908, is a classic of children's literature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1423183570m/5659.jpg",
     numberOfPages: 252,
@@ -10016,7 +10016,7 @@ const books = [
     name: "To All the Boys I've Loved Before",
     author: "Jenny Han",
     description:
-      "A popular drama title by Jenny Han, first published in 2014, it has become a favorite among readers of the genre.",
+      "The first book of the To All the Boys I've Loved Before trilogy. Lara Jean Covey, a teenager, writes love letters to every boy she has ever loved. She hides them. Her sister mails them. She must face her crushes. Han's novel, published in 2014, was adapted into a Netflix film (2018). Since its release, it has become a favorite among readers of the genre.",
     genre: "Drama",
     coverPage: "https://images.gr-assets.com/books/1372086100m/15749186.jpg",
     numberOfPages: 682,
@@ -10028,7 +10028,7 @@ const books = [
     name: "Persepolis: The Story of a Childhood",
     author: "Marjane Satrapi, Mattias Ripa",
     description:
-      "A widely read graphic novel work by Marjane Satrapi, Mattias Ripa, published in 2000, it continues to be discussed and recommended by readers.",
+      "Satrapi's graphic novel memoir of her childhood in Iran during the Islamic Revolution. She describes the impact of the revolution on her family, the Iran-Iraq war, and her eventual exile. The book, published in 2000, was adapted into an Oscar-nominated film (2007). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1425871473m/9516.jpg",
     numberOfPages: 392,
@@ -10040,7 +10040,7 @@ const books = [
     name: "A Room with a View",
     author: "E.M. Forster",
     description:
-      "A widely read classics work by E.M. Forster, released in 1908, it remains a frequently recommended read in its category.",
+      "Lucy Honeychurch, a young Englishwoman, travels to Florence. She meets George Emerson, a man she loves but is forbidden to marry. She returns to England and accepts a marriage proposal from a conventional man. She breaks off the engagement and runs away with George. Forster's novel, published in 1908, was adapted into an Oscar-winning film (1985). Since its release, it remains a frequently recommended read in its category.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Room+with+a+View",
@@ -10053,7 +10053,7 @@ const books = [
     name: "The DUFF: Designated Ugly Fat Friend",
     author: "Kody Keplinger",
     description:
-      "A popular young adult title by Kody Keplinger, released in 2010, it remains a frequently recommended read in its category.",
+      "Bianca, a teenager, is called the 'Designated Ugly Fat Friend' (DUFF) by a popular boy. She insults him back. They hook up. Keplinger's novel, published in 2010, was adapted into a film (2015). Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1271108843m/6931356.jpg",
     numberOfPages: 320,
@@ -10065,7 +10065,7 @@ const books = [
     name: "Lock and Key",
     author: "Sarah Dessen",
     description:
-      "A widely read young adult work by Sarah Dessen, first published in 2008, it has become a favorite among readers of the genre.",
+      "Ruby, a teenager, is abandoned by her mother. She moves in with her wealthy sister. She learns to trust. Dessen's novel, published in 2008, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1479691949m/1295102.jpg",
     numberOfPages: 676,
@@ -10077,7 +10077,7 @@ const books = [
     name: "Naked in Death",
     author: "J.D. Robb",
     description:
-      "A popular mystery title by J.D. Robb, first published in 1995, it has become a favorite among readers of the genre.",
+      "The first book of the In Death series (50 books and counting). Set in 2058 New York City. Eve Dallas, a police lieutenant, investigates the murder of a prostitute. She falls in love with Roarke, a wealthy suspect. Robb (a pseudonym for Nora Roberts) published this novel in 1995. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1297783540m/268602.jpg",
     numberOfPages: 627,
@@ -10089,7 +10089,7 @@ const books = [
     name: "The Chamber",
     author: "John Grisham",
     description:
-      "A celebrated work of fiction from John Grisham, since 1994, it has been praised for its storytelling and lasting appeal.",
+      "Sam Cayhall, a 63-year-old former Klansman, is on death row for a 1967 bombing that killed two Jewish boys. His grandson, Adam, a young lawyer, tries to save him. He fails. Sam is executed. Grisham's novel, published in 1994, was adapted into a film (1996). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Chamber",
     numberOfPages: 301,
@@ -10101,7 +10101,7 @@ const books = [
     name: "Midnight Sun",
     author: "Stephenie Meyer",
     description:
-      "An acclaimed young adult book written by Stephenie Meyer, first published in 2008, it has become a favorite among readers of the genre.",
+      "A retelling of Twilight from the perspective of Edward Cullen. Meyer began writing it in 2008 but stopped after a draft was leaked online. She completed it and published it in 2020. The novel, published in 2020, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Midnight+Sun",
     numberOfPages: 673,
@@ -10113,7 +10113,7 @@ const books = [
     name: "Naruto, Vol. 01: The Tests of the Ninja",
     author: "Masashi Kishimoto, Katy Bridges",
     description:
-      "One of Masashi Kishimoto, Katy Bridges's best-known fantasy books, released in 1999, it remains a frequently recommended read in its category.",
+      "The first volume of the Naruto manga. Naruto Uzumaki, a teenage ninja, dreams of becoming the leader of his village (the Hokage). He is a troublemaker. Kishimoto's manga, published in 1999, was adapted into an anime (2002-2007). Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1435524806m/204042.jpg",
     numberOfPages: 566,
@@ -10125,7 +10125,7 @@ const books = [
     name: "The Unlikely Pilgrimage of Harold Fry",
     author: "Rachel Joyce",
     description:
-      "A celebrated work of contemporary from Rachel Joyce, released in 2012, it remains a frequently recommended read in its category.",
+      "Harold Fry, a retired man in England, receives a letter from a dying former coworker. He decides to walk to her hospice, 600 miles away. He leaves without his phone or his shoes. Joyce's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1335816092m/13227454.jpg",
     numberOfPages: 430,
@@ -10137,7 +10137,7 @@ const books = [
     name: "Every Day",
     author: "David Levithan",
     description:
-      "One of David Levithan's best-known young adult books, first published in 2012, it has become a favorite among readers of the genre.",
+      "A (the narrator) wakes up every day in a different body. A falls in love with a girl named Rhiannon. A tries to have a relationship with her. Levithan's novel, published in 2012, was a bestseller and adapted into a film (2018). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1356993940m/13262783.jpg",
     numberOfPages: 709,
@@ -10149,7 +10149,7 @@ const books = [
     name: "Xenocide",
     author: "Orson Scott Card",
     description:
-      "A popular science fiction title by Orson Scott Card, published in 1991, it continues to be discussed and recommended by readers.",
+      "The third book of the Ender's Game series (Ender's Game, Speaker for the Dead, Xenocide, Children of the Mind). Ender Wiggin returns to Lusitania to save the piggies from destruction. Card's novel, published in 1991, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Science Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Xenocide",
     numberOfPages: 733,
@@ -10160,9 +10160,9 @@ const books = [
     id: 839,
     name: "The Merchant of Venice",
     author:
-      "William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",
+      "William Shakespeare, Robert Jackson, Barbara A. Mowat, Paul Werstine",
     description:
-      "One of William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine's best-known classics books, published in 1596, it continues to be discussed and recommended by readers.",
+      "Bassanio, a young Venetian, needs money to court Portia, a wealthy heiress. He asks his friend Antonio, a merchant, for a loan. Antonio borrows from Shylock, a Jewish moneylender, who demands a pound of Antonio's flesh if the loan is not repaid. Portia, disguised as a lawyer, saves Antonio. Shakespeare's play, written around 1596, is controversial for its anti-Semitism. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327871054m/24128.jpg",
     numberOfPages: 356,
@@ -10174,7 +10174,7 @@ const books = [
     name: "Shōgun",
     author: "James Clavell",
     description:
-      "A celebrated work of historical fiction from James Clavell, released in 1975, it remains a frequently recommended read in its category.",
+      "The first book of the Asian Saga. John Blackthorne, an English sailor, is shipwrecked in Japan in 1600. He becomes involved in a civil war. He is captured by a Japanese lord, Toranaga, who uses his knowledge to become Shōgun (military dictator). Clavell's novel, published in 1975, was a bestseller and adapted into a TV miniseries (1980). Since its release, it remains a frequently recommended read in its category.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1397228842m/402093.jpg",
     numberOfPages: 621,
@@ -10186,7 +10186,7 @@ const books = [
     name: "Lover Awakened",
     author: "J.R. Ward",
     description:
-      "A celebrated work of paranormal from J.R. Ward, released in 2006, it remains a frequently recommended read in its category.",
+      "The third book of the Black Dagger Brotherhood series. Zsadist, a vampire with a traumatic past, falls in love with Bella, a woman he rescues. Ward's novel, published in 2006, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Paranormal",
     coverPage: "https://images.gr-assets.com/books/1388773547m/42900.jpg",
     numberOfPages: 639,
@@ -10198,7 +10198,7 @@ const books = [
     name: "A Court of Thorns and Roses",
     author: "Sarah J. Maas",
     description:
-      "An acclaimed fantasy book written by Sarah J. Maas, released in 2015, it remains a frequently recommended read in its category.",
+      "The first book of the A Court of Thorns and Roses series. Feyre, a young woman, kills a wolf. She is taken to the faerie lands by a beast (who is actually a faerie lord). She falls in love with him. Maas's novel, published in 2015, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1491595796m/16096824.jpg",
     numberOfPages: 181,
@@ -10210,7 +10210,7 @@ const books = [
     name: "Fifty Shades Trilogy (Fifty Shades, #1-3)",
     author: "E.L. James",
     description:
-      "One of E.L. James's best-known romance books, released in 2012, it remains a frequently recommended read in its category.",
+      "A boxed set of the three Fifty Shades novels: Fifty Shades of Grey, Fifty Shades Darker, and Fifty Shades Freed. The trilogy follows the relationship between Anastasia Steele and Christian Grey. The novels have sold over 150 million copies worldwide. Since its release, it remains a frequently recommended read in its category.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1431573483m/13584236.jpg",
     numberOfPages: 376,
@@ -10222,7 +10222,7 @@ const books = [
     name: "Chicka Chicka Boom Boom",
     author: "Bill Martin Jr., John Archambault, Lois Ehlert",
     description:
-      "One of Bill Martin Jr., John Archambault, Lois Ehlert's best-known children books, since 1989, it has been praised for its storytelling and lasting appeal.",
+      "A rhyming alphabet book. The letters of the alphabet race up a coconut tree. The tree bends and the letters fall out. The book, published in 1989, has sold over 10 million copies. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Chicka+Chicka+Boom+Boom",
@@ -10235,7 +10235,7 @@ const books = [
     name: "Smile",
     author: "Raina Telgemeier",
     description:
-      "An acclaimed graphic novel book written by Raina Telgemeier, since 2009, it has been praised for its storytelling and lasting appeal.",
+      "Telgemeier's graphic novel memoir of her childhood. She falls and knocks out her two front teeth. She endures braces, surgery, and embarrassment. The book, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Graphic Novel",
     coverPage: "https://images.gr-assets.com/books/1438206850m/6393631.jpg",
     numberOfPages: 555,
@@ -10247,7 +10247,7 @@ const books = [
     name: "Animal Farm / 1984",
     author: "George Orwell, Christopher Hitchens",
     description:
-      "A widely read classics work by George Orwell, Christopher Hitchens, released in 1950, it remains a frequently recommended read in its category.",
+      "An edition containing both of Orwell's classic dystopian novels: Animal Farm (1945) and 1984 (1949). Animal Farm is an allegory of the Russian Revolution; 1984 is a vision of totalitarianism. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327959366m/5472.jpg",
     numberOfPages: 316,
@@ -10259,7 +10259,7 @@ const books = [
     name: "The Deep End of the Ocean",
     author: "Jacquelyn Mitchard",
     description:
-      "One of Jacquelyn Mitchard's best-known fiction books, released in 1996, it remains a frequently recommended read in its category.",
+      "The first book of the Oprah's Book Club (inaugural selection). Beth Cappadora, a mother, loses her three-year-old son. He is found nine years later. Mitchard's novel, published in 1996, was adapted into a film (1999). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Deep+End+of+the+Ocean",
@@ -10272,7 +10272,7 @@ const books = [
     name: "The Bonesetter's Daughter",
     author: "Amy Tan",
     description:
-      "A popular fiction title by Amy Tan, published in 2001, it continues to be discussed and recommended by readers.",
+      "Ruth Young, a writer, helps her mother, LuLing, who has Alzheimer's. She discovers that LuLing's mother was a bonesetter (a healer) in China. Tan's novel, published in 2001, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Bonesetter's+Daughter",
@@ -10285,7 +10285,7 @@ const books = [
     name: "Angus, Thongs and Full-Frontal Snogging",
     author: "Louise Rennison",
     description:
-      "A popular young adult title by Louise Rennison, since its release in 1999, it has earned a large readership worldwide.",
+      "The first book of the Georgia Nicolson series. Georgia, a 14-year-old girl in England, keeps a diary. She complains about her parents, her cat, and her nose. She falls in love with a boy named Robbie. Rennison's novel, published in 1999, was a bestseller and adapted into a film (2008). Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Angus,+Thongs+and+Full-Frontal+Snogging",
@@ -10298,7 +10298,7 @@ const books = [
     name: "Mr. Penumbra's 24-Hour Bookstore",
     author: "Robin Sloan",
     description:
-      "A widely read fiction work by Robin Sloan, first published in 2012, it has become a favorite among readers of the genre.",
+      "Clay Jannon, a web designer, is hired to work the night shift at a mysterious bookstore. He discovers that the store is a library for a secret society. Sloan's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1345089845m/13538873.jpg",
     numberOfPages: 312,
@@ -10310,7 +10310,7 @@ const books = [
     name: "Flowers in the Attic",
     author: "V.C. Andrews",
     description:
-      "A celebrated work of fiction from V.C. Andrews, first published in 1979, it has become a favorite among readers of the genre.",
+      "The first book of the Dollanganger series. Four children are locked in an attic by their wealthy grandmother. Their mother is upstairs, hoping to inherit her father's fortune. The children are abused. Andrews's novel, published in 1979, was a bestseller and adapted into a film (1987) and a TV miniseries (2014). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327880853m/43448.jpg",
     numberOfPages: 506,
@@ -10322,7 +10322,7 @@ const books = [
     name: "When Breath Becomes Air",
     author: "Paul Kalanithi, Abraham Verghese",
     description:
-      "An acclaimed non-fiction book written by Paul Kalanithi, Abraham Verghese, first published in 2016, it has become a favorite among readers of the genre.",
+      "Kalanithi's memoir of his battle with lung cancer. He was a 36-year-old neurosurgeon when he was diagnosed. He wrote about facing death, his relationship with his wife, and the meaning of life. He died in 2015. The book, published in 2016, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1492677644m/25899336.jpg",
     numberOfPages: 679,
@@ -10334,7 +10334,7 @@ const books = [
     name: "Maniac Magee",
     author: "Jerry Spinelli",
     description:
-      "An acclaimed young adult book written by Jerry Spinelli, published in 1990, it continues to be discussed and recommended by readers.",
+      "Jeffrey Magee, an orphaned boy, runs away from his aunt and uncle. He becomes a legend in a town divided by race. He brings the town together. Spinelli's novel, published in 1990, won the Newbery Medal. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1395884800m/139463.jpg",
     numberOfPages: 512,
@@ -10346,7 +10346,7 @@ const books = [
     name: "Invisible Monsters",
     author: "Chuck Palahniuk",
     description:
-      "A widely read humor work by Chuck Palahniuk, since 1999, it has been praised for its storytelling and lasting appeal.",
+      "A fashion model is disfigured in a car accident. She becomes invisible. She joins a group of transsexuals. Palahniuk's novel, published in 1999, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Humor",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Invisible+Monsters",
@@ -10359,7 +10359,7 @@ const books = [
     name: "Twelfth Night",
     author: "William Shakespeare",
     description:
-      "One of William Shakespeare's best-known classics books, published in 1601, it continues to be discussed and recommended by readers.",
+      "Viola, a young woman, is shipwrecked. She disguises herself as a man named Cesario. She falls in love with Duke Orsino. He sends her to woo Olivia, but Olivia falls in love with Cesario (Viola). The confusion is resolved. Shakespeare's comedy, written around 1601, is one of his most popular. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1416628008m/1625.jpg",
     numberOfPages: 495,
@@ -10371,7 +10371,7 @@ const books = [
     name: "Gathering Blue",
     author: "Lois Lowry",
     description:
-      "A popular fiction title by Lois Lowry, since its release in 2000, it has earned a large readership worldwide.",
+      "The second book of The Giver quartet. Kira, a girl with a deformed leg, is orphaned. She is taken to the Council of Guardians. She has a talent for embroidery. Lowry's novel, published in 2000, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Gathering+Blue",
     numberOfPages: 357,
@@ -10383,7 +10383,7 @@ const books = [
     name: "The Westing Game",
     author: "Ellen Raskin",
     description:
-      "A celebrated work of mystery from Ellen Raskin, since 1978, it has been praised for its storytelling and lasting appeal.",
+      "Samuel W. Westing, a wealthy businessman, is murdered. His will names 16 heirs. They must solve the mystery to win his fortune. Raskin's novel, published in 1978, won the Newbery Medal. Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1356850909m/902.jpg",
     numberOfPages: 433,
@@ -10395,7 +10395,7 @@ const books = [
     name: "Red Rising",
     author: "Pierce Brown",
     description:
-      "A celebrated work of science fiction from Pierce Brown, first published in 2014, it has become a favorite among readers of the genre.",
+      "The first book of the Red Rising trilogy. Darrow, a red (miner) on Mars, joins a rebellion to overthrow the golds (rulers). He infiltrates their society. Brown's novel, published in 2014, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1461354651m/15839976.jpg",
     numberOfPages: 636,
@@ -10407,7 +10407,7 @@ const books = [
     name: "The Way of Shadows",
     author: "Brent Weeks",
     description:
-      "A popular fantasy title by Brent Weeks, since its release in 2008, it has earned a large readership worldwide.",
+      "The first book of the Night Angel trilogy. Azoth, a street orphan, is trained as an assassin (a wetboy). He must kill the god-king. Weeks's novel, published in 2008, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327881551m/3227063.jpg",
     numberOfPages: 572,
@@ -10419,7 +10419,7 @@ const books = [
     name: "The Bean Trees",
     author: "Barbara Kingsolver",
     description:
-      "A widely read fiction work by Barbara Kingsolver, first published in 1988, it has become a favorite among readers of the genre.",
+      "Taylor Greer, a young woman from Kentucky, inherits a baby. She moves to Arizona. She names the baby Turtle. Kingsolver's debut novel, published in 1988, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1443483961m/30868.jpg",
     numberOfPages: 570,
@@ -10431,7 +10431,7 @@ const books = [
     name: "Walking Disaster",
     author: "Jamie McGuire",
     description:
-      "A celebrated work of romance from Jamie McGuire, since 2013, it has been praised for its storytelling and lasting appeal.",
+      "The sequel to Beautiful Disaster, told from Travis's perspective. Travis, a fighter, falls in love with Abby. McGuire's novel, published in 2013, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1352338368m/15745950.jpg",
     numberOfPages: 270,
@@ -10443,7 +10443,7 @@ const books = [
     name: "Words of Radiance",
     author: "Brandon Sanderson",
     description:
-      "An acclaimed fantasy book written by Brandon Sanderson, published in 2014, it continues to be discussed and recommended by readers.",
+      "The second book of the Stormlight Archive. Kaladin, the captain of the guard, must protect the king. Shallan, the scholar, must stop the Voidbringers. Sanderson's novel, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1391535251m/17332218.jpg",
     numberOfPages: 735,
@@ -10455,7 +10455,7 @@ const books = [
     name: "Guess How Much I Love You",
     author: "Sam McBratney, Anita Jeram",
     description:
-      "One of Sam McBratney, Anita Jeram's best-known children books, published in 1988, it continues to be discussed and recommended by readers.",
+      "Little Nutbrown Hare and Big Nutbrown Hare try to measure how much they love each other. 'I love you right up to the moon.' 'I love you right up to the moon—and back.' McBratney's book, published in 1988, has sold over 30 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1320457007m/301736.jpg",
     numberOfPages: 436,
@@ -10467,7 +10467,7 @@ const books = [
     name: "The Fiery Cross",
     author: "Diana Gabaldon",
     description:
-      "A celebrated work of historical fiction from Diana Gabaldon, since 2001, it has been praised for its storytelling and lasting appeal.",
+      "The fifth book of the Outlander series. Claire and Jamie live in North Carolina. The American Revolution begins. Gabaldon's novel, published in 2001, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1407366842m/10967.jpg",
     numberOfPages: 263,
@@ -10479,7 +10479,7 @@ const books = [
     name: "Night Shift",
     author: "Stephen King, John D. MacDonald",
     description:
-      "An acclaimed horror book written by Stephen King, John D. MacDonald, published in 1978, it continues to be discussed and recommended by readers.",
+      "A collection of 20 short stories, including 'Jerusalem's Lot' (a prequel to 'Salem's Lot), 'The Boogeyman,' 'Sometimes They Come Back,' and 'The Mangler.' King's collection, published in 1978, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1342215309m/10628.jpg",
     numberOfPages: 618,
@@ -10491,7 +10491,7 @@ const books = [
     name: "Jaws",
     author: "Peter Benchley",
     description:
-      "A popular horror title by Peter Benchley, released in 1974, it remains a frequently recommended read in its category.",
+      "A great white shark attacks swimmers off the coast of Amity Island, a tourist town. The sheriff, a marine biologist, and a fisherman hunt the shark. Benchley's novel, published in 1974, was adapted into a blockbuster film (1975) directed by Steven Spielberg. Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1327958767m/126232.jpg",
     numberOfPages: 449,
@@ -10503,7 +10503,7 @@ const books = [
     name: "The History of Love",
     author: "Nicole Krauss",
     description:
-      "A popular fiction title by Nicole Krauss, published in 2005, it continues to be discussed and recommended by readers.",
+      "The novel follows two characters: Leo Gursky, an old man who wrote a book called The History of Love for his lost love; and Alma, a teenage girl named after a character in the book. Krauss's novel, published in 2005, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327911009m/3867.jpg",
     numberOfPages: 688,
@@ -10515,7 +10515,7 @@ const books = [
     name: "Pippi Longstocking",
     author: "Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",
     description:
-      "A celebrated work of children from Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn, since 1945, it has been praised for its storytelling and lasting appeal.",
+      "Pippi Longstocking, a nine-year-old girl, lives alone with a monkey and a horse. She has superhuman strength. She is unconventional. Lindgren's book, published in 1945, has been translated into 70 languages. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Pippi+Longstocking",
@@ -10528,7 +10528,7 @@ const books = [
     name: "The Elegance of the Hedgehog",
     author: "Muriel Barbery, Alison Anderson",
     description:
-      "A popular fiction title by Muriel Barbery, Alison Anderson, first published in 2006, it has become a favorite among readers of the genre.",
+      "The novel follows two characters in a Paris apartment building: Renée, a 54-year-old concierge who hides her intelligence; and Paloma, a 12-year-old girl who plans to commit suicide. Barbery's novel, published in 2006, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Elegance+of+the+Hedgehog",
@@ -10541,7 +10541,7 @@ const books = [
     name: "Team of Rivals: The Political Genius of Abraham Lincoln",
     author: "Doris Kearns Goodwin, Suzanne Toren",
     description:
-      "An acclaimed history book written by Doris Kearns Goodwin, Suzanne Toren, published in 2005, it continues to be discussed and recommended by readers.",
+      "Goodwin's biography of Abraham Lincoln focuses on his cabinet, which included three of his political rivals (William Seward, Salmon Chase, and Edward Bates). She argues that Lincoln's genius was his ability to bring his enemies together. The book, published in 2005, won the Pulitzer Prize and was adapted into the film Lincoln (2012). Since its release, it has become a favorite among readers of the genre.",
     genre: "History",
     coverPage: "https://images.gr-assets.com/books/1347278868m/2199.jpg",
     numberOfPages: 457,
@@ -10553,7 +10553,7 @@ const books = [
     name: "Dead in the Family",
     author: "Charlaine Harris",
     description:
-      "One of Charlaine Harris's best-known fantasy books, since 2010, it has been praised for its storytelling and lasting appeal.",
+      "The tenth book of the Sookie Stackhouse series. Sookie is recovering from a fairy attack. Her vampire boyfriend, Eric, is wounded. Harris's novel, published in 2010, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1290479828m/7091488.jpg",
     numberOfPages: 461,
@@ -10565,7 +10565,7 @@ const books = [
     name: "The Plague",
     author: "Albert Camus, Stuart Gilbert",
     description:
-      "One of Albert Camus, Stuart Gilbert's best-known fiction books, published in 1947, it continues to be discussed and recommended by readers.",
+      "An epidemic of bubonic plague strikes the Algerian city of Oran. The city is quarantined. Dr. Rieux fights the plague. Camus's novel, published in 1947, is an allegory for the Nazi occupation of France. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1342837610m/11989.jpg",
     numberOfPages: 739,
@@ -10577,7 +10577,7 @@ const books = [
     name: "The Reptile Room",
     author: "Lemony Snicket, Brett Helquist",
     description:
-      "An acclaimed fiction book written by Lemony Snicket, Brett Helquist, since 1999, it has been praised for its storytelling and lasting appeal.",
+      "The second book of A Series of Unfortunate Events. The Baudelaire orphans are sent to live with herpetologist Uncle Monty. He is murdered by Count Olaf (disguised as an assistant). The orphans escape. Snicket's novel, published in 1999, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1352146294m/78418.jpg",
     numberOfPages: 387,
@@ -10589,7 +10589,7 @@ const books = [
     name: "Brain on Fire: My Month of Madness",
     author: "Susannah Cahalan",
     description:
-      "A widely read non-fiction work by Susannah Cahalan, released in 2012, it remains a frequently recommended read in its category.",
+      "Cahalan's memoir of her sudden descent into psychosis. She was a 24-year-old journalist. She was diagnosed with anti-NMDA receptor encephalitis, a rare autoimmune disease. She recovered. The book, published in 2012, was adapted into a film (2016). Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1353173297m/13547180.jpg",
     numberOfPages: 481,
@@ -10601,7 +10601,7 @@ const books = [
     name: "Wicked Lovely",
     author: "Melissa Marr",
     description:
-      "A celebrated work of fantasy from Melissa Marr, since its release in 2007, it has earned a large readership worldwide.",
+      "The first book of the Wicked Lovely series. Aislinn, a teenager, can see faeries. She is being stalked by Keenan, the Summer King. He wants her to become his queen. Marr's novel, published in 2007, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327814035m/305234.jpg",
     numberOfPages: 483,
@@ -10613,7 +10613,7 @@ const books = [
     name: "Curious George",
     author: "H.A. Rey",
     description:
-      "One of H.A. Rey's best-known children books, published in 1941, it continues to be discussed and recommended by readers.",
+      "George, a curious monkey, is taken from Africa by the Man with the Yellow Hat. He causes trouble. He is sent to the zoo. Rey's book, published in 1941, has sold over 25 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Curious+George",
     numberOfPages: 160,
@@ -10625,7 +10625,7 @@ const books = [
     name: "The Neverending Story",
     author: "Michael Ende, Ralph Manheim, Roswitha Quadflieg",
     description:
-      "A widely read fantasy work by Michael Ende, Ralph Manheim, Roswitha Quadflieg, first published in 1979, it has become a favorite among readers of the genre.",
+      "Bastian Balthazar Bux, a lonely boy, steals a book called The Neverending Story. He reads about the land of Fantasia, which is being destroyed by the Nothing. He enters the story. Ende's novel, published in 1979, was adapted into a film (1984). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327871159m/27712.jpg",
     numberOfPages: 412,
@@ -10637,7 +10637,7 @@ const books = [
     name: "A Beautiful Mind",
     author: "Sylvia Nasar",
     description:
-      "A celebrated work of biography from Sylvia Nasar, published in 1998, it continues to be discussed and recommended by readers.",
+      "A biography of John Nash, a mathematical genius who suffered from paranoid schizophrenia. He recovered and won the Nobel Prize. Nasar's book, published in 1998, was adapted into an Oscar-winning film (2001). Since its release, it has become a favorite among readers of the genre.",
     genre: "Biography",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Beautiful+Mind",
@@ -10650,7 +10650,7 @@ const books = [
     name: "The Jungle",
     author: "Upton Sinclair, Earl Lee, Kathleen DeGrave",
     description:
-      "A celebrated work of fiction from Upton Sinclair, Earl Lee, Kathleen DeGrave, released in 1906, it remains a frequently recommended read in its category.",
+      "A novel about the meatpacking industry in Chicago. Jurgis Rudkus, a Lithuanian immigrant, works in a slaughterhouse. He is exploited. Sinclair's novel, published in 1906, led to the passage of the Pure Food and Drug Act. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1332140681m/41681.jpg",
     numberOfPages: 701,
@@ -10662,7 +10662,7 @@ const books = [
     name: "The Summoning",
     author: "Kelley Armstrong",
     description:
-      "A celebrated work of young adult from Kelley Armstrong, published in 2008, it continues to be discussed and recommended by readers.",
+      "The first book of the Darkest Powers series. Chloe Saunders, a teenager, can see ghosts. She is sent to a group home. She discovers that the home is a lab. Armstrong's novel, published in 2008, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1478986944m/2800905.jpg",
     numberOfPages: 679,
@@ -10674,7 +10674,7 @@ const books = [
     name: "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
     author: "Oliver Sacks",
     description:
-      "A celebrated work of non-fiction from Oliver Sacks, published in 1985, it continues to be discussed and recommended by readers.",
+      "A collection of case studies of patients with neurological disorders. The title story describes a man with visual agnosia (he cannot recognize faces, so he mistakes his wife for a hat). Sacks's book, published in 1985, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1447047702m/63697.jpg",
     numberOfPages: 548,
@@ -10686,7 +10686,7 @@ const books = [
     name: "Eye of the Needle",
     author: "Ken Follett",
     description:
-      "An acclaimed fiction book written by Ken Follett, released in 1978, it remains a frequently recommended read in its category.",
+      "A German spy (the Needle) discovers the Allies' plan to invade Normandy. He tries to report it. He is hunted. Follett's novel, published in 1978, was a bestseller and adapted into a film (1981). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327939511m/92364.jpg",
     numberOfPages: 191,
@@ -10698,7 +10698,7 @@ const books = [
     name: "The Blind Assassin",
     author: "Margaret Atwood",
     description:
-      "A celebrated work of fiction from Margaret Atwood, released in 2000, it remains a frequently recommended read in its category.",
+      "The novel follows Iris Chase, an elderly woman, as she remembers her life. Her sister, Laura, died in a car accident. Laura wrote a novel called The Blind Assassin. Atwood's novel, published in 2000, won the Booker Prize. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1451445426m/78433.jpg",
     numberOfPages: 613,
@@ -10710,7 +10710,7 @@ const books = [
     name: "Hollow City",
     author: "Ransom Riggs",
     description:
-      "A widely read young adult work by Ransom Riggs, first published in 2014, it has become a favorite among readers of the genre.",
+      "The second book of the Miss Peregrine's Peculiar Children series. The children travel to London to find other peculiars. Riggs's novel, published in 2014, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1429175859m/23164983.jpg",
     numberOfPages: 687,
@@ -10722,7 +10722,7 @@ const books = [
     name: "House of Sand and Fog",
     author: "Andre Dubus III",
     description:
-      "One of Andre Dubus III's best-known fiction books, first published in 1999, it has become a favorite among readers of the genre.",
+      "A former colonel in the Iranian army buys a house at auction. The house was wrongly taken from a recovering addict. They fight for the house. Dubus's novel, published in 1999, was a finalist for the National Book Award and adapted into a film (2003). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1428883041m/359770.jpg",
     numberOfPages: 569,
@@ -10734,7 +10734,7 @@ const books = [
     name: "The Girl with All the Gifts",
     author: "M.R. Carey",
     description:
-      "A popular horror title by M.R. Carey, since 2014, it has been praised for its storytelling and lasting appeal.",
+      "Melanie, a young girl, is a zombie. She is also intelligent. She is kept in a military base. She escapes. Carey's novel, published in 2014, was adapted into a film (2016). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1403033579m/17235026.jpg",
     numberOfPages: 560,
@@ -10746,7 +10746,7 @@ const books = [
     name: "As I Lay Dying",
     author: "William Faulkner",
     description:
-      "A celebrated work of classics from William Faulkner, since 1930, it has been praised for its storytelling and lasting appeal.",
+      "The novel follows the Bundren family as they travel to bury their mother, Addie, in her hometown. The journey is narrated by 15 different characters. Faulkner's novel, published in 1930, is a classic of Southern literature. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1451810782m/77013.jpg",
     numberOfPages: 307,
@@ -10758,7 +10758,7 @@ const books = [
     name: "Harold and the Purple Crayon",
     author: "Crockett Johnson",
     description:
-      "One of Crockett Johnson's best-known children books, published in 1955, it continues to be discussed and recommended by readers.",
+      "Harold, a boy, draws a world with his purple crayon. He draws a moon, a path, an apple tree, a dragon, a boat, and a picnic. He draws his bed. He goes to sleep. Johnson's book, published in 1955, has sold over 5 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1327390957m/98573.jpg",
     numberOfPages: 648,
@@ -10770,7 +10770,7 @@ const books = [
     name: "Lover Eternal",
     author: "J.R. Ward",
     description:
-      "An acclaimed paranormal book written by J.R. Ward, published in 2006, it continues to be discussed and recommended by readers.",
+      "The second book of the Black Dagger Brotherhood series. Rhage, a vampire, falls in love with Mary, a human woman with cancer. She is cured. Ward's novel, published in 2006, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Paranormal",
     coverPage: "https://images.gr-assets.com/books/1300845974m/35729.jpg",
     numberOfPages: 501,
@@ -10782,7 +10782,7 @@ const books = [
     name: "Second Foundation",
     author: "Isaac Asimov",
     description:
-      "A celebrated work of science fiction from Isaac Asimov, first published in 1953, it has become a favorite among readers of the genre.",
+      "The third book of the Foundation series. The Foundation is threatened by a mutant (the Mule). They search for the Second Foundation, which has psychic powers. Asimov's novel, published in 1953, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1417900922m/29580.jpg",
     numberOfPages: 324,
@@ -10794,7 +10794,7 @@ const books = [
     name: "Fool Moon",
     author: "Jim Butcher",
     description:
-      "A popular fantasy title by Jim Butcher, released in 2001, it remains a frequently recommended read in its category.",
+      "The second book of The Dresden Files series. Harry Dresden, a wizard, investigates a series of murders committed by a werewolf. Butcher's novel, published in 2001, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1345556849m/91477.jpg",
     numberOfPages: 525,
@@ -10806,7 +10806,7 @@ const books = [
     name: "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
     author: "Malcolm Gladwell",
     description:
-      "A widely read non-fiction work by Malcolm Gladwell, released in 2011, it remains a frequently recommended read in its category.",
+      "Gladwell's book argues that underdogs can win by using their disadvantages. He gives examples: a girls' basketball team that uses a full-court press, a dyslexic man who becomes a successful lawyer, and a civil rights leader who protests with children. The book, published in 2011, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1391813567m/15751404.jpg",
     numberOfPages: 674,
@@ -10818,7 +10818,7 @@ const books = [
     name: "Fullmetal Alchemist, Vol. 1",
     author: "Hiromu Arakawa, Akira Watanabe",
     description:
-      "One of Hiromu Arakawa, Akira Watanabe's best-known graphic novel books, first published in 2002, it has become a favorite among readers of the genre.",
+      "The first volume of the Fullmetal Alchemist manga. Edward and Alphonse Elric, brothers, use alchemy to try to revive their dead mother. The attempt fails, and Edward loses his arm and leg; Alphonse loses his entire body. They search for the Philosopher's Stone. Arakawa's manga, published in 2002, was adapted into two anime series (2003, 2009). Since its release, it has become a favorite among readers of the genre.",
     genre: "Graphic Novel",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Fullmetal+Alchemist,+Vol.+1",
@@ -10831,7 +10831,7 @@ const books = [
     name: "Guards! Guards!",
     author: "Terry Pratchett",
     description:
-      "A popular fantasy title by Terry Pratchett, since 1989, it has been praised for its storytelling and lasting appeal.",
+      "The eighth book of the Discworld series. The Night Watch of Ankh-Morpork must stop a dragon from destroying the city. Pratchett's novel, published in 1989, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1431127356m/64216.jpg",
     numberOfPages: 580,
@@ -10843,7 +10843,7 @@ const books = [
     name: "The Year of Magical Thinking",
     author: "Joan Didion",
     description:
-      "One of Joan Didion's best-known non-fiction books, since 2005, it has been praised for its storytelling and lasting appeal.",
+      "Didion's memoir of the year after her husband, John Gregory Dunne, died of a heart attack. She also writes about her daughter's illness. Didion's book, published in 2005, won the National Book Award. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1327878638m/7815.jpg",
     numberOfPages: 446,
@@ -10855,7 +10855,7 @@ const books = [
     name: "We Need to Talk About Kevin",
     author: "Lionel Shriver",
     description:
-      "A celebrated work of fiction from Lionel Shriver, since its release in 2003, it has earned a large readership worldwide.",
+      "Eva Khatchadourian writes letters to her estranged husband about their son, Kevin, who committed a school shooting. She asks: was Kevin born evil, or did his parents make him that way? Shriver's novel, published in 2003, won the Orange Prize and was adapted into a film (2011). Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327865017m/80660.jpg",
     numberOfPages: 667,
@@ -10867,7 +10867,7 @@ const books = [
     name: "Rendezvous with Rama",
     author: "Arthur C. Clarke",
     description:
-      "One of Arthur C. Clarke's best-known classics books, published in 1973, it continues to be discussed and recommended by readers.",
+      "A large alien object (Rama) enters the solar system. A crew is sent to investigate. They find a hollow world with a sea, cities, and a mechanical civilization. Clarke's novel, published in 1973, won the Hugo and Nebula awards. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1405456427m/112537.jpg",
     numberOfPages: 336,
@@ -10879,7 +10879,7 @@ const books = [
     name: "The Queen of the Damned",
     author: "Anne Rice",
     description:
-      "A widely read horror work by Anne Rice, since 1988, it has been praised for its storytelling and lasting appeal.",
+      "The third book of the Vampire Chronicles. The vampire queen, Akasha, awakens. She wants to kill all men. The vampires band together to stop her. Rice's novel, published in 1988, was adapted into a film (2002). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1327871992m/43758.jpg",
     numberOfPages: 259,
@@ -10891,7 +10891,7 @@ const books = [
     name: "The Age of Innocence",
     author: "Edith Wharton, Maureen Howard",
     description:
-      "A popular classics title by Edith Wharton, Maureen Howard, since 1920, it has been praised for its storytelling and lasting appeal.",
+      "Newland Archer, a wealthy lawyer in 1870s New York, is engaged to May Welland. He falls in love with her cousin, Countess Ellen Olenska, who is separated from her abusive husband. He chooses convention over love. Wharton's novel, published in 1920, won the Pulitzer Prize. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Age+of+Innocence",
@@ -10904,7 +10904,7 @@ const books = [
     name: "The Selfish Gene",
     author: "Richard Dawkins",
     description:
-      "An acclaimed non-fiction book written by Richard Dawkins, first published in 1976, it has become a favorite among readers of the genre.",
+      "Dawkins's non-fiction book argues that evolution is driven by genes, not species. He introduces the concept of the 'meme' (an idea that spreads like a virus). The book, published in 1976, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1366758096m/61535.jpg",
     numberOfPages: 152,
@@ -10916,7 +10916,7 @@ const books = [
     name: "Year of Wonders",
     author: "Geraldine Brooks",
     description:
-      "A popular historical fiction title by Geraldine Brooks, since 2001, it has been praised for its storytelling and lasting appeal.",
+      "A novel based on the true story of the plague village of Eyam, England, in 1666. Anna Frith, a young widow, watches as her village quarantines itself to prevent the plague from spreading. Brooks's novel, published in 2001, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1327936622m/4965.jpg",
     numberOfPages: 154,
@@ -10928,7 +10928,7 @@ const books = [
     name: "The Black Echo",
     author: "Michael Connelly",
     description:
-      "A popular mystery title by Michael Connelly, published in 1992, it continues to be discussed and recommended by readers.",
+      "The first book of the Harry Bosch series. Harry Bosch, a detective in Los Angeles, investigates the murder of a fellow Vietnam War veteran. The murder is connected to a bank heist. Connelly's novel, published in 1992, launched a best-selling series. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1344265342m/32508.jpg",
     numberOfPages: 250,
@@ -10940,7 +10940,7 @@ const books = [
     name: "Anthem",
     author: "Ayn Rand",
     description:
-      "A celebrated work of fiction from Ayn Rand, first published in 1938, it has become a favorite among readers of the genre.",
+      "A dystopian novella. In a collectivist society where the word 'I' has been forgotten, Equality 7-2521 rediscovers electricity and individualism. He escapes into the wilderness with a woman. He names himself Prometheus. Rand's novella, published in 1938, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Anthem",
     numberOfPages: 180,
@@ -10952,7 +10952,7 @@ const books = [
     name: "Gabriel's Inferno",
     author: "Sylvain Reynard",
     description:
-      "One of Sylvain Reynard's best-known romance books, since its release in 2011, it has earned a large readership worldwide.",
+      "The first book of the Gabriel's Inferno series. Gabriel Emerson, a Dante scholar, is assigned to mentor Julia Mitchell, a graduate student. They fall in love. Reynard's novel, published in 2011, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1301789770m/10140661.jpg",
     numberOfPages: 659,
@@ -10964,7 +10964,7 @@ const books = [
     name: "Cloudy With a Chance of Meatballs",
     author: "Judi Barrett, Ron Barrett",
     description:
-      "A celebrated work of children from Judi Barrett, Ron Barrett, since 1978, it has been praised for its storytelling and lasting appeal.",
+      "A grandfather tells his grandchildren a story about the town of Chewandswallow, where food falls from the sky instead of rain. The food becomes larger and larger until the people must escape. Barrett's book, published in 1978, was adapted into a film (2009). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Cloudy+With+a+Chance+of+Meatballs",
@@ -10977,7 +10977,7 @@ const books = [
     name: "Major Pettigrew's Last Stand",
     author: "Helen Simonson",
     description:
-      "A celebrated work of fiction from Helen Simonson, since 2010, it has been praised for its storytelling and lasting appeal.",
+      "Major Ernest Pettigrew, a retired widower in rural England, falls in love with Mrs. Jasmina Ali, a Pakistani shopkeeper. He must overcome his son's disapproval and the village's racism. Simonson's novel, published in 2010, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1320539020m/6643090.jpg",
     numberOfPages: 297,
@@ -10989,7 +10989,7 @@ const books = [
     name: "Vision in White",
     author: "Nora Roberts",
     description:
-      "A celebrated work of romance from Nora Roberts, since its release in 2009, it has earned a large readership worldwide.",
+      "The first book of the Bride Quartet. Mackensie 'Mac' Elliot, a wedding photographer, falls in love with Carter Maguire, a high school English teacher. Roberts's novel, published in 2009, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1316972164m/5598113.jpg",
     numberOfPages: 570,
@@ -11001,7 +11001,7 @@ const books = [
     name: "The Tenth Circle",
     author: "Jodi Picoult",
     description:
-      "A celebrated work of fiction from Jodi Picoult, first published in 2006, it has become a favorite among readers of the genre.",
+      "Trixie Stone, a 14-year-old girl, is raped at a party. She attempts suicide. Her father, Daniel, a comic book artist, tries to find her rapist. Picoult's novel, published in 2006, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1348575053m/10909.jpg",
     numberOfPages: 298,
@@ -11013,7 +11013,7 @@ const books = [
     name: "The Throne of Fire",
     author: "Rick Riordan",
     description:
-      "One of Rick Riordan's best-known fantasy books, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "The second book of The Kane Chronicles. Carter and Sadie Kane must wake the sun god Ra to stop Apophis, the serpent of chaos. Riordan's novel, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1366227973m/9067850.jpg",
     numberOfPages: 671,
@@ -11025,7 +11025,7 @@ const books = [
     name: "Old Man's War",
     author: "John Scalzi",
     description:
-      "A widely read science fiction work by John Scalzi, first published in 2005, it has become a favorite among readers of the genre.",
+      "The first book of the Old Man's War series. John Perry, a 75-year-old widower, enlists in the army. He is given a new, younger body and sent to fight aliens. Scalzi's novel, published in 2005, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1487044882m/51964.jpg",
     numberOfPages: 252,
@@ -11037,7 +11037,7 @@ const books = [
     name: "Gerald's Game",
     author: "Stephen King",
     description:
-      "A widely read fiction work by Stephen King, since its release in 1992, it has earned a large readership worldwide.",
+      "Jessie Burlingame and her husband, Gerald, are in a remote cabin. Gerald handcuffs Jessie to a bed, then dies of a heart attack. Jessie is trapped. She escapes. King's novel, published in 1992, was adapted into a film (2017). Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1297737756m/32692.jpg",
     numberOfPages: 685,
@@ -11049,7 +11049,7 @@ const books = [
     name: "Two for the Dough",
     author: "Janet Evanovich",
     description:
-      "An acclaimed mystery book written by Janet Evanovich, published in 1996, it continues to be discussed and recommended by readers.",
+      "The second book of the Stephanie Plum series. Stephanie is hunting for a man who stole funeral home merchandise. She is also being stalked by a man who wants to kill her. Evanovich's novel, published in 1996, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1330926461m/6427.jpg",
     numberOfPages: 590,
@@ -11061,7 +11061,7 @@ const books = [
     name: "The Joy of Cooking",
     author: "Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",
     description:
-      "A widely read non-fiction work by Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker, first published in 1931, it has become a favorite among readers of the genre.",
+      "A comprehensive cookbook, first published in 1931. It includes over 4,000 recipes. It has sold over 20 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1379313627m/327847.jpg",
     numberOfPages: 742,
@@ -11073,7 +11073,7 @@ const books = [
     name: "The Forever War",
     author: "Joe Haldeman",
     description:
-      "A popular science fiction title by Joe Haldeman, since its release in 1974, it has earned a large readership worldwide.",
+      "William Mandella, a soldier, is sent to fight an alien species (the Taurans). Time dilation causes him to age slowly. He returns to a changed Earth. Haldeman's novel, published in 1974, won the Hugo and Nebula awards. Since its release, it has earned a large readership worldwide.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1386852511m/21611.jpg",
     numberOfPages: 393,
@@ -11085,7 +11085,7 @@ const books = [
     name: "Insomnia",
     author: "Stephen King, Bettina Blanch Tyroller",
     description:
-      "A popular horror title by Stephen King, Bettina Blanch Tyroller, released in 1994, it remains a frequently recommended read in its category.",
+      "Ralph Roberts, an elderly widower, cannot sleep. He begins to see auras. He learns that the auras reveal who will die. He tries to prevent a murder. King's novel, published in 1994, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1354355494m/10585.jpg",
     numberOfPages: 323,
@@ -11097,7 +11097,7 @@ const books = [
     name: "Reading Lolita in Tehran",
     author: "Azar Nafisi",
     description:
-      "A widely read non-fiction work by Azar Nafisi, released in 2003, it remains a frequently recommended read in its category.",
+      "Nafisi's memoir of her life in Iran after the Islamic Revolution. She secretly taught literature to a group of women. They read banned authors: Nabokov, Fitzgerald, James. The book, published in 2003, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1397751318m/7603.jpg",
     numberOfPages: 251,
@@ -11109,7 +11109,7 @@ const books = [
     name: "The Blade Itself",
     author: "Joe Abercrombie",
     description:
-      "A celebrated work of fantasy from Joe Abercrombie, first published in 2006, it has become a favorite among readers of the genre.",
+      "The first book of The First Law trilogy. Logen Ninefingers, a barbarian, is forced to flee his homeland. Inquisitor Glokta, a torturer, investigates a conspiracy. Captain Luthar, a nobleman, competes in a tournament. Abercrombie's novel, published in 2006, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1284167912m/944073.jpg",
     numberOfPages: 507,
@@ -11121,7 +11121,7 @@ const books = [
     name: "The Arctic Incident",
     author: "Eoin Colfer",
     description:
-      "One of Eoin Colfer's best-known fantasy books, published in 2002, it continues to be discussed and recommended by readers.",
+      "The second book of the Artemis Fowl series. Artemis, the teenage criminal mastermind, helps the fairies fight a goblin uprising. Colfer's novel, published in 2002, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Arctic+Incident",
@@ -11134,7 +11134,7 @@ const books = [
     name: "The Shipping News",
     author: "Annie Proulx",
     description:
-      "A widely read fiction work by Annie Proulx, first published in 1993, it has become a favorite among readers of the genre.",
+      "Quoyle, a middle-aged man whose life has fallen apart, moves to Newfoundland with his two daughters. He becomes a reporter for a local newspaper. He finds love. Proulx's novel, published in 1993, won the Pulitzer Prize and was adapted into a film (2001). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1469036074m/7354.jpg",
     numberOfPages: 375,
@@ -11146,7 +11146,7 @@ const books = [
     name: "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
     author: "Marie Kondō, Cathy Hirano",
     description:
-      "An acclaimed non-fiction book written by Marie Kondō, Cathy Hirano, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "Kondō's self-help book about decluttering. She advocates keeping only items that 'spark joy.' The book, published in 2011, was a bestseller and spawned a Netflix series. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1418767178m/22318578.jpg",
     numberOfPages: 194,
@@ -11158,7 +11158,7 @@ const books = [
     name: "All the Bright Places",
     author: "Jennifer Niven, فرانک معنوی",
     description:
-      "An acclaimed young adult book written by Jennifer Niven, فرانک معنوی, first published in 2015, it has become a favorite among readers of the genre.",
+      "Theodore Finch, a boy with bipolar disorder, meets Violet Markey, a girl who is grieving her sister's death. They fall in love. Finch commits suicide. Niven's novel, published in 2015, was a bestseller and adapted into a film (2020). Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1404331702m/18460392.jpg",
     numberOfPages: 394,
@@ -11170,7 +11170,7 @@ const books = [
     name: "Déjà Dead",
     author: "Kathy Reichs",
     description:
-      "One of Kathy Reichs's best-known mystery books, since its release in 1997, it has earned a large readership worldwide.",
+      "The first book of the Temperance Brennan series (which inspired the TV show Bones). Temperance Brennan, a forensic anthropologist, investigates a series of murders in Montreal. Reichs's novel, published in 1997, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1334157601m/231604.jpg",
     numberOfPages: 195,
@@ -11182,7 +11182,7 @@ const books = [
     name: "The Alchemyst",
     author: "Michael Scott",
     description:
-      "One of Michael Scott's best-known young adult books, since 2007, it has been praised for its storytelling and lasting appeal.",
+      "The first book of The Secrets of the Immortal Nicholas Flamel series. Sophie and Josh Newman, twins, are drawn into a world of immortals. They must help Nicholas Flamel save the world. Scott's novel, published in 2007, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1361310229m/17402605.jpg",
     numberOfPages: 327,
@@ -11194,7 +11194,7 @@ const books = [
     name: "The Marriage Plot",
     author: "Jeffrey Eugenides",
     description:
-      "A popular fiction title by Jeffrey Eugenides, first published in 2011, it has become a favorite among readers of the genre.",
+      "Madeleine Hanna, an English major at Brown University, is in love with Leonard Bankhead, a manic-depressive biology major. She is also loved by Mitchell Grammaticus, a religious studies major. The novel follows their lives after graduation. Eugenides's novel, published in 2011, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1328736940m/10964693.jpg",
     numberOfPages: 616,
@@ -11206,7 +11206,7 @@ const books = [
     name: "Daughter of Fortune",
     author: "Isabel Allende, Margaret Sayers Peden",
     description:
-      "A popular historical fiction title by Isabel Allende, Margaret Sayers Peden, published in 1998, it continues to be discussed and recommended by readers.",
+      "Eliza Sommers, a young woman in 19th-century Chile, falls in love with Joaquín Andieta, a man who leaves for the California Gold Rush. She follows him. Allende's novel, published in 1998, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Historical Fiction",
     coverPage: "https://images.gr-assets.com/books/1299666780m/16527.jpg",
     numberOfPages: 408,
@@ -11218,7 +11218,7 @@ const books = [
     name: "Luckiest Girl Alive",
     author: "Jessica Knoll",
     description:
-      "An acclaimed fiction book written by Jessica Knoll, first published in 2015, it has become a favorite among readers of the genre.",
+      "Ani FaNelli, a successful magazine editor, is hiding a dark past: she was gang-raped as a teenager, and her classmates blamed her. She confronts her past. Knoll's novel, published in 2015, was a bestseller and adapted into a film (2022). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1425975301m/22609317.jpg",
     numberOfPages: 398,
@@ -11230,7 +11230,7 @@ const books = [
     name: "Crank",
     author: "Ellen Hopkins",
     description:
-      "An acclaimed young adult book written by Ellen Hopkins, since 2004, it has been praised for its storytelling and lasting appeal.",
+      "A verse novel based on Hopkins's daughter's addiction to crystal meth. Kristina Snow, a good girl, is introduced to 'crank' and becomes a different person. Hopkins's novel, published in 2004, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Young Adult",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Crank",
     numberOfPages: 376,
@@ -11242,7 +11242,7 @@ const books = [
     name: "The Raven Boys",
     author: "Maggie Stiefvater",
     description:
-      "An acclaimed fantasy book written by Maggie Stiefvater, released in 2012, it remains a frequently recommended read in its category.",
+      "The first book of The Raven Cycle. Blue Sargent, a teenager from a family of psychics, is told that she will kill her true love. She meets the Raven Boys, students at a private school. Stiefvater's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1477103737m/17675462.jpg",
     numberOfPages: 558,
@@ -11254,7 +11254,7 @@ const books = [
     name: "I Am Legend and Other Stories",
     author: "Richard Matheson",
     description:
-      "An acclaimed horror book written by Richard Matheson, first published in 1954, it has become a favorite among readers of the genre.",
+      "Robert Neville, the last man on Earth, is immune to a plague that has turned humanity into vampires. He studies them, kills them, and is captured. He discovers that he is the legend. Matheson's novel, published in 1954, was adapted into three films (1964, 1971, 2007). Since its release, it has become a favorite among readers of the genre.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1317791583m/547094.jpg",
     numberOfPages: 399,
@@ -11266,7 +11266,7 @@ const books = [
     name: "Olive Kitteridge",
     author: "Elizabeth Strout",
     description:
-      "A widely read contemporary work by Elizabeth Strout, since its release in 2008, it has earned a large readership worldwide.",
+      "A collection of linked short stories about Olive Kitteridge, a retired schoolteacher in Maine. She is blunt, judgmental, and lonely. Strout's novel, published in 2008, won the Pulitzer Prize and was adapted into an HBO miniseries (2014). Since its release, it has earned a large readership worldwide.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1320430655m/1736739.jpg",
     numberOfPages: 324,
@@ -11275,10 +11275,10 @@ const books = [
   },
   {
     id: 931,
-    name: 'Not That Kind of Girl: A Young Woman Tells You What She\'s "Learned"',
+    name: "Not That Kind of Girl: A Young Woman Tells You What She's 'Learned'",
     author: "Lena Dunham, Joana Avillez",
     description:
-      "A popular biography title by Lena Dunham, Joana Avillez, published in 2014, it continues to be discussed and recommended by readers.",
+      "Dunham's collection of autobiographical essays. She writes about her childhood, her relationships, her career, and her mental health. The book, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Biography",
     coverPage: "https://images.gr-assets.com/books/1402816003m/20588698.jpg",
     numberOfPages: 341,
@@ -11290,7 +11290,7 @@ const books = [
     name: "Good to Great: Why Some Companies Make the Leap... and Others Don't",
     author: "James C. Collins",
     description:
-      "A widely read self-help work by James C. Collins, released in 2001, it remains a frequently recommended read in its category.",
+      "Collins's business book identifies 11 companies that made the leap from 'good' to 'great.' He argues that great companies have 'Level 5 leaders' (humble, driven), 'First Who, Then What' (get the right people on the bus), and a 'Hedgehog Concept' (simplicity). The book, published in 2001, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Self-Help",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Good+to+Great:+Why+Some+Companies+Make+the+Leap...+and+Others+Don't",
@@ -11303,7 +11303,7 @@ const books = [
     name: "Fire",
     author: "Kristin Cashore",
     description:
-      "A celebrated work of fantasy from Kristin Cashore, released in 2009, it remains a frequently recommended read in its category.",
+      "The second book of the Graceling Realm series. Fire, a monster (a human with brightly colored hair and psychic powers), is used as a weapon. She rebels. Cashore's novel, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1331535456m/6137154.jpg",
     numberOfPages: 267,
@@ -11315,7 +11315,7 @@ const books = [
     name: "Waiting for Godot",
     author: "Samuel Beckett",
     description:
-      "A popular classics title by Samuel Beckett, since 1952, it has been praised for its storytelling and lasting appeal.",
+      "Vladimir and Estragon wait for a man named Godot, who never arrives. They talk, argue, and contemplate suicide. Two other men, Pozzo and Lucky, pass by. Beckett's play, published in 1952, is a classic of the Theatre of the Absurd. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1327910301m/17716.jpg",
     numberOfPages: 544,
@@ -11327,7 +11327,7 @@ const books = [
     name: "White Fang",
     author: "Jack London",
     description:
-      "A popular classics title by Jack London, published in 1906, it continues to be discussed and recommended by readers.",
+      "The companion novel to The Call of the Wild. White Fang, a wolf-dog hybrid, is born wild. He is captured by humans, beaten, and forced to fight. He is rescued by a kind man. He becomes a loyal pet. London's novel, published in 1906, is a classic of adventure literature. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1475878443m/43035.jpg",
     numberOfPages: 217,
@@ -11339,7 +11339,7 @@ const books = [
     name: "Wolves of the Calla",
     author: "Stephen King, Bernie Wrightson",
     description:
-      "A widely read horror work by Stephen King, Bernie Wrightson, published in 2003, it continues to be discussed and recommended by readers.",
+      "The fifth book of the Dark Tower series. Roland and his ka-tet (Eddie, Susannah, Jake, and Oy) visit the town of Calla Bryn Sturgis. The town is plagued by wolves who steal children. King's novel, published in 2003, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Horror",
     coverPage: "https://images.gr-assets.com/books/1419360231m/4978.jpg",
     numberOfPages: 509,
@@ -11351,7 +11351,7 @@ const books = [
     name: "His Dark Materials (His Dark Materials #1-3)",
     author: "Philip Pullman",
     description:
-      "A celebrated work of young adult from Philip Pullman, since its release in 2000, it has earned a large readership worldwide.",
+      "A boxed set of the three His Dark Materials novels: The Golden Compass, The Subtle Knife, and The Amber Spyglass. The series follows Lyra Belacqua and Will Parry as they travel through parallel universes, fight the Magisterium (an oppressive church), and free the dead. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=His+Dark+Materials+(His+Dark+Materials+#1-3)",
@@ -11364,7 +11364,7 @@ const books = [
     name: "The Edge of Never",
     author: "J.A. Redmerski",
     description:
-      "One of J.A. Redmerski's best-known romance books, published in 2012, it continues to be discussed and recommended by readers.",
+      "Camryn Bennett, a teenager, is grieving her brother's death. She runs away from home. She meets Andrew Parrish, a man with his own trauma. They fall in love. Redmerski's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1358810128m/16081272.jpg",
     numberOfPages: 440,
@@ -11376,7 +11376,7 @@ const books = [
     name: "Reconstructing Amelia",
     author: "Kimberly McCreight",
     description:
-      "A popular mystery title by Kimberly McCreight, since its release in 2013, it has earned a large readership worldwide.",
+      "Kate Baron, a lawyer, learns that her daughter, Amelia, has died by suicide. She discovers that Amelia was bullied and that the school covered it up. McCreight's novel, published in 2013, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1350193583m/15776309.jpg",
     numberOfPages: 596,
@@ -11388,7 +11388,7 @@ const books = [
     name: "One Plus One",
     author: "Jojo Moyes",
     description:
-      "A widely read fiction work by Jojo Moyes, released in 2014, it remains a frequently recommended read in its category.",
+      "Jess Thomas, a single mother, works as a house cleaner. Her daughter is a math genius. Her stepson is being bullied. She meets Ed, a wealthy tech entrepreneur. They fall in love. Moyes's novel, published in 2014, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1403185695m/18693716.jpg",
     numberOfPages: 175,
@@ -11400,7 +11400,7 @@ const books = [
     name: "The Hours",
     author: "Michael Cunningham",
     description:
-      "A popular fiction title by Michael Cunningham, since its release in 1998, it has earned a large readership worldwide.",
+      "The novel interweaves the lives of three women: Virginia Woolf, who is writing Mrs. Dalloway; Laura Brown, a housewife in 1949 Los Angeles who is reading Mrs. Dalloway; and Clarissa Vaughan, a modern-day New Yorker who is called 'Mrs. Dalloway.' Cunningham's novel, published in 1998, won the Pulitzer Prize and was adapted into an Oscar-winning film (2002). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1479663379m/11899.jpg",
     numberOfPages: 397,
@@ -11412,7 +11412,7 @@ const books = [
     name: "Wallbanger",
     author: "Alice Clayton",
     description:
-      "One of Alice Clayton's best-known contemporary books, first published in 2012, it has become a favorite among readers of the genre.",
+      "Caroline, a graphic designer, is kept awake by her neighbor, Simon, who has loud sex (the 'wallbanging'). They become friends. They fall in love. Clayton's novel, published in 2012, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Contemporary",
     coverPage: "https://images.gr-assets.com/books/1352205960m/15858248.jpg",
     numberOfPages: 351,
@@ -11424,7 +11424,7 @@ const books = [
     name: "Holidays on Ice",
     author: "David Sedaris",
     description:
-      "A popular humor title by David Sedaris, since 1997, it has been praised for its storytelling and lasting appeal.",
+      "Sedaris's second collection of humorous essays, published in 1997. Includes 'SantaLand Diaries' (about his job as a Macy's elf), 'Dinah, the Christmas Whore' (about his sister), and 'The Season's Greetings to Our Friends and Family' (a fake Christmas letter). Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Humor",
     coverPage: "https://images.gr-assets.com/books/1328330843m/4136.jpg",
     numberOfPages: 280,
@@ -11436,7 +11436,7 @@ const books = [
     name: "Desperation",
     author: "Stephen King",
     description:
-      "A celebrated work of fiction from Stephen King, published in 1996, it continues to be discussed and recommended by readers.",
+      "A cop pulls over a family in the Nevada desert. He is possessed by a demon named Tak. The family is taken to the town of Desperation. They escape. King's novel, published in 1996, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1395764566m/10584.jpg",
     numberOfPages: 628,
@@ -11448,7 +11448,7 @@ const books = [
     name: "Passion",
     author: "Lauren Kate",
     description:
-      "One of Lauren Kate's best-known young adult books, since its release in 2011, it has earned a large readership worldwide.",
+      "The third book of the Fallen series. Luce travels back in time to witness her past lives with Daniel. Kate's novel, published in 2011, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1362339802m/9369720.jpg",
     numberOfPages: 526,
@@ -11460,7 +11460,7 @@ const books = [
     name: "The Kill Order",
     author: "James Dashner",
     description:
-      "A popular young adult title by James Dashner, since its release in 2012, it has earned a large readership worldwide.",
+      "A prequel to The Maze Runner series. The novel follows Mark and Trina before the Maze, as the sun flares destroy the Earth. Dashner's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1330636153m/13089710.jpg",
     numberOfPages: 564,
@@ -11472,7 +11472,7 @@ const books = [
     name: "Angelfall",
     author: "Susan Ee",
     description:
-      "An acclaimed fantasy book written by Susan Ee, since 2011, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Penryn & the End of Days series. Penryn, a teenager, lives in a post-apocalyptic world where angels have destroyed civilization. She tries to save her sister. Ee's novel, published in 2011, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1423238576m/11500217.jpg",
     numberOfPages: 363,
@@ -11484,7 +11484,7 @@ const books = [
     name: "Empire Falls",
     author: "Richard Russo",
     description:
-      "A popular fiction title by Richard Russo, published in 2001, it continues to be discussed and recommended by readers.",
+      "Miles Roby, a middle-aged man, runs a diner in the declining town of Empire Falls, Maine. He is trapped by his past. Russo's novel, published in 2001, won the Pulitzer Prize and was adapted into an HBO miniseries (2005). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1403184884m/187020.jpg",
     numberOfPages: 666,
@@ -11496,7 +11496,7 @@ const books = [
     name: "The Fires of Heaven",
     author: "Robert Jordan",
     description:
-      "One of Robert Jordan's best-known fantasy books, since its release in 1993, it has earned a large readership worldwide.",
+      "The fifth book of The Wheel of Time series. Rand al'Thor, the Dragon Reborn, fights the Shaido Aiel. His friend, Mat, is killed and revived. Jordan's novel, published in 1993, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327866286m/13895.jpg",
     numberOfPages: 613,
@@ -11508,7 +11508,7 @@ const books = [
     name: "I'll Give You the Sun",
     author: "Jandy Nelson",
     description:
-      "One of Jandy Nelson's best-known young adult books, released in 2014, it remains a frequently recommended read in its category.",
+      "Jude and Noah, twin siblings, are close as children. They grow apart as teenagers. The novel follows their perspectives: Noah at 13, Jude at 16. Nelson's novel, published in 2014, won the Printz Award. Since its release, it remains a frequently recommended read in its category.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1496659336m/20820994.jpg",
     numberOfPages: 600,
@@ -11520,7 +11520,7 @@ const books = [
     name: "Survivor",
     author: "Chuck Palahniuk",
     description:
-      "A celebrated work of fiction from Chuck Palahniuk, released in 1999, it remains a frequently recommended read in its category.",
+      "Tender Branson, the last surviving member of a suicide cult, hijacks a plane. He tells his life story to the black box recorder. Palahniuk's novel, published in 1999, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1327346693m/22283.jpg",
     numberOfPages: 697,
@@ -11532,7 +11532,7 @@ const books = [
     name: "Shopaholic & Baby",
     author: "Sophie Kinsella",
     description:
-      "One of Sophie Kinsella's best-known fiction books, published in 2007, it continues to be discussed and recommended by readers.",
+      "The fifth book of the Shopaholic series. Becky Bloomwood is pregnant. She hires a celebrity obstetrician who turns out to be her husband's ex-girlfriend. Kinsella's novel, published in 2007, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Shopaholic+&+Baby",
@@ -11545,7 +11545,7 @@ const books = [
     name: "The Dark Tower",
     author: "Stephen King",
     description:
-      "One of Stephen King's best-known fantasy books, since its release in 2004, it has earned a large readership worldwide.",
+      "The seventh and final book of the Dark Tower series. Roland and his ka-tet reach the Dark Tower. The book ends with Roland entering the Tower, only to be sent back to the beginning of his journey (the desert of the first book). King's novel, published in 2004, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1372296329m/5091.jpg",
     numberOfPages: 275,
@@ -11554,10 +11554,10 @@ const books = [
   },
   {
     id: 954,
-    name: "Twilight Director's Notebook : The Story of How We Made the Movie Based on the Novel by Stephenie Meyer",
+    name: "Twilight Director's Notebook: The Story of How We Made the Movie Based on the Novel by Stephenie Meyer",
     author: "Catherine Hardwicke",
     description:
-      "A celebrated work of non-fiction from Catherine Hardwicke, first published in 2009, it has become a favorite among readers of the genre.",
+      "Hardwicke's behind-the-scenes account of the making of the 2008 film Twilight. She describes casting, location scouting, set design, and filming. The book, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Twilight+Director's+Notebook+:+The+Story+of+How+We+Made+the+Movie+Based+on+the+Novel+by+Stephenie+Meyer",
@@ -11570,7 +11570,7 @@ const books = [
     name: "Shopaholic Takes Manhattan",
     author: "Sophie Kinsella",
     description:
-      "A popular fiction title by Sophie Kinsella, published in 2001, it continues to be discussed and recommended by readers.",
+      "The second book of the Shopaholic series. Becky Bloomwood moves to New York City with her boyfriend, Luke. She continues to spend money she doesn't have. Kinsella's novel, published in 2001, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1266449959m/9418.jpg",
     numberOfPages: 179,
@@ -11582,7 +11582,7 @@ const books = [
     name: "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
     author: "Richard Feynman",
     description:
-      "A celebrated work of science from Richard Feynman, since its release in 1984, it has earned a large readership worldwide.",
+      "A collection of anecdotes from the life of physicist Richard Feynman. He describes his work on the Manhattan Project, his safecracking hobby, his interest in art, and his experiences in Brazil. The book, published in 1984, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Science",
     coverPage: "https://images.gr-assets.com/books/1348445281m/5544.jpg",
     numberOfPages: 468,
@@ -11594,7 +11594,7 @@ const books = [
     name: "Linger",
     author: "Maggie Stiefvater",
     description:
-      "A widely read fantasy work by Maggie Stiefvater, published in 2010, it continues to be discussed and recommended by readers.",
+      "The second book of the Wolves of Mercy Falls trilogy. Grace and Sam are in love. Grace is bitten by a wolf and begins to transform. Stiefvater's novel, published in 2010, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1292482391m/6654313.jpg",
     numberOfPages: 238,
@@ -11606,7 +11606,7 @@ const books = [
     name: "The Complete Anne of Green Gables Boxed Set (Anne of Green Gables, #1-8)",
     author: "L.M. Montgomery",
     description:
-      "One of L.M. Montgomery's best-known young adult books, since its release in 1908, it has earned a large readership worldwide.",
+      "A boxed set of all eight Anne of Green Gables novels: Anne of Green Gables, Anne of Avonlea, Anne of the Island, Anne of Windy Poplars, Anne's House of Dreams, Anne of Ingleside, Rainbow Valley, and Rilla of Ingleside. The series follows Anne Shirley from childhood to motherhood. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1267721500m/3579.jpg",
     numberOfPages: 478,
@@ -11618,7 +11618,7 @@ const books = [
     name: "A Portrait of the Artist as a Young Man",
     author: "James Joyce, Seamus Deane",
     description:
-      "One of James Joyce, Seamus Deane's best-known classics books, first published in 1916, it has become a favorite among readers of the genre.",
+      "The novel follows Stephen Dedalus, a young Irishman, from childhood to adulthood. He rejects his family, his religion, and his country. He becomes an artist. Joyce's novel, published in 1916, is a classic of modernist literature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=A+Portrait+of+the+Artist+as+a+Young+Man",
@@ -11631,7 +11631,7 @@ const books = [
     name: "The Gathering Storm",
     author: "Robert Jordan, Brandon Sanderson",
     description:
-      "A celebrated work of fantasy from Robert Jordan, Brandon Sanderson, released in 2009, it remains a frequently recommended read in its category.",
+      "The twelfth book of The Wheel of Time series (the first written by Sanderson after Jordan's death). Rand al'Thor, the Dragon Reborn, descends into madness. Egwene al'Vere becomes the Amyrlin Seat (the leader of the Aes Sedai). Sanderson's novel, published in 2009, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Fantasy",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Gathering+Storm",
@@ -11644,7 +11644,7 @@ const books = [
     name: "Middlemarch",
     author: "George Eliot, Michel Faber",
     description:
-      "A popular classics title by George Eliot, Michel Faber, since its release in 1871, it has earned a large readership worldwide.",
+      "The novel follows the lives of the residents of Middlemarch, a fictional English town, in the 1830s. Dorothea Brooke, a wealthy young woman, marries a scholar. She falls in love with her husband's nephew. Eliot's novel, published in 1871, is considered one of the greatest novels in English. Since its release, it has earned a large readership worldwide.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1481264628m/19089.jpg",
     numberOfPages: 217,
@@ -11656,7 +11656,7 @@ const books = [
     name: "Point of Retreat",
     author: "Colleen Hoover",
     description:
-      "A popular romance title by Colleen Hoover, first published in 2012, it has become a favorite among readers of the genre.",
+      "The second book of the Slammed series. Layken and Will are in love. They face family tragedies. Hoover's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1330543249m/13496084.jpg",
     numberOfPages: 381,
@@ -11668,7 +11668,7 @@ const books = [
     name: "The Partner",
     author: "John Grisham",
     description:
-      "A popular fiction title by John Grisham, since its release in 1997, it has earned a large readership worldwide.",
+      "Patrick Lanigan, a lawyer, fakes his death and steals $90 million. He is found, arrested, and tried. He is acquitted. Grisham's novel, published in 1997, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Partner",
     numberOfPages: 558,
@@ -11680,7 +11680,7 @@ const books = [
     name: "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
     author: "J.R.R. Tolkien",
     description:
-      "A popular fiction title by J.R.R. Tolkien, released in 1973, it remains a frequently recommended read in its category.",
+      "A boxed set containing The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, The Return of the King). The set includes maps and appendices. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1346072396m/30.jpg",
     numberOfPages: 563,
@@ -11692,7 +11692,7 @@ const books = [
     name: "Thoughtless",
     author: "S.C. Stephens",
     description:
-      "An acclaimed romance book written by S.C. Stephens, since its release in 2009, it has earned a large readership worldwide.",
+      "The first book of the Thoughtless series. Kiera, a young woman, moves to Seattle with her boyfriend. She falls in love with Kellan, a musician. Stephens's novel, published in 2009, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1331254339m/13517535.jpg",
     numberOfPages: 433,
@@ -11704,7 +11704,7 @@ const books = [
     name: "Presumed Innocent",
     author: "Scott Turow",
     description:
-      "One of Scott Turow's best-known mystery books, first published in 1986, it has become a favorite among readers of the genre.",
+      "Rusty Sabich, a prosecutor, is accused of murdering his colleague, with whom he had an affair. He is acquitted. He discovers that his wife committed the murder. Turow's novel, published in 1986, was a bestseller and adapted into a film (1990). Since its release, it has become a favorite among readers of the genre.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1404412704m/425029.jpg",
     numberOfPages: 525,
@@ -11716,7 +11716,7 @@ const books = [
     name: "The Dark Half",
     author: "Stephen King",
     description:
-      "A popular fiction title by Stephen King, published in 1989, it continues to be discussed and recommended by readers.",
+      "Thad Beaumont, a writer, kills his pseudonym, George Stark. Stark comes to life and kills people. King's novel, published in 1989, was adapted into a film (1993). Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1430122353m/11597.jpg",
     numberOfPages: 175,
@@ -11728,7 +11728,7 @@ const books = [
     name: "Cleopatra: A Life",
     author: "Stacy Schiff",
     description:
-      "An acclaimed biography book written by Stacy Schiff, since its release in 2006, it has earned a large readership worldwide.",
+      "Schiff's biography of Cleopatra, the last pharaoh of Egypt. She argues that Cleopatra was a brilliant politician, not just a seductress. The book, published in 2010, won the Pulitzer Prize. Since its release, it has become a favorite among readers of the genre.",
     genre: "Biography",
     coverPage: "https://images.gr-assets.com/books/1294098301m/7968243.jpg",
     numberOfPages: 560,
@@ -11740,7 +11740,7 @@ const books = [
     name: "The World Is Flat: A Brief History of the Twenty-first Century",
     author: "Thomas L. Friedman",
     description:
-      "A popular non-fiction title by Thomas L. Friedman, first published in 2005, it has become a favorite among readers of the genre.",
+      "Friedman's non-fiction book argues that globalization has 'flattened' the world, leveling the playing field for individuals and companies. He identifies ten 'flatteners,' including the fall of the Berlin Wall, the rise of the internet, and outsourcing. The book, published in 2005, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+World+Is+Flat:+A+Brief+History+of+the+Twenty-first+Century",
@@ -11753,7 +11753,7 @@ const books = [
     name: "Steelheart",
     author: "Brandon Sanderson",
     description:
-      "A popular fantasy title by Brandon Sanderson, first published in 2013, it has become a favorite among readers of the genre.",
+      "The first book of the Reckoners series. Ten years ago, an event gave ordinary people superpowers. They became Epics—tyrants who rule the world. David Charleston, a teenager, joins the Reckoners, a resistance group. Sanderson's novel, published in 2013, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1357576738m/17182126.jpg",
     numberOfPages: 427,
@@ -11765,7 +11765,7 @@ const books = [
     name: "The Rainbow Fish",
     author: "Marcus Pfister, J. Alison James",
     description:
-      "A celebrated work of children from Marcus Pfister, J. Alison James, since its release in 1995, it has earned a large readership worldwide.",
+      "The Rainbow Fish, the most beautiful fish in the ocean, is lonely. He refuses to share his shiny scales. He learns to share and makes friends. Pfister's book, published in 1995, has sold over 30 million copies. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage: "https://images.gr-assets.com/books/1328755881m/766020.jpg",
     numberOfPages: 191,
@@ -11777,7 +11777,7 @@ const books = [
     name: "Journey to the Center of the Earth",
     author: "Jules Verne",
     description:
-      "An acclaimed classics book written by Jules Verne, first published in 1864, it has become a favorite among readers of the genre.",
+      "Professor Otto Lidenbrock, his nephew Axel, and a guide descend into an extinct volcano in Iceland. They travel through tunnels and caverns, encountering prehistoric animals. They return to the surface. Verne's novel, published in 1864, is a classic of science fiction. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Journey+to+the+Center+of+the+Earth",
@@ -11790,7 +11790,7 @@ const books = [
     name: "The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun",
     author: "Gretchen Rubin",
     description:
-      "An acclaimed non-fiction book written by Gretchen Rubin, since its release in 2009, it has earned a large readership worldwide.",
+      "Rubin's memoir of her year-long project to become happier. She set resolutions for each month: boost energy (January), remember love (February), aim higher (March), lighten up (April), etc. The book, published in 2009, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1256849491m/6398634.jpg",
     numberOfPages: 460,
@@ -11802,7 +11802,7 @@ const books = [
     name: "The Man in the High Castle",
     author: "Philip K. Dick",
     description:
-      "One of Philip K. Dick's best-known science fiction books, published in 1962, it continues to be discussed and recommended by readers.",
+      "A dystopian novel set in an alternate 1962 where the Axis powers won World War II. The United States is divided into three parts: the Pacific States (controlled by Japan), the Rocky Mountain States (a buffer zone), and the Greater Nazi Reich (controlled by Germany). Dick's novel, published in 1962, won the Hugo Award and was adapted into a TV series (2015-2019). Since its release, it has become a favorite among readers of the genre.",
     genre: "Science Fiction",
     coverPage: "https://images.gr-assets.com/books/1448756803m/216363.jpg",
     numberOfPages: 190,
@@ -11814,7 +11814,7 @@ const books = [
     name: "Helter Skelter: The True Story of the Manson Murders",
     author: "Vincent Bugliosi, Curt Gentry",
     description:
-      "A celebrated work of non-fiction from Vincent Bugliosi, Curt Gentry, released in 1974, it remains a frequently recommended read in its category.",
+      "Bugliosi's account of the 1969 Manson murders, which he prosecuted. He describes the investigation, the trial, and Charles Manson's cult. The book, published in 1974, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Helter+Skelter:+The+True+Story+of+the+Manson+Murders",
@@ -11827,7 +11827,7 @@ const books = [
     name: "Dr. Seuss's Green Eggs and Ham: For Soprano, Boy Soprano, and Orchestra",
     author: "Robert Kapilow, Dr. Seuss",
     description:
-      "A celebrated work of children from Robert Kapilow, Dr. Seuss, since its release in 2000, it has earned a large readership worldwide.",
+      "A musical adaptation of Dr. Seuss's Green Eggs and Ham. The book includes the lyrics and musical notation. Kapilow's adaptation, published in 2000, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Dr.+Seuss's+Green+Eggs+and+Ham:+For+Soprano,+Boy+Soprano,+and+Orchestra",
@@ -11840,7 +11840,7 @@ const books = [
     name: "Inferno",
     author: "Dante Alighieri, Anthony M. Esolen",
     description:
-      "An acclaimed classics book written by Dante Alighieri, Anthony M. Esolen, since 1320, it has been praised for its storytelling and lasting appeal.",
+      "The first part of Dante's Divine Comedy. Dante, guided by the poet Virgil, travels through the nine circles of Hell. He sees sinners being punished for lust, gluttony, greed, heresy, violence, fraud, and treachery. He climbs out of Hell on Satan's back. Dante's poem, written in the early 1300s, is a classic of world literature. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1333579470m/15645.jpg",
     numberOfPages: 410,
@@ -11852,7 +11852,7 @@ const books = [
     name: "Shadow of Night",
     author: "Deborah Harkness",
     description:
-      "An acclaimed fiction book written by Deborah Harkness, since 2012, it has been praised for its storytelling and lasting appeal.",
+      "The second book of the All Souls trilogy. Diana and Matthew travel to Elizabethan England to find a witch who can teach Diana to control her powers. Harkness's novel, published in 2012, was a bestseller. Since its release, it has been praised for its storytelling and lasting appeal.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1320604137m/11559200.jpg",
     numberOfPages: 507,
@@ -11864,7 +11864,7 @@ const books = [
     name: "Leaving Time",
     author: "Jodi Picoult",
     description:
-      "A widely read fiction work by Jodi Picoult, first published in 2014, it has become a favorite among readers of the genre.",
+      "Jenna Metcalf, a teenager, is searching for her mother, Alice, who disappeared a decade ago. She is helped by a psychic and a detective. Picoult's novel, published in 2014, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1394487223m/18816603.jpg",
     numberOfPages: 443,
@@ -11876,7 +11876,7 @@ const books = [
     name: "Moon Called",
     author: "Patricia Briggs",
     description:
-      "A widely read fantasy work by Patricia Briggs, since 2006, it has been praised for its storytelling and lasting appeal.",
+      "The first book of the Mercy Thompson series. Mercy Thompson, a mechanic and a shapeshifter (coyote), is drawn into a war between werewolves and vampires. Briggs's novel, published in 2006, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1272070347m/71811.jpg",
     numberOfPages: 198,
@@ -11888,7 +11888,7 @@ const books = [
     name: "Blue Bloods",
     author: "Melissa de la Cruz",
     description:
-      "One of Melissa de la Cruz's best-known young adult books, first published in 2006, it has become a favorite among readers of the genre.",
+      "The first book of the Blue Bloods series. Schuyler Van Alen, a teenager in New York City, discovers she is a vampire (a 'Blue Blood'). She must stop a vampire killer. De la Cruz's novel, published in 2006, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1322281515m/872333.jpg",
     numberOfPages: 188,
@@ -11900,7 +11900,7 @@ const books = [
     name: "The Alienist",
     author: "Caleb Carr",
     description:
-      "A popular mystery title by Caleb Carr, since its release in 1994, it has earned a large readership worldwide.",
+      "In 1896 New York City, a psychologist (an 'alienist'), a newspaper reporter, and two police detectives hunt a serial killer who is murdering boy prostitutes. Carr's novel, published in 1994, was a bestseller and adapted into a TV series (2018). Since its release, it has earned a large readership worldwide.",
     genre: "Mystery",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=The+Alienist",
     numberOfPages: 503,
@@ -11912,7 +11912,7 @@ const books = [
     name: "Between the World and Me",
     author: "Ta-Nehisi Coates",
     description:
-      "A widely read non-fiction work by Ta-Nehisi Coates, published in 2015, it continues to be discussed and recommended by readers.",
+      "Coates's letter to his teenage son about being black in America. He writes about the death of a friend, the history of police violence, and the meaning of hope. The book, published in 2015, won the National Book Award. Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1451435027m/25489625.jpg",
     numberOfPages: 553,
@@ -11922,9 +11922,9 @@ const books = [
   {
     id: 984,
     name: "Paradise Lost",
-    author: "John Milton, John      Leonard",
+    author: "John Milton, John Leonard",
     description:
-      "A celebrated work of classics from John Milton, John      Leonard, since its release in 1667, it has earned a large readership worldwide.",
+      "An epic poem about the fall of Satan and the fall of Adam and Eve. Satan, cast out of Heaven, plots revenge. He tempts Eve to eat the forbidden fruit. Adam eats too. They are cast out of the Garden of Eden. Milton's poem, published in 1667, is a classic of English literature. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage: "https://images.gr-assets.com/books/1455618673m/15997.jpg",
     numberOfPages: 437,
@@ -11934,9 +11934,9 @@ const books = [
   {
     id: 985,
     name: "The Big Short: Inside the Doomsday Machine",
-    author: "Michael   Lewis",
+    author: "Michael Lewis",
     description:
-      "A celebrated work of non-fiction from Michael   Lewis, first published in 2009, it has become a favorite among readers of the genre.",
+      "Lewis's non-fiction book about the 2008 financial crisis. He follows a group of investors who predicted the housing bubble and bet against it ('shorted' it). The book, published in 2009, was adapted into an Oscar-winning film (2015). Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage: "https://images.gr-assets.com/books/1453470736m/6463967.jpg",
     numberOfPages: 507,
@@ -11948,7 +11948,7 @@ const books = [
     name: "The Girl Who Loved Tom Gordon",
     author: "Stephen King",
     description:
-      "An acclaimed horror book written by Stephen King, published in 1999, it continues to be discussed and recommended by readers.",
+      "Trisha McFarland, a nine-year-old girl, gets lost in the woods while hiking with her mother and brother. She survives for nine days. She is guided by her imagination of her hero, Red Sox pitcher Tom Gordon. King's novel, published in 1999, was a bestseller. Since its release, it remains a frequently recommended read in its category.",
     genre: "Horror",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Girl+Who+Loved+Tom+Gordon",
@@ -11961,7 +11961,7 @@ const books = [
     name: "A Monster Calls",
     author: "Patrick Ness, Jim Kay, Siobhan Dowd",
     description:
-      "A celebrated work of fantasy from Patrick Ness, Jim Kay, Siobhan Dowd, published in 2011, it continues to be discussed and recommended by readers.",
+      "Conor O'Malley, a 13-year-old boy, is visited by a monster. The monster tells him three stories. In return, Conor must tell the fourth story: the truth about his nightmare—his mother is dying of cancer. Ness's novel, published in 2011, was adapted into a film (2016). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1485991317m/8621462.jpg",
     numberOfPages: 670,
@@ -11973,7 +11973,7 @@ const books = [
     name: "Towers of Midnight",
     author: "Robert Jordan, Brandon Sanderson",
     description:
-      "A widely read fantasy work by Robert Jordan, Brandon Sanderson, since its release in 2010, it has earned a large readership worldwide.",
+      "The thirteenth book of The Wheel of Time series. Rand al'Thor, the Dragon Reborn, tries to break the seals on the Dark One's prison. Perrin Aybara forges a new hammer. Mat Cauthon meets the Snake and the Fox. Sanderson's novel, published in 2010, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1358109459m/8253920.jpg",
     numberOfPages: 588,
@@ -11985,7 +11985,7 @@ const books = [
     name: "The Day of the Jackal",
     author: "Frederick Forsyth",
     description:
-      "A celebrated work of fiction from Frederick Forsyth, since its release in 1971, it has earned a large readership worldwide.",
+      "A professional assassin, the Jackal, is hired to kill French President Charles de Gaulle. The French police try to stop him. Forsyth's novel, published in 1971, was a bestseller and adapted into a film (1973). Since its release, it has earned a large readership worldwide.",
     genre: "Fiction",
     coverPage: "https://images.gr-assets.com/books/1405364996m/540020.jpg",
     numberOfPages: 651,
@@ -11997,7 +11997,7 @@ const books = [
     name: "Rework",
     author: "Jason Fried, David Heinemeier Hansson",
     description:
-      "One of Jason Fried, David Heinemeier Hansson's best-known business books, first published in 2010, it has become a favorite among readers of the genre.",
+      "Fried and Hansson's business book argues for a minimalist, anti-hustle approach to entrepreneurship. They advocate for working fewer hours, ignoring competitors, and avoiding investors. The book, published in 2010, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Business",
     coverPage: "https://placehold.co/400x600/333333/ffffff?text=Rework",
     numberOfPages: 722,
@@ -12009,7 +12009,7 @@ const books = [
     name: "Attachments",
     author: "Rainbow Rowell",
     description:
-      "A popular romance title by Rainbow Rowell, since its release in 2011, it has earned a large readership worldwide.",
+      "Lincoln, an IT guy in a newspaper office, is assigned to monitor employee email. He reads the emails between Beth and Jennifer, two friends. He falls in love with Beth. Rowell's novel, published in 2011, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Romance",
     coverPage: "https://images.gr-assets.com/books/1499377988m/8909152.jpg",
     numberOfPages: 709,
@@ -12021,7 +12021,7 @@ const books = [
     name: "The Twilight Saga (Twilight, #1-4)",
     author: "Stephenie Meyer, Ilyana Kadushin, Matt Walters",
     description:
-      "One of Stephenie Meyer, Ilyana Kadushin, Matt Walters's best-known fantasy books, since its release in 2005, it has earned a large readership worldwide.",
+      "A boxed set of the four Twilight novels: Twilight, New Moon, Eclipse, and Breaking Dawn. The series follows Bella Swan, a human who falls in love with Edward Cullen, a vampire. Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1327930511m/3090465.jpg",
     numberOfPages: 706,
@@ -12033,7 +12033,7 @@ const books = [
     name: "Tell the Wolves I'm Home",
     author: "Carol Rifka Brunt",
     description:
-      "A popular young adult title by Carol Rifka Brunt, since its release in 2012, it has earned a large readership worldwide.",
+      "June Elbus, a 14-year-old girl, is grieving the death of her uncle, Finn, who died of AIDS in 1987. She befriends Toby, Finn's partner. Her mother hates Toby. Brunt's novel, published in 2012, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1335450415m/12875258.jpg",
     numberOfPages: 210,
@@ -12045,7 +12045,7 @@ const books = [
     name: "All Creatures Great and Small (All Creatures Great and Small, #1-2)",
     author: "James Herriot",
     description:
-      "One of James Herriot's best-known non-fiction books, released in 1972, it remains a frequently recommended read in its category.",
+      "Herriot's memoir of his life as a veterinarian in the Yorkshire Dales. He treats farm animals, pets, and eccentric farmers. The book, published in 1972, was a bestseller and adapted into a TV series (1978-1990) and a reboot (2020-present). Since its release, it has become a favorite among readers of the genre.",
     genre: "Non-Fiction",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=All+Creatures+Great+and+Small+(All+Creatures+Great+and+Small,+#1-2)",
@@ -12058,7 +12058,7 @@ const books = [
     name: "The Unbecoming of Mara Dyer",
     author: "Michelle Hodkin",
     description:
-      "An acclaimed young adult book written by Michelle Hodkin, first published in 2011, it has become a favorite among readers of the genre.",
+      "The first book of the Mara Dyer trilogy. Mara Dyer wakes up in a hospital with no memory of how she got there. Her friends are dead. She sees their ghosts. Hodkin's novel, published in 2011, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Young Adult",
     coverPage: "https://images.gr-assets.com/books/1336655755m/11408650.jpg",
     numberOfPages: 356,
@@ -12070,7 +12070,7 @@ const books = [
     name: "Three to Get Deadly",
     author: "Janet Evanovich",
     description:
-      "A popular mystery title by Janet Evanovich, since its release in 1997, it has earned a large readership worldwide.",
+      "The third book of the Stephanie Plum series. Stephanie is hunting for a candy store owner who skipped bail. She is also being stalked by a man in a bunny suit. Evanovich's novel, published in 1997, was a bestseller. Since its release, it continues to be discussed and recommended by readers.",
     genre: "Mystery",
     coverPage: "https://images.gr-assets.com/books/1311727539m/6854.jpg",
     numberOfPages: 289,
@@ -12082,7 +12082,7 @@ const books = [
     name: "The Scarlet Pimpernel",
     author: "Emmuska Orczy",
     description:
-      "An acclaimed classics book written by Emmuska Orczy, published in 1905, it continues to be discussed and recommended by readers.",
+      "The first book of the Scarlet Pimpernel series. The Scarlet Pimpernel, a mysterious Englishman, rescues French aristocrats from the guillotine. He is hunted by the French agent, Chauvelin. Orczy's novel, published in 1905, was a bestseller. Since its release, it has become a favorite among readers of the genre.",
     genre: "Classics",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Scarlet+Pimpernel",
@@ -12095,7 +12095,7 @@ const books = [
     name: "The Monster at the End of this Book",
     author: "Jon Stone, Michael J. Smollin",
     description:
-      "One of Jon Stone, Michael J. Smollin's best-known children books, first published in 1971, it has become a favorite among readers of the genre.",
+      "Grover, a character from Sesame Street, begs the reader not to turn the pages. There is a monster at the end of the book. The reader turns the pages. The monster is Grover himself. Stone's book, published in 1971, has sold over 10 million copies. Since its release, it has become a favorite among readers of the genre.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=The+Monster+at+the+End+of+this+Book",
@@ -12108,7 +12108,7 @@ const books = [
     name: "Tales of a Fourth Grade Nothing",
     author: "Judy Blume",
     description:
-      "An acclaimed children book written by Judy Blume, since its release in 1972, it has earned a large readership worldwide.",
+      "The first book of the Fudge series. Peter Hatcher, a fourth grader, is annoyed by his younger brother, Fudge, who is a troublemaker. Blume's novel, published in 1972, was a bestseller. Since its release, it has earned a large readership worldwide.",
     genre: "Children",
     coverPage:
       "https://placehold.co/400x600/333333/ffffff?text=Tales+of+a+Fourth+Grade+Nothing",
@@ -12121,7 +12121,7 @@ const books = [
     name: "Shadow and Bone",
     author: "Leigh Bardugo",
     description:
-      "A popular fantasy title by Leigh Bardugo, since its release in 2012, it has earned a large readership worldwide.",
+      "The first book of the Grisha trilogy. Alina Starkov, a teenage orphan, discovers that she is a Sun Summoner, a Grisha (magic user) with the power to call light. She is trained to fight the Shadow Fold, a dark realm that divides her country. Bardugo's novel, published in 2012, was a bestseller and adapted into a Netflix series (2021). Since its release, it has become a favorite among readers of the genre.",
     genre: "Fantasy",
     coverPage: "https://images.gr-assets.com/books/1339533695m/10194157.jpg",
     numberOfPages: 295,
