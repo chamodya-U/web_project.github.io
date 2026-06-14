@@ -26,31 +26,24 @@ if (similarBookContainer) {
     language.innerHTML = `Language <b>${book.language}</b>`;
   }
 
-  books.forEach((obj) => {
-    let name = obj.name;
-    let coverPage = obj.coverPage;
-    let index = obj.id;
-
-    //generating boook divs
-    if (index !== id) {
-      let img = document.createElement("img");
-      let card = document.createElement("div");
-      let title = document.createElement("p");
-      let link = document.createElement("a");
-      img.src = `${coverPage}`;
-      img.className = "card-img";
-      link.href = `book.html?id=${index}`;
-      title.className = "card-title";
-      card.className = "res_book";
-      card.id = `img-div-${index}`;
-      title.innerText = `${name}`;
-      link.appendChild(img);
-      link.appendChild(title);
-      card.appendChild(link);
-      similarBookContainer.appendChild(card);
+  books.forEach(function (item) {
+    if (item.genre === book.genre && id !== item.id) {
+    let ndiv = document.createElement("div");
+    ndiv.className = "res_book";
+    ndiv.innerHTML = `<a href='book.html?id=${item.id}'>
+      <div class="res_img_con">
+        <img src='${item.coverPage}' alt='${item.name}'>
+      </div>
+      <div class="res_book_name">
+        <h3>${item.name}</h3>
+        <p style="color: gray">by ${item.author}</p>
+        <p style="background-color: rgb(200,200,200);padding:4px;border-radius:2px;display:flex;justify-content:center;align-items:center;width:120px;">${item.genre}</p>
+      </div>
+      </a>`;
+  similarBookContainer.appendChild(ndiv);}
     }
-  });
-}
+  );
+};
 
 const imgcards = document.querySelectorAll(".book-card");
 

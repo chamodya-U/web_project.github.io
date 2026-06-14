@@ -164,8 +164,7 @@
         res_count.textContent = `Showing ${count} results :`;
       };
       const params = new URLSearchParams(window.location.search);
-      const genre = params.get("genre");
-      console.log(genre);
+      const genre = (params.get("genre"))?params.get("genre"):"all";
       document.getElementById("genre-select").value = genre;
       search(genre);
       

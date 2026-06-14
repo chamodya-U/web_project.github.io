@@ -301,6 +301,7 @@ select:focus {
 }
 
 .res_book_name {
+  color:black;
   margin-top: 10px;
   width: 100%;
 }
