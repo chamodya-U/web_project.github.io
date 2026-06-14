@@ -914,4 +914,8 @@ button.signup-submit:hover {
   .foot1 img {
     max-width: 115px;
   }
+
+  #banner_dis h1 {
+    margin-bottom: 30px;
+  }
 }
