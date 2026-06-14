@@ -1,5 +1,6 @@
 import books from "./database.js";
 
+//for book.html
 const params = new URLSearchParams(window.location.search);
 const id = parseInt(params.get("id"));
 
@@ -25,13 +26,13 @@ if (similarBookContainer) {
     published.innerHTML = `published <b>${book.publishDate}</b>`;
     language.innerHTML = `Language <b>${book.language}</b>`;
   }
-  document.getElementById("selected_book_genre").textContent=book.genre;
+  document.getElementById("selected_book_genre").textContent = book.genre;
 
   books.forEach(function (item) {
     if (item.genre === book.genre && id !== item.id) {
-    let ndiv = document.createElement("div");
-    ndiv.className = "res_book";
-    ndiv.innerHTML = `<a href='book.html?id=${item.id}'>
+      let ndiv = document.createElement("div");
+      ndiv.className = "res_book";
+      ndiv.innerHTML = `<a href='book.html?id=${item.id}'>
       <div class="res_img_con">
         <img src='${item.coverPage}' alt='${item.name}'>
       </div>
@@ -41,10 +42,10 @@ if (similarBookContainer) {
         <p style="background-color: rgb(200,200,200);padding:4px;border-radius:2px;display:flex;justify-content:center;align-items:center;width:120px;">${item.genre}</p>
       </div>
       </a>`;
-  similarBookContainer.appendChild(ndiv);}
+      similarBookContainer.appendChild(ndiv);
     }
-  );
-};
+  });
+}
 
 const imgcards = document.querySelectorAll(".book-card");
 
@@ -61,6 +62,11 @@ imgcards.forEach((card) => {
     published.innerHTML = `published <b>${obj.publishDate}</b>`;
     language.innerHTML = `Language <b>${obj.language}</b>`;
   });
+});
+
+//for barrow btn
+document.getElementById("barrow-btn").addEventListener("click", () => {
+  alert("You have barrowed this book successfully!");
 });
 
 //for index
@@ -107,42 +113,48 @@ let collectionArray = [
   ["Dystopian", "https://images.gr-assets.com/books/1349614200m/13453029.jpg"],
   ["Paranormal", "https://images.gr-assets.com/books/1388773547m/42900.jpg"],
 ];
-if(document.getElementById("box-container-1") && document.getElementById("box-container-2")){
+if (
+  document.getElementById("box-container-1") &&
+  document.getElementById("box-container-2")
+) {
   const boxes = document.getElementById("box-container-1").children;
   const boxesDub = document.getElementById("box-container-2").children;
 
-collectionArray.forEach((el, i) => {
-  let img = document.createElement("img");
-  let imgDub = document.createElement("img");
-  let genre = document.createElement("p");
-  let genreDub = document.createElement("p");
-  let redirectLink = document.createElement("a");
-  let redirectLinkDub = document.createElement("a");
+  collectionArray.forEach((el, i) => {
+    let img = document.createElement("img");
+    let imgDub = document.createElement("img");
+    let genre = document.createElement("p");
+    let genreDub = document.createElement("p");
+    let redirectLink = document.createElement("a");
+    let redirectLinkDub = document.createElement("a");
 
-  //properties
-  img.src = `${el[1]}`;
-  img.className = "collection-box-img";
-  imgDub.src = `${el[1]}`;
-  imgDub.className = "collection-box-img";
-  genre.innerText = `${el[0]}`;
-  genre.className = "collection-box-name";
-  genreDub.innerText = `${el[0]}`;
-  genreDub.className = "collection-box-name";
-  redirectLink.href =`catalog.html?genre=${el[0]}`;
-  redirectLinkDub.href =`catalog.html?genre=${el[0]}`;
+    //properties
+    img.src = `${el[1]}`;
+    img.className = "collection-box-img";
+    imgDub.src = `${el[1]}`;
+    imgDub.className = "collection-box-img";
+    genre.innerText = `${el[0]}`;
+    genre.className = "collection-box-name";
+    genreDub.innerText = `${el[0]}`;
+    genreDub.className = "collection-box-name";
+    redirectLink.href = `catalog.html?genre=${el[0]}`;
+    redirectLinkDub.href = `catalog.html?genre=${el[0]}`;
 
-  //apending
-  redirectLink.appendChild(img);
-  redirectLink.appendChild(genre);
-  redirectLinkDub.appendChild(imgDub);
-  redirectLinkDub.appendChild(genreDub);
-  boxes[i].appendChild(redirectLink);
-  boxesDub[i].appendChild(redirectLinkDub);
-});
+    //apending
+    redirectLink.appendChild(img);
+    redirectLink.appendChild(genre);
+    redirectLinkDub.appendChild(imgDub);
+    redirectLinkDub.appendChild(genreDub);
+    boxes[i].appendChild(redirectLink);
+    boxesDub[i].appendChild(redirectLinkDub);
+  });
 }
 
 //up,down arrows behaviour
-if(document.querySelector(".uparrow") && document.querySelector(".downarrow")){
+if (
+  document.querySelector(".uparrow") &&
+  document.querySelector(".downarrow")
+) {
   const arrowup = document.querySelector(".uparrow");
   const arrowdown = document.querySelector(".downarrow");
   arrowup.style.display = "none";
@@ -150,8 +162,8 @@ if(document.querySelector(".uparrow") && document.querySelector(".downarrow")){
   window.addEventListener("scroll", (e) => {
     arrowup.style.display = window.scrollY > 100 ? "block" : "none";
     arrowdown.style.display =
-      document.body.scrollHeight - window.scrollY < 1000 ||
-      window.scrollY < 100
+      document.body.scrollHeight - window.scrollY < 1000 || window.scrollY < 100
         ? "none"
         : "block";
-});}
+  });
+}
