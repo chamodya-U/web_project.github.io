@@ -134,8 +134,8 @@ collectionArray.forEach((el, i) => {
   genre.className = "collection-box-name";
   genreDub.innerText = `${el[0]}`;
   genreDub.className = "collection-box-name";
-  redirectLink.href = "#"; //`catalog.html?genre=${el[0]}`;
-  redirectLinkDub.href = "#"; //`catalog.html?genre=${el[0]}`;
+  redirectLink.href =`catalog.html?genre=${el[0]}`;
+  redirectLinkDub.href =`catalog.html?genre=${el[0]}`;
 
   //apending
   redirectLink.appendChild(img);

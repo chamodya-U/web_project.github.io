@@ -30,7 +30,7 @@
         <h1 style="color: white">Search for books</h1>
         <div style="margin-bottom: 20px; display: flex; z-index: 1">
           <div>
-            <select onchange="search()" style="height: 40px">
+            <select id="genre-select" name="genre" onchange="search(this.value)" style="height: 40px">
               <option value="all">All</option>
               <option value="Biography">Biography</option>
               <option value="Business">Business</option>
@@ -67,7 +67,7 @@
             type="text"
             name="bookname"
             id="search"
-            placeholder="enter the name of the book"
+            placeholder="Search by book name"
           />
           <button id="search-btn">Search</button><br />
         </div>
@@ -132,7 +132,6 @@
       var arrowdown = document.getElementById("downarrow");
       var res_count = document.getElementById("res_count");
       window.search = function search(genre = "all") {
-        var genre = document.querySelector("select").value;
         var bookname = document.getElementById("search").value;
         var res_cont = document.getElementById("result");
         res_cont.innerHTML = "";
@@ -164,14 +163,19 @@
         }
         res_count.textContent = `Showing ${count} results :`;
       };
-      search();
-      document.getElementById("search-btn").addEventListener("click", search);
+      const params = new URLSearchParams(window.location.search);
+      const genre = params.get("genre");
+      console.log(genre);
+      document.getElementById("genre-select").value = genre;
+      search(genre);
+      
+      document.getElementById("search-btn").addEventListener("click", ()=>{search(document.getElementById("genre-select").value);});
       document
         .getElementById("search")
         .addEventListener("keydown", (event) => {
 
           if (event.key === "Enter") {
-            search();
+            search(document.getElementById("genre-select").value);
           }
         });
 
