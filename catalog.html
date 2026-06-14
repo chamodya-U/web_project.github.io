@@ -167,9 +167,8 @@
       search();
       document.getElementById("search-btn").addEventListener("click", search);
       document
-        .getElementById("search-btn")
-        .addEventListener("keyDown", (event) => {
-          console.log("ddd");
+        .getElementById("search")
+        .addEventListener("keydown", (event) => {
 
           if (event.key === "Enter") {
             search();
