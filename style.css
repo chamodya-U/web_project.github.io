@@ -824,7 +824,7 @@ button.signup-submit:hover {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   /* navigation responsive */
   #navigationBar {
     display: flex;
@@ -887,10 +887,7 @@ button.signup-submit:hover {
     padding: 0;
     margin: 0px;
   }
-}
-/* *{border:1px solid red} */
 
-@media screen and (max-width: 850px) {
   #bottom1 {
     width: 100%;
     flex-direction: column;
